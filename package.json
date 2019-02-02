@@ -11,17 +11,24 @@
     "license": "UNLICENSED",
     "scripts": {
         "build": "gatsby build",
-        "start": "gatsby develop",
+        "preview": "gatsby build && gatsby serve --open",
+        "start": "gatsby develop --open",
         "format": "prettier --write '**/*.js'",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "devDependencies": {
-        "eslint": "^5.12.0",
-        "eslint-plugin-react": "^7.12.3",
+        "babel-eslint": "^10.0.1",
+        "eslint": "^5.13.0",
+        "eslint-config-standard": "^12.0.0",
+        "eslint-plugin-import": "^2.16.0",
+        "eslint-plugin-promise": "^4.0.1",
+        "eslint-plugin-react": "^7.12.4",
+        "eslint-plugin-standard": "^4.0.0",
         "prettier": "^1.14.2"
     },
     "dependencies": {
         "gatsby": "^2.0.0",
+        "gatsby-cli": "^2.4.8",
         "gatsby-plugin-feed": "^2.0.11",
         "gatsby-plugin-manifest": "^2.0.2",
         "gatsby-plugin-offline": "^2.0.5",
