@@ -1,9 +1,10 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import Layout from '../components/layout';
+import Footer from '../components/Footer';
 
 const meta = {
-    title: '', // 70 character limit
+    title: 'About', // 70 character limit
     image: '', // 1200 x 627
     description: '' // 200 character limit
 };
@@ -15,7 +16,7 @@ export default class About extends React.Component {
         return (
             <Layout>
                 <Helmet>
-                    <title>About | Allison Carenza Photography</title>
+                    <title>{meta.title} | Allison Carenza Photography</title>
                     <meta name="description" content={meta.description} />
                     <meta property="og:type" content="website" />
                     <meta property="og:title" content={meta.title} />
@@ -29,7 +30,7 @@ export default class About extends React.Component {
 
                 <div id="main">
                     <section id="a">
-                        <h1>About</h1>
+                        <h1>{meta.title}</h1>
                         <p>
                             It’s in the imperfections, the scratches on your nose, the mismatched socks, the messy hair,
                             the favorite toy your son won’t let go of. This is where I find true perfection. Let me
@@ -47,6 +48,7 @@ export default class About extends React.Component {
                             it’s true and I take a little bit of every shot with me to the next.
                         </p>
                     </section>
+                    <Footer />
                 </div>
             </Layout>
         );

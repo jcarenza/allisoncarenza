@@ -3,6 +3,7 @@ import Helmet from 'react-helmet';
 import { Link } from 'gatsby';
 
 import Layout from '../components/layout';
+import Footer from '../components/Footer';
 // import Lightbox from 'react-images'
 //import Gallery from '../components/Gallery';
 import GalleryGrid from '../components/GalleryGrid';
@@ -122,7 +123,7 @@ class HomeIndex extends React.Component {
                     <meta name="description" content="" />
                 </Helmet>
 
-                <div id="main">
+                <div id="main" className="home">
                     <section id="a">
                         <GalleryGrid
                             images={DEFAULT_IMAGES.map(({ id, src, thumbnail, caption, description }) => ({
@@ -172,7 +173,7 @@ class HomeIndex extends React.Component {
                             faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.
                         </p>
                         <div className="row">
-                            <div className="8u 12u$(small)">
+                            <div className="8u 12u$(small) contactForm">
                                 <form method="post" action="#">
                                     <div className="row uniform 50%">
                                         <div className="6u 12u$(xsmall)">
@@ -192,7 +193,7 @@ class HomeIndex extends React.Component {
                                     </li>
                                 </ul>
                             </div>
-                            <div className="4u 12u$(small)">
+                            <div className="4u 12u$(small) infoSidebar">
                                 <ul className="labeled-icons">
                                     <li>
                                         <h3 className="icon fa-home">
@@ -214,6 +215,7 @@ class HomeIndex extends React.Component {
                             </div>
                         </div>
                     </section>
+                    <Footer />
                 </div>
             </Layout>
         );

@@ -2,6 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../../components/layout';
+import Footer from '../../components/Footer';
 
 const meta = {
     title: '', // 70 character limit
@@ -47,6 +48,7 @@ export default class Blog extends React.Component {
                             );
                         })}
                     </section>
+                    <Footer />
                 </div>
             </Layout>
         );

@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../../components/layout';
+import Footer from '../../components/Footer';
 
 const meta = {
     title: '',
@@ -42,6 +43,7 @@ const CategoriesPage = ({
                     </li>
                 ))}
             </ul>
+            <Footer />
         </div>
     </Layout>
 );
