@@ -1,0 +1,44 @@
+---
+import MainHead from '../components/MainHead.astro';
+import Nav from '../components/Nav.astro';
+import Footer from '../components/Footer.astro';
+import images from './gallery.json';
+
+let description = 'An example blog on Astro';
+let canonicalURL = Astro.canonicalURL;
+---
+
+<html lang="en">
+	<head>
+		<MainHead title={null} description={description} canonicalURL={canonicalURL} />
+		<style lang="scss">
+			.gallery {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+				grid-gap: 16px;
+				margin: 32px 0;
+				> a img {
+					background-color: #ced4da;
+					object-fit: cover;
+					aspect-ratio: 1/1;
+					/*cursor: pointer;*/
+				}
+			}
+		</style>
+		<script defer src="https://unpkg.com/fslightbox@3.3.1"></script>
+	</head>
+	<body>
+		<Nav active="home" />
+		<main class="wrapper">
+			<div class="gallery">
+            	{images?.map(img => 
+				<a data-fslightbox="gallery" href={`/gallery/${img}`}>
+					<img src={`/gallery/${img}`} loading="lazy" />
+				</a>
+				)}
+			</div>
+			<div>Want to see more photos? <a href="/blog">Check out my blog</a>!</div>
+		</main>
+		<Footer />
+	</body>
+</html>

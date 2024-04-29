@@ -1,0 +1,46 @@
+---
+import MainHead from '../../../components/MainHead.astro';
+import Footer from '../../../components/Footer.astro';
+import Nav from '../../../components/Nav.astro';
+import Pagination from '../../../components/Pagination.astro'
+import PostPreview from '../../../components/PostPreview.astro';
+import {aggregateMetadata, arrayify, slugify} from '../../../utils'
+
+export async function getStaticPaths({paginate}) {
+  const allPosts = await Astro.glob('../../../posts/*.md');
+  const sortedPosts = allPosts.sort((a, z) => new Date(z.frontmatter.publishDate).valueOf() - new Date(a.frontmatter.publishDate).valueOf());
+  const {tags} = aggregateMetadata(allPosts)
+
+  return tags.map(tag => {
+    const filteredPosts = sortedPosts.filter(p => {
+      const tags = arrayify(p.frontmatter.tags)
+      return tags.includes(tag.name)
+    })
+    return paginate(filteredPosts, {
+      params: { slug: slugify(tag.name) },
+      props: { tag: tag.name },
+      pageSize: 10
+    });
+  })
+}
+const description = 'An example blog on Astro';
+const { canonicalURL } = Astro;
+const { page, tag } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <MainHead title={tag} description={description} canonicalURL={canonicalURL} />
+  </head>
+  <body>
+    <Nav active="blog" />
+    <div class="wrapper">
+    <div><small>Tag</small></div>
+      <h1 class="title mt4 mb4" style="text-transform: capitalize;">{tag}</h1>
+      {page.data.map((post) => <PostPreview post={post} />)}
+      <br/>
+      <Pagination page={page} />
+    </div>
+    <Footer />
+  </body>
+</html>

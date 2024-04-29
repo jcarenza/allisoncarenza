@@ -1,0 +1,30 @@
+---
+title: 'Newborn Photography'
+description: '<p>23 eggs.  There were 23 eggs in the beginning, but slowly they started to parish.  One by one, until there [&hellip;]</p>
+'
+publishDate: 'Jan 25, 2011'
+author: 'Allison Carenza'
+heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/siems3.jpg'
+alt: 'Newborn Photography'
+slug: 'newborn-photography-kansas-city-3'
+category: ['Newborn Photography']
+tags: ['Baby Photographer','Blue Springs Photographer','Kansas City Photographer','Newborn Pictures']
+---
+
+<p style="text-align: center;">23 eggs.  There were 23 eggs in the beginning, but slowly they started to parish.  One by one, until there were only 5, then 4, then 3, then 2, and finally one.  One egg.  One chance, that&#8217;s all they had.  In vitro is risky enough, but with just one egg the odds weren&#8217;t in Pam and Scott&#8217;s favor.  But as it turns out, one egg is enough.  In fact it&#8217;s the perfect amount.  I didn&#8217;t get to meet Pam and Scott before they were pregnant,  but I know they must have been changed forever when they finally got the good news after years of trying.</p>
+<p style="text-align: center;">I guess dreams do come true&#8230;</p>
+<p style="text-align: center;">meet lucky Gavin!  He&#8217;s the one and only, and the lucky boy to have landed in the arms of two very appreciative parents!</p>
+<p style="text-align: center;"><a rel="attachment wp-att-1973" href="http://www.allisoncarenza.com/archives/1970/siems3"><img class="aligncenter size-full wp-image-1973" title="siems3" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/01/siems3.jpg" alt="" width="752" height="499" /></a></p>
+<p style="text-align: center;">So strong!</p>
+<p style="text-align: center;"><a rel="attachment wp-att-1975" href="http://www.allisoncarenza.com/archives/1970/siems5"><img class="aligncenter size-full wp-image-1975" title="siems5" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/01/siems5.jpg" alt="" width="750" height="499" /></a></p>
+<p style="text-align: center;">I&#8217;m not that into airplanes, but Scott flies the plane on Gavin&#8217;s onsie in this picture.  It&#8217;s the one that flies over the Chiefs stadium.  I think that&#8217;s pretty cool!  I think he&#8217;s going to want to be just like his Daddy when he gets a little older.</p>
+<p style="text-align: center;"><a rel="attachment wp-att-1977" href="http://www.allisoncarenza.com/archives/1970/siems7"><img class="aligncenter size-full wp-image-1977" title="siems7" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/01/siems7.jpg" alt="" width="750" height="499" /></a></p>
+<p style="text-align: center;">Giddy!  That&#8217;s how I would describe these new parents.  Pam didn&#8217;t even seem tired, just happy.</p>
+<p style="text-align: center;"><a rel="attachment wp-att-1976" href="http://www.allisoncarenza.com/archives/1970/siems6"><img class="aligncenter size-full wp-image-1976" title="siems6" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/01/siems6.jpg" alt="" width="700" height="499" /></a><a rel="attachment wp-att-1972" href="http://www.allisoncarenza.com/archives/1970/siems2"></a></p>
+<p style="text-align: center;">If he seems a little chunky that&#8217;s because he downed 4 ounces of milk before he was happy.  I think he&#8217;s going to be a big boy!  Dang, you go Gavin!</p>
+<p style="text-align: center;"><a rel="attachment wp-att-1972" href="http://www.allisoncarenza.com/archives/1970/siems2"><img class="aligncenter size-full wp-image-1972" title="siems2" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/01/siems2.jpg" alt="" width="750" height="499" /></a></p>
+<p style="text-align: center;">Big appetite and big hands.  Yup, I see ball sports in his future.</p>
+<p style="text-align: center;"><a rel="attachment wp-att-1974" href="http://www.allisoncarenza.com/archives/1970/siems4"><img class="aligncenter size-full wp-image-1974" title="siems4" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/01/siems4.jpg" alt="" width="750" height="499" /></a></p>
+<p style="text-align: center;">
+<p style="text-align: center;"><a rel="attachment wp-att-1971" href="http://www.allisoncarenza.com/archives/1970/siems1"><img class="aligncenter size-full wp-image-1971" title="siems1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/01/siems1.jpg" alt="" width="750" height="499" /></a></p>
+<p style="text-align: center;">Scott, Pam and Gavin, I am touched forever by your story.  Thank you so much for coming to me for your maternity and newborn pictures.  I look forward to many more laughs in the studio, and 4 ounce feedings. 🙂</p>

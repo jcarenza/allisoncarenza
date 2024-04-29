@@ -1,50 +1,20 @@
 {
-    "name": "acphoto",
-    "description": "Allison Carenza Photography",
-    "version": "1.0.0",
-    "author": "Jon Carenza",
-    "repository": {
-        "type": "git",
-        "url": "https://bitbucket.org/jcarenza/acphoto"
-    },
+    "name": "@example/blog-multiple-authors",
+    "version": "0.0.1",
     "private": true,
-    "license": "UNLICENSED",
+    "main": "src/pages/index.astro",
     "scripts": {
-        "build": "gatsby build",
-        "preview": "gatsby build && gatsby serve --open",
-        "start": "gatsby develop --open",
-        "format": "prettier --write '**/*.js'",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "dev": "astro dev",
+        "start": "astro dev",
+        "build": "astro build",
+        "preview": "astro preview"
     },
     "devDependencies": {
-        "babel-eslint": "^10.0.1",
-        "eslint": "^5.13.0",
-        "eslint-config-standard": "^12.0.0",
-        "eslint-plugin-import": "^2.16.0",
-        "eslint-plugin-promise": "^4.0.1",
-        "eslint-plugin-react": "^7.12.4",
-        "eslint-plugin-standard": "^4.0.0",
-        "prettier": "^1.14.2"
+        "@astrojs/preact": "^0.0.2",
+        "astro": "^1.0.0-beta.5",
+        "sass": "^1.49.11"
     },
     "dependencies": {
-        "gatsby": "^2.0.0",
-        "gatsby-cli": "^2.4.8",
-        "gatsby-plugin-feed": "^2.0.11",
-        "gatsby-plugin-manifest": "^2.0.2",
-        "gatsby-plugin-offline": "^2.0.5",
-        "gatsby-plugin-react-helmet": "^3.0.0",
-        "gatsby-plugin-sass": "^2.0.1",
-        "gatsby-plugin-sharp": "^2.0.17",
-        "gatsby-remark-copy-linked-files": "^2.0.8",
-        "gatsby-remark-images": "^3.0.1",
-        "gatsby-remark-smartypants": "^2.0.7",
-        "gatsby-source-filesystem": "^2.0.12",
-        "gatsby-transformer-remark": "^2.1.19",
-        "gatsby-transformer-sharp": "^2.1.10",
-        "node-sass": "^4.9.3",
-        "react": "^16.5.1",
-        "react-dom": "^16.5.1",
-        "react-helmet": "^5.2.0",
-        "react-images": "^0.5.19"
+        "preact": "^10.7.0"
     }
 }

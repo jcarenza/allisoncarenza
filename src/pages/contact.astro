@@ -1,0 +1,26 @@
+---
+import MainHead from '../components/MainHead.astro';
+import Nav from '../components/Nav.astro';
+import Footer from '../components/Footer.astro';
+
+let title = "About"
+let description = 'About page of an example blog on Astro';
+let canonicalURL = Astro.canonicalURL;
+---
+
+<html lang="en">
+  <head>
+    <MainHead title={title} description={description} canonicalURL={canonicalURL} />
+  </head>
+  <body>
+    <Nav active="contact" />
+    <div class="wrapper">
+      <h1 class="title mt4 mb4">Contact</h1>
+      <p>5416 NE Wedgewood Ln<br/>
+        Lee's Summit, MO 64064<br/>
+        816-830-2127<br/>
+        allison@allisoncarenza.com</p>
+    </div>
+    <Footer />
+  </body>
+</html>

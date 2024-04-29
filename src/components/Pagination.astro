@@ -1,0 +1,50 @@
+---
+export interface Props {
+	page?: {
+		start?: number, 
+		end?: number, 
+		total?: number
+		url: {
+			prev?: string,
+			next?: string
+		}
+	}
+}
+
+const { page } = Astro.props;
+const prevUrl = page?.url.prev || '#';
+const nextUrl = page?.url.next || '#';
+const pageLabel = page.total ? `${page.start + 1}–${page.end + 1} of ${page.total}` : null
+---
+
+<div class="wrapper">
+	<nav class="nav">
+		<a class="prev" href={prevUrl} aria-label="Previous Page">Prev</a>
+		{pageLabel && <span class="pgCount">{pageLabel</span>}
+		<a class="next" href={nextUrl} aria-label="Next Page">Next</a>
+	</nav>
+</div>
+
+<style lang="scss">
+	.nav {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding-top: 4rem;
+		padding-bottom: 4rem;
+	}
+
+	.prev,
+	.next {
+		display: block;
+		text-transform: uppercase;
+		font-size: 0.8em;
+		&[href='#'] {
+			display: none;
+		}
+	}
+
+	.pgCount {
+		margin: 0 3rem;
+	}
+</style>

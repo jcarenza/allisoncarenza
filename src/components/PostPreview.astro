@@ -1,0 +1,59 @@
+---
+import {slugify, buildPostUrl} from '../utils'
+export interface Props {
+	post: any;
+}
+const { post } = Astro.props;
+const { frontmatter } = post;
+const postUrl = buildPostUrl(post);
+---
+
+<article class="post">
+	<a href={postUrl}><img src={`${frontmatter.heroImage}`} /></a>
+	<div class="data">
+		<h2><a class="link" href={postUrl} aria-label={`Read ${frontmatter.title}`}>{frontmatter.title}</a></h2>
+		<footer>
+			<time class="date" datetime={frontmatter.publishDate}>{frontmatter.publishDate}</time>
+			in {post.frontmatter.category.map(cat => <a class="category" href={`/category/${slugify(cat)}`}>{cat}</a>)}
+		</footer>
+	</div>
+</article>
+
+<style lang="scss">
+	.post {
+		display: flex;
+		padding: 2rem 1rem;
+		border-bottom: 1px solid var(--gray-3);
+		img {
+			width: 20vw;
+			min-width: 80px;
+			max-width: 240px;
+		}
+		.data {
+			padding: 1rem;
+		}
+		h2 {
+			margin: 0;
+			font-size: 1.25rem;
+			a {
+				color: var(--text-dark);
+			}
+		}
+		footer {
+			font-size: .9rem;
+			margin-top: .5rem;
+			color: var(--gray-7);
+			a {
+				color: var(--gray-7);
+			}
+		}
+		a:hover {
+			color: var(--primary) !important;
+		}
+		a.category + a.category::before {
+			content: '\000B7';
+			display: inline-block;
+			margin: 0 .4em;
+		}
+	}
+</style>

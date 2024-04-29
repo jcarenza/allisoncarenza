@@ -1,0 +1,40 @@
+---
+title: 'Cute babies. Period.'
+description: '<p>Merry Christmas ya&#8217;ll!  I&#8217;m frantically trying to keep up with all the shoots I&#8217;ve been doing during this holiday season! [&hellip;]</p>
+'
+publishDate: 'Dec 12, 2011'
+author: 'Allison Carenza'
+heroImage: '/media/thomp2.jpg'
+alt: 'Cute babies. Period.'
+slug: 'cute-babies-period'
+category: ['Baby Photography','Children Photography']
+tags: ['Allison Carenza Photography','Baby Photographer','Blue Springs Photography','Childrens Photographer','Kansas City Photographer']
+---
+
+<p style="text-align: center;">Merry Christmas ya&#8217;ll!  I&#8217;m frantically trying to keep up with all the shoots I&#8217;ve been doing during this holiday season!  So this blog is just for fun!  I couldn&#8217;t resist sharing some photos of these 2 perfectly adorable baby girls!  I hope you enjoy!</p>
+<p style="text-align: center;">
+<p style="text-align: center;">Check out the dimples.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3710" title="thomp2" src="/media/thomp2.jpg" alt="" width="930" height="680" srcset="/media/thomp2.jpg 930w, /media/thomp2-300x219.jpg 300w, /media/thomp2-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;">And you wouldn&#8217;t know it from these pics, but at first she was super shy and unsure of me.  Yah, that didn&#8217;t last.  She was all grins during our shoot.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3711" title="thomp3" src="/media/thomp3.jpg" alt="" width="930" height="680" srcset="/media/thomp3.jpg 930w, /media/thomp3-300x219.jpg 300w, /media/thomp3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;">It&#8217;s the little things I notice and love about babies.  Like the way she&#8217;s furrowing her eyebrows.  Like she&#8217;s concerned.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3712" title="thomp4" src="/media/thomp4.jpg" alt="" width="930" height="680" srcset="/media/thomp4.jpg 930w, /media/thomp4-300x219.jpg 300w, /media/thomp4-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;">BIG BLUE EYES!!!!!  LOVE LOVE LOVE</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3713" title="thomp5" src="/media/thomp5.jpg" alt="" width="930" height="680" srcset="/media/thomp5.jpg 930w, /media/thomp5-300x219.jpg 300w, /media/thomp5-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;">
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3709" title="thomp1" src="/media/thomp1.jpg" alt="" width="930" height="680" srcset="/media/thomp1.jpg 930w, /media/thomp1-300x219.jpg 300w, /media/thomp1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;">
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3714" title="thomp7" src="/media/thomp7.jpg" alt="" width="930" height="680" srcset="/media/thomp7.jpg 930w, /media/thomp7-300x219.jpg 300w, /media/thomp7-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;">And then little K with her energetic 2 year old ways.  I had to give her a sucker to try to get her to stop moving.  It worked, but just long enough to get this pic.  🙂</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3716" title="bay2" src="/media/bay2.jpg" alt="" width="930" height="680" srcset="/media/bay2.jpg 930w, /media/bay2-300x219.jpg 300w, /media/bay2-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;">
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3717" title="bay3" src="/media/bay3.jpg" alt="" width="930" height="680" srcset="/media/bay3.jpg 930w, /media/bay3-300x219.jpg 300w, /media/bay3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;">
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3721" title="bay7" src="/media/bay7.jpg" alt="" width="930" height="680" srcset="/media/bay7.jpg 930w, /media/bay7-300x219.jpg 300w, /media/bay7-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;">&#8220;Wait&#8230;where did I leave my purse?&#8221;</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3715" title="bay1" src="/media/bay1.jpg" alt="" width="930" height="680" srcset="/media/bay1.jpg 930w, /media/bay1-300x219.jpg 300w, /media/bay1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;">&#8220;Whatever take my pic and get it over with!&#8221;  Haha</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3718" title="bay4" src="/media/bay4.jpg" alt="" width="930" height="680" srcset="/media/bay4.jpg 930w, /media/bay4-300x219.jpg 300w, /media/bay4-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;">
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3719" title="bay5" src="/media/bay5.jpg" alt="" width="930" height="680" srcset="/media/bay5.jpg 930w, /media/bay5-300x219.jpg 300w, /media/bay5-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;">Oh how I love my job.  I crack up the WHOLE time!</p>

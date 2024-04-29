@@ -1,0 +1,45 @@
+---
+import MainHead from '../components/MainHead.astro';
+import Nav from '../components/Nav.astro';
+import Footer from '../components/Footer.astro';
+
+let title = 'About';
+let description = 'About page of an example blog on Astro';
+let canonicalURL = Astro.canonicalURL;
+---
+
+<html lang="en">
+	<head>
+		<MainHead title={title} description={description} canonicalURL={canonicalURL} />
+		<style lang="scss">
+			.video-container {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				background: var(--gray-3);
+				padding: 1.5rem;
+			}	
+		</style>
+	</head>
+
+	<body>
+		<Nav active="about" />
+
+		<main class="wrapper">
+			<h1>About Allison</h1>
+			<div class="video-container">
+				<iframe src="https://player.vimeo.com/video/59874698?h=c4a7063fa1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+			</div>
+			<div class="bio wrapper wrapper__readable mt8">
+				<p>
+				It's in the imperfections, the scratches on your nose, the mismatched socks, the messy hair, the favorite toy your son won't let go of. This is where I find true perfection. Let me capture your family the way you are, exactly how you will want to remember yourselves. Fifty years from now, I want you to fondly remember it all, the smiles, the frowns, the curious looks. And in two-hundred years, I want those that come after you, to connect with every emotion we captured, together. To have them feel and see their own smile in your photos, or notice the curls that only you could have passed on, to reflect on the day you spent recording your lives, that is why I do it.
+				</p>
+				<p>My style of photography is clean and not overly Photoshopped. I let the moments speak for themselves. It's a method that I have perfected over ten years in the business. It's real, it's true and I take a little bit of every shot with me to the next.
+				</p>
+				<p>&nbsp;</p>
+				<p>Want to hear what others have said about me? Read the reviews on my <a href="https://www.google.com/maps/place/Allison+Carenza+Photography+LLC/@39.0102051,-94.3666417,17z/data=!4m14!1m6!3m5!1s0x87c11b6ffc51d80f:0xc1bbbf4272b08d63!2sAllison+Carenza+Photography+LLC!8m2!3d39.010201!4d-94.364453!3m6!1s0x87c11b6ffc51d80f:0xc1bbbf4272b08d63!8m2!3d39.010201!4d-94.364453!9m1!1b1" target="_blank">Google Business Page</a>!</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

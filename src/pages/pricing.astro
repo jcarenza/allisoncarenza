@@ -1,0 +1,42 @@
+---
+import MainHead from '../components/MainHead.astro';
+import Nav from '../components/Nav.astro';
+import Footer from '../components/Footer.astro';
+
+let title = "Pricing"
+let description = 'About page of an example blog on Astro';
+let canonicalURL = Astro.canonicalURL;
+---
+
+<html lang="en">
+  <head>
+    <MainHead title={title} description={description} canonicalURL={canonicalURL} />
+  </head>
+  <body>
+    <Nav active="pricing" />
+    <div class="wrapper">
+      <h1>Price List</h1>
+      <h3>Sitting Fee</h3>
+      <ul>
+        <li>Studio Session — $150</li>
+        <li>Location Session — $175</li>
+      </ul>
+      <p>All portrait sessions include an 11x14 gift.</p>
+
+      <h3>Prints</h3>
+
+      <p>All prints are ordered a la carte.  They come in sizes ranging from wallets to 20x30.</p>
+
+      <h3>High Resolution Digital Downloads</h3>
+
+      <ul>
+        <li>Mini (up to 25 images) — $375</li>
+        <li>All images  — $550</li>
+      </ul>
+
+      <h3>Extras</h3>
+      <p>I also design albums, cards, proof books, jewelry, framed photos and canvas gallery wraps.  Please contact me for more information, I'd love to chat about all the options with you!</p>
+    </div>
+    <Footer />
+  </body>
+</html>

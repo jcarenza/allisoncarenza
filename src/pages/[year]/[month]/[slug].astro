@@ -1,0 +1,52 @@
+---
+import MainHead from '../../../components/MainHead.astro';
+import Footer from '../../../components/Footer.astro';
+import Nav from '../../../components/Nav.astro';
+import Pagination from '../../../components/Pagination.astro'
+import {getPublishYear, getPublishMonth, buildPostUrl, slugify} from '../../../utils'
+
+export async function getStaticPaths() {
+    const allPosts = await Astro.glob('../../../posts/*.md');
+    const sortedPosts = allPosts.sort((a, z) => new Date(z.frontmatter.publishDate).valueOf() - new Date(a.frontmatter.publishDate).valueOf())
+    return sortedPosts.map((post, i) => ({
+        params: {
+            year: getPublishYear(post.frontmatter),
+            month: getPublishMonth(post.frontmatter),
+            slug: post.frontmatter.slug
+        },
+        props: {
+            post,
+            prevUrl: buildPostUrl(sortedPosts[i - 1]),
+            nextUrl: buildPostUrl(sortedPosts[i + 1])
+        }
+    }))
+}
+const description = 'An example blog on Astro';
+const { canonicalURL } = Astro;
+const { post, prevUrl, nextUrl } = Astro.props;
+const {Content, frontmatter} = post
+const {title, author, category, publishDate, tags} = frontmatter
+const categoryList = Array.isArray(category) ? category : [category];
+---
+
+<html lang="en">
+  <head>
+    <MainHead title={title} description={description} canonicalURL={canonicalURL} />
+  </head>
+  <body>
+    <Nav active="blog" />
+    <div class="wrapper">
+    <div><a href="/blog">&larr;All Posts</a></div>
+      <h1 class="title mt4 mb4">{title}</h1>
+        <p>{publishDate} | In {categoryList.map(c => <a href={`/category/${slugify(c)}`}>{c}</a>)} | By {author}</p>
+        <br/>
+        <Content />
+        <br/>
+        <div>Tags: {tags.map(t => <a href={`/tag/${slugify(t)}`}>{t}</a>)}</div>
+      <br/>
+      <Pagination page={{url: {prev: prevUrl, next: nextUrl}}} />
+      <br/>
+    </div>
+    <Footer />
+  </body>
+</html>

@@ -1,0 +1,91 @@
+---
+import MainHead from '../../components/MainHead.astro';
+import Nav from '../../components/Nav.astro';
+import Footer from '../../components/Footer.astro';
+import PostPreview from '../../components/PostPreview.astro';
+import Pagination from '../../components/Pagination.astro';
+import {aggregateMetadata, slugify} from '../../utils';
+
+export async function getStaticPaths({ paginate }) {
+	const allPosts = await Astro.glob('../../posts/*.md');
+	const {categories} = aggregateMetadata(allPosts)
+	const sortedPosts = allPosts.sort((a, z) => new Date(z.frontmatter.publishDate).valueOf() - new Date(a.frontmatter.publishDate).valueOf());
+	return paginate(sortedPosts, { pageSize: 10, props:{ categories }});
+}
+
+const description = 'An example blog on Astro';
+const { canonicalURL } = Astro;
+const { page, categories } = Astro.props;
+---
+
+<html lang="en">
+	<MainHead title="Blog" description={description} image={page.data[0].frontmatter.heroImage} canonicalURL={canonicalURL.toString()} prev={page.url.prev} next={page.url.next} />
+
+	<body>
+		<Nav active="blog" />
+
+		<main class="wrapper columns">
+			<div class="posts">
+				<h1>Blog</h1>
+				{page.data.map((post) => <PostPreview post={post} />)}
+				<Pagination page={page} />
+			</div>
+			<aside>
+				<div>Categories</div>
+      			{categories.map(category => <div style="text-transform: capitalize"><a href={`/category/${slugify(category.name)}`}>{category.name}</a> ({category.count})</div>)}
+			</aside>
+		</main>
+
+		<Footer />
+	</body>
+
+	<style lang="scss">
+		.title {
+			font-size: 3em;
+			letter-spacing: -0.04em;
+			margin-top: 2rem;
+			margin-bottom: 0;
+			text-align: center;
+		}
+
+		.count {
+			font-size: 1em;
+			display: block;
+			text-align: center;
+		}
+
+		.wrapper{
+			width: 100%;
+			max-width: 80em;
+			margin-left: auto;
+			margin-right: auto;
+			padding-left: 2rem;
+			padding-right: 2rem;
+			flex: 1 1 auto;
+			&.columns{
+				display: flex;
+				
+				aside {
+					flex: 0 0 auto;
+					margin: 120px 0 24px 24px;
+					font-size: .875rem;
+				}
+			}
+			.posts {
+				flex: 1 1 auto;
+			}
+		}
+		@media screen and (max-width: 1000px){
+			.wrapper{
+				&.columns {
+					display: block;
+					aside {
+						text-align: center;
+						margin-top: 48px;
+					}
+				}
+				
+			}
+		}
+	</style>
+</html>
