@@ -11,7 +11,7 @@ category: ['Senior Pictures']
 tags: ['Blue Springs Missouri','Photographer','Senior Pictures','Senior Portrait','Senior Pictures']
 ---
 
-<p style="text-align: center;">Everyone has their talents.  Some people are uber smart, some are super beautiful, some are creative, or good with people, or just good at being nice, but not everyone is blessed with the combination.  Mackenzy on the other had totally has it all.  She&#8217;s beautiful, but down to earth, smart, but humble, and sweet as any fine delectable out there.  Meet Mackenzy, a senior in high school about to go out and change the world.</p>
+<p style="text-align: center;">Everyone has their talents.  Some people are uber smart, some are super beautiful, some are creative, or good with people, or just good at being nice, but not everyone is blessed with the combination.  Mackenzy on the other had totally has it all.  She&apos;s beautiful, but down to earth, smart, but humble, and sweet as any fine delectable out there.  Meet Mackenzy, a senior in high school about to go out and change the world.</p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4104" title="mack3" src="/media/mack3.jpg" alt="" width="930" height="680" srcset="/media/mack3.jpg 930w, /media/mack3-300x219.jpg 300w, /media/mack3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">

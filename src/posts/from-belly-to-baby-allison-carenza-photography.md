@@ -1,6 +1,6 @@
 ---
 title: 'From belly to baby!'
-description: '<p>Meet Cori!  She&#8217;s a devoted momma, loving wife, and beautiful pregnant woman that I had the honor of photographing. 🙂 [&hellip;]</p>
+description: '<p>Meet Cori!  She&apos;s a devoted momma, loving wife, and beautiful pregnant woman that I had the honor of photographing. 🙂 [&hellip;]</p>
 '
 publishDate: 'Jan 7, 2013'
 author: 'Allison Carenza'
@@ -11,15 +11,15 @@ category: ['Maternity Photos','Newborn Photography']
 tags: ['Infant Photography','Maternity Images','Maternity Photos','Maternity Pictures','Newborn Photography','Newborn Pictures']
 ---
 
-<p style="text-align: center;">Meet Cori!  She&#8217;s a devoted momma, loving wife, and beautiful pregnant woman that I had the honor of photographing. 🙂</p>
-<p style="text-align: center;">Cori didn&#8217;t get her maternity pictures taken the first time around, so with this baby she was determined to make the maternity pictures happen, and she did!  I&#8217;m so happy she allowed me to be her photographer.  We laughed, shared stories, and had an all around good time.  And I was in heaven doing what I love.  Thank you Cori, for letting me take your pictures, for being beautiful, for being you!</p>
+<p style="text-align: center;">Meet Cori!  She&apos;s a devoted momma, loving wife, and beautiful pregnant woman that I had the honor of photographing. 🙂</p>
+<p style="text-align: center;">Cori didn&apos;t get her maternity pictures taken the first time around, so with this baby she was determined to make the maternity pictures happen, and she did!  I&apos;m so happy she allowed me to be her photographer.  We laughed, shared stories, and had an all around good time.  And I was in heaven doing what I love.  Thank you Cori, for letting me take your pictures, for being beautiful, for being you!</p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4453" title="cori1" src="/media/cori1.jpg" alt="" width="930" height="680" srcset="/media/cori1.jpg 930w, /media/cori1-300x219.jpg 300w, /media/cori1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">Oh Cori you are gorgeous!  Absolutely stunning, and I love the outie!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4455" title="cori3" src="/media/cori3.jpg" alt="" width="930" height="680" srcset="/media/cori3.jpg 930w, /media/cori3-300x219.jpg 300w, /media/cori3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">Hubby David was there for the first part of the shoot, and showering Cori with all his affection.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4454" title="cori2" src="/media/cori2.jpg" alt="" width="930" height="680" srcset="/media/cori2.jpg 930w, /media/cori2-300x219.jpg 300w, /media/cori2-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">Along came baby Brody&#8230;<br />
+<p style="text-align: center;">Along came baby Brody...<br />
 Sleepy, cuddly, and oh so perfect!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4456" title="cori4" src="/media/cori4.jpg" alt="" width="930" height="680" /></p>
 <p style="text-align: center;">Tiny toes, tiny hands, tiny smiles.</p>

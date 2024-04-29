@@ -1,19 +1,19 @@
 ---
-title: 'Lindsey and Cole&#8217;s big day!'
+title: 'Lindsey and Cole&apos;s big day!'
 description: '<p>Lindsey and Cole Amaya share a love for the outdoors, their friends, Kansas City, having fun, and The Chiefs, and [&hellip;]</p>
 '
 publishDate: 'Jun 11, 2013'
 author: 'Allison Carenza'
 heroImage: '/media/landc1.jpg'
-alt: 'Lindsey and Cole&#8217;s big day!'
+alt: 'Lindsey and Cole&apos;s big day!'
 slug: 'lindsey-and-coles-big-day'
-category: ['Weddings Photos']
+category: ['Wedding Photos']
 tags: ['Kansas City Wedding','Wedding Photography','Wedding Pictures']
 ---
 
-<p style="text-align: center;">Lindsey and Cole Amaya share a love for the outdoors, their friends, Kansas City, having fun, and The Chiefs, and surprises, did I mention they like surprises.  Yes, they love to surprise their friends and family, like when they had the KC wolf crash their wedding.  It was a surprise, a really really awesome surprise.  I don&#8217;t have time to share every single pic, or I would because they are that fun.  It was epic, and having the wolf there totally got the party started.  I think the KC wolf surprise sums up their relationship.  Fun!  All about having fun!  In fact Jon and I had a blast shooting this wedding.  I just have a few to share, but there are sooo many more.  Lindsey and Cole I LOVED being a part of your big day!</p>
+<p style="text-align: center;">Lindsey and Cole Amaya share a love for the outdoors, their friends, Kansas City, having fun, and The Chiefs, and surprises, did I mention they like surprises.  Yes, they love to surprise their friends and family, like when they had the KC wolf crash their wedding.  It was a surprise, a really really awesome surprise.  I don&apos;t have time to share every single pic, or I would because they are that fun.  It was epic, and having the wolf there totally got the party started.  I think the KC wolf surprise sums up their relationship.  Fun!  All about having fun!  In fact Jon and I had a blast shooting this wedding.  I just have a few to share, but there are sooo many more.  Lindsey and Cole I LOVED being a part of your big day!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4909" alt="landc1" src="/media/landc1.jpg" width="930" height="680" srcset="/media/landc1.jpg 930w, /media/landc1-300x219.jpg 300w, /media/landc1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /> <img class="aligncenter size-full wp-image-4910" alt="landc2" src="/media/landc2.jpg" width="930" height="680" srcset="/media/landc2.jpg 930w, /media/landc2-300x219.jpg 300w, /media/landc2-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">Yes the wolf tackled Lindsey&#8217;s brother Brett on the dance floor.</p>
+<p style="text-align: center;">Yes the wolf tackled Lindsey&apos;s brother Brett on the dance floor.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4911" alt="landc3" src="/media/landc3.jpg" width="930" height="680" srcset="/media/landc3.jpg 930w, /media/landc3-300x219.jpg 300w, /media/landc3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /> <img class="aligncenter size-full wp-image-4912" alt="landc4" src="/media/landc4.jpg" width="930" height="680" srcset="/media/landc4.jpg 930w, /media/landc4-300x219.jpg 300w, /media/landc4-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4913" alt="landc5" src="/media/landc5.jpg" width="930" height="680" srcset="/media/landc5.jpg 930w, /media/landc5-300x219.jpg 300w, /media/landc5-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
@@ -22,12 +22,12 @@ tags: ['Kansas City Wedding','Wedding Photography','Wedding Pictures']
 <p style="text-align: center;">Lindsey you are so gorgeous!</p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4916" alt="landc8" src="/media/landc8.jpg" width="930" height="680" srcset="/media/landc8.jpg 930w, /media/landc8-300x219.jpg 300w, /media/landc8-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /> <img class="aligncenter size-full wp-image-4917" alt="landc9" src="/media/landc9.jpg" width="930" height="680" /></p>
-<p style="text-align: center;">I don&#8217;t usually share wedding party pics, but I kinda loved this wedding party!</p>
+<p style="text-align: center;">I don&apos;t usually share wedding party pics, but I kinda loved this wedding party!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4918" alt="landc10" src="/media/landc10.jpg" width="930" height="680" srcset="/media/landc10.jpg 930w, /media/landc10-300x219.jpg 300w, /media/landc10-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /> <img class="aligncenter size-full wp-image-4919" alt="landc11" src="/media/landc11.jpg" width="930" height="680" srcset="/media/landc11.jpg 930w, /media/landc11-300x219.jpg 300w, /media/landc11-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">Nice Dillon.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4920" alt="landc12" src="/media/landc12.jpg" width="930" height="680" srcset="/media/landc12.jpg 930w, /media/landc12-300x219.jpg 300w, /media/landc12-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /> <img class="aligncenter size-full wp-image-4921" alt="landc13" src="/media/landc13.jpg" width="930" height="680" srcset="/media/landc13.jpg 930w, /media/landc13-300x219.jpg 300w, /media/landc13-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /> <img class="aligncenter size-full wp-image-4922" alt="landc14" src="/media/landc14.jpg" width="930" height="680" srcset="/media/landc14.jpg 930w, /media/landc14-300x219.jpg 300w, /media/landc14-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">So adorable!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4923" alt="landc15" src="/media/landc15.jpg" width="930" height="680" srcset="/media/landc15.jpg 930w, /media/landc15-300x219.jpg 300w, /media/landc15-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /> <img class="aligncenter size-full wp-image-4924" alt="landc16" src="/media/landc16.jpg" width="930" height="680" srcset="/media/landc16.jpg 930w, /media/landc16-300x219.jpg 300w, /media/landc16-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /> <img class="aligncenter size-full wp-image-4925" alt="landc17" src="/media/landc17.jpg" width="930" height="680" /> <img class="aligncenter size-full wp-image-4926" alt="landc18" src="/media/landc18.jpg" width="930" height="680" srcset="/media/landc18.jpg 930w, /media/landc18-300x219.jpg 300w, /media/landc18-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /> <img class="aligncenter size-full wp-image-4927" alt="landc19" src="/media/landc19.jpg" width="930" height="680" srcset="/media/landc19.jpg 930w, /media/landc19-300x219.jpg 300w, /media/landc19-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /> <img class="aligncenter size-full wp-image-4928" alt="landc20" src="/media/landc20.jpg" width="930" height="680" srcset="/media/landc20.jpg 930w, /media/landc20-300x219.jpg 300w, /media/landc20-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">It&#8217;s obvious you two are so in love.  I think you&#8217;ll have so much fun together!</p>
+<p style="text-align: center;">It&apos;s obvious you two are so in love.  I think you&apos;ll have so much fun together!</p>
 <p style="text-align: center;">xoxo</p>
 <p style="text-align: center;">Allison</p>

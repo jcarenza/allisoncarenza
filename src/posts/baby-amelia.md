@@ -17,4 +17,4 @@ tags: ['Newborn Images','Newborn Photography','Newborn Pictures']
 <p style="text-align: center;">A rare and special moment, but Amelia was soooo strong, and insisted on looking around.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4896" alt="lf3" src="/media/lf3.jpg" width="930" height="680" srcset="/media/lf3.jpg 930w, /media/lf3-300x219.jpg 300w, /media/lf3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /> <img class="aligncenter size-full wp-image-4897" alt="lf4" src="/media/lf4.jpg" width="930" height="680" srcset="/media/lf4.jpg 930w, /media/lf4-300x219.jpg 300w, /media/lf4-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /> <img class="aligncenter size-full wp-image-4898" alt="lf5" src="/media/lf5.jpg" width="930" height="680" /></p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4894" alt="lf1" src="/media/lf1.jpg" width="930" height="680" /></p>
-<p style="text-align: center;">I love my job&#8230;</p>
+<p style="text-align: center;">I love my job...</p>

@@ -1,6 +1,6 @@
 ---
 title: 'Beautiful Haley'
-description: '<p>Every time I photograph a senior in high school I&#8217;m reminded of my awkward senior pics.  Since I&#8217;ve been photographing [&hellip;]</p>
+description: '<p>Every time I photograph a senior in high school I&apos;m reminded of my awkward senior pics.  Since I&apos;ve been photographing [&hellip;]</p>
 '
 publishDate: 'Apr 10, 2013'
 author: 'Allison Carenza'
@@ -11,7 +11,7 @@ category: ['Senior Pictures']
 tags: ['Senior Pictures','Senior Pictures','Senior Pictures']
 ---
 
-<p style="text-align: center;">Every time I photograph a senior in high school I&#8217;m reminded of my awkward senior pics.  Since I&#8217;ve been photographing so many senior lately I really need to get a copy of some of those pics and post them on the blog.  Not only because it would give my friends a good laugh, but also to illustrate the stark contrast.  In both photography and maturity.  Granted, I was a particularly gangly late bloomer, but still the photography was so blah!  That&#8217;s why I work extra hard at my job to make these young ladies look and feel fabulous!  Although, sometimes it&#8217;s a very easy job.</p>
+<p style="text-align: center;">Every time I photograph a senior in high school I&apos;m reminded of my awkward senior pics.  Since I&apos;ve been photographing so many senior lately I really need to get a copy of some of those pics and post them on the blog.  Not only because it would give my friends a good laugh, but also to illustrate the stark contrast.  In both photography and maturity.  Granted, I was a particularly gangly late bloomer, but still the photography was so blah!  That&apos;s why I work extra hard at my job to make these young ladies look and feel fabulous!  Although, sometimes it&apos;s a very easy job.</p>
 <p style="text-align: center;">Meet Haley, a beautiful girl, a middle distance track star, a big MU fan, mostly because her boyfriend plays football there, and a senior in high school ready to go to college and learn and grow so she can someday change the world.</p>
 <p style="text-align: center;">We spent an evening last week tooling around the city.  She made me laugh, she inspired me, and she gave me her very best!  I loved my time with Haley and her mom LaTasha.</p>
 <p style="text-align: center;">Oh Haley, my senior pictures were so far from beautiful like this, like you.</p>

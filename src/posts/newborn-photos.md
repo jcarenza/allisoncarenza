@@ -24,5 +24,5 @@ tags: ['Infant Photography','Kansas City Photographer','Newborn Images','Newborn
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4416" title="robin1" src="/media/robin1.jpg" alt="" width="930" height="680" srcset="/media/robin1.jpg 930w, /media/robin1-300x219.jpg 300w, /media/robin1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4421" title="robin6" src="/media/robin6.jpg" alt="" width="930" height="680" srcset="/media/robin6.jpg 930w, /media/robin6-300x219.jpg 300w, /media/robin6-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">I can&#8217;t wait to watch this little one grow up.  I had so much fun taking pictures of her and all her perfection!</p>
+<p style="text-align: center;">I can&apos;t wait to watch this little one grow up.  I had so much fun taking pictures of her and all her perfection!</p>
 <p style="text-align: center;">xoxo</p>

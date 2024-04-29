@@ -14,13 +14,19 @@ let canonicalURL = Astro.canonicalURL;
   </head>
   <body>
     <Nav active="contact" />
-    <div class="wrapper">
-      <h1 class="title mt4 mb4">Contact</h1>
-      <p>5416 NE Wedgewood Ln<br/>
-        Lee's Summit, MO 64064<br/>
-        816-830-2127<br/>
-        allison@allisoncarenza.com</p>
-    </div>
+    <main>
+      <article class="article">
+        <h1 class="title mt4 mb4">Contact</h1>
+        <p>5416 NE Wedgewood Ln<br/>
+          Lee's Summit, MO 64064<br/>
+          816-830-2127<br/>
+          allison@allisoncarenza.com</p>
+      </article>
+      <section class="article">
+        <h4>Interested in reading some of my client reviews?</h4>
+        <p>You can find them on my <a href="https://www.google.com/maps/place/Allison+Carenza+Photography+LLC/@39.0102051,-94.3666417,17z/data=!4m14!1m6!3m5!1s0x87c11b6ffc51d80f:0xc1bbbf4272b08d63!2sAllison+Carenza+Photography+LLC!8m2!3d39.010201!4d-94.364453!3m6!1s0x87c11b6ffc51d80f:0xc1bbbf4272b08d63!8m2!3d39.010201!4d-94.364453!9m1!1b1" target="_blank" rel="noopener">Google Business Page</a>!</p>
+      </section>
+    </main>
     <Footer />
   </body>
 </html>

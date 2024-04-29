@@ -35,10 +35,11 @@ const categoryList = Array.isArray(category) ? category : [category];
   </head>
   <body>
     <Nav active="blog" />
-    <div class="wrapper">
-      <div><a href="/blog">&larr;All Posts</a></div>
-      <h1 class="title mt4 mb4">{title}</h1>
-        <p>{publishDate} | In {categoryList.map(c => <a href={`/category/${slugify(c)}`}>{c}</a>)} | By {author}</p>
+    <main class="wrapper">
+      <article class="article">
+        <div><a href="/blog">&larr; All Posts</a></div>
+        <h1 class="title mt4 mb4">{title}</h1>
+        <p>{publishDate} &middot; In <span class="categories">{categoryList.map(c => <a href={`/category/${slugify(c)}`}>{c}</a>)}</span> &middot; By {author}</p>
         <br/>
         <Content />
         <br/>
@@ -46,10 +47,11 @@ const categoryList = Array.isArray(category) ? category : [category];
           <span>Tags:</span>
           {tags.map(t => <a href={`/tag/${slugify(t)}`} class="tag">{t}</a>)}
         </div>
-      <br/>
-      <Pagination page={{url: {prev: prevUrl, next: nextUrl}}} />
-      <br/>
-    </div>
+        <br/>
+        <Pagination page={{url: {prev: prevUrl, next: nextUrl}}} />
+        <br/>
+      </article>
+    </main>
     <Footer />
   </body>
 </html>
@@ -57,6 +59,11 @@ const categoryList = Array.isArray(category) ? category : [category];
 <style lang="scss">
   .wrapper {
     padding: 2rem;
+  }
+
+  .categories {
+    display: inline-flex;
+    gap: .5em;
   }
 
   .tags {

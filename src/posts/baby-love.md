@@ -1,6 +1,6 @@
 ---
 title: 'Baby Love'
-description: '<p>All new moms are in love with their babies.  But some have this all over glow about motherhood and that&#8217;s [&hellip;]</p>
+description: '<p>All new moms are in love with their babies.  But some have this all over glow about motherhood and that&apos;s [&hellip;]</p>
 '
 publishDate: 'Apr 19, 2012'
 author: 'Allison Carenza'
@@ -11,7 +11,7 @@ category: ['Newborn Photography']
 tags: ['Blue Springs Photographer','Kansas City Newborn Photographer','Newborn Photography']
 ---
 
-<p style="text-align: center;">All new moms are in love with their babies.  But some have this all over glow about motherhood and that&#8217;s just how I would describe Jennifer.  She is obsessed, in love, totally addicted to her little girl Macy.  Even being pooped on, peed on and spit up on can&#8217;t discourage her from her job of being the best mom ever.</p>
+<p style="text-align: center;">All new moms are in love with their babies.  But some have this all over glow about motherhood and that&apos;s just how I would describe Jennifer.  She is obsessed, in love, totally addicted to her little girl Macy.  Even being pooped on, peed on and spit up on can&apos;t discourage her from her job of being the best mom ever.</p>
 <p style="text-align: center;">Meet little Macy, she is one lucky little lady!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4047" title="mcniel3" src="/media/mcniel3.jpg" alt="" width="930" height="680" srcset="/media/mcniel3.jpg 930w, /media/mcniel3-300x219.jpg 300w, /media/mcniel3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">Macy did a fabulous job on the shoot.</p>

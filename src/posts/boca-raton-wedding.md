@@ -1,18 +1,18 @@
 ---
 title: 'Boca Raton Wedding'
-description: '<p>There&#8217;s no doubt I love taking pictures of bellies, and babies but every now and then I like to step [&hellip;]</p>
+description: '<p>There&apos;s no doubt I love taking pictures of bellies, and babies but every now and then I like to step [&hellip;]</p>
 '
 publishDate: 'May 14, 2010'
 author: 'Allison Carenza'
 heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/wed11.jpg'
 alt: 'Boca Raton Wedding'
 slug: 'boca-raton-wedding'
-category: ['Weddings Photos']
+category: ['Wedding Photos']
 tags: ['Kansas City Wedding','Weddings']
 ---
 
-<p>There&#8217;s no doubt I love taking pictures of bellies, and babies but every now and then I like to step out of the studio to take pics of a beautiful wedding.  It keeps me on my toes, challenges me in ways my studio never can, and gives me a chance to take pictures of one of my most favorite things&#8230;weddings!  I love love love weddings!  The bride, the groom, the guests, the music, dancing, the food and of course the cake.  It&#8217;s all amazing and watching it all go down through the lens of my camera capturing all the coolest moments is an adreniline rushing experience that leaves me exhausted with a perma grin.  Tomorrow I have a wedding and I&#8217;m so excited.  I always like to go back and review my old wedding photos basically tearing them apart.  I&#8217;m hard on myself, sometimes too hard, but it&#8217;s how I learn.  While reviewing tonight I came across some photos I took with Mags in Boca this March.  I wanted to share a few.  I can&#8217;t wait to pack my gear and get going tomorrow.  I&#8217;m feeling the creative juices a flowing.</p>
-<p>These pics are of Waylan and Susan.  Two St. Lous studs.  They&#8217;ve been together a long time and are still madly in love.  I really enjoyed working with them on their big day.</p>
+<p>There&apos;s no doubt I love taking pictures of bellies, and babies but every now and then I like to step out of the studio to take pics of a beautiful wedding.  It keeps me on my toes, challenges me in ways my studio never can, and gives me a chance to take pictures of one of my most favorite things...weddings!  I love love love weddings!  The bride, the groom, the guests, the music, dancing, the food and of course the cake.  It&apos;s all amazing and watching it all go down through the lens of my camera capturing all the coolest moments is an adreniline rushing experience that leaves me exhausted with a perma grin.  Tomorrow I have a wedding and I&apos;m so excited.  I always like to go back and review my old wedding photos basically tearing them apart.  I&apos;m hard on myself, sometimes too hard, but it&apos;s how I learn.  While reviewing tonight I came across some photos I took with Mags in Boca this March.  I wanted to share a few.  I can&apos;t wait to pack my gear and get going tomorrow.  I&apos;m feeling the creative juices a flowing.</p>
+<p>These pics are of Waylan and Susan.  Two St. Lous studs.  They&apos;ve been together a long time and are still madly in love.  I really enjoyed working with them on their big day.</p>
 <p><a rel="attachment wp-att-801" href="http://www.allisoncarenza.com/archives/791/wed11"><img class="aligncenter size-full wp-image-801" title="wed11" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/05/wed11.jpg" alt="" width="399" height="600" srcset="/media/wed11.jpg 399w, /media/wed11-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px" /></a></p>
 <p style="text-align: center;">
 <p style="text-align: center;"><a rel="attachment wp-att-802" href="http://www.allisoncarenza.com/archives/791/wed12"><img class="aligncenter size-full wp-image-802" title="wed12" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/05/wed12.jpg" alt="" width="400" height="600" srcset="/media/wed12.jpg 400w, /media/wed12-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>
@@ -27,7 +27,7 @@ tags: ['Kansas City Wedding','Weddings']
 <p style="text-align: center;">
 <p style="text-align: center;"><a rel="attachment wp-att-804" href="http://www.allisoncarenza.com/archives/791/wed14"><img class="aligncenter size-full wp-image-804" title="wed14" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/05/wed14.jpg" alt="" width="601" height="400" srcset="/media/wed14.jpg 601w, /media/wed14-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /></a></p>
 <p style="text-align: center;">
-<p style="text-align: center;">This picture below makes me smile because Susan is totally smiling while she&#8217;s kissing Waylan.  These are the moments our lives are made of.</p>
+<p style="text-align: center;">This picture below makes me smile because Susan is totally smiling while she&apos;s kissing Waylan.  These are the moments our lives are made of.</p>
 <p style="text-align: center;"><a rel="attachment wp-att-800" href="http://www.allisoncarenza.com/archives/791/wed10"><img class="aligncenter size-full wp-image-800" title="wed10" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/05/wed10.jpg" alt="" width="400" height="600" srcset="/media/wed10.jpg 400w, /media/wed10-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>
 <p style="text-align: center;">
 <p style="text-align: center;">

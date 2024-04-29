@@ -1,18 +1,18 @@
 ---
 title: 'A St. Louis wedding'
-description: '<p>Just a short drive apart.  That&#8217;s how Kelly and Tommy lived when they were in college at MU.  Just a [&hellip;]</p>
+description: '<p>Just a short drive apart.  That&apos;s how Kelly and Tommy lived when they were in college at MU.  Just a [&hellip;]</p>
 '
 publishDate: 'Jul 27, 2012'
 author: 'Allison Carenza'
 heroImage: '/media/kjw20.jpg'
 alt: 'A St. Louis wedding'
 slug: 'a-st-louis-wedding-allison-carenza-photography'
-category: ['Weddings Photos']
+category: ['Wedding Photos']
 tags: ['Wedding Photography','Wedding Photography Kansas City','Wedding Pictures']
 ---
 
 <p style="text-align: center;">
-<p style="text-align: center;">Just a short drive apart.  That&#8217;s how Kelly and Tommy lived when they were in college at MU.  Just a short drive apart.  Maybe a couple of miles, but their paths didn&#8217;t cross in college, it wasn&#8217;t until they were back home in the city they love, St. Louis, that they met.  It was a mutual friend that introduced them, the sparks flew, but nothing came of it, and again the timing just wasn&#8217;t right.  But the universe was determined to bring these two together, so month later on halloween when Kelly was dressed as a naughty and irresistible devil, Tommy decided this time he wasn&#8217;t going to let her go.  And he didn&#8217;t.</p>
+<p style="text-align: center;">Just a short drive apart.  That&apos;s how Kelly and Tommy lived when they were in college at MU.  Just a short drive apart.  Maybe a couple of miles, but their paths didn&apos;t cross in college, it wasn&apos;t until they were back home in the city they love, St. Louis, that they met.  It was a mutual friend that introduced them, the sparks flew, but nothing came of it, and again the timing just wasn&apos;t right.  But the universe was determined to bring these two together, so month later on halloween when Kelly was dressed as a naughty and irresistible devil, Tommy decided this time he wasn&apos;t going to let her go.  And he didn&apos;t.</p>
 <p style="text-align: center;">Their love is easy, and perfect.  The perfect pair at the perfect time.</p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4207" title="kjw20" src="/media/kjw20.jpg" alt="" width="930" height="680" srcset="/media/kjw20.jpg 930w, /media/kjw20-300x219.jpg 300w, /media/kjw20-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
@@ -24,17 +24,17 @@ tags: ['Wedding Photography','Wedding Photography Kansas City','Wedding Pictures
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4204" title="kjw17" src="/media/kjw17.jpg" alt="" width="930" height="680" srcset="/media/kjw17.jpg 930w, /media/kjw17-300x219.jpg 300w, /media/kjw17-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">SISTERS!  I was lucky enough to have photographed this same group of beautiful sister about 6 years ago?  They are even more beautiful now!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4203" title="kjw16" src="/media/kjw16.jpg" alt="" width="930" height="680" srcset="/media/kjw16.jpg 930w, /media/kjw16-300x219.jpg 300w, /media/kjw16-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">Jon took this one!  He&#8217;s so talented!</p>
+<p style="text-align: center;">Jon took this one!  He&apos;s so talented!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4202" title="kjw15" src="/media/kjw15.jpg" alt="" width="930" height="680" srcset="/media/kjw15.jpg 930w, /media/kjw15-300x219.jpg 300w, /media/kjw15-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">Tommy seeing his bride for the first time.  I don&#8217;t think he even noticed me.  He was totally in the moment, and captivated by Kelly.</p>
+<p style="text-align: center;">Tommy seeing his bride for the first time.  I don&apos;t think he even noticed me.  He was totally in the moment, and captivated by Kelly.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4201" title="kjw14" src="/media/kjw14.jpg" alt="" width="930" height="680" srcset="/media/kjw14.jpg 930w, /media/kjw14-300x219.jpg 300w, /media/kjw14-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">Kelly is  a devote Catholic and wanted all the traditions of a full Mass.  It was a beautiful ceremony.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4200" title="kjw13" src="/media/kjw13.jpg" alt="" width="930" height="680" srcset="/media/kjw13.jpg 930w, /media/kjw13-300x219.jpg 300w, /media/kjw13-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">So much joy!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4199" title="kjw12" src="/media/kjw12.jpg" alt="" width="930" height="680" srcset="/media/kjw12.jpg 930w, /media/kjw12-300x219.jpg 300w, /media/kjw12-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">Tommy wanted to go take pics in front of the <a href="http://www.scottradecenter.com/">Scottrade Center</a>.   He&#8217;s a huge Blues fan!</p>
+<p style="text-align: center;">Tommy wanted to go take pics in front of the <a href="http://www.scottradecenter.com/">Scottrade Center</a>.   He&apos;s a huge Blues fan!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4198" title="kjw11" src="/media/kjw11.jpg" alt="" width="930" height="680" srcset="/media/kjw11.jpg 930w, /media/kjw11-300x219.jpg 300w, /media/kjw11-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">And since we were right by the arch we thought why not.  The challenge for me was navigating around the 7 other bridal parties.  We were  like out of there pronto.  But I&#8217;m glad we got the shot.</p>
+<p style="text-align: center;">And since we were right by the arch we thought why not.  The challenge for me was navigating around the 7 other bridal parties.  We were  like out of there pronto.  But I&apos;m glad we got the shot.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4197" title="kjw10" src="/media/kjw10.jpg" alt="" width="930" height="680" srcset="/media/kjw10.jpg 930w, /media/kjw10-300x219.jpg 300w, /media/kjw10-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4196" title="kjw9" src="/media/kjw9.jpg" alt="" width="930" height="680" srcset="/media/kjw9.jpg 930w, /media/kjw9-300x219.jpg 300w, /media/kjw9-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
@@ -55,4 +55,4 @@ tags: ['Wedding Photography','Wedding Photography Kansas City','Wedding Pictures
 <p style="text-align: center;">
 <p style="text-align: center;"><a href="www.allisoncarenza.com"><img class="aligncenter size-full wp-image-4188" title="kjw1" src="/media/kjw1.jpg" alt="" width="930" height="680" srcset="/media/kjw1.jpg 930w, /media/kjw1-300x219.jpg 300w, /media/kjw1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></a></p>
 <p style="text-align: center;">
-<p style="text-align: center;">I&#8217;m so happy the universe had a plan for these two.  They are awesome apart, but even better together!</p>
+<p style="text-align: center;">I&apos;m so happy the universe had a plan for these two.  They are awesome apart, but even better together!</p>

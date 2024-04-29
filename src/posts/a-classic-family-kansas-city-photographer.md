@@ -11,7 +11,7 @@ category: ['Family Pictures']
 tags: ['Blue Springs Photography','Family Photography','Family Portraits','Kansas City Photographer']
 ---
 
-<p style="text-align: center;">There are some families that have been with me from the beginning.  I hold these special people close to my heart.  In my early years as a photographer they gave me a chance, they believed in me, they supported and encouraged me, and to this day they come to me to capture their ever changing precious moments.  The Habiger family is one of those families, and I love them more than peanut butter.  I&#8217;ve been taking their pictures for years now, and I hope to never stop.</p>
+<p style="text-align: center;">There are some families that have been with me from the beginning.  I hold these special people close to my heart.  In my early years as a photographer they gave me a chance, they believed in me, they supported and encouraged me, and to this day they come to me to capture their ever changing precious moments.  The Habiger family is one of those families, and I love them more than peanut butter.  I&apos;ve been taking their pictures for years now, and I hope to never stop.</p>
 <p style="text-align: center;">
 <p style="text-align: center;">
 <p style="text-align: center;">Chris and Karri are the parents that gently hold eachother and weap while they view their pictures because they are so in awe of the amazing kids their love was able to create.  Just look.</p>

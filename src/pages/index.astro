@@ -4,7 +4,7 @@ import Nav from '../components/Nav.astro';
 import Footer from '../components/Footer.astro';
 import images from './gallery.json';
 
-let description = 'An example blog on Astro';
+let description = 'Clean, simple, timeless portrait photography that focuses on the sugject. Through even light and clever framing, I capture the authentic spirit of my subjects.';
 let canonicalURL = Astro.canonicalURL;
 ---
 
@@ -15,8 +15,8 @@ let canonicalURL = Astro.canonicalURL;
 			.gallery {
 				display: grid;
 				grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-				grid-gap: 16px;
-				margin: 32px 0;
+				grid-gap: 1rem;
+				margin: 2rem 1rem;
 				> a img {
 					background-color: #ced4da;
 					object-fit: cover;
@@ -37,8 +37,14 @@ let canonicalURL = Astro.canonicalURL;
 				</a>
 				)}
 			</div>
-			<div>Want to see more photos? <a href="/blog">Check out my blog</a>!</div>
+			<br/>
+			<div align="center">Want to see more photos? <a href="/blog">Check out my blog</a>!</div>
 		</main>
+		<section class="article">
+			<h1>Today's moments are tomorrow's memories</h1>
+			<p>It has been almost twenty years now since I started my photography business. I’ve changed over time, and so has my work. I’ve moved through various trends, learned a few things along the way. But most importantly, I've devoted my life to providing the most authentic portraits I can. I like clean, simple, timeless images that all focus on the individual. Through even light and clever framing, I capture the spirit of my subjects.</p>
+			<p>I work through soggy cookies in the hands of little ones. If the bow that matches the outfit ends up in their mouth, we make it something wonderful. I would rather work at capturing the love, that connection the child has with the parents and the curiosity they have for the world. It’s never fake, it’s always entertaining and we always come away with something amazing and I wouldn’t trade it for the world.</p>
+		</section>
 		<Footer />
 	</body>
 </html>

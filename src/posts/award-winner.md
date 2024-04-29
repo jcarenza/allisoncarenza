@@ -1,6 +1,6 @@
 ---
 title: 'Award Winner!'
-description: '<p>With 186 votes little Jackson&#8217;s photo won my facebook photo contest!  Here is the winning photo!   A big thanks [&hellip;]</p>
+description: '<p>With 186 votes little Jackson&apos;s photo won my facebook photo contest!  Here is the winning photo!   A big thanks [&hellip;]</p>
 '
 publishDate: 'Aug 3, 2011'
 author: 'Allison Carenza'
@@ -11,12 +11,12 @@ category: ['Children Photography']
 tags: ['Baby Photographer','Blue Springs Photographer','Kansas City Photography','Lees Summit Photographer']
 ---
 
-<p style="text-align: center;">With 186 votes little Jackson&#8217;s photo won my facebook photo contest!  Here is the winning photo!</p>
+<p style="text-align: center;">With 186 votes little Jackson&apos;s photo won my facebook photo contest!  Here is the winning photo!</p>
 <p style="text-align: center;"><img class="aligncenter size-large wp-image-3257" title="jackson" src="/media/jackson-686x1024.jpg" alt="" width="686" height="1024" srcset="/media/jackson-686x1024.jpg 686w, /media/jackson-201x300.jpg 201w, /media/jackson-768x1146.jpg 768w, /media/jackson.jpg 1372w" sizes="(max-width: 686px) 100vw, 686px" /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">  A big thanks to Tyra for getting all her friends and family to vote in the contest!  What a rock star!!!</p>
-<p style="text-align: center;">I haven&#8217;t seen Jackson since he was a newborn just a year ago.  It&#8217;s amazing how much the little ones change in that first year.</p>
-<p style="text-align: center;">The first 15 minutes we just hung out in the studio and let him get comfortable.  I could sense he was timid with me so the last thing I wanted to do was to start asking him to do things and sticking the camera in his face.  It wasn&#8217;t long before he was running around the studio and having a blast.</p>
+<p style="text-align: center;">I haven&apos;t seen Jackson since he was a newborn just a year ago.  It&apos;s amazing how much the little ones change in that first year.</p>
+<p style="text-align: center;">The first 15 minutes we just hung out in the studio and let him get comfortable.  I could sense he was timid with me so the last thing I wanted to do was to start asking him to do things and sticking the camera in his face.  It wasn&apos;t long before he was running around the studio and having a blast.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3263" title="tyra6" src="/media/tyra61.jpg" alt="" width="930" height="680" srcset="/media/tyra61.jpg 930w, /media/tyra61-300x219.jpg 300w, /media/tyra61-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">Even making faces at me!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3260" title="tyra3" src="/media/tyra31.jpg" alt="" width="930" height="680" srcset="/media/tyra31.jpg 930w, /media/tyra31-300x219.jpg 300w, /media/tyra31-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>

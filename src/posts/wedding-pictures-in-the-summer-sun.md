@@ -1,30 +1,30 @@
 ---
-title: 'Wedding pictures in the summer sun&#8230;'
+title: 'Wedding pictures in the summer sun...'
 description: '<p>It was a smoldering hot August day, but nothing could compete with sultry Jamie and her fierce passion for Ryan.  I was [&hellip;]</p>
 '
 publishDate: 'Aug 4, 2011'
 author: 'Allison Carenza'
 heroImage: '/media/jamie10.jpg'
-alt: 'Wedding pictures in the summer sun&#8230;'
+alt: 'Wedding pictures in the summer sun...'
 slug: 'wedding-pictures-in-the-summer-sun'
-category: ['Weddings Photos']
+category: ['Wedding Photos']
 tags: ['Kansas City Wedding Photography','Wedding Photography']
 ---
 
-<p style="text-align: center;">It was a smoldering hot August day, but nothing could compete with sultry Jamie and her fierce passion for Ryan.  I was the lucky photographer that got to capture it.  These are just a few of my favorites from our time together!  Check it, it&#8217;s HOT!</p>
+<p style="text-align: center;">It was a smoldering hot August day, but nothing could compete with sultry Jamie and her fierce passion for Ryan.  I was the lucky photographer that got to capture it.  These are just a few of my favorites from our time together!  Check it, it&apos;s HOT!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3276" title="jamie10" src="/media/jamie10.jpg" alt="" width="930" height="680" srcset="/media/jamie10.jpg 930w, /media/jamie10-300x219.jpg 300w, /media/jamie10-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3280" title="jamie14" src="/media/jamie14.jpg" alt="" width="930" height="680" srcset="/media/jamie14.jpg 930w, /media/jamie14-300x219.jpg 300w, /media/jamie14-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">These pics were taken at The Inn at Crescent Lake in Excelsior Springs. http://www.crescentlake.com/</p>
 <p style="text-align: center;">They have some great little get away packages.<!--more--></p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3275" title="jamie9" src="/media/jamie9.jpg" alt="" width="930" height="680" srcset="/media/jamie9.jpg 930w, /media/jamie9-300x219.jpg 300w, /media/jamie9-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">They couldn&#8217;t keep their eyes off each other!!!!</p>
+<p style="text-align: center;">They couldn&apos;t keep their eyes off each other!!!!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3272" title="jamie6" src="/media/jamie6.jpg" alt="" width="930" height="680" srcset="/media/jamie6.jpg 930w, /media/jamie6-300x219.jpg 300w, /media/jamie6-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3270" title="jamie4" src="/media/jamie4.jpg" alt="" width="930" height="680" srcset="/media/jamie4.jpg 930w, /media/jamie4-300x219.jpg 300w, /media/jamie4-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">Jamie you are so so gorgeous!!!!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3269" title="jamie3" src="/media/jamie3.jpg" alt="" width="930" height="680" srcset="/media/jamie3.jpg 930w, /media/jamie3-300x219.jpg 300w, /media/jamie3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">Dear golden light&#8230;.I love you!</p>
+<p style="text-align: center;">Dear golden light....I love you!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3268" title="Jamie2" src="/media/Jamie2.jpg" alt="" width="930" height="680" srcset="/media/Jamie2.jpg 930w, /media/Jamie2-300x219.jpg 300w, /media/Jamie2-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3273" title="jamie7" src="/media/jamie7.jpg" alt="" width="930" height="680" srcset="/media/jamie7.jpg 930w, /media/jamie7-300x219.jpg 300w, /media/jamie7-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>

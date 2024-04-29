@@ -33,7 +33,18 @@ body {
     box-sizing: border-box;
 }
 
+main {
+	width: 100%;
+	min-height: 50vh;
+}
+
 img {
     max-width: 100%;
     height: auto;
+}
+
+.article {
+	max-width: 80ch;
+	margin: auto;
+	padding: 2rem;
 }

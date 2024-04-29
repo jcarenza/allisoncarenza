@@ -16,11 +16,11 @@ tags: ['Blue Springs Photographer','First Birthday Photos','Kansas City Photogra
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4489" title="bollinger5" src="/media/bollinger5.jpg" alt="" width="930" height="680" srcset="/media/bollinger5.jpg 930w, /media/bollinger5-300x219.jpg 300w, /media/bollinger5-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">Surprise!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4488" title="bollinger4" src="/media/bollinger4.jpg" alt="" width="930" height="680" srcset="/media/bollinger4.jpg 930w, /media/bollinger4-300x219.jpg 300w, /media/bollinger4-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">That&#8217;s a good looking girl in that there balloon!</p>
+<p style="text-align: center;">That&apos;s a good looking girl in that there balloon!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4490" title="bollinger6" src="/media/bollinger6.jpg" alt="" width="930" height="680" srcset="/media/bollinger6.jpg 930w, /media/bollinger6-300x219.jpg 300w, /media/bollinger6-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">Oh Reagan, stop, those blue eyes are melting my heart!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4486" title="bollinger2" src="/media/bollinger2.jpg" alt="" width="930" height="680" srcset="/media/bollinger2.jpg 930w, /media/bollinger2-300x219.jpg 300w, /media/bollinger2-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">She&#8217;s a thumb sucker just like me when I was a little.  I know it&#8217;s a bad habit, but it&#8217;s so cute!!!!</p>
+<p style="text-align: center;">She&apos;s a thumb sucker just like me when I was a little.  I know it&apos;s a bad habit, but it&apos;s so cute!!!!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4487" title="bollinger3" src="/media/bollinger3.jpg" alt="" width="930" height="680" srcset="/media/bollinger3.jpg 930w, /media/bollinger3-300x219.jpg 300w, /media/bollinger3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">I love cake!  I hate cake!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4485" title="bollinger1" src="/media/bollinger1.jpg" alt="" width="930" height="680" srcset="/media/bollinger1.jpg 930w, /media/bollinger1-300x219.jpg 300w, /media/bollinger1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>

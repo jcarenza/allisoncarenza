@@ -1,17 +1,17 @@
 ---
-title: 'Falling in love over tacos&#8230;'
+title: 'Falling in love over tacos...'
 description: '<p>Natalie and Jeff met at a friends party.  They went for the tasty mexican food, but left with much more. [&hellip;]</p>
 '
 publishDate: 'Dec 14, 2012'
 author: 'Allison Carenza'
 heroImage: '/media/nandj6.jpg'
-alt: 'Falling in love over tacos&#8230;'
+alt: 'Falling in love over tacos...'
 slug: 'falling-love-over-tacos'
-category: ['Weddings Photos']
+category: ['Wedding Photos']
 tags: ['Engagement Photography','Engagement Photos','Wedding Photography']
 ---
 
-<p style="text-align: center;">Natalie and Jeff met at a friends party.  They went for the tasty mexican food, but left with much more.  Their connection was immediate and the love has proven lasting!  The rest is history, and now they&#8217;re getting ready to merge their families forever.</p>
+<p style="text-align: center;">Natalie and Jeff met at a friends party.  They went for the tasty mexican food, but left with much more.  Their connection was immediate and the love has proven lasting!  The rest is history, and now they&apos;re getting ready to merge their families forever.</p>
 <p style="text-align: center;">I had the privilege of  being their engagement photographer last Tuesday.  We tooled around the city to some of my favorite spots, and laughed, and made memories.</p>
 <p style="text-align: center;">Thank you Jeff and Natalie letting me share in such an important time.  I had a blast and I hope you did too!</p>
 <p style="text-align: center;">xoxo</p>

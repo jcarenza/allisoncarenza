@@ -1,19 +1,19 @@
 ---
 title: 'One super happy baby! '
-description: '<p>Meet the Smith family!  You might recognize Carroll she is one of the models featured on my commercial website.  She&#8217;s [&hellip;]</p>
+description: '<p>Meet the Smith family!  You might recognize Carroll she is one of the models featured on my commercial website.  She&apos;s [&hellip;]</p>
 '
 publishDate: 'Jul 18, 2011'
 author: 'Allison Carenza'
 heroImage: '/media/carr21.jpg'
 alt: 'One super happy baby! '
 slug: 'one-super-happy-baby-children-photography-kansas-city'
-category: ['Uncategorized']
+category: ['Baby Photography']
 tags: []
 ---
 
-<p style="text-align: center;">Meet the Smith family!  You might recognize Carroll she is one of the models featured on my commercial website.  She&#8217;s kinda got it all, she&#8217;s beautiful, she&#8217;s happy, and she&#8217;s got an adorable family.</p>
+<p style="text-align: center;">Meet the Smith family!  You might recognize Carroll she is one of the models featured on my commercial website.  She&apos;s kinda got it all, she&apos;s beautiful, she&apos;s happy, and she&apos;s got an adorable family.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3181" title="carr2" src="/media/carr21.jpg" alt="" width="751" height="499" srcset="/media/carr21.jpg 751w, /media/carr21-300x199.jpg 300w" sizes="(max-width: 751px) 100vw, 751px" /></p>
-<p style="text-align: center;">This is little Beckett and he thought I was hilarious!  He&#8217;s now one year old, and fearless, and awesome!</p>
+<p style="text-align: center;">This is little Beckett and he thought I was hilarious!  He&apos;s now one year old, and fearless, and awesome!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3179" title="carr12" src="/media/carr12.jpg" alt="" width="700" height="499" srcset="/media/carr12.jpg 700w, /media/carr12-300x214.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3175" title="carr8" src="/media/carr8.jpg" alt="" width="750" height="499" srcset="/media/carr8.jpg 750w, /media/carr8-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></p>
@@ -31,5 +31,5 @@ tags: []
 <p style="text-align: center;">I might or might not have been singing the frog song during this pic.  Anyway Beckett liked it!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3170" title="carr1" src="/media/carr1.jpg" alt="" width="751" height="499" srcset="/media/carr1.jpg 751w, /media/carr1-300x199.jpg 300w" sizes="(max-width: 751px) 100vw, 751px" /></p>
 <p style="text-align: center;">
-<p style="text-align: center;">So so happy to get to work with the Smith family again.  I just can&#8217;t get enough!  Make more babies ok?</p>
+<p style="text-align: center;">So so happy to get to work with the Smith family again.  I just can&apos;t get enough!  Make more babies ok?</p>
 <p style="text-align: center;">

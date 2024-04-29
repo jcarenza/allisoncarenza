@@ -1,6 +1,6 @@
 ---
 title: 'The Sloan boys Photographer'
-description: '<p>I knew there was a chance the shoot wouldn&#8217;t happen.  It really depended on the weather, not because we would [&hellip;]</p>
+description: '<p>I knew there was a chance the shoot wouldn&apos;t happen.  It really depended on the weather, not because we would [&hellip;]</p>
 '
 publishDate: 'May 16, 2011'
 author: 'Allison Carenza'
@@ -11,7 +11,7 @@ category: ['Family Pictures']
 tags: ['Blue Springs Photography','Family Pictures','Kansas City Photography']
 ---
 
-<p style="text-align: center;">I knew there was a chance the shoot wouldn&#8217;t happen.  It really depended on the weather, not because we would have to cancel if it rained, but because the weather affects how Chris feels.  He has sickle cell anemia, and just days before the shoot his mom Jana was worried it wasn&#8217;t going to happen.  But it did, and it was perfect.</p>
+<p style="text-align: center;">I knew there was a chance the shoot wouldn&apos;t happen.  It really depended on the weather, not because we would have to cancel if it rained, but because the weather affects how Chris feels.  He has sickle cell anemia, and just days before the shoot his mom Jana was worried it wasn&apos;t going to happen.  But it did, and it was perfect.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2776" title="sloan1" src="/media/sloan1.jpg" alt="" width="743" height="500" srcset="/media/sloan1.jpg 743w, /media/sloan1-300x202.jpg 300w" sizes="(max-width: 743px) 100vw, 743px" /></p>
 <p style="text-align: center;">Christopher and Christian are adopted.  They share a biological mom, and two loving parents.  In fact there is no shortage of love in this family.  It was easy to take their pictures because they are truly happy together.  I put Jana and Jonathan up there in the angel category with hospice workers, teachers of kids in poverty, and foster parents.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2778" title="sloan3" src="/media/sloan3.jpg" alt="" width="743" height="500" srcset="/media/sloan3.jpg 743w, /media/sloan3-300x202.jpg 300w" sizes="(max-width: 743px) 100vw, 743px" /></p>

@@ -11,18 +11,18 @@ category: ['Baby Photography','Children Photography','Family Pictures']
 tags: []
 ---
 
-<p style="text-align: center;">Take 2 parts wild blondes, and one part adorable happy 5 month old and what do you get?  Picture perfection!  And that&#8217;s just what I got to experience on Saturday morning with the famous Shaer family!</p>
+<p style="text-align: center;">Take 2 parts wild blondes, and one part adorable happy 5 month old and what do you get?  Picture perfection!  And that&apos;s just what I got to experience on Saturday morning with the famous Shaer family!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3650" title="schea5" src="/media/schea5.jpg" alt="" width="930" height="680" srcset="/media/schea5.jpg 930w, /media/schea5-300x219.jpg 300w, /media/schea5-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">And you gotta love the missing tooth.  If only she could lose both for Christmas.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3652" title="schea7" src="/media/schea7.jpg" alt="" width="930" height="680" srcset="/media/schea7.jpg 930w, /media/schea7-300x219.jpg 300w, /media/schea7-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">This is George after his momma&#8217;s maiden name.  I love it when parents take a family name and make it a first name.</p>
+<p style="text-align: center;">This is George after his momma&apos;s maiden name.  I love it when parents take a family name and make it a first name.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3651" title="schea6" src="/media/schea6.jpg" alt="" width="930" height="680" srcset="/media/schea6.jpg 930w, /media/schea6-300x219.jpg 300w, /media/schea6-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">Hi George, you are oh so cute even though you were really tired during our shoot.  Thanks for being a trooper!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3647" title="schea2" src="/media/schea2.jpg" alt="" width="930" height="680" srcset="/media/schea2.jpg 930w, /media/schea2-300x219.jpg 300w, /media/schea2-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">What you don&#8217;t see is that the two girls were swarming, hanging, and pulling on Gina during this pic.  She just keep on keeping on.</p>
+<p style="text-align: center;">What you don&apos;t see is that the two girls were swarming, hanging, and pulling on Gina during this pic.  She just keep on keeping on.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3648" title="schea3" src="/media/schea3.jpg" alt="" width="930" height="680" srcset="/media/schea3.jpg 930w, /media/schea3-300x219.jpg 300w, /media/schea3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">George likes to do push ups!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3646" title="schea1" src="/media/schea1.jpg" alt="" width="930" height="680" srcset="/media/schea1.jpg 930w, /media/schea1-300x219.jpg 300w, /media/schea1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3649" title="schea4" src="/media/schea4.jpg" alt="" width="930" height="680" srcset="/media/schea4.jpg 930w, /media/schea4-300x219.jpg 300w, /media/schea4-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;">I love love love my job!  I have to remind myself every day that this really is my life!  OH SO LUCKY!  I love you Schaer family!  Here&#8217;s to many more crazy shoots!</p>
+<p style="text-align: center;">I love love love my job!  I have to remind myself every day that this really is my life!  OH SO LUCKY!  I love you Schaer family!  Here&apos;s to many more crazy shoots!</p>

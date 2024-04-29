@@ -1,6 +1,6 @@
 ---
 title: 'Baby Nolan'
-description: '<p>&nbsp; In a newborn shoot there are a lot of quiet moments.  It&#8217;s not the rowdy rambunctious kinda shoot like [&hellip;]</p>
+description: '<p>&nbsp; In a newborn shoot there are a lot of quiet moments.  It&apos;s not the rowdy rambunctious kinda shoot like [&hellip;]</p>
 '
 publishDate: 'May 3, 2012'
 author: 'Allison Carenza'
@@ -12,7 +12,7 @@ tags: ['Baby Photographer  Kansas City','Blue Springs Photographer','Kansas City
 ---
 
 <p>&nbsp;</p>
-<p style="text-align: center;">In a newborn shoot there are a lot of quiet moments.  It&#8217;s not the rowdy rambunctious kinda shoot like a 1 year old, or 2 year old for that matter.  I love the quiet moments, mom is feeding baby, or rocking baby, or I&#8217;m carefully posing baby.  It&#8217;s in these moments, when time slows down, and I get to be an observer.  There&#8217;s nothing quite like watching a newborn fall asleep.  It might take time, but it give me a chance to examine my job.   And, I fall in love over and over again.</p>
+<p style="text-align: center;">In a newborn shoot there are a lot of quiet moments.  It&apos;s not the rowdy rambunctious kinda shoot like a 1 year old, or 2 year old for that matter.  I love the quiet moments, mom is feeding baby, or rocking baby, or I&apos;m carefully posing baby.  It&apos;s in these moments, when time slows down, and I get to be an observer.  There&apos;s nothing quite like watching a newborn fall asleep.  It might take time, but it give me a chance to examine my job.   And, I fall in love over and over again.</p>
 <p style="text-align: center;">Meet baby Evelyn.</p>
 <p><img class="aligncenter size-full wp-image-4081" title="nolan2" src="/media/nolan2.jpg" alt="" width="930" height="680" /></p>
 <p style="text-align: center;">And rowdy brother Graham.  Good thing he really loved that train table.</p>
@@ -22,5 +22,5 @@ tags: ['Baby Photographer  Kansas City','Blue Springs Photographer','Kansas City
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4082" title="nolan3" src="/media/nolan3.jpg" alt="" width="930" height="680" srcset="/media/nolan3.jpg 930w, /media/nolan3-300x219.jpg 300w, /media/nolan3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">
-<p style="text-align: center;">Not a day goes by that I don&#8217;t appreciate my job.  I&#8217;m in love with my work!</p>
-<p style="text-align: center;">XOXO Evelyn.  You are such a sweet girl!  I&#8217;ll see you in a couple months!</p>
+<p style="text-align: center;">Not a day goes by that I don&apos;t appreciate my job.  I&apos;m in love with my work!</p>
+<p style="text-align: center;">XOXO Evelyn.  You are such a sweet girl!  I&apos;ll see you in a couple months!</p>

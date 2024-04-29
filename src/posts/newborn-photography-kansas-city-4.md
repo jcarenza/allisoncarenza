@@ -1,20 +1,20 @@
 ---
-title: 'Newborn photography&#8230;Kansas City'
+title: 'Newborn photography...Kansas City'
 description: '<p>&nbsp; They met in college at K-state, back when they were wild college kids.  I think they are still kinda [&hellip;]</p>
 '
 publishDate: 'Mar 21, 2011'
 author: 'Allison Carenza'
 heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/ma1.jpg'
-alt: 'Newborn photography&#8230;Kansas City'
+alt: 'Newborn photography...Kansas City'
 slug: 'newborn-photography-kansas-city-4'
 category: ['Newborn Photography']
 tags: ['Newborn','Newborn Pictures']
 ---
 
 <p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;">They met in college at K-state, back when they were wild college kids.  I think they are still kinda wild, and I know they are always busy which is why they probably didn&#8217;t have time to tell the world they were expecting.  So when I posted the pics on facebook their loving friends went wild with excitement.  They are so very loved, and I can see why!</p>
+<p style="text-align: center;">They met in college at K-state, back when they were wild college kids.  I think they are still kinda wild, and I know they are always busy which is why they probably didn&apos;t have time to tell the world they were expecting.  So when I posted the pics on facebook their loving friends went wild with excitement.  They are so very loved, and I can see why!</p>
 <p style="text-align: center;"><a rel="attachment wp-att-2106" href="http://www.allisoncarenza.com/archives/2100/ma1-2"><img class="aligncenter size-full wp-image-2106" title="ma1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/03/ma1.jpg" alt="" width="750" height="499" /></a></p>
-<p style="text-align: center;">Even though Jonas was sick with chills, but he didn&#8217;t show it.  He wins the hubby of the year award for sure!</p>
+<p style="text-align: center;">Even though Jonas was sick with chills, but he didn&apos;t show it.  He wins the hubby of the year award for sure!</p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><a rel="attachment wp-att-2107" href="http://www.allisoncarenza.com/archives/2100/ma2-2"><img class="aligncenter size-full wp-image-2107" title="ma2" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/03/ma2.jpg" alt="" width="700" height="499" /></a></p>
 <p style="text-align: center;">Mary just kept smiling.</p>

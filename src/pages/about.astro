@@ -18,27 +18,71 @@ let canonicalURL = Astro.canonicalURL;
 				align-items: center;
 				background: var(--gray-3);
 				padding: 1.5rem;
-			}	
+			}
+
+			.review {
+				display: flex;
+				flex-direction: column;
+				gap: 1rem;
+				padding: .5rem 1rem;
+				border-left: 2px solid #0cb4ce;
+				margin-bottom: 2rem;
+			
+				blockquote {
+					margin: 0;
+					font-style: italic;
+				}
+			}
 		</style>
 	</head>
 
 	<body>
 		<Nav active="about" />
 
-		<main class="wrapper">
-			<h1>About Allison</h1>
+		<main>
 			<div class="video-container">
 				<iframe src="https://player.vimeo.com/video/59874698?h=c4a7063fa1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 			</div>
-			<div class="bio wrapper wrapper__readable mt8">
+			<article class="article">
+				<h1>Why Photography?</h1>
 				<p>
 				It's in the imperfections, the scratches on your nose, the mismatched socks, the messy hair, the favorite toy your son won't let go of. This is where I find true perfection. Let me capture your family the way you are, exactly how you will want to remember yourselves. Fifty years from now, I want you to fondly remember it all, the smiles, the frowns, the curious looks. And in two-hundred years, I want those that come after you, to connect with every emotion we captured, together. To have them feel and see their own smile in your photos, or notice the curls that only you could have passed on, to reflect on the day you spent recording your lives, that is why I do it.
 				</p>
 				<p>My style of photography is clean and not overly Photoshopped. I let the moments speak for themselves. It's a method that I have perfected over ten years in the business. It's real, it's true and I take a little bit of every shot with me to the next.
 				</p>
+			</article>
+			<article class="article">
+				<h3>Reviews</h3>
+				<div class="review">
+					<blockquote>
+					“I am so lucky to have found Allison Carenza to shoot my son’s newborn photos. She was so flexible when I ended up having my baby 6 weeks early and had to play it by ear as to when he was going to get out of the hospital and re-schedule the photo shoot. Allison genuinely cared about the health of my baby the entire time we were at Children’s, sending us emails and ‘good mojo’ as she would say to us. When we did have our session, she was incredibly friendly, efficient, and had really fun ideas for photos. You can tell she is not only naturally talented but truly loves what she does. I LOVE our photos and can’t wait to do more milestone photo sessions with Allison as our photographer!! Thank you Allison!”
+					</blockquote>
+					<div>— Andrea</div>
+				</div>
+
+				<div class="review">
+					<blockquote>“Couldn’t be Happier! We looked at several different photographers, but Allison’s photos are uniquely beautiful. They capture the beauty and expressions of people without relying on props or the same gimmicks other photographers use. I forgot to wear makeup and she still made me look beautiful! We couldn’t have been happier with the experience. She was friendly and easy to work with, great customer service too!”
+					Update: “We had pictures taken at Christmas, and Allison perfectly captured my sweet little girl’s personality. Simple, perfect Pictures. She even went the extra mile to get my photos to me that night so I could get my cards out on time. Can’t wait for the one year pics!”</blockquote>
+					<div>— Allie</div>
+				</div>
+
+				<div class="review">
+					<blockquote>“Our pictures with Allison were wonderful! She took the pictures of our newborn and 2 year old. Allison was so patient with us and even though our 2 year old didn’t want to take any pictures, Allison involved her and let her look through the lens to get her interested. We will definitely be using Allison again!”</blockquote>
+					<div>— Carrie</div>
+				</div>
+
+				<div class="review">
+					<blockquote>“I have been completely blown away with the pictures that Allison takes for our family. We receive so many compliments on them, and I’m always excited to get the proofs back to see her amazing work. She communicates well with us, is great to work with during shoots, and gets the proofs back very quickly. I highly recommend Allison to all my family and friends!”</blockquote>
+					<div>— CW</div>
+				</div>
+
+				<div class="review">
+					<blockquote>“I cannot even count the number of compliments I get on Allison’s photos of my babies/family! She is the absolute best! Her style is modernly unique and I LOVE every single picture/idea!”</blockquote>
+					<div>— Janee</div>
+				</div>
 				<p>&nbsp;</p>
-				<p>Want to hear what others have said about me? Read the reviews on my <a href="https://www.google.com/maps/place/Allison+Carenza+Photography+LLC/@39.0102051,-94.3666417,17z/data=!4m14!1m6!3m5!1s0x87c11b6ffc51d80f:0xc1bbbf4272b08d63!2sAllison+Carenza+Photography+LLC!8m2!3d39.010201!4d-94.364453!3m6!1s0x87c11b6ffc51d80f:0xc1bbbf4272b08d63!8m2!3d39.010201!4d-94.364453!9m1!1b1" target="_blank">Google Business Page</a>!</p>
-			</div>
+				<p>Want to hear what others have said about me? Read all the reviews on my <a href="https://www.google.com/maps/place/Allison+Carenza+Photography+LLC/@39.0102051,-94.3666417,17z/data=!4m14!1m6!3m5!1s0x87c11b6ffc51d80f:0xc1bbbf4272b08d63!2sAllison+Carenza+Photography+LLC!8m2!3d39.010201!4d-94.364453!3m6!1s0x87c11b6ffc51d80f:0xc1bbbf4272b08d63!8m2!3d39.010201!4d-94.364453!9m1!1b1" target="_blank">Google Business Page</a>!</p>
+			</article>
 		</main>
 		<Footer />
 	</body>

@@ -19,9 +19,9 @@ const pageLabel = page.total ? `${page.start + 1}–${page.end + 1} of ${page.to
 
 <div class="wrapper">
 	<nav class="nav">
-		<a class="prev" href={prevUrl} aria-label="Previous Page">Prev</a>
+		<a class="prev" href={prevUrl} aria-label="Previous Page">&larr; Previous</a>
 		{pageLabel && <span class="pgCount">{pageLabel</span>}
-		<a class="next" href={nextUrl} aria-label="Next Page">Next</a>
+		<a class="next" href={nextUrl} aria-label="Next Page">Next &rarr;</a>
 	</nav>
 </div>
 
@@ -30,6 +30,7 @@ const pageLabel = page.total ? `${page.start + 1}–${page.end + 1} of ${page.to
 		display: flex;
 		align-items: center;
 		justify-content: center;
+		gap: 2rem;
 		padding-top: 4rem;
 		padding-bottom: 4rem;
 	}

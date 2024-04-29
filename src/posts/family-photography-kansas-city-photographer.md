@@ -1,6 +1,6 @@
 ---
 title: 'Family Photography'
-description: '<p>Real smiles.  That&#8217;s my goal.  Always.  It&#8217;s not always easy, especially when kids are 3 and over.  That&#8217;s when they [&hellip;]</p>
+description: '<p>Real smiles.  That&apos;s my goal.  Always.  It&apos;s not always easy, especially when kids are 3 and over.  That&apos;s when they [&hellip;]</p>
 '
 publishDate: 'Dec 31, 2012'
 author: 'Allison Carenza'
@@ -11,7 +11,7 @@ category: ['Family Pictures']
 tags: ['Family Photography','Family Pictures','Family Portraits']
 ---
 
-<p style="text-align: center;">Real smiles.  That&#8217;s my goal.  Always.  It&#8217;s not always easy, especially when kids are 3 and over.  That&#8217;s when they start giving me the cheese smile.  I never say cheese for that very reason.  You know what I&#8217;m talking about, teeth clenched, blank eyes, and tight shoulders.  I delete those photos, because I&#8217;m always going for real smiles.  The ones where I can see right into the souls of my subjects.  It&#8217;s what we want to remember.</p>
+<p style="text-align: center;">Real smiles.  That&apos;s my goal.  Always.  It&apos;s not always easy, especially when kids are 3 and over.  That&apos;s when they start giving me the cheese smile.  I never say cheese for that very reason.  You know what I&apos;m talking about, teeth clenched, blank eyes, and tight shoulders.  I delete those photos, because I&apos;m always going for real smiles.  The ones where I can see right into the souls of my subjects.  It&apos;s what we want to remember.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4437" title="hayes6" src="/media/hayes6.jpg" alt="" width="930" height="680" srcset="/media/hayes6.jpg 930w, /media/hayes6-300x219.jpg 300w, /media/hayes6-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">It was  beautiful fall day when I got to go out with the Hayes family for their shoot.  The light was gorgeous and we had fun!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4436" title="hayes5" src="/media/hayes5.jpg" alt="" width="930" height="680" srcset="/media/hayes5.jpg 930w, /media/hayes5-300x219.jpg 300w, /media/hayes5-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
