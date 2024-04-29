@@ -36,13 +36,16 @@ const categoryList = Array.isArray(category) ? category : [category];
   <body>
     <Nav active="blog" />
     <div class="wrapper">
-    <div><a href="/blog">&larr;All Posts</a></div>
+      <div><a href="/blog">&larr;All Posts</a></div>
       <h1 class="title mt4 mb4">{title}</h1>
         <p>{publishDate} | In {categoryList.map(c => <a href={`/category/${slugify(c)}`}>{c}</a>)} | By {author}</p>
         <br/>
         <Content />
         <br/>
-        <div>Tags: {tags.map(t => <a href={`/tag/${slugify(t)}`}>{t}</a>)}</div>
+        <div class="tags">
+          <span>Tags:</span>
+          {tags.map(t => <a href={`/tag/${slugify(t)}`} class="tag">{t}</a>)}
+        </div>
       <br/>
       <Pagination page={{url: {prev: prevUrl, next: nextUrl}}} />
       <br/>
@@ -50,3 +53,25 @@ const categoryList = Array.isArray(category) ? category : [category];
     <Footer />
   </body>
 </html>
+
+<style lang="scss">
+  .wrapper {
+    padding: 2rem;
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: .5rem;
+    font-size: .8125rem;
+  }
+
+  .tag {
+    background-color: var(--gray-2);
+    padding: .2rem .5rem;
+    border-radius: .2rem;
+    text-decoration: none;
+    color: var(--text-dark);
+  }
+</style>
