@@ -3,8 +3,7 @@ import preact from "@astrojs/preact"
 
 // https://astro.build/config
 export default defineConfig({
-    site: "https://jcarenza.github.io",
-    base: "/allisoncarenza",
+    site: "https://allisoncarenza.com",
     // Enable the Preact integration to support Preact JSX components.
     integrations: [preact()],
 })
