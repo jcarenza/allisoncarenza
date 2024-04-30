@@ -11,7 +11,7 @@ export interface Props {
 
 const { title, description, image, type, next, prev, canonicalURL } = Astro.props as Props;
 const siteName = 'Allison Carenza Photography'
-const pageTitle = title ? `${title} | ${siteName}` || siteName
+const pageTitle = title ? `${title} | ${siteName}` : siteName
 ---
 
 <!-- Common -->
