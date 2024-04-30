@@ -18,5 +18,5 @@ tags: []
 <p>Thank you to all the friends that reposted info about my gallery opening.  So many of you have shared the info with your friends on facebook.  I love you, love you for doing that.  And of course thank you for coming.  Especially my fam from the other side of the state!  Much love!!!</p>
 <p>Let the countdown begin...</p>
 <p>Oh and no post is complete without a pic.  Here&apos;s another one that will be featured at the event this Friday.  It&apos;s perfect for this post.</p>
-<p><a rel="attachment wp-att-1177" href="http://www.allisoncarenza.com/archives/1176/purity"><img class="aligncenter size-large wp-image-1177" title="Purity" src="http:/media/Purity-600x900.jpg" alt="" width="450" height="675" /></a></p>
+<p><a rel="attachment wp-att-1177" href="http://www.allisoncarenza.com/archives/1176/purity"><img class="aligncenter size-large wp-image-1177" title="Purity" src="/media/Purity-600x900.jpg" alt="" width="450" height="675" /></a></p>
 <p style="text-align: center;">Purity</p>

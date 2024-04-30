@@ -26,9 +26,9 @@ tags: ["Kansas City Winter"]
 <p>Looking over this list I realize most of this happened this weekend. I am a busy girl, but I had a lot of fun doing what I do!  I hope everyone had a great weekend!  Lots of love!!!!!</p>
 <p>Al</p>
 <p>PS  If you&apos;re having Monday blues just think it could look like this outside!  Just a few short months ago it did!</p>
-<p><img class="aligncenter size-full wp-image-725" title="w6" src="http:/media/w6.jpg" alt="" width="601" height="400" srcset="/media/w6.jpg 601w, /media/w6-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px"/></p>
-<p><img class="aligncenter size-full wp-image-724" title="w5" src="http:/media/w5.jpg" alt="" width="601" height="400" srcset="/media/w5.jpg 601w, /media/w5-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px"/></p>
-<p><img class="aligncenter size-full wp-image-723" title="w4" src="http:/media/w4.jpg" alt="" width="600" height="400" srcset="/media/w4.jpg 600w, /media/w4-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"/></p>
-<p><img class="aligncenter size-full wp-image-722" title="w3" src="http:/media/w3.jpg" alt="" width="399" height="600" srcset="/media/w3.jpg 399w, /media/w3-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px"/></p>
-<p><img class="aligncenter size-full wp-image-721" title="w2" src="http:/media/w2.jpg" alt="" width="601" height="400" srcset="/media/w2.jpg 601w, /media/w2-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px"/></p>
+<p><img class="aligncenter size-full wp-image-725" title="w6" src="/media/w6.jpg" alt="" width="601" height="400" srcset="/media/w6.jpg 601w, /media/w6-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px"/></p>
+<p><img class="aligncenter size-full wp-image-724" title="w5" src="/media/w5.jpg" alt="" width="601" height="400" srcset="/media/w5.jpg 601w, /media/w5-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px"/></p>
+<p><img class="aligncenter size-full wp-image-723" title="w4" src="/media/w4.jpg" alt="" width="600" height="400" srcset="/media/w4.jpg 600w, /media/w4-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"/></p>
+<p><img class="aligncenter size-full wp-image-722" title="w3" src="/media/w3.jpg" alt="" width="399" height="600" srcset="/media/w3.jpg 399w, /media/w3-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px"/></p>
+<p><img class="aligncenter size-full wp-image-721" title="w2" src="/media/w2.jpg" alt="" width="601" height="400" srcset="/media/w2.jpg 601w, /media/w2-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px"/></p>
 <p>Ahhh... Looking at these pictures makes me so happy to be alive!  Today is was sunny, 70 and flawless in KC.  A perfect day for something outside.</p>
