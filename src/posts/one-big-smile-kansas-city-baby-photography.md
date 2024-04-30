@@ -1,14 +1,13 @@
 ---
-title: 'One Big Smile!'
-description: '<p>Babies don&apos;t always come in smiling.  In fact, at little adorable Claire&apos;s last shoot she was in, a not so [&hellip;]</p>
-'
-publishDate: 'Apr 18, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/claire41.jpg'
-alt: 'One Big Smile!'
-slug: 'one-big-smile-kansas-city-baby-photography'
-category: ['Baby Photography','Children Photography']
-tags: ['Baby Photographer','Blue Springs Photographer','Childrens Photography','Kansas City Photographer','Kansas City Photography']
+title: "One Big Smile!"
+description: "Babies don&apos;t always come in smiling.  In fact, at little adorable Claire&apos;s last shoot she was in, a not so "
+publishDate: "Apr 18, 2012"
+author: "Allison Carenza"
+heroImage: "/media/claire41.jpg"
+alt: "One Big Smile!"
+slug: "one-big-smile-kansas-city-baby-photography"
+category: ["Baby Photography", "Children Photography"]
+tags: ["Baby Photographer", "Blue Springs Photographer", "Childrens Photography", "Kansas City Photographer", "Kansas City Photography"]
 ---
 
 <p style="text-align: center;">Babies don&apos;t always come in smiling.  In fact, at little adorable Claire&apos;s last shoot she was in, a not so happy mood.  But the stars aligned for this shoot, and I was able to capture her at her very best!  I love this little girl!  Meet Claire.</p>

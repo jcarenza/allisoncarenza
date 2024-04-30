@@ -1,14 +1,13 @@
 ---
-title: 'Baby Amelia'
-description: '<p>Little baby Amelia graced my studio on Thursday.  She was bright eyed and bushy tailed for the first 45 minutes [&hellip;]</p>
-'
-publishDate: 'May 30, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/lf2.jpg'
-alt: 'Baby Amelia'
-slug: 'baby-amelia'
-category: ['Newborn Photography']
-tags: ['Newborn Images','Newborn Photography','Newborn Pictures']
+title: "Baby Amelia"
+description: "Little baby Amelia graced my studio on Thursday.  She was bright eyed and bushy tailed for the first 45 minutes "
+publishDate: "May 30, 2013"
+author: "Allison Carenza"
+heroImage: "/media/lf2.jpg"
+alt: "Baby Amelia"
+slug: "baby-amelia"
+category: ["Newborn Photography"]
+tags: ["Newborn Images", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">

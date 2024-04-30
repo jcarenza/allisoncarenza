@@ -1,14 +1,13 @@
 ---
-title: 'Real Senior Pictures Photographer'
-description: '<p>I didn&apos;t know what to expect.  I mean I photograph seniors...in high school, but never real seniors.  I thought I [&hellip;]</p>
-'
-publishDate: 'Mar 8, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/pru5.jpg'
-alt: 'Real Senior Pictures Photographer'
-slug: 'real-senior-pictures-kansas-city-photographer'
-category: ['Portrait Photography']
-tags: ['Portraits','Kansas City Photographer','Senior Pictures','Senior Pictures']
+title: "Real Senior Pictures Photographer"
+description: "I didn&apos;t know what to expect.  I mean I photograph seniors...in high school, but never real seniors.  I thought I "
+publishDate: "Mar 8, 2012"
+author: "Allison Carenza"
+heroImage: "/media/pru5.jpg"
+alt: "Real Senior Pictures Photographer"
+slug: "real-senior-pictures-kansas-city-photographer"
+category: ["Portrait Photography"]
+tags: ["Portraits", "Kansas City Photographer", "Senior Pictures", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">I didn&apos;t know what to expect.  I mean I photograph seniors...in high school, but never real seniors.  I thought I would have to work a little harder to get her to feel comfortable in front of the camera, I thought I would struggle to get my subject to connect with me.  Oh man, was I wrong.  I can&apos;t begin to tell you how much I enjoyed my time with spunky, spirited, Dorothea L. Eib-Irwin.</p>

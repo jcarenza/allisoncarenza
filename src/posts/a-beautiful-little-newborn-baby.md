@@ -1,14 +1,13 @@
 ---
-title: 'A beautiful little newborn baby!'
-description: '<p>&nbsp; This is Zalia.  A precious little thing that was oh so perfect during our shoot.  I have no doubt [&hellip;]</p>
-'
-publishDate: 'Feb 15, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/forbis2.jpg'
-alt: 'A beautiful little newborn baby!'
-slug: 'a-beautiful-little-newborn-baby'
-category: ['Baby Photography','Newborn Photography']
-tags: ['Baby Photographer','Kansas City Photographer','Newborn Photography']
+title: "A beautiful little newborn baby!"
+description: "&nbsp; This is Zalia.  A precious little thing that was oh so perfect during our shoot.  I have no doubt "
+publishDate: "Feb 15, 2012"
+author: "Allison Carenza"
+heroImage: "/media/forbis2.jpg"
+alt: "A beautiful little newborn baby!"
+slug: "a-beautiful-little-newborn-baby"
+category: ["Baby Photography", "Newborn Photography"]
+tags: ["Baby Photographer", "Kansas City Photographer", "Newborn Photography"]
 ---
 
 <p>&nbsp;</p>

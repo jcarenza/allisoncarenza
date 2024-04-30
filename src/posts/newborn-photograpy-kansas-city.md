@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Photograpy'
-description: '<p>I met Rebecca while watching Jon and her hubby Mike play volleyball for corporate challenge.  We hit it off and [&hellip;]</p>
-'
-publishDate: 'Feb 23, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/02/sin2.jpg'
-alt: 'Newborn Photograpy'
-slug: 'newborn-photograpy-kansas-city'
-category: ['Newborn Photography']
-tags: ['Baby Pictures','Baby Portraits','Newborn','Newborn Pictures']
+title: "Newborn Photograpy"
+description: "I met Rebecca while watching Jon and her hubby Mike play volleyball for corporate challenge.  We hit it off and "
+publishDate: "Feb 23, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/02/sin2.jpg"
+alt: "Newborn Photograpy"
+slug: "newborn-photograpy-kansas-city"
+category: ["Newborn Photography"]
+tags: ["Baby Pictures", "Baby Portraits", "Newborn", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">I met Rebecca while watching Jon and her hubby Mike play volleyball for corporate challenge.  We hit it off and made plans to do lunch with the boys downtown someday.  Well someday never came, but a couple years later Rebecca contacted me ready to get together...for maternity pictures!</p>

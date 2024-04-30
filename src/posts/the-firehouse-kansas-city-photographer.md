@@ -1,13 +1,12 @@
 ---
-title: 'The Firehouse Photographer'
-description: '<p>&nbsp; I&apos;m in love with the light in my new space.  I call it a space and not a studio, [&hellip;]</p>
-'
-publishDate: 'Jun 1, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/wil9.jpg'
-alt: 'The Firehouse Photographer'
-slug: 'the-firehouse-kansas-city-photographer'
-category: ['Children Photography','Family Pictures']
+title: "The Firehouse Photographer"
+description: "&nbsp; I&apos;m in love with the light in my new space.  I call it a space and not a studio, "
+publishDate: "Jun 1, 2011"
+author: "Allison Carenza"
+heroImage: "/media/wil9.jpg"
+alt: "The Firehouse Photographer"
+slug: "the-firehouse-kansas-city-photographer"
+category: ["Children Photography", "Family Pictures"]
 tags: []
 ---
 

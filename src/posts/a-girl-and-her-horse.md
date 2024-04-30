@@ -1,14 +1,13 @@
 ---
-title: 'A girl and her horse...'
-description: '<p>I&apos;ve been putting this post off for awhile.   I love the images, I think they are crazy awesome, and [&hellip;]</p>
-'
-publishDate: 'Aug 1, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/horse5.jpg'
-alt: 'A girl and her horse...'
-slug: 'a-girl-and-her-horse'
-category: ['Portrait Photography']
-tags: ['Horse Photography','Horse Photography','Kansas City Photographer','Kansas City  Portrait Photographer']
+title: "A girl and her horse..."
+description: "I&apos;ve been putting this post off for awhile.   I love the images, I think they are crazy awesome, and "
+publishDate: "Aug 1, 2012"
+author: "Allison Carenza"
+heroImage: "/media/horse5.jpg"
+alt: "A girl and her horse..."
+slug: "a-girl-and-her-horse"
+category: ["Portrait Photography"]
+tags: ["Horse Photography", "Horse Photography", "Kansas City Photographer", "Kansas City  Portrait Photographer"]
 ---
 
 <p style="text-align: center;">I&apos;ve been putting this post off for awhile.   I love the images, I think they are crazy awesome, and I love Amanda to death, I think she styled this shoot perfectly, but there&apos;s also an empty longing for the horse life I gave up for my career.  Just 5 months ago I was a horse owner, but there was less and less time for my dream horse Diamond.  She had so much potential and I didn&apos;t have her in training and she wasn&apos;t showing.  So the guilt was thick and I eventually knew I had to do what was best for her.  The wound is still fresh, but I have to suck it up and know in my heart some day I will be a horse girl like Amanda again.</p>

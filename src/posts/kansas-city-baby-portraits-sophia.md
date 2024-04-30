@@ -1,14 +1,13 @@
 ---
-title: 'Kansas City Baby Portraits'
-description: '<p>Sophia is the beautiful daughter of Bethany and Zachary!  I had so much fun taking their pictures.   Get ready [&hellip;]</p>
-'
-publishDate: 'Apr 6, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/baby2.jpg'
-alt: 'Kansas City Baby Portraits'
-slug: 'kansas-city-baby-portraits-sophia'
-category: ['Baby Photography']
-tags: ['Baby Portraits','Blue Springs','Children','Independence','Kansas City']
+title: "Kansas City Baby Portraits"
+description: "Sophia is the beautiful daughter of Bethany and Zachary!  I had so much fun taking their pictures.   Get ready "
+publishDate: "Apr 6, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/baby2.jpg"
+alt: "Kansas City Baby Portraits"
+slug: "kansas-city-baby-portraits-sophia"
+category: ["Baby Photography"]
+tags: ["Baby Portraits", "Blue Springs", "Children", "Independence", "Kansas City"]
 ---
 
 <p style="text-align: center;">Sophia is the beautiful daughter of Bethany and Zachary!  I had so much fun taking their pictures.   Get ready for cute, cute, cute!</p>

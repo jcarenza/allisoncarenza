@@ -1,14 +1,13 @@
 ---
-title: 'Just 8 days old...'
-description: '<p>Meet baby Sullivan.  At just 8 days old we can already tell so much about little Sullivan.  He&apos;s got big [&hellip;]</p>
-'
-publishDate: 'Apr 4, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/dryer5.jpg'
-alt: 'Just 8 days old...'
-slug: 'just-8-days-old'
-category: ['Newborn Photography']
-tags: ['Newborn Babies','Newborn Photography','Newborn Pictures']
+title: "Just 8 days old..."
+description: "Meet baby Sullivan.  At just 8 days old we can already tell so much about little Sullivan.  He&apos;s got big "
+publishDate: "Apr 4, 2013"
+author: "Allison Carenza"
+heroImage: "/media/dryer5.jpg"
+alt: "Just 8 days old..."
+slug: "just-8-days-old"
+category: ["Newborn Photography"]
+tags: ["Newborn Babies", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">Meet baby Sullivan.  At just 8 days old we can already tell so much about little Sullivan.  He&apos;s got big hands and huge feet like a labrador puppy, which means he&apos;s probably going to be a big boy.  In fact his hands were so big, I had trouble working with them, mixed with the fact that he liked his fingers balled up.  I eventually gave up and let him curl his hand under his chin.</p>

@@ -1,14 +1,13 @@
 ---
-title: 'Friends in warm places...'
-description: '<p>&nbsp; When Sally told me she was moving to south Florida for Matt&apos;s job, I was disappointed, understanding, and happy... [&hellip;]</p>
-'
-publishDate: 'Sep 13, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/fowler4.jpg'
-alt: 'Friends in warm places...'
-slug: 'friends-in-warm-places'
-category: ['Family Pictures']
-tags: ['Family Photography','Family Pictures']
+title: "Friends in warm places..."
+description: "&nbsp; When Sally told me she was moving to south Florida for Matt&apos;s job, I was disappointed, understanding, and happy..."
+publishDate: "Sep 13, 2012"
+author: "Allison Carenza"
+heroImage: "/media/fowler4.jpg"
+alt: "Friends in warm places..."
+slug: "friends-in-warm-places"
+category: ["Family Pictures"]
+tags: ["Family Photography", "Family Pictures"]
 ---
 
 <p>&nbsp;</p>

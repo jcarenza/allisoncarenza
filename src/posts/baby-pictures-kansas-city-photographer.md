@@ -1,14 +1,13 @@
 ---
-title: 'Baby Pictures'
-description: '<p>This is Claire!  And she had her pictures taken for her first birthday! Claire has a viabrant personality.   She [&hellip;]</p>
-'
-publishDate: 'Jul 19, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/claire7.jpg'
-alt: 'Baby Pictures'
-slug: 'baby-pictures-kansas-city-photographer'
-category: ['Baby Photography']
-tags: ['Blue Springs Photography','Kansas City Photographer']
+title: "Baby Pictures"
+description: "This is Claire!  And she had her pictures taken for her first birthday! Claire has a viabrant personality.   She "
+publishDate: "Jul 19, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/claire7.jpg"
+alt: "Baby Pictures"
+slug: "baby-pictures-kansas-city-photographer"
+category: ["Baby Photography"]
+tags: ["Blue Springs Photography", "Kansas City Photographer"]
 ---
 
 <p><a rel="attachment wp-att-1085" href="http://www.allisoncarenza.com/archives/1078/claire7"><img class="aligncenter size-full wp-image-1085" title="claire7" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/07/claire7.jpg" alt="" width="600" height="400" srcset="/media/claire7.jpg 600w, /media/claire7-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><br />

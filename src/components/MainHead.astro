@@ -41,4 +41,4 @@ const pageTitle = title ? `${title} | ${siteName}` : siteName
 <meta name="twitter:site" content="@astro" />
 <meta name="twitter:title" content={pageTitle} />
 <meta name="twitter:description" content={description} />
-{image && (<meta name="twitter:image" content={image}>)}
+{image && (<meta name="twitter:image" content={new URL(image, canonicalURL)}>)}

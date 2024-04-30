@@ -1,13 +1,12 @@
 ---
-title: 'Maternity Pictures'
-description: '<p>This is Buddy and Tara, and they are as in love as them seem to be in these pics. I&apos;ve [&hellip;]</p>
-'
-publishDate: 'Aug 2, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/tb1.jpg'
-alt: 'Maternity Pictures'
-slug: 'maternity-pictures-kansas-city'
-category: ['Maternity Photos']
+title: "Maternity Pictures"
+description: "This is Buddy and Tara, and they are as in love as them seem to be in these pics. I&apos;ve "
+publishDate: "Aug 2, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/tb1.jpg"
+alt: "Maternity Pictures"
+slug: "maternity-pictures-kansas-city"
+category: ["Maternity Photos"]
 tags: []
 ---
 

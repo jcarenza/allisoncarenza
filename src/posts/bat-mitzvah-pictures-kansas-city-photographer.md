@@ -1,14 +1,13 @@
 ---
-title: 'Bat Mitzvah pictures'
-description: '<p>So I haven&apos;t even begun to download the hundreds of pictures I took at the Bat Mitzvah on Saturday.  I [&hellip;]</p>
-'
-publishDate: 'Apr 18, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/012.jpg'
-alt: 'Bat Mitzvah pictures'
-slug: 'bat-mitzvah-pictures-kansas-city-photographer'
-category: ['Portrait Photography']
-tags: ['Bat Mitzvah','Event Photography','Kansas City Photography']
+title: "Bat Mitzvah pictures"
+description: "So I haven&apos;t even begun to download the hundreds of pictures I took at the Bat Mitzvah on Saturday.  I "
+publishDate: "Apr 18, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/012.jpg"
+alt: "Bat Mitzvah pictures"
+slug: "bat-mitzvah-pictures-kansas-city-photographer"
+category: ["Portrait Photography"]
+tags: ["Bat Mitzvah", "Event Photography", "Kansas City Photography"]
 ---
 
 <p style="text-align: center;">So I haven&apos;t even begun to download the hundreds of pictures I took at the Bat Mitzvah on Saturday.  I did however have the red carpet pictures downloaded.  Let me explain...</p>

@@ -1,14 +1,13 @@
 ---
 title: "A daddy's little girl..."
-description: '<p>When Ken told me he wanted pictures with his baby girl in his firefighter uniform, I did that thing where [&hellip;]</p>
-'
-publishDate: 'Aug 7, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/sco3.jpg'
+description: "When Ken told me he wanted pictures with his baby girl in his firefighter uniform, I did that thing where "
+publishDate: "Aug 7, 2012"
+author: "Allison Carenza"
+heroImage: "/media/sco3.jpg"
 alt: "A daddy's little girl..."
-slug: 'a-daddy'
-category: ['Newborn Photography']
-tags: ['Newborn Babies','Newborn Photographer']
+slug: "a-daddy"
+category: ["Newborn Photography"]
+tags: ["Newborn Babies", "Newborn Photographer"]
 ---
 
 <p style="text-align: center;">When Ken told me he wanted pictures with his baby girl in his firefighter uniform, I did that thing where I gulp down my fear and smile.  And I&apos;m so glad I did because this is the image we were able to capture.</p>

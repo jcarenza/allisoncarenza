@@ -1,14 +1,13 @@
 ---
-title: 'Baby Nolan'
-description: '<p>This is baby Nolan with his parents Carrie and Brian!  He is one adorable little guy.  He was so alert [&hellip;]</p>
-'
-publishDate: 'Apr 4, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/k1.jpg'
-alt: 'Baby Nolan'
-slug: 'baby-nolan'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Families','Kansas City','Portrait']
+title: "Baby Nolan"
+description: "This is baby Nolan with his parents Carrie and Brian!  He is one adorable little guy.  He was so alert "
+publishDate: "Apr 4, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/k1.jpg"
+alt: "Baby Nolan"
+slug: "baby-nolan"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Families", "Kansas City", "Portrait"]
 ---
 
 <p style="text-align: center;"><a rel="attachment wp-att-567" href="http://www.allisoncarenza.com/studio/archives/566/k1"><img class="aligncenter size-full wp-image-567" title="k1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/04/k1.jpg" alt="" width="600" height="400" /></a> This is baby Nolan with his parents Carrie and Brian!  He is one adorable little guy.  He was so alert during our shoot he was all about having fun!  Looking everywhere including the camera.  We got so many great shots, but here are a few of my favorites.  I love his big laugh.  Brian was actually over my shoulder making a hilarious noise/face at him.  He just couldn&apos;t stop laughing.  This is one of many.  It&apos;s pretty funny what we&apos;ll do to get a good smile.</p>

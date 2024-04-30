@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Perfection Photographer'
-description: '<p>Meet Ryan, a perfect little butterball!  He doesn&apos;t just look like a big newborn, he is a big newborn.  He [&hellip;]</p>
-'
-publishDate: 'Sep 27, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/shores6.jpg'
-alt: 'Newborn Perfection Photographer'
-slug: 'newborn-perfection-kansas-city-photographer'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Kansas City Photographer','Kansas City  Portrait Photographer','Newborn Photography']
+title: "Newborn Perfection Photographer"
+description: "Meet Ryan, a perfect little butterball!  He doesn&apos;t just look like a big newborn, he is a big newborn.  He "
+publishDate: "Sep 27, 2011"
+author: "Allison Carenza"
+heroImage: "/media/shores6.jpg"
+alt: "Newborn Perfection Photographer"
+slug: "newborn-perfection-kansas-city-photographer"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Kansas City Photographer", "Kansas City  Portrait Photographer", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">

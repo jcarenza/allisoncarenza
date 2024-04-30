@@ -1,14 +1,13 @@
 ---
-title: 'Senior Photos'
-description: '<p>I&apos;m loving my work right now.  I mean I&apos;m always loving my job, but right now I&apos;m in a finding [&hellip;]</p>
-'
-publishDate: 'Nov 21, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/scoott2.jpg'
-alt: 'Senior Photos'
-slug: 'senior-photos-allison-carenza-photography'
-category: ['Senior Pictures']
-tags: ['Blue Springs Senior','Senior Pictures','Senior Pictures']
+title: "Senior Photos"
+description: "I&apos;m loving my work right now.  I mean I&apos;m always loving my job, but right now I&apos;m in a finding "
+publishDate: "Nov 21, 2012"
+author: "Allison Carenza"
+heroImage: "/media/scoott2.jpg"
+alt: "Senior Photos"
+slug: "senior-photos-allison-carenza-photography"
+category: ["Senior Pictures"]
+tags: ["Blue Springs Senior", "Senior Pictures", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">

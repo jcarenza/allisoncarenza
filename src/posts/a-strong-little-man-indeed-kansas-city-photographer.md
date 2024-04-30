@@ -1,14 +1,13 @@
 ---
-title: 'A strong little man indeed!'
-description: '<p>This is little Ellis!   And he is one of the most perfect 3 month olds...ever. His parents Andrea and [&hellip;]</p>
-'
-publishDate: 'May 26, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/ellis1.jpg'
-alt: 'A strong little man indeed!'
-slug: 'a-strong-little-man-indeed-kansas-city-photographer'
-category: ['Baby Photography']
-tags: ['3 month pictures','Baby Photographer','Blue Springs','Kansas City','Liberty','Olathe Kansas']
+title: "A strong little man indeed!"
+description: "This is little Ellis!   And he is one of the most perfect 3 month olds...ever. His parents Andrea and "
+publishDate: "May 26, 2011"
+author: "Allison Carenza"
+heroImage: "/media/ellis1.jpg"
+alt: "A strong little man indeed!"
+slug: "a-strong-little-man-indeed-kansas-city-photographer"
+category: ["Baby Photography"]
+tags: ["3 month pictures", "Baby Photographer", "Blue Springs", "Kansas City", "Liberty", "Olathe Kansas"]
 ---
 
 <p style="text-align: center;">This is little Ellis!   And he is one of the most perfect 3 month olds...ever.</p>

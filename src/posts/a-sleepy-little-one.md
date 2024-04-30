@@ -1,14 +1,13 @@
 ---
-title: 'A sleepy little one'
-description: '<p>It goes like this.  I have a run of babies that cry and cry and cry.  We always get good [&hellip;]</p>
-'
-publishDate: 'Feb 22, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/oyler5.jpg'
-alt: 'A sleepy little one'
-slug: 'a-sleepy-little-one'
-category: ['Baby Photography','Newborn Photography']
-tags: ['Baby Photographer','Infant Photography','Newborn Photography']
+title: "A sleepy little one"
+description: "It goes like this.  I have a run of babies that cry and cry and cry.  We always get good "
+publishDate: "Feb 22, 2012"
+author: "Allison Carenza"
+heroImage: "/media/oyler5.jpg"
+alt: "A sleepy little one"
+slug: "a-sleepy-little-one"
+category: ["Baby Photography", "Newborn Photography"]
+tags: ["Baby Photographer", "Infant Photography", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">

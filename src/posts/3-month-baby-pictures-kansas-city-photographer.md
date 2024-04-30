@@ -1,14 +1,13 @@
 ---
-title: '3 month baby pictures'
-description: '<p>In Julie&apos;s words &#8220;it all happened so fast&#8221;.  She&apos;s talking about love, marriage, and the baby.  Julie had settled into [&hellip;]</p>
-'
-publishDate: 'Jan 23, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/sas2.jpg'
-alt: '3 month baby pictures'
-slug: '3-month-baby-pictures-kansas-city-photographer'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Baby Pictures','Children','Kansas City Photographer']
+title: "3 month baby pictures"
+description: "In Julie&apos;s words &#8220;it all happened so fast&#8221;.  She&apos;s talking about love, marriage, and the baby.  Julie had settled into "
+publishDate: "Jan 23, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/sas2.jpg"
+alt: "3 month baby pictures"
+slug: "3-month-baby-pictures-kansas-city-photographer"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Baby Pictures", "Children", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">In Julie&apos;s words &#8220;it all happened so fast&#8221;.  She&apos;s talking about love, marriage, and the baby.  Julie had settled into life, content with the idea that her dream of someday having kids was never going to happen.  Then she met Constantin online and everything changed, and FAST!  Their love was like drugs and Julie was addicted.  At first I thought her stories were all to wonderful, and maybe too good to be true.  Until  I met Constantin, and saw for myself how much he adored her.  Couldn&apos;t keep his hands off her in fact.  And he knew how to make her laugh.  Big, real big!  It&apos;s no surprise their joy was able to make such a little slice of perfection.  Meet Emma.</p>

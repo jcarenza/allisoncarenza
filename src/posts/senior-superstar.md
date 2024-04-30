@@ -1,14 +1,13 @@
 ---
-title: 'Senior Superstar!'
-description: '<p>As much as I love taking pictures of babies, I equally enjoy taking pictures of seniors in high school.   [&hellip;]</p>
-'
-publishDate: 'Dec 21, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/lyndsay7.jpg'
-alt: 'Senior Superstar!'
-slug: 'senior-superstar'
-category: ['Senior Pictures']
-tags: ['Kansas City  Senior Photographer','Senior Pictures','Senior Pictures']
+title: "Senior Superstar!"
+description: "As much as I love taking pictures of babies, I equally enjoy taking pictures of seniors in high school.   "
+publishDate: "Dec 21, 2011"
+author: "Allison Carenza"
+heroImage: "/media/lyndsay7.jpg"
+alt: "Senior Superstar!"
+slug: "senior-superstar"
+category: ["Senior Pictures"]
+tags: ["Kansas City  Senior Photographer", "Senior Pictures", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">As much as I love taking pictures of babies, I equally enjoy taking pictures of seniors in high school.   Maybe it&apos;s the age, or the substance of the session, but really I think it&apos;s the hope.  I&apos;m capturing hope and dreams, and fear, and uncertainty all balled up inside a kid about to become and adult.  I love it, I love hearing their stories, their hopes, their dreams.  This week I had the opportunity to photograph a beautiful senior.  Meet Lyndsay.</p>

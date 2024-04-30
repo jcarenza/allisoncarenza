@@ -1,14 +1,13 @@
 ---
-title: 'A small town wedding in Nevada, MO'
-description: '<p>It was the first weekend of July.  Remnants of fun 4th of July celebrations were still lingering in the small town [&hellip;]</p>
-'
-publishDate: 'Aug 15, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/cm17.jpg'
-alt: 'A small town wedding in Nevada, MO'
-slug: 'a-small-town-wedding-in-nevada-mo-kansas-city-photographer'
-category: ['Wedding Photos']
-tags: ['Missouri','Nevada','Wedding Photography']
+title: "A small town wedding in Nevada, MO"
+description: "It was the first weekend of July.  Remnants of fun 4th of July celebrations were still lingering in the small town "
+publishDate: "Aug 15, 2011"
+author: "Allison Carenza"
+heroImage: "/media/cm17.jpg"
+alt: "A small town wedding in Nevada, MO"
+slug: "a-small-town-wedding-in-nevada-mo-kansas-city-photographer"
+category: ["Wedding Photos"]
+tags: ["Missouri", "Nevada", "Wedding Photography"]
 ---
 
 <p style="text-align: center;">It was the first weekend of July.  Remnants of  fun 4th of July celebrations were still lingering in the small town of Nevada, MO.  Christina&apos;s hometown.  It was always going to be there in her hometown, in the Catholic church she grew up  in, surrounded by the whole town.  She loves her small town, and wanted to continue the tradition 4 of her 5 siblings started.  I was prepared for the crowd, for the huge family pics, and even the abundant joy, but I&apos;ve known Christina for about 5 years now, and while she&apos;s always happy, I&apos;ve never  seen her as happy as she was on this special day.  I don&apos;t know that I&apos;ve ever photographed a bride and groom so glowing, so happy, so in love!</p>

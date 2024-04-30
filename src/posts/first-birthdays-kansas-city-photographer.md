@@ -1,14 +1,13 @@
 ---
-title: 'First Birthdays Photographer'
-description: '<p>&nbsp; Meet Macie who turns one in just a few days!  There&apos;s not much for met to say about this [&hellip;]</p>
-'
-publishDate: 'Jun 3, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/mac1.jpg'
-alt: 'First Birthdays Photographer'
-slug: 'first-birthdays-kansas-city-photographer'
-category: ['Baby Photography','Children Photography']
-tags: ['Blue Springs Photography','Kansas City Photography','Lees Summit Photographer','Lees Summit Photography','One Year Pictures']
+title: "First Birthdays Photographer"
+description: "&nbsp; Meet Macie who turns one in just a few days!  There&apos;s not much for met to say about this "
+publishDate: "Jun 3, 2011"
+author: "Allison Carenza"
+heroImage: "/media/mac1.jpg"
+alt: "First Birthdays Photographer"
+slug: "first-birthdays-kansas-city-photographer"
+category: ["Baby Photography", "Children Photography"]
+tags: ["Blue Springs Photography", "Kansas City Photography", "Lees Summit Photographer", "Lees Summit Photography", "One Year Pictures"]
 ---
 
 <p style="text-align: center;">&nbsp;</p>

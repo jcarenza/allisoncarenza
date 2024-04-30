@@ -1,14 +1,13 @@
 ---
-title: 'BIG NEWS!'
-description: '<p>I am giddy with big news!  Can you hear my smile?  I am more than excited to introduce Victoria Howell! [&hellip;]</p>
-'
-publishDate: 'Jun 5, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/vic.jpg'
-alt: 'BIG NEWS!'
-slug: 'big-news-allison-carenza-photography'
-category: ['About Allison']
-tags: ['Children Photographer']
+title: "BIG NEWS!"
+description: "I am giddy with big news!  Can you hear my smile?  I am more than excited to introduce Victoria Howell! "
+publishDate: "Jun 5, 2012"
+author: "Allison Carenza"
+heroImage: "/media/vic.jpg"
+alt: "BIG NEWS!"
+slug: "big-news-allison-carenza-photography"
+category: ["About Allison"]
+tags: ["Children Photographer"]
 ---
 
 <p style="text-align: center;">I am giddy with big news!  Can you hear my smile?</p>

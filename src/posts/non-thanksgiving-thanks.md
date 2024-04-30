@@ -1,13 +1,12 @@
 ---
-title: 'Non-Thanksgiving Thanks?'
-description: '<p>I know it&apos;s not Thanksgiving or anything, but every now and then a little soft spot in my heart cries [&hellip;]</p>
-'
-publishDate: 'Aug 4, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/Purity-600x900.jpg'
-alt: 'Non-Thanksgiving Thanks?'
-slug: 'non-thanksgiving-thanks'
-category: ['Artistic']
+title: "Non-Thanksgiving Thanks?"
+description: "I know it&apos;s not Thanksgiving or anything, but every now and then a little soft spot in my heart cries "
+publishDate: "Aug 4, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/Purity-600x900.jpg"
+alt: "Non-Thanksgiving Thanks?"
+slug: "non-thanksgiving-thanks"
+category: ["Artistic"]
 tags: []
 ---
 

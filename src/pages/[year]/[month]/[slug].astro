@@ -21,17 +21,16 @@ export async function getStaticPaths() {
         }
     }))
 }
-const description = 'An example blog on Astro';
 const { canonicalURL } = Astro;
 const { post, prevUrl, nextUrl } = Astro.props;
 const {Content, frontmatter} = post
-const {title, author, category, publishDate, tags} = frontmatter
+const {title, author, category, publishDate, tags, description, heroImage} = frontmatter
 const categoryList = Array.isArray(category) ? category : [category];
 ---
 
 <html lang="en">
   <head>
-    <MainHead title={title} description={description} canonicalURL={canonicalURL} />
+    <MainHead title={title} description={description} canonicalURL={canonicalURL} image={heroImage}/>
   </head>
   <body>
     <Nav active="blog" />

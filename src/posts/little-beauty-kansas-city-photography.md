@@ -1,14 +1,13 @@
 ---
-title: 'Little Beauty!  Kansas City Photography'
-description: '<p>After all those cute 6 month olds here&apos;s a darling little 3 month old. She has the most perfect little [&hellip;]</p>
-'
-publishDate: 'Jan 12, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/otto1.jpg'
-alt: 'Little Beauty!  Kansas City Photography'
-slug: 'little-beauty-kansas-city-photography'
-category: ['Baby Photography']
-tags: ['Baby Photographer']
+title: "Little Beauty!  Kansas City Photography"
+description: "After all those cute 6 month olds here&apos;s a darling little 3 month old. She has the most perfect little "
+publishDate: "Jan 12, 2012"
+author: "Allison Carenza"
+heroImage: "/media/otto1.jpg"
+alt: "Little Beauty!  Kansas City Photography"
+slug: "little-beauty-kansas-city-photography"
+category: ["Baby Photography"]
+tags: ["Baby Photographer"]
 ---
 
 <p style="text-align: center;">After all those cute 6 month olds here&apos;s a darling little 3 month old.</p>

@@ -1,14 +1,13 @@
 ---
-title: 'Beautiful Haley'
-description: '<p>Every time I photograph a senior in high school I&apos;m reminded of my awkward senior pics.  Since I&apos;ve been photographing [&hellip;]</p>
-'
-publishDate: 'Apr 10, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/001haley.jpg'
-alt: 'Beautiful Haley'
-slug: 'beautiful-haley'
-category: ['Senior Pictures']
-tags: ['Senior Pictures','Senior Pictures','Senior Pictures']
+title: "Beautiful Haley"
+description: "Every time I photograph a senior in high school I&apos;m reminded of my awkward senior pics.  Since I&apos;ve been photographing "
+publishDate: "Apr 10, 2013"
+author: "Allison Carenza"
+heroImage: "/media/001haley.jpg"
+alt: "Beautiful Haley"
+slug: "beautiful-haley"
+category: ["Senior Pictures"]
+tags: ["Senior Pictures", "Senior Pictures", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">Every time I photograph a senior in high school I&apos;m reminded of my awkward senior pics.  Since I&apos;ve been photographing so many senior lately I really need to get a copy of some of those pics and post them on the blog.  Not only because it would give my friends a good laugh, but also to illustrate the stark contrast.  In both photography and maturity.  Granted, I was a particularly gangly late bloomer, but still the photography was so blah!  That&apos;s why I work extra hard at my job to make these young ladies look and feel fabulous!  Although, sometimes it&apos;s a very easy job.</p>

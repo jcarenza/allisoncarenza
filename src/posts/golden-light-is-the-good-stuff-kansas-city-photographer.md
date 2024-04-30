@@ -1,14 +1,13 @@
 ---
-title: 'Golden light IS the good stuff! Photographer'
-description: '<p>I was excited about the shoot because the day before Jon and I had scoped out the location, and we [&hellip;]</p>
-'
-publishDate: 'Sep 23, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/peg12.jpg'
-alt: 'Golden light IS the good stuff! Photographer'
-slug: 'golden-light-is-the-good-stuff-kansas-city-photographer'
-category: ['Family Pictures']
-tags: ['Blue Springs Photographer','Fall Pictures','Family Portraits','Kansas City Photographer']
+title: "Golden light IS the good stuff! Photographer"
+description: "I was excited about the shoot because the day before Jon and I had scoped out the location, and we "
+publishDate: "Sep 23, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/peg12.jpg"
+alt: "Golden light IS the good stuff! Photographer"
+slug: "golden-light-is-the-good-stuff-kansas-city-photographer"
+category: ["Family Pictures"]
+tags: ["Blue Springs Photographer", "Fall Pictures", "Family Portraits", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">I was excited about the shoot because the day before Jon and I had scoped out the location, and we knew it was going to be killer.  But at 6:00 pm, I wasn&apos;t so sure as I drove down I-70.  With my clients following, I was watching the sun slowly set while hiding behind the clouds.  I needed the sun, and I needed it to stay in the sky.  My &#8220;oh no&#8221; radar started sounding, and that&apos;s about the time I missed the turn off and had to weave back through the city to get back and try again.  No worries, I was back on track with an hour of light.  Be fast Allison was the only thought I could really focus on.  Well, fast and creative.  I stopped the car, hopped out, smiled at my clients.  They probably thought I was crazy, or maybe they thought they were crazy for trying to follow me.  Remember I&apos;m not the best driver, according to Jon anyway.  Lucky for me, Peggy, Mackenzie, and Kylie are the sweetest people ever, and totally understanding.  It didn&apos;t even seem to phase them.  That&apos;s probably why we were able to capture some of the most amazing pics ever!</p>

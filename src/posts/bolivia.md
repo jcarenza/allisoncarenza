@@ -1,14 +1,13 @@
 ---
-title: 'Bolivia'
-description: '<p>It&apos;s taken my forever to share theses images with you, and even after I had them picked and ready it [&hellip;]</p>
-'
-publishDate: 'Jan 25, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/bolivia39.jpg'
-alt: 'Bolivia'
-slug: 'bolivia'
-category: ['Travel']
-tags: ['Bolivia','Copacabana','Salar de Uyuni','Travel Photography','Travel Photos']
+title: "Bolivia"
+description: "It&apos;s taken my forever to share theses images with you, and even after I had them picked and ready it "
+publishDate: "Jan 25, 2012"
+author: "Allison Carenza"
+heroImage: "/media/bolivia39.jpg"
+alt: "Bolivia"
+slug: "bolivia"
+category: ["Travel"]
+tags: ["Bolivia", "Copacabana", "Salar de Uyuni", "Travel Photography", "Travel Photos"]
 ---
 
 <p style="text-align: center;">It&apos;s taken my forever to share theses images with you, and even after I had them picked and ready it still took a long time.   I battle the need to identify my style as a photographer ALL THE TIME.  So you can imagine, picking images can be hard.  It&apos;s crazy, because really I&apos;m just a girl takin&apos; pics, and someone in the same place, at the same time, might have a totally different perspective.  Screw style.  This is how I see the world.</p>

@@ -1,14 +1,13 @@
 ---
-title: 'FAQ'
-description: '<p>Sometimes my body lay awake in my bed at night, usually 4am, eyes closed, my mind a racin&apos;, but my [&hellip;]</p>
-'
-publishDate: 'Jan 6, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/collar.jpg'
-alt: 'FAQ'
-slug: 'faq-cameras-and-business-programs'
-category: ['Photo Tips']
-tags: ['Photography Tips','Camera Advice']
+title: "FAQ"
+description: "Sometimes my body lay awake in my bed at night, usually 4am, eyes closed, my mind a racin&apos;, but my "
+publishDate: "Jan 6, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/collar.jpg"
+alt: "FAQ"
+slug: "faq-cameras-and-business-programs"
+category: ["Photo Tips"]
+tags: ["Photography Tips", "Camera Advice"]
 ---
 
 <p style="text-align: center;">Sometimes my body lay awake in my bed at night, usually 4am, eyes closed, my mind a racin&apos;, but my person  trying my darnest to go to sleep.  Yes, I did indeed describe my mind as a separate entity.  If you know me AT ALL you know my mind is not always there. I&apos;m right brained, let&apos;s just go with that excuse for now.  So I lay awake and think about everything like when to get the carpets cleaned, or new dog collars, to answering questions for my fans on my blog.  The carpets and collars can wait, today I want to answer a few questions.</p>

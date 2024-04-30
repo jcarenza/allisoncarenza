@@ -1,14 +1,13 @@
 ---
-title: 'Family Portraits'
-description: '<p>It was the most perfect day.  You know when the weather is so good you don&apos;t even notice it.  Not [&hellip;]</p>
-'
-publishDate: 'Sep 17, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/tro2.jpg'
-alt: 'Family Portraits'
-slug: 'family-portraitskansas-city-photographer'
-category: ['Family Pictures']
-tags: ['Blue Springs Photography','Family Photography','Kansas City Photographer']
+title: "Family Portraits"
+description: "It was the most perfect day.  You know when the weather is so good you don&apos;t even notice it.  Not "
+publishDate: "Sep 17, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/tro2.jpg"
+alt: "Family Portraits"
+slug: "family-portraitskansas-city-photographer"
+category: ["Family Pictures"]
+tags: ["Blue Springs Photography", "Family Photography", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">It was the most perfect day.  You know when the weather is so good you don&apos;t even notice it.  Not to cold, not to hot, that kind of good.  Golden light, blue skies, perfect temperature, and a family excited to have their pictures taken.  Life was good, and I was happy.  Long story short the Trober had the hook up, they know the owners of Stephenson&apos;s apple orchird.  The owners suggested we take pics at their old hunting cabin down by the pond.  I&apos;m all sure, sounds good, right?  Well, minus the crazy adventure it was good, more than good, it was perfect.</p>

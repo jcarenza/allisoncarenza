@@ -1,14 +1,13 @@
 ---
-title: 'Tough Guy...'
-description: '<p>The shoot started just like any other newborn shoot, with a sleepy baby in the arms of an adoring new [&hellip;]</p>
-'
-publishDate: 'Apr 17, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/gunter5.jpg'
-alt: 'Tough Guy...'
-slug: 'tough-guy'
-category: ['Newborn Photography']
-tags: ['Baby Photographer  Blue Springs','Baby Photographer','Blue Spings Childrens Photographer','Kansas City Photographer','Newborn Photography']
+title: "Tough Guy..."
+description: "The shoot started just like any other newborn shoot, with a sleepy baby in the arms of an adoring new "
+publishDate: "Apr 17, 2012"
+author: "Allison Carenza"
+heroImage: "/media/gunter5.jpg"
+alt: "Tough Guy..."
+slug: "tough-guy"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer  Blue Springs", "Baby Photographer", "Blue Spings Childrens Photographer", "Kansas City Photographer", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">The shoot started just like any other newborn shoot, with a sleepy baby in the arms of an adoring new mom.  Everything seemed normal, but as we progressed little Riddik started spitting up.  A lot.  Jason and Kathleen looked worried, and I assured them I see tons of newborn that spit up all over place.  I tried to comfort them by explaining it was probably something Kathleen had for dinner, that had his stomach upset.  But Kathleen&apos;s ancient motherly instincts were telling her otherwise.  And she was right.</p>

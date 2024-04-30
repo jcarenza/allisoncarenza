@@ -1,14 +1,13 @@
 ---
-title: '2 and totally active'
-description: '<p>Busy busy busy!  Two year old shoots are always interesting. The two year old is more wild animal than human. [&hellip;]</p>
-'
-publishDate: 'Mar 22, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/autumn1.jpg'
-alt: '2 and totally active'
-slug: '2-and-totally-active'
-category: ['Children Photography']
-tags: ['2 year old','2 year pictures','Baby Photographer','Childrens Photographer']
+title: "2 and totally active"
+description: "Busy busy busy!  Two year old shoots are always interesting. The two year old is more wild animal than human."
+publishDate: "Mar 22, 2013"
+author: "Allison Carenza"
+heroImage: "/media/autumn1.jpg"
+alt: "2 and totally active"
+slug: "2-and-totally-active"
+category: ["Children Photography"]
+tags: ["2 year old", "2 year pictures", "Baby Photographer", "Childrens Photographer"]
 ---
 
 <p style="text-align: center;">

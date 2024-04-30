@@ -1,14 +1,13 @@
 ---
-title: 'Newborn love! Photography'
-description: '<p>We laughed...the whole session!  And it wasn&apos;t me.  Kristen is so funny, and oh so happy to be pregnant!  She&apos;s [&hellip;]</p>
-'
-publishDate: 'Nov 22, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/kr2.jpg'
-alt: 'Newborn love! Photography'
-slug: 'newborn-love-kansas-city-photography'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Maternity','Newborn Photography','Newborn Photos']
+title: "Newborn love! Photography"
+description: "We laughed...the whole session!  And it wasn&apos;t me.  Kristen is so funny, and oh so happy to be pregnant!  She&apos;s "
+publishDate: "Nov 22, 2011"
+author: "Allison Carenza"
+heroImage: "/media/kr2.jpg"
+alt: "Newborn love! Photography"
+slug: "newborn-love-kansas-city-photography"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Maternity", "Newborn Photography", "Newborn Photos"]
 ---
 
 <p style="text-align: center;">

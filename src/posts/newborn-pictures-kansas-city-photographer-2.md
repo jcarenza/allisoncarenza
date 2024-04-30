@@ -1,14 +1,13 @@
 ---
-title: 'Newborn pictures Photographer'
-description: '<p>&nbsp; &nbsp; Just before Heather met JC she was convinced having another baby wasn&apos;t in the cards for her.  In [&hellip;]</p>
-'
-publishDate: 'Jun 12, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/HH1.jpg'
-alt: 'Newborn pictures Photographer'
-slug: 'newborn-pictures-kansas-city-photographer-2'
-category: ['Baby Photography','Maternity Photos','Newborn Photography']
-tags: ['Infant Photography','Kansas City Photographer','Newborn Photographer','Newborn Photography']
+title: "Newborn pictures Photographer"
+description: "&nbsp; &nbsp; Just before Heather met JC she was convinced having another baby wasn&apos;t in the cards for her.  In "
+publishDate: "Jun 12, 2011"
+author: "Allison Carenza"
+heroImage: "/media/HH1.jpg"
+alt: "Newborn pictures Photographer"
+slug: "newborn-pictures-kansas-city-photographer-2"
+category: ["Baby Photography", "Maternity Photos", "Newborn Photography"]
+tags: ["Infant Photography", "Kansas City Photographer", "Newborn Photographer", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">&nbsp;</p>

@@ -1,14 +1,13 @@
 ---
-title: 'Maternity Pictures'
-description: '<p>Danielle is such a stunning pregnant woman.  Being that she&apos;s a dancer her body moved and molded right into pregnancy [&hellip;]</p>
-'
-publishDate: 'May 1, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/dan4.jpg'
-alt: 'Maternity Pictures'
-slug: 'maternity-pictureskansas-city'
-category: ['Maternity Photos']
-tags: ['Kansas City Photography','Maternity Pictures']
+title: "Maternity Pictures"
+description: "Danielle is such a stunning pregnant woman.  Being that she&apos;s a dancer her body moved and molded right into pregnancy "
+publishDate: "May 1, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/dan4.jpg"
+alt: "Maternity Pictures"
+slug: "maternity-pictureskansas-city"
+category: ["Maternity Photos"]
+tags: ["Kansas City Photography", "Maternity Pictures"]
 ---
 
 <p><a rel="attachment wp-att-852" href="http://www.allisoncarenza.com/archives/848/dan4"><img class="aligncenter size-full wp-image-852" title="dan4" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/05/dan4.jpg" alt="" width="400" height="600" srcset="/media/dan4.jpg 400w, /media/dan4-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>

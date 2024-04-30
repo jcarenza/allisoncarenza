@@ -1,14 +1,13 @@
 ---
-title: 'The land of Razorbacks...'
-description: '<p>I went to small college,  William Woods University.  We were the owls, and I was a Chi- O/ horse girl [&hellip;]</p>
-'
-publishDate: 'Sep 30, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/madig4.jpg'
-alt: 'The land of Razorbacks...'
-slug: 'the-land-of-razorbacks'
-category: ['Children Photography','Family Pictures']
-tags: ['Arkansas','Baby Photographer','Childrens Photography','Family Photography','Family Portraits','Fayeteville','One Year Pictures']
+title: "The land of Razorbacks..."
+description: "I went to small college,  William Woods University.  We were the owls, and I was a Chi- O/ horse girl "
+publishDate: "Sep 30, 2011"
+author: "Allison Carenza"
+heroImage: "/media/madig4.jpg"
+alt: "The land of Razorbacks..."
+slug: "the-land-of-razorbacks"
+category: ["Children Photography", "Family Pictures"]
+tags: ["Arkansas", "Baby Photographer", "Childrens Photography", "Family Photography", "Family Portraits", "Fayeteville", "One Year Pictures"]
 ---
 
 <p style="text-align: center;">

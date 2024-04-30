@@ -1,13 +1,12 @@
 ---
-title: 'Newborn Photography'
-description: '<p>&nbsp; I adore meeting new clients and this was exactly the case with Rebecca, Steve, and little Adalynn.  Rebecca and [&hellip;]</p>
-'
-publishDate: 'Apr 19, 2014'
-author: 'Allison Carenza'
-heroImage: '/media/rn1.jpg'
-alt: 'Newborn Photography'
-slug: 'newborn-photography-2'
-category: ['Newborn Photography']
+title: "Newborn Photography"
+description: "&nbsp; I adore meeting new clients and this was exactly the case with Rebecca, Steve, and little Adalynn.  Rebecca and "
+publishDate: "Apr 19, 2014"
+author: "Allison Carenza"
+heroImage: "/media/rn1.jpg"
+alt: "Newborn Photography"
+slug: "newborn-photography-2"
+category: ["Newborn Photography"]
 tags: []
 ---
 

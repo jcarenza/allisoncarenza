@@ -1,14 +1,13 @@
 ---
-title: 'Maternity and Newborn pictures Photographer'
-description: '<p>It was her laugh that I noticed first.  During our shoot Tish just had a way of making me smile [&hellip;]</p>
-'
-publishDate: 'Jan 10, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/ti2.jpg'
-alt: 'Maternity and Newborn pictures Photographer'
-slug: 'maternity-and-newborn-pictures-kansas-city-photographer'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Baby Photographer','Kansas City Photography','Maternity Photography','Newborn Photography']
+title: "Maternity and Newborn pictures Photographer"
+description: "It was her laugh that I noticed first.  During our shoot Tish just had a way of making me smile "
+publishDate: "Jan 10, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/ti2.jpg"
+alt: "Maternity and Newborn pictures Photographer"
+slug: "maternity-and-newborn-pictures-kansas-city-photographer"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Baby Photographer", "Kansas City Photography", "Maternity Photography", "Newborn Photography"]
 ---
 
 <p><a rel="attachment wp-att-1931" href="http://www.allisoncarenza.com/archives/1930/ti2"><img class="aligncenter size-full wp-image-1931" title="ti2" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/01/ti2.jpg" alt="" width="751" height="499" srcset="/media/ti2.jpg 751w, /media/ti2-300x199.jpg 300w" sizes="(max-width: 751px) 100vw, 751px" /></a></p>

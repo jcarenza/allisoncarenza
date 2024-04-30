@@ -1,14 +1,13 @@
 ---
-title: 'Portraits Photographer'
-description: '<p>Remember the Bat Mitzvah pics I mentioned?  Well before the big event took place Melanie came in and had her [&hellip;]</p>
-'
-publishDate: 'Apr 25, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/mel1.jpg'
-alt: 'Portraits Photographer'
-slug: 'portraits-kansas-city-photographer'
-category: ['Family Pictures']
-tags: ['Kansas City Photographer','Kansas City Photography']
+title: "Portraits Photographer"
+description: "Remember the Bat Mitzvah pics I mentioned?  Well before the big event took place Melanie came in and had her "
+publishDate: "Apr 25, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/mel1.jpg"
+alt: "Portraits Photographer"
+slug: "portraits-kansas-city-photographer"
+category: ["Family Pictures"]
+tags: ["Kansas City Photographer", "Kansas City Photography"]
 ---
 
 <p style="text-align: center;">Remember the Bat Mitzvah pics I mentioned?  Well before the big event took place Melanie came in and had her pictures taken for her red carpet themed party.  She has one of the most upbeat personalities and a smile that will light up a room!  The pictures tell it all!  Enjoy!</p>

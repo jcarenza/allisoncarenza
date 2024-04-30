@@ -1,14 +1,13 @@
 ---
-title: 'The Perfect Pair!  Wedding Photographer'
-description: '<p>Rose was searching, for her knight in shining armor, her best friend, tall, dark, and handsome.  And she wasn&apos;t willing [&hellip;]</p>
-'
-publishDate: 'Jan 3, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/rd14.jpg'
-alt: 'The Perfect Pair!  Wedding Photographer'
-slug: 'the-perfect-pair-kansas-city-wedding-photographer'
-category: ['Wedding Photos']
-tags: ['Kansas City Photographer','Kansas City Wedding Photographer','Wedding Pictures']
+title: "The Perfect Pair!  Wedding Photographer"
+description: "Rose was searching, for her knight in shining armor, her best friend, tall, dark, and handsome.  And she wasn&apos;t willing "
+publishDate: "Jan 3, 2012"
+author: "Allison Carenza"
+heroImage: "/media/rd14.jpg"
+alt: "The Perfect Pair!  Wedding Photographer"
+slug: "the-perfect-pair-kansas-city-wedding-photographer"
+category: ["Wedding Photos"]
+tags: ["Kansas City Photographer", "Kansas City Wedding Photographer", "Wedding Pictures"]
 ---
 
 <p style="text-align: center;">Rose was searching, for her knight in shining armor, her best friend, tall, dark, and handsome.  And she wasn&apos;t willing to settle for anything less than the man of her dreams.  So when she met Dana for the first time, she knew he was the one.  Dana was just as smitten.  After a few dates he admitted to Rose that the first time he saw her across the room, his eyes popped out of his head, much like Roger Rabbit the first time he saw Jessica.  Wowza!</p>

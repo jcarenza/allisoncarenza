@@ -1,14 +1,13 @@
 ---
-title: 'maternity/ newborn pictures'
-description: '<p>I love taking maternity pictures!  I mean I really really love taking maternity pictures.  Pregnant women are beautiful and it&apos;s [&hellip;]</p>
-'
-publishDate: 'Apr 23, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/kelli1.jpg'
-alt: 'maternity/ newborn pictures'
-slug: 'maternity-newborn-pictures'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Kansas City Photographer','Kansas City Photography','Newborn Photography','Newborn Pictures']
+title: "maternity/ newborn pictures"
+description: "I love taking maternity pictures!  I mean I really really love taking maternity pictures.  Pregnant women are beautiful and it&apos;s "
+publishDate: "Apr 23, 2012"
+author: "Allison Carenza"
+heroImage: "/media/kelli1.jpg"
+alt: "maternity/ newborn pictures"
+slug: "maternity-newborn-pictures"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Kansas City Photographer", "Kansas City Photography", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">

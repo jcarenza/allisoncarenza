@@ -1,14 +1,13 @@
 ---
-title: 'A classic family'
-description: '<p>There are some families that have been with me from the beginning.  I hold these special people close to my [&hellip;]</p>
-'
-publishDate: 'Nov 16, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/hab6.jpg'
-alt: 'A classic family'
-slug: 'a-classic-family-kansas-city-photographer'
-category: ['Family Pictures']
-tags: ['Blue Springs Photography','Family Photography','Family Portraits','Kansas City Photographer']
+title: "A classic family"
+description: "There are some families that have been with me from the beginning.  I hold these special people close to my "
+publishDate: "Nov 16, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/hab6.jpg"
+alt: "A classic family"
+slug: "a-classic-family-kansas-city-photographer"
+category: ["Family Pictures"]
+tags: ["Blue Springs Photography", "Family Photography", "Family Portraits", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">There are some families that have been with me from the beginning.  I hold these special people close to my heart.  In my early years as a photographer they gave me a chance, they believed in me, they supported and encouraged me, and to this day they come to me to capture their ever changing precious moments.  The Habiger family is one of those families, and I love them more than peanut butter.  I&apos;ve been taking their pictures for years now, and I hope to never stop.</p>

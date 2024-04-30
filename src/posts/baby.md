@@ -1,14 +1,13 @@
 ---
-title: 'Baby...'
-description: '<p>I think everyone knows I love my job, in fact, I feel lucky every day I get to photograph  these [&hellip;]</p>
-'
-publishDate: 'Mar 9, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/boll3.jpg'
-alt: 'Baby...'
-slug: 'baby'
-category: ['Baby Photography','Newborn Photography']
-tags: ['Baby Photographer','Kansas City Baby Photographer','Lees Summit Baby Photographer','Liberty Baby Photographer','Newborn Photography']
+title: "Baby..."
+description: "I think everyone knows I love my job, in fact, I feel lucky every day I get to photograph  these "
+publishDate: "Mar 9, 2012"
+author: "Allison Carenza"
+heroImage: "/media/boll3.jpg"
+alt: "Baby..."
+slug: "baby"
+category: ["Baby Photography", "Newborn Photography"]
+tags: ["Baby Photographer", "Kansas City Baby Photographer", "Lees Summit Baby Photographer", "Liberty Baby Photographer", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">

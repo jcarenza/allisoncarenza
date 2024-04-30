@@ -1,14 +1,13 @@
 ---
-title: 'Newborn pics and even more Photographer'
-description: '<p>Today is the last day of July which is so very hard to believe.  This summer is going by way [&hellip;]</p>
-'
-publishDate: 'Jul 30, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/hen8.jpg'
-alt: 'Newborn pics and even more Photographer'
-slug: 'newborn-pics-and-even-more-kansas-city-photographer'
-category: ['Children Photography','Family Pictures','Newborn Photography']
-tags: ['Kansas City Photography']
+title: "Newborn pics and even more Photographer"
+description: "Today is the last day of July which is so very hard to believe.  This summer is going by way "
+publishDate: "Jul 30, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/hen8.jpg"
+alt: "Newborn pics and even more Photographer"
+slug: "newborn-pics-and-even-more-kansas-city-photographer"
+category: ["Children Photography", "Family Pictures", "Newborn Photography"]
+tags: ["Kansas City Photography"]
 ---
 
 <p style="text-align: center;">Today is the last day of July which is so very hard to believe.  This summer is going by way too fast.  I love summer, I mean I really love summer, and I don&apos;t want it to end.  So today I&apos;m thinking it&apos;s time to take a sec and think about the little moments.  The ones that really matter.  To show you what I mean I picked the Hendrickson family.</p>

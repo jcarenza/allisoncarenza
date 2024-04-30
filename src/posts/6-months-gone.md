@@ -1,13 +1,12 @@
 ---
-title: '6 months gone!'
-description: '<p>What! I can&apos;t even believe 6 months of 2010 are gone.  It seems like just a few short months ago [&hellip;]</p>
-'
-publishDate: 'Jul 11, 2010'
-author: 'Allison Carenza'
-heroImage: ''
-alt: '6 months gone!'
-slug: '6-months-gone'
-category: ['About Allison']
+title: "6 months gone!"
+description: "What! I can&apos;t even believe 6 months of 2010 are gone.  It seems like just a few short months ago "
+publishDate: "Jul 11, 2010"
+author: "Allison Carenza"
+heroImage: ""
+alt: "6 months gone!"
+slug: "6-months-gone"
+category: ["About Allison"]
 tags: []
 ---
 

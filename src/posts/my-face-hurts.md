@@ -1,14 +1,13 @@
 ---
-title: 'My face hurts...'
-description: '<p>I love this family.  They&apos;ve been with me for a couple years now and every shoot just keeps getting better [&hellip;]</p>
-'
-publishDate: 'May 22, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/sims11.jpg'
-alt: 'My face hurts...'
-slug: 'my-face-hurts'
-category: ['Children Photography','Family Pictures']
-tags: ['Baby Photographer','Blue Springs Photographer','Children Photography','Family Photography','Kansas City Photographer']
+title: "My face hurts..."
+description: "I love this family.  They&apos;ve been with me for a couple years now and every shoot just keeps getting better "
+publishDate: "May 22, 2013"
+author: "Allison Carenza"
+heroImage: "/media/sims11.jpg"
+alt: "My face hurts..."
+slug: "my-face-hurts"
+category: ["Children Photography", "Family Pictures"]
+tags: ["Baby Photographer", "Blue Springs Photographer", "Children Photography", "Family Photography", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">

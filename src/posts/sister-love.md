@@ -1,14 +1,13 @@
 ---
-title: 'Sister Love'
-description: '<p>Meet Paige and Chloee, sisters...for life. A sister is a little bit of childhood that can never be lost.  ~Marion [&hellip;]</p>
-'
-publishDate: 'Feb 8, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/murski2.jpg'
-alt: 'Sister Love'
-slug: 'sister-love'
-category: ['Baby Photography','Newborn Photography']
-tags: ['Newborn Baby','Newborn Photography','Newborn Pictures']
+title: "Sister Love"
+description: "Meet Paige and Chloee, sisters...for life. A sister is a little bit of childhood that can never be lost.  ~Marion "
+publishDate: "Feb 8, 2013"
+author: "Allison Carenza"
+heroImage: "/media/murski2.jpg"
+alt: "Sister Love"
+slug: "sister-love"
+category: ["Baby Photography", "Newborn Photography"]
+tags: ["Newborn Baby", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">

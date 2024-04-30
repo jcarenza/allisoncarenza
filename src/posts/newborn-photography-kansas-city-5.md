@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Photography'
-description: '<p>&nbsp; It doesn&apos;t happen often, but lately it seems the baby gods have blessed me with the most wonderful newborns [&hellip;]</p>
-'
-publishDate: 'Jun 30, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/ale1.jpg'
-alt: 'Newborn Photography'
-slug: 'newborn-photography-kansas-city-5'
-category: ['Newborn Photography']
-tags: ['Kansas City Photographer','Newborn Photography','Newborn Pictures']
+title: "Newborn Photography"
+description: "&nbsp; It doesn&apos;t happen often, but lately it seems the baby gods have blessed me with the most wonderful newborns "
+publishDate: "Jun 30, 2011"
+author: "Allison Carenza"
+heroImage: "/media/ale1.jpg"
+alt: "Newborn Photography"
+slug: "newborn-photography-kansas-city-5"
+category: ["Newborn Photography"]
+tags: ["Kansas City Photographer", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">&nbsp;</p>

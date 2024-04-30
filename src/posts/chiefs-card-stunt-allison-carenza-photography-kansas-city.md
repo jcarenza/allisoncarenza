@@ -1,14 +1,13 @@
 ---
-title: 'Chiefs Card Stunt'
-description: '<p>Sometimes the stars align and good things happen.  This shoot was just one of those magical moments.  My client Mary [&hellip;]</p>
-'
-publishDate: 'Nov 21, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/chiefs1.jpg'
-alt: 'Chiefs Card Stunt'
-slug: 'chiefs-card-stunt-allison-carenza-photography-kansas-city'
-category: ['Commercial Photography']
-tags: ['Chiefs Stadium','Commercial Photography','Kansas City Photographer']
+title: "Chiefs Card Stunt"
+description: "Sometimes the stars align and good things happen.  This shoot was just one of those magical moments.  My client Mary "
+publishDate: "Nov 21, 2011"
+author: "Allison Carenza"
+heroImage: "/media/chiefs1.jpg"
+alt: "Chiefs Card Stunt"
+slug: "chiefs-card-stunt-allison-carenza-photography-kansas-city"
+category: ["Commercial Photography"]
+tags: ["Chiefs Stadium", "Commercial Photography", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">

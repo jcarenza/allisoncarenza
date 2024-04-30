@@ -1,14 +1,13 @@
 ---
-title: 'Irresistible!'
-description: '<p>I titled this blog post irresistible because that&apos;s exactly how Ryan and Lindsey looked at each other on their wedding [&hellip;]</p>
-'
-publishDate: 'Oct 2, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/landr5.jpg'
-alt: 'Irresistible!'
-slug: 'irresistible-kansas-city-wedding-photography'
-category: ['Wedding Photos']
-tags: ['Kansas City Wedding Photographer','Wedding Photography','Wedding Pictures']
+title: "Irresistible!"
+description: "I titled this blog post irresistible because that&apos;s exactly how Ryan and Lindsey looked at each other on their wedding "
+publishDate: "Oct 2, 2012"
+author: "Allison Carenza"
+heroImage: "/media/landr5.jpg"
+alt: "Irresistible!"
+slug: "irresistible-kansas-city-wedding-photography"
+category: ["Wedding Photos"]
+tags: ["Kansas City Wedding Photographer", "Wedding Photography", "Wedding Pictures"]
 ---
 
 <p style="text-align: center;">I titled this blog post irresistible because that&apos;s exactly how Ryan and Lindsey looked at each other on their wedding day.  Like the other was irresistible.   You&apos;ll see in the images.  Lots of kissing, lots of touching, and lots of closeness.  Like they find the other, simple irresistible.</p>

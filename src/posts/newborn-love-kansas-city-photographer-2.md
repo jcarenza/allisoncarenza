@@ -1,14 +1,13 @@
 ---
-title: 'Newborn love Photographer'
-description: '<p>I could go on and on about how much I love my job, but one of the best parts of [&hellip;]</p>
-'
-publishDate: 'Dec 13, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/talm1.jpg'
-alt: 'Newborn love Photographer'
-slug: 'newborn-love-kansas-city-photographer-2'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Childrens Photography','Kansas City Photography','Newborn Photography']
+title: "Newborn love Photographer"
+description: "I could go on and on about how much I love my job, but one of the best parts of "
+publishDate: "Dec 13, 2011"
+author: "Allison Carenza"
+heroImage: "/media/talm1.jpg"
+alt: "Newborn love Photographer"
+slug: "newborn-love-kansas-city-photographer-2"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Childrens Photography", "Kansas City Photography", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">

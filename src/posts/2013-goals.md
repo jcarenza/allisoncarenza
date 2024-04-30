@@ -1,13 +1,12 @@
 ---
-title: '2013 Goals'
-description: '<p>The past few weeks have been super relaxing.  We went to St. Louis to see Jon&apos;s family, we spent time [&hellip;]</p>
-'
-publishDate: 'Jan 2, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/us.jpg'
-alt: '2013 Goals'
-slug: '2013-goals'
-category: ['About Allison']
+title: "2013 Goals"
+description: "The past few weeks have been super relaxing.  We went to St. Louis to see Jon&apos;s family, we spent time "
+publishDate: "Jan 2, 2013"
+author: "Allison Carenza"
+heroImage: "/media/us.jpg"
+alt: "2013 Goals"
+slug: "2013-goals"
+category: ["About Allison"]
 tags: []
 ---
 

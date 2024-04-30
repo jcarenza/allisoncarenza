@@ -1,14 +1,13 @@
 ---
-title: '18 month old pictures'
-description: '<p>Emmitt is your typical 18 month old.  On. The. Go.  I was the lucky photog that got to take his [&hellip;]</p>
-'
-publishDate: 'Jun 13, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/verts2.jpg'
-alt: '18 month old pictures'
-slug: '18-month-old-pictures-kansas-city-photographer'
-category: ['Children Photography','Family Pictures']
-tags: ['Burr Oak Woods','Childrens Photography','Family Portraits']
+title: "18 month old pictures"
+description: "Emmitt is your typical 18 month old.  On. The. Go.  I was the lucky photog that got to take his "
+publishDate: "Jun 13, 2011"
+author: "Allison Carenza"
+heroImage: "/media/verts2.jpg"
+alt: "18 month old pictures"
+slug: "18-month-old-pictures-kansas-city-photographer"
+category: ["Children Photography", "Family Pictures"]
+tags: ["Burr Oak Woods", "Childrens Photography", "Family Portraits"]
 ---
 
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2984" title="verts2" src="/media/verts2.jpg" alt="" width="751" height="499" srcset="/media/verts2.jpg 751w, /media/verts2-300x199.jpg 300w" sizes="(max-width: 751px) 100vw, 751px" /></p>

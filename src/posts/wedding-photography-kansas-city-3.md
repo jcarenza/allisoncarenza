@@ -1,14 +1,13 @@
 ---
-title: 'Wedding Photography'
-description: '<p>She didn&apos;t want someone else to do her hair, or her makeup.  The fact that she was putting on makeup [&hellip;]</p>
-'
-publishDate: 'Sep 29, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/lin1.jpg'
-alt: 'Wedding Photography'
-slug: 'wedding-photography-kansas-city-3'
-category: ['Wedding Photos']
-tags: ['Kansas City Photographer','Wedding Photos','Weddings','Wedding Photography Kansas City']
+title: "Wedding Photography"
+description: "She didn&apos;t want someone else to do her hair, or her makeup.  The fact that she was putting on makeup "
+publishDate: "Sep 29, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/lin1.jpg"
+alt: "Wedding Photography"
+slug: "wedding-photography-kansas-city-3"
+category: ["Wedding Photos"]
+tags: ["Kansas City Photographer", "Wedding Photos", "Weddings", "Wedding Photography Kansas City"]
 ---
 
 <p style="text-align: center;">She didn&apos;t want someone else to do her hair, or her makeup.  The fact that she was putting on makeup at all was going to be enough.  She knew Brice would love her no matter what she looked like, he always had.  As she got ready she would occationally check the clock, but other than that you would never guess it was her wedding day.  Her confidence was amazing.</p>

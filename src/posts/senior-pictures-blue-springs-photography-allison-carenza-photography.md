@@ -1,14 +1,13 @@
 ---
-title: 'Senior pictures'
-description: '<p>I love people!  I really do.  All people, even the mean ones, and I think it gives me a real [&hellip;]</p>
-'
-publishDate: 'May 30, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/matt3.jpg'
-alt: 'Senior pictures'
-slug: 'senior-pictures-blue-springs-photography-allison-carenza-photography'
-category: ['Senior Pictures']
-tags: ['Blue Springs High School','Blue Springs Photographer','Senior Pictures Blue Springs']
+title: "Senior pictures"
+description: "I love people!  I really do.  All people, even the mean ones, and I think it gives me a real "
+publishDate: "May 30, 2012"
+author: "Allison Carenza"
+heroImage: "/media/matt3.jpg"
+alt: "Senior pictures"
+slug: "senior-pictures-blue-springs-photography-allison-carenza-photography"
+category: ["Senior Pictures"]
+tags: ["Blue Springs High School", "Blue Springs Photographer", "Senior Pictures Blue Springs"]
 ---
 
 <p style="text-align: center;">I love people!  I really do.  All people, even the mean ones, and I think it gives me a real edge when I&apos;m photographing them.  You see, I spend a lot of time interacting with my subjects, getting them to relax so they look comfortable in front of the camera, and I&apos;m good at it, real good.  But over time I&apos;ve developed a 6th sense, and even more powerful tool.  It&apos;s like, I don&apos;t just see the beauty in my subjects, but I also feel it.  And there are these moments when I see the real person, the spirit in the body.  Those are the moments I hope to capture.  They are sometime quick, fleeting and hard to capture.  But it&apos;s my goal with people of all ages and sizes.</p>

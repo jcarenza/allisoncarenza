@@ -1,14 +1,13 @@
 ---
-title: 'New and Improved Blog!'
-description: '<p>This is my first post on my brand new blog!  I have to admit I don&apos;t really like learning yet [&hellip;]</p>
-'
-publishDate: 'Mar 1, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/el11.jpg'
-alt: 'New and Improved Blog!'
-slug: 'baby-photography-kansas-city-photographer'
-category: ['Baby Photography','Children Photography']
-tags: ['Baby Photographer','Children','Kansas City']
+title: "New and Improved Blog!"
+description: "This is my first post on my brand new blog!  I have to admit I don&apos;t really like learning yet "
+publishDate: "Mar 1, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/el11.jpg"
+alt: "New and Improved Blog!"
+slug: "baby-photography-kansas-city-photographer"
+category: ["Baby Photography", "Children Photography"]
+tags: ["Baby Photographer", "Children", "Kansas City"]
 ---
 
 <p style="text-align: center;">This is my first post on my brand new blog!  I have to admit I don&apos;t really like learning yet another program, but it&apos;s like a new phone after awhile it feels like home.  The following pictures are of two of the most beautiful babies ever!  Below is Easton, and I know this is a severe crop, but I love it because it&apos;s all about the eyes.  Please enjoy viewing the photos and feel free to leave a comment, I would love your feedback!</p>

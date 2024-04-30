@@ -1,14 +1,13 @@
 ---
-title: 'Belly Pictures, and a little bit about lighting'
-description: '<p>This is Tyra and Nathan.  They were pregnant, but now their life&apos;s are changed forever.  It started with a belly. [&hellip;]</p>
-'
-publishDate: 'Jun 17, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/tyra5.jpg'
-alt: 'Belly Pictures, and a little bit about lighting'
-slug: 'belly-pictures-and-a-little-bit-about-lighting-kansas-city-photographer'
-category: ['Newborn Photography']
-tags: ['Kansas City Photographer','Newborn','Newborn Pictures']
+title: "Belly Pictures, and a little bit about lighting"
+description: "This is Tyra and Nathan.  They were pregnant, but now their life&apos;s are changed forever.  It started with a belly."
+publishDate: "Jun 17, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/tyra5.jpg"
+alt: "Belly Pictures, and a little bit about lighting"
+slug: "belly-pictures-and-a-little-bit-about-lighting-kansas-city-photographer"
+category: ["Newborn Photography"]
+tags: ["Kansas City Photographer", "Newborn", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">This is Tyra and Nathan.  They were pregnant, but now their life&apos;s are changed forever.  It started with a belly.</p>

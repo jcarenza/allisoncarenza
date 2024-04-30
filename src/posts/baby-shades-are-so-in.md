@@ -1,14 +1,13 @@
 ---
-title: 'Baby shades are so in.'
-description: '<p>There&apos;s a reason I love taking pictures of 6 month olds.  Ok there are many reasons.  First of all 6 [&hellip;]</p>
-'
-publishDate: 'Mar 20, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/shar1.jpg'
-alt: 'Baby shades are so in.'
-slug: 'baby-shades-are-so-in'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Baby Pictures']
+title: "Baby shades are so in."
+description: "There&apos;s a reason I love taking pictures of 6 month olds.  Ok there are many reasons.  First of all 6 "
+publishDate: "Mar 20, 2013"
+author: "Allison Carenza"
+heroImage: "/media/shar1.jpg"
+alt: "Baby shades are so in."
+slug: "baby-shades-are-so-in"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Baby Pictures"]
 ---
 
 <p style="text-align: center;">

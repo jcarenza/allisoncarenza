@@ -1,14 +1,13 @@
 ---
-title: 'Senior pictures'
-description: '<p>Everyone has their talents.  Some people are uber smart, some are super beautiful, some are creative, or good with people, [&hellip;]</p>
-'
-publishDate: 'May 25, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/mack3.jpg'
-alt: 'Senior pictures'
-slug: 'senior-pictures-allison-carenza-photography-kansas-city'
-category: ['Senior Pictures']
-tags: ['Blue Springs Missouri','Photographer','Senior Pictures','Senior Portrait','Senior Pictures']
+title: "Senior pictures"
+description: "Everyone has their talents.  Some people are uber smart, some are super beautiful, some are creative, or good with people, "
+publishDate: "May 25, 2012"
+author: "Allison Carenza"
+heroImage: "/media/mack3.jpg"
+alt: "Senior pictures"
+slug: "senior-pictures-allison-carenza-photography-kansas-city"
+category: ["Senior Pictures"]
+tags: ["Blue Springs Missouri", "Photographer", "Senior Pictures", "Senior Portrait", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">Everyone has their talents.  Some people are uber smart, some are super beautiful, some are creative, or good with people, or just good at being nice, but not everyone is blessed with the combination.  Mackenzy on the other had totally has it all.  She&apos;s beautiful, but down to earth, smart, but humble, and sweet as any fine delectable out there.  Meet Mackenzy, a senior in high school about to go out and change the world.</p>

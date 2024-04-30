@@ -1,14 +1,13 @@
 ---
-title: 'My workshop...photography 101'
-description: '<p>It&apos;s like the first day of school all over again.  The night before the workshop I stress over what to [&hellip;]</p>
-'
-publishDate: 'May 9, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/DSC_0059.jpg'
-alt: 'My workshop...photography 101'
-slug: 'my-workshop-photography-101'
-category: ['Photo Tips']
-tags: ['Beginner Photography','Photography  Workshop','Photography For Beginners','Photography Workshop']
+title: "My workshop...photography 101"
+description: "It&apos;s like the first day of school all over again.  The night before the workshop I stress over what to "
+publishDate: "May 9, 2011"
+author: "Allison Carenza"
+heroImage: "/media/DSC_0059.jpg"
+alt: "My workshop...photography 101"
+slug: "my-workshop-photography-101"
+category: ["Photo Tips"]
+tags: ["Beginner Photography", "Photography  Workshop", "Photography For Beginners", "Photography Workshop"]
 ---
 
 <p style="text-align: left;">It&apos;s like the first day of school all over again.  The night before the<a href="http://www.allisoncarenza.com/workshops"> workshop</a> I stress over what to wear, I revise and re revise my plans, I worry about technology, and of course whether or not the students will like me.  This is particularly bad now since the students are big people...grown ups.  But the morning of the workshop I wake up pumped, ready to get my teach on.  There is a kind of peace that comes over me because I know that whatever happens I&apos;m going to do my best to share the knowledge I&apos;ve acquired from so many great photogs.</p>

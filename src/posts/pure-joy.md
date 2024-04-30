@@ -1,14 +1,13 @@
 ---
-title: 'Pure JOY'
-description: '<p>I admit, I get a lot of joy out of doing what I do.  In fact, I&apos;m in a solid [&hellip;]</p>
-'
-publishDate: 'Oct 25, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/madigan3.jpg'
-alt: 'Pure JOY'
-slug: 'pure-joy'
-category: ['Family Pictures']
-tags: ['Blue Springs Photographer','Family Photographer','Family Pictures','Lees Summit','Unity Village']
+title: "Pure JOY"
+description: "I admit, I get a lot of joy out of doing what I do.  In fact, I&apos;m in a solid "
+publishDate: "Oct 25, 2012"
+author: "Allison Carenza"
+heroImage: "/media/madigan3.jpg"
+alt: "Pure JOY"
+slug: "pure-joy"
+category: ["Family Pictures"]
+tags: ["Blue Springs Photographer", "Family Photographer", "Family Pictures", "Lees Summit", "Unity Village"]
 ---
 
 <p style="text-align: center;">I admit, I get a lot of joy out of doing what I do.  In fact, I&apos;m in a solid state of joy 90 percent of the time period.  So there&apos;s really no word to describe the way I feel when I get to take pictures of my most beloved clients, like the Madigans!  Joy x 3 googles is close.  I  feel like that crazy aunt from far away that just loves to take pictures.  In fact, I probably play up that part a little too much.  But the time goes by too fast, and I find myself rapid firing questions during our shoot so I can get caught up on the past year.   At the end of the day I&apos;m left with the beautiful images.  Which really is all that matters.  I got so much joy shooting, processing and editing these images.  I hope they bring you a bit of joy too.</p>

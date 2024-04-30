@@ -1,14 +1,13 @@
 ---
-title: 'A slice of heaven in my brand new studio!'
-description: '<p>This is Shelby and Ronnie. Crazy in love, future parents, and oh so happy! Getting pregnant wasn&apos;t easy for Shelby, [&hellip;]</p>
-'
-publishDate: 'Sep 21, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/shelby1.jpg'
-alt: 'A slice of heaven in my brand new studio!'
-slug: 'a-slice-of-heaven-in-my-brand-new-studio'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Newborn Photography','Newborn Photos']
+title: "A slice of heaven in my brand new studio!"
+description: "This is Shelby and Ronnie. Crazy in love, future parents, and oh so happy! Getting pregnant wasn&apos;t easy for Shelby, "
+publishDate: "Sep 21, 2011"
+author: "Allison Carenza"
+heroImage: "/media/shelby1.jpg"
+alt: "A slice of heaven in my brand new studio!"
+slug: "a-slice-of-heaven-in-my-brand-new-studio"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Newborn Photography", "Newborn Photos"]
 ---
 
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3418" title="shelby1" src="/media/shelby1.jpg" alt="" width="930" height="680" srcset="/media/shelby1.jpg 930w, /media/shelby1-300x219.jpg 300w, /media/shelby1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>

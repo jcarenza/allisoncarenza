@@ -1,14 +1,13 @@
 ---
-title: 'New Year&apos;s Babe!'
-description: '<p>Meet baby Griffin!  He was the first baby born at Centerpointe Hospital this year! A new year&apos;s baby born early. [&hellip;]</p>
-'
-publishDate: 'Jan 27, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/alex4.jpg'
-alt: 'New Year&apos;s Babe!'
-slug: 'new-years-babe'
-category: ['Newborn Photography']
-tags: ['Baby Pictures','Infant Photography','Newborn Pictures']
+title: "New Year&apos;s Babe!"
+description: "Meet baby Griffin!  He was the first baby born at Centerpointe Hospital this year! A new year&apos;s baby born early."
+publishDate: "Jan 27, 2013"
+author: "Allison Carenza"
+heroImage: "/media/alex4.jpg"
+alt: "New Year&apos;s Babe!"
+slug: "new-years-babe"
+category: ["Newborn Photography"]
+tags: ["Baby Pictures", "Infant Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">Meet baby Griffin!  He was the first baby born at <a href="http://centerpointehospital.com/">Centerpointe Hospital</a> this year!</p>

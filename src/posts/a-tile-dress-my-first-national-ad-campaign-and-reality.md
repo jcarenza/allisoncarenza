@@ -1,14 +1,13 @@
 ---
-title: 'A tile dress, my first national ad campaign, and reality.'
-description: '<p>I think I come off confident, fearless, and maybe even arrogant.  But...I&apos;m really not.  I mean I use to say [&hellip;]</p>
-'
-publishDate: 'Apr 25, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/04/at11.jpg'
-alt: 'A tile dress, my first national ad campaign, and reality.'
-slug: 'a-tile-dress-my-first-national-ad-campaign-and-reality'
-category: ['Commercial Photography']
-tags: ['Artistic Tile','Commercial Photography','Interior Design']
+title: "A tile dress, my first national ad campaign, and reality."
+description: "I think I come off confident, fearless, and maybe even arrogant.  But...I&apos;m really not.  I mean I use to say "
+publishDate: "Apr 25, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/04/at11.jpg"
+alt: "A tile dress, my first national ad campaign, and reality."
+slug: "a-tile-dress-my-first-national-ad-campaign-and-reality"
+category: ["Commercial Photography"]
+tags: ["Artistic Tile", "Commercial Photography", "Interior Design"]
 ---
 
 <p style="text-align: center;">

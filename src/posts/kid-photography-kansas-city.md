@@ -1,14 +1,13 @@
 ---
-title: 'Kid Photography'
-description: '<p>This is little Oliver and he really is this cute! These are his crazy brothers Jonah and Hayden.  Jonah is [&hellip;]</p>
-'
-publishDate: 'Jul 1, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/clem4.jpg'
-alt: 'Kid Photography'
-slug: 'kid-photography-kansas-city'
-category: ['Children Photography','Family Pictures']
-tags: ['Children','Kansas City Photographer']
+title: "Kid Photography"
+description: "This is little Oliver and he really is this cute! These are his crazy brothers Jonah and Hayden.  Jonah is "
+publishDate: "Jul 1, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/clem4.jpg"
+alt: "Kid Photography"
+slug: "kid-photography-kansas-city"
+category: ["Children Photography", "Family Pictures"]
+tags: ["Children", "Kansas City Photographer"]
 ---
 
 <p><a rel="attachment wp-att-1127" href="http://www.allisoncarenza.com/archives/1123/clem4"><img class="aligncenter size-full wp-image-1127" title="clem4" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/07/clem4.jpg" alt="" width="750" height="500" srcset="/media/clem4.jpg 750w, /media/clem4-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>

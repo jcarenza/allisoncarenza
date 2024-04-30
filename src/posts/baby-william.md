@@ -1,14 +1,13 @@
 ---
-title: 'Baby William'
-description: '<p>This is little William.  He is one adorable little baby boy.  William had his pictures taken on the coldest day [&hellip;]</p>
-'
-publishDate: 'Mar 14, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/William4.jpg'
-alt: 'Baby William'
-slug: 'baby-william'
-category: ['Newborn Photography']
-tags: ['Babby Portraits','Kansas City','Newborn']
+title: "Baby William"
+description: "This is little William.  He is one adorable little baby boy.  William had his pictures taken on the coldest day "
+publishDate: "Mar 14, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/William4.jpg"
+alt: "Baby William"
+slug: "baby-william"
+category: ["Newborn Photography"]
+tags: ["Babby Portraits", "Kansas City", "Newborn"]
 ---
 
 <p><a rel="attachment wp-att-456" href="http://www.allisoncarenza.com/studio/archives/452/william4"><img class="aligncenter size-full wp-image-456" title="William4" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/03/William4.jpg" alt="" width="700" height="700" srcset="/media/William4.jpg 700w, /media/William4-150x150.jpg 150w, /media/William4-300x300.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>

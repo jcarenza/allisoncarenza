@@ -1,13 +1,12 @@
 ---
-title: 'An overwhelming feeling of love'
-description: '<p>&nbsp; Every wedding has a vibe, a feeling, a mood if you will.  I feel it the moment I walk [&hellip;]</p>
-'
-publishDate: 'Oct 24, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/erin11.jpg'
-alt: 'An overwhelming feeling of love'
-slug: 'an-overwhelming-feeling-of-love-kansas-city-wedding'
-category: ['Wedding Photos']
+title: "An overwhelming feeling of love"
+description: "&nbsp; Every wedding has a vibe, a feeling, a mood if you will.  I feel it the moment I walk "
+publishDate: "Oct 24, 2013"
+author: "Allison Carenza"
+heroImage: "/media/erin11.jpg"
+alt: "An overwhelming feeling of love"
+slug: "an-overwhelming-feeling-of-love-kansas-city-wedding"
+category: ["Wedding Photos"]
 tags: []
 ---
 

@@ -1,14 +1,13 @@
 ---
-title: 'Lil miss sleepyhead'
-description: '<p>People ask me all the time what I most prefer to photograph?  Most the time I scratch my head, and [&hellip;]</p>
-'
-publishDate: 'Aug 23, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/mccall1.jpg'
-alt: 'Lil miss sleepyhead'
-slug: 'lil-miss-sleepyhead'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Kansas City Photographer','Newborn Baby','Newborn Photography']
+title: "Lil miss sleepyhead"
+description: "People ask me all the time what I most prefer to photograph?  Most the time I scratch my head, and "
+publishDate: "Aug 23, 2012"
+author: "Allison Carenza"
+heroImage: "/media/mccall1.jpg"
+alt: "Lil miss sleepyhead"
+slug: "lil-miss-sleepyhead"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Kansas City Photographer", "Newborn Baby", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">

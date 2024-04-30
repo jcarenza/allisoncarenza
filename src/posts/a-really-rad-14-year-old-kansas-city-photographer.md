@@ -1,14 +1,13 @@
 ---
-title: 'A really rad 14 year old!'
-description: '<p>Last Saturday I had the opportunity to meet one of the radest 14 year olds ever!  Not only is he [&hellip;]</p>
-'
-publishDate: 'Aug 19, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/j15.jpg'
-alt: 'A really rad 14 year old!'
-slug: 'a-really-rad-14-year-old-kansas-city-photographer'
-category: ['Children Photography']
-tags: ['Childrens Photography','Kansas City Photography','Photography']
+title: "A really rad 14 year old!"
+description: "Last Saturday I had the opportunity to meet one of the radest 14 year olds ever!  Not only is he "
+publishDate: "Aug 19, 2011"
+author: "Allison Carenza"
+heroImage: "/media/j15.jpg"
+alt: "A really rad 14 year old!"
+slug: "a-really-rad-14-year-old-kansas-city-photographer"
+category: ["Children Photography"]
+tags: ["Childrens Photography", "Kansas City Photography", "Photography"]
 ---
 
 <p style="text-align: center;">Last Saturday I had the opportunity to meet one of the radest 14 year olds ever!  Not only is he good looking, a nationally ranked track star, and super cool, but he was nice.  Really nice.  What a fierce combination.</p>

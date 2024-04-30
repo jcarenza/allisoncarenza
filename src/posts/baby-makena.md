@@ -1,14 +1,13 @@
 ---
-title: 'Baby Makena'
-description: '<p>Sweet Sweet Makena.  Just 12 days old and she already has eyelashes to die for, and more hair than a [&hellip;]</p>
-'
-publishDate: 'Mar 7, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/melanie6.jpg'
-alt: 'Baby Makena'
-slug: 'baby-makena'
-category: ['Newborn Photography']
-tags: ['Infant Photography','Newborn Photography','Newborn Pictures']
+title: "Baby Makena"
+description: "Sweet Sweet Makena.  Just 12 days old and she already has eyelashes to die for, and more hair than a "
+publishDate: "Mar 7, 2013"
+author: "Allison Carenza"
+heroImage: "/media/melanie6.jpg"
+alt: "Baby Makena"
+slug: "baby-makena"
+category: ["Newborn Photography"]
+tags: ["Infant Photography", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">

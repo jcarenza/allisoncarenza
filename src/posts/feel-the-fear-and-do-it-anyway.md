@@ -1,14 +1,13 @@
 ---
-title: 'Feel the fear and do it anyway!'
-description: '<p>&nbsp; I&apos;m always seeking guidance, advice, inspiration of any sort.  Last night I found something too good to keep to [&hellip;]</p>
-'
-publishDate: 'Oct 26, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/bo1.jpg'
-alt: 'Feel the fear and do it anyway!'
-slug: 'feel-the-fear-and-do-it-anyway'
-category: ['About Allison']
-tags: ['Allison Carenza Photography','Bolivia','Dreams','Fear']
+title: "Feel the fear and do it anyway!"
+description: "&nbsp; I&apos;m always seeking guidance, advice, inspiration of any sort.  Last night I found something too good to keep to "
+publishDate: "Oct 26, 2011"
+author: "Allison Carenza"
+heroImage: "/media/bo1.jpg"
+alt: "Feel the fear and do it anyway!"
+slug: "feel-the-fear-and-do-it-anyway"
+category: ["About Allison"]
+tags: ["Allison Carenza Photography", "Bolivia", "Dreams", "Fear"]
 ---
 
 <p>&nbsp;</p>

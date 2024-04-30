@@ -1,13 +1,12 @@
 ---
-title: '2012 Goals'
-description: '<p>It&apos;s hard to believe, but it&apos;s that time again, time to look at the good ol&apos; goals.  This year flew [&hellip;]</p>
-'
-publishDate: 'Jan 1, 2012'
-author: 'Allison Carenza'
-heroImage: ''
-alt: '2012 Goals'
-slug: '2012-goals'
-category: ['About Allison']
+title: "2012 Goals"
+description: "It&apos;s hard to believe, but it&apos;s that time again, time to look at the good ol&apos; goals.  This year flew "
+publishDate: "Jan 1, 2012"
+author: "Allison Carenza"
+heroImage: ""
+alt: "2012 Goals"
+slug: "2012-goals"
+category: ["About Allison"]
 tags: []
 ---
 

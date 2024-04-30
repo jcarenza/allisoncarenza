@@ -1,14 +1,13 @@
 ---
-title: 'Boogers happen...'
-description: '<p>I have a feeling she&apos;s going to be really mad at me someday, but I just couldn&apos;t resist.  I mean [&hellip;]</p>
-'
-publishDate: 'Mar 26, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/hh21.jpg'
-alt: 'Boogers happen...'
-slug: 'boogers-happen'
-category: ['Children Photography']
-tags: ['Baby Photographer','Children Photography']
+title: "Boogers happen..."
+description: "I have a feeling she&apos;s going to be really mad at me someday, but I just couldn&apos;t resist.  I mean "
+publishDate: "Mar 26, 2013"
+author: "Allison Carenza"
+heroImage: "/media/hh21.jpg"
+alt: "Boogers happen..."
+slug: "boogers-happen"
+category: ["Children Photography"]
+tags: ["Baby Photographer", "Children Photography"]
 ---
 
 <p style="text-align: center;">

@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Photography'
-description: '<p>Baby Hunter at just a week old.  I know newbies can&apos;t smile on purpose, but I swear this little guy [&hellip;]</p>
-'
-publishDate: 'Jul 22, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/well1.jpg'
-alt: 'Newborn Photography'
-slug: 'newborn-photography-kansas-city-2'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Kansas City','Newborn Pictures']
+title: "Newborn Photography"
+description: "Baby Hunter at just a week old.  I know newbies can&apos;t smile on purpose, but I swear this little guy "
+publishDate: "Jul 22, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/well1.jpg"
+alt: "Newborn Photography"
+slug: "newborn-photography-kansas-city-2"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Kansas City", "Newborn Pictures"]
 ---
 
 <p><a rel="attachment wp-att-1109" href="http://www.allisoncarenza.com/archives/1108/well1"><img class="aligncenter size-full wp-image-1109" title="well1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/07/well1.jpg" alt="" width="750" height="500" srcset="/media/well1.jpg 750w, /media/well1-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>

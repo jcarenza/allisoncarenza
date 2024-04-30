@@ -1,14 +1,13 @@
 ---
-title: 'A beautiful country wedding for Will and Kim.'
-description: '<p>When Kim told me we would be driving up north to Will&apos;s little family church for their wedding, I had [&hellip;]</p>
-'
-publishDate: 'May 15, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/kandw21.jpg'
-alt: 'A beautiful country wedding for Will and Kim.'
-slug: 'a-beautiful-country-wedding-for-will-and-kim'
-category: ['Wedding Photos']
-tags: ['Kansas City Wedding Photographer','Wedding Photography','Wedding Pictures']
+title: "A beautiful country wedding for Will and Kim."
+description: "When Kim told me we would be driving up north to Will&apos;s little family church for their wedding, I had "
+publishDate: "May 15, 2013"
+author: "Allison Carenza"
+heroImage: "/media/kandw21.jpg"
+alt: "A beautiful country wedding for Will and Kim."
+slug: "a-beautiful-country-wedding-for-will-and-kim"
+category: ["Wedding Photos"]
+tags: ["Kansas City Wedding Photographer", "Wedding Photography", "Wedding Pictures"]
 ---
 
 <p style="text-align: center;">

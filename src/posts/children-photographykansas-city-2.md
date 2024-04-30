@@ -1,14 +1,13 @@
 ---
-title: 'Children Photography'
-description: '<p>Adorable....nuff said! This is Annie, and she is just about as perfect as perfect can be. As you can see [&hellip;]</p>
-'
-publishDate: 'Jul 27, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/glas1.jpg'
-alt: 'Children Photography'
-slug: 'children-photographykansas-city-2'
-category: ['Children Photography']
-tags: ['Kansas City Photography']
+title: "Children Photography"
+description: "Adorable....nuff said! This is Annie, and she is just about as perfect as perfect can be. As you can see "
+publishDate: "Jul 27, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/glas1.jpg"
+alt: "Children Photography"
+slug: "children-photographykansas-city-2"
+category: ["Children Photography"]
+tags: ["Kansas City Photography"]
 ---
 
 <p style="text-align: center;">Adorable....nuff said!</p>

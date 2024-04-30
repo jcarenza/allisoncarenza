@@ -1,14 +1,13 @@
 ---
-title: 'Family Portraits'
-description: '<p>I love when kids shine in front of my camera.  The Sims kids would definitely fit that bill.  In fact. [&hellip;]</p>
-'
-publishDate: 'Jul 25, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/sims2.jpg'
-alt: 'Family Portraits'
-slug: 'family-portraits-allison-carenza-photography'
-category: ['Children Photography','Family Pictures']
-tags: ['Children Photography','Family Photographer']
+title: "Family Portraits"
+description: "I love when kids shine in front of my camera.  The Sims kids would definitely fit that bill.  In fact."
+publishDate: "Jul 25, 2012"
+author: "Allison Carenza"
+heroImage: "/media/sims2.jpg"
+alt: "Family Portraits"
+slug: "family-portraits-allison-carenza-photography"
+category: ["Children Photography", "Family Pictures"]
+tags: ["Children Photography", "Family Photographer"]
 ---
 
 <p style="text-align: center;">I love when kids shine in front of my camera.  The Sims kids would definitely fit that bill.  In fact.  Little Hadley is becoming the poster child for my business.  She&apos;s been featured on several of my marketing pieces.  Partly because she&apos;s adorable, but mostly because she has the x factor, the charisma, the shine that come from something more than her golden locks.  She always brings it for me, and not in a showy way, but in a real, that&apos;s who she is, way.</p>

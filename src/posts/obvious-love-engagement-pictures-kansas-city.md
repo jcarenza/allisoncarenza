@@ -1,14 +1,13 @@
 ---
-title: 'Obvious Love ~ Engagement pictures, Kansas City'
-description: '<p>They&apos;d been friends for a long time, but Samantha was secretly pineing over Chris.  And, there was always the mutual [&hellip;]</p>
-'
-publishDate: 'Dec 14, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/12/sam8.jpg'
-alt: 'Obvious Love ~ Engagement pictures, Kansas City'
-slug: 'obvious-love-engagement-pictures-kansas-city'
-category: ['Wedding Photos']
-tags: ['Engagement Photos','Wedding Pictures']
+title: "Obvious Love ~ Engagement pictures, Kansas City"
+description: "They&apos;d been friends for a long time, but Samantha was secretly pineing over Chris.  And, there was always the mutual "
+publishDate: "Dec 14, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/12/sam8.jpg"
+alt: "Obvious Love ~ Engagement pictures, Kansas City"
+slug: "obvious-love-engagement-pictures-kansas-city"
+category: ["Wedding Photos"]
+tags: ["Engagement Photos", "Wedding Pictures"]
 ---
 
 <p style="text-align: center;">They&apos;d been friends for a long time, but Samantha was secretly pineing over Chris.  And, there was always the mutual attraction, but it wasn&apos;t until recently that they were able to truly admit their love.  That&apos;s when Chris decided to propose, and she said yes.  From behind the camera their love was obvious.  Their connection was  magnetic, when he moved, she moved, when she moved, he moved.  Ok, so I stole that from Eclipse, but their love might just be as good as Edward and Bella&apos;s.  Seriously.  We tooled around the city Thursady afternoon, looking for all the best light, not that we needed it.  Samantha was glowing.</p>

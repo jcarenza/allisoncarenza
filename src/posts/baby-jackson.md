@@ -1,14 +1,13 @@
 ---
-title: 'Baby Jackson'
-description: '<p>Love, love, love this collection of photos.  This is baby Jackson! Jackson&apos;s parents Jessica and Rob were so happy to [&hellip;]</p>
-'
-publishDate: 'Mar 16, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/Lager2.jpg'
-alt: 'Baby Jackson'
-slug: 'baby-jackson'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Kansas City']
+title: "Baby Jackson"
+description: "Love, love, love this collection of photos.  This is baby Jackson! Jackson&apos;s parents Jessica and Rob were so happy to "
+publishDate: "Mar 16, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/Lager2.jpg"
+alt: "Baby Jackson"
+slug: "baby-jackson"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Kansas City"]
 ---
 
 <p><a rel="attachment wp-att-460" href="http://www.allisoncarenza.com/studio/archives/459/lager2"><img class="aligncenter size-full wp-image-460" title="Lager2" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/03/Lager2.jpg" alt="" width="600" height="400" srcset="/media/Lager2.jpg 600w, /media/Lager2-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>

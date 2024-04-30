@@ -1,14 +1,13 @@
 ---
-title: 'America&apos;s next top model!'
-description: '<p>Meet Lillian or Lil for short. At just 8 days old she is absolutely perfect. Her momma Kara is absolutely [&hellip;]</p>
-'
-publishDate: 'Aug 11, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/kara6.jpg'
-alt: 'America&apos;s next top model!'
-slug: 'americas-next-top-model-kansas-city-photographer'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Baby Pictures','Kansas City Photographer','Newborn Photography']
+title: "America&apos;s next top model!"
+description: "Meet Lillian or Lil for short. At just 8 days old she is absolutely perfect. Her momma Kara is absolutely "
+publishDate: "Aug 11, 2011"
+author: "Allison Carenza"
+heroImage: "/media/kara6.jpg"
+alt: "America&apos;s next top model!"
+slug: "americas-next-top-model-kansas-city-photographer"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Baby Pictures", "Kansas City Photographer", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">Meet Lillian or Lil for short.</p>

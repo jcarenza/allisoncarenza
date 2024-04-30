@@ -1,14 +1,13 @@
 ---
-title: 'The big TWO!'
-description: '<p>&nbsp; I joke that photographing 2 year olds is much like herding cats, but I&apos;m not really joking.  Most of [&hellip;]</p>
-'
-publishDate: 'Apr 23, 2014'
-author: 'Allison Carenza'
-heroImage: '/media/mera2.jpg'
-alt: 'The big TWO!'
-slug: 'the-big-two'
-category: ['Children Photography']
-tags: ['Second Birthday','Children Photography','Two year olds pictures']
+title: "The big TWO!"
+description: "&nbsp; I joke that photographing 2 year olds is much like herding cats, but I&apos;m not really joking.  Most of "
+publishDate: "Apr 23, 2014"
+author: "Allison Carenza"
+heroImage: "/media/mera2.jpg"
+alt: "The big TWO!"
+slug: "the-big-two"
+category: ["Children Photography"]
+tags: ["Second Birthday", "Children Photography", "Two year olds pictures"]
 ---
 
 <p>&nbsp;</p>

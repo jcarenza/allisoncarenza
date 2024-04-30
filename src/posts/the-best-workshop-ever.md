@@ -1,14 +1,13 @@
 ---
-title: 'The best workshop ever!'
-description: '<p>It&apos;s been a little over a week since I got back from my workshop in Santa Fe.  I always come [&hellip;]</p>
-'
-publishDate: 'Mar 26, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/sf11.jpg'
-alt: 'The best workshop ever!'
-slug: 'the-best-workshop-ever'
-category: ['About Allison','Commercial Photography']
-tags: ['Editorial','Santa Fe Photography Workshop']
+title: "The best workshop ever!"
+description: "It&apos;s been a little over a week since I got back from my workshop in Santa Fe.  I always come "
+publishDate: "Mar 26, 2012"
+author: "Allison Carenza"
+heroImage: "/media/sf11.jpg"
+alt: "The best workshop ever!"
+slug: "the-best-workshop-ever"
+category: ["About Allison", "Commercial Photography"]
+tags: ["Editorial", "Santa Fe Photography Workshop"]
 ---
 
 <p style="text-align: center;">It&apos;s been a little over a week since I got back from my workshop in Santa Fe.  I always come home from the workshops with a sense of...well it&apos;s hard to put into words, but it&apos;s always good, and inspiring, and awesome, and refreshing.  This year was no different.  In fact, this year was the best!  I&apos;m dying to tell you all about it because I&apos;m still oozing with the good feelings from the class.</p>

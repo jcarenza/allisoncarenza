@@ -1,14 +1,13 @@
 ---
-title: 'Jenny and Steve'
-description: '<p>I love taking pictures of bellies!  I think women that are pregnant are magical.  Below are pictures of Jenny and [&hellip;]</p>
-'
-publishDate: 'Mar 17, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/jenny1.jpg'
-alt: 'Jenny and Steve'
-slug: 'maternity-pictures-jenny-and-steve'
-category: ['Maternity Photos']
-tags: ['Kansas City','Maternity Photography']
+title: "Jenny and Steve"
+description: "I love taking pictures of bellies!  I think women that are pregnant are magical.  Below are pictures of Jenny and "
+publishDate: "Mar 17, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/jenny1.jpg"
+alt: "Jenny and Steve"
+slug: "maternity-pictures-jenny-and-steve"
+category: ["Maternity Photos"]
+tags: ["Kansas City", "Maternity Photography"]
 ---
 
 <div style="text-align: center;">I love taking pictures of bellies!  I think women that are pregnant are magical.  Below are pictures of Jenny and her man Steve!</p>

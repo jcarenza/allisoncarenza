@@ -1,14 +1,13 @@
 ---
-title: 'Senior Pictures'
-description: '<p>You can feel it.  The excitement for the end of the school year.  Everything turns green, it starts getting warmer [&hellip;]</p>
-'
-publishDate: 'Apr 25, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/chris4.jpg'
-alt: 'Senior Pictures'
-slug: 'senior-pictures-kansas-city-photographer-2'
-category: ['Senior Pictures']
-tags: ['Senior Pictures','Grain Valley Senior Pictures','Lees Summit Senior Photographer','Senior Pictures','Senior Pictures']
+title: "Senior Pictures"
+description: "You can feel it.  The excitement for the end of the school year.  Everything turns green, it starts getting warmer "
+publishDate: "Apr 25, 2012"
+author: "Allison Carenza"
+heroImage: "/media/chris4.jpg"
+alt: "Senior Pictures"
+slug: "senior-pictures-kansas-city-photographer-2"
+category: ["Senior Pictures"]
+tags: ["Senior Pictures", "Grain Valley Senior Pictures", "Lees Summit Senior Photographer", "Senior Pictures", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">You can feel it.  The excitement for the end of the school year.  Everything turns green, it starts getting warmer out, and kids at school turn their brains off for summer break.  For seniors in high school, the anticipation of the end of the year is on another  level...senioritis.  We all had it, even the most dedicated students.  The idea of being done with public education, and moving on, is too much.  So when I photograph seniors,  I see a twinkle in their eye.  It&apos;s small but it&apos;s there, and it&apos;s my goal to capture it.  That love for life that only happens those months before they graduate high school.</p>

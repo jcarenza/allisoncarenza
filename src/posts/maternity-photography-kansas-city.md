@@ -1,14 +1,13 @@
 ---
-title: 'Maternity Photography'
-description: '<p>I have been taking so many pictures of bellies lately!  I absolutely love it.  Pregnant women are stunning and Deanna [&hellip;]</p>
-'
-publishDate: 'Apr 12, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/Deanna5.jpg'
-alt: 'Maternity Photography'
-slug: 'maternity-photography-kansas-city'
-category: ['Maternity Photos']
-tags: ['Kansas City Photographer','Maternity Photos','Maternity Pictures']
+title: "Maternity Photography"
+description: "I have been taking so many pictures of bellies lately!  I absolutely love it.  Pregnant women are stunning and Deanna "
+publishDate: "Apr 12, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/Deanna5.jpg"
+alt: "Maternity Photography"
+slug: "maternity-photography-kansas-city"
+category: ["Maternity Photos"]
+tags: ["Kansas City Photographer", "Maternity Photos", "Maternity Pictures"]
 ---
 
 <p style="text-align: center;"><a rel="attachment wp-att-640" href="http://www.allisoncarenza.com/studio/archives/636/deanna5"><img class="aligncenter size-full wp-image-640" title="Deanna5" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/04/Deanna5.jpg" alt="" width="399" height="600" srcset="/media/Deanna5.jpg 399w, /media/Deanna5-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px" /></a></p>

@@ -1,14 +1,13 @@
 ---
-title: 'Dillon'
-description: '<p>I think you know what I mean when I say senior girls are easier to photograph than senior boys.  There&apos;s [&hellip;]</p>
-'
-publishDate: 'Jun 11, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/dil12.jpg'
-alt: 'Dillon'
-slug: 'dillon-senior-pictures-kansas-city'
-category: ['Senior Pictures']
-tags: ['Kansas City Photography','Kansas City Photographer','Senior Pictures']
+title: "Dillon"
+description: "I think you know what I mean when I say senior girls are easier to photograph than senior boys.  There&apos;s "
+publishDate: "Jun 11, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/dil12.jpg"
+alt: "Dillon"
+slug: "dillon-senior-pictures-kansas-city"
+category: ["Senior Pictures"]
+tags: ["Kansas City Photography", "Kansas City Photographer", "Senior Pictures"]
 ---
 
 <p><a rel="attachment wp-att-908" href="http://www.allisoncarenza.com/archives/dillon-senior-pictures-kansas-city/dil12/"><img class="aligncenter size-full wp-image-908" title="dil12" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/06/dil12.jpg" alt="" width="601" height="400" srcset="/media/dil12.jpg 601w, /media/dil12-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /></a></p>

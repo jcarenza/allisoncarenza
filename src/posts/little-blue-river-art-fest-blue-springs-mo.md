@@ -1,14 +1,13 @@
 ---
-title: 'Little Blue River Art Fest'
-description: '<p>Walls- check Art work- check Lighting- check Marketing materials- check People- ????  I hope 🙂 The Little Blue Art Fest [&hellip;]</p>
-'
-publishDate: 'Jun 9, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/Little-Blue-River-Art-Fest_Invitation.jpg'
-alt: 'Little Blue River Art Fest'
-slug: 'little-blue-river-art-fest-blue-springs-mo'
-category: ['About Allison']
-tags: ['Art Festival','Blue Springs','Little Blue Art Festival','MO']
+title: "Little Blue River Art Fest"
+description: "Walls- check Art work- check Lighting- check Marketing materials- check People- ????  I hope 🙂 The Little Blue Art Fest "
+publishDate: "Jun 9, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/Little-Blue-River-Art-Fest_Invitation.jpg"
+alt: "Little Blue River Art Fest"
+slug: "little-blue-river-art-fest-blue-springs-mo"
+category: ["About Allison"]
+tags: ["Art Festival", "Blue Springs", "Little Blue Art Festival", "MO"]
 ---
 
 <p>Walls- check</p>

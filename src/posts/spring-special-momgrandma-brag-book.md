@@ -1,14 +1,13 @@
 ---
-title: 'Spring Special!  Mom/Grandma Brag Book'
-description: '<p>This spring I&apos;m offering a special special for all the moms and grandmas out there.  Schedule a shoot between now [&hellip;]</p>
-'
-publishDate: 'Mar 20, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/PROOFING_PressProofMag_main.jpg'
-alt: 'Spring Special!  Mom/Grandma Brag Book'
-slug: 'spring-special-momgrandma-brag-book'
-category: ['Specials']
-tags: ['Kansas City','Mothers Day Gift']
+title: "Spring Special!  Mom/Grandma Brag Book"
+description: "This spring I&apos;m offering a special special for all the moms and grandmas out there.  Schedule a shoot between now "
+publishDate: "Mar 20, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/PROOFING_PressProofMag_main.jpg"
+alt: "Spring Special!  Mom/Grandma Brag Book"
+slug: "spring-special-momgrandma-brag-book"
+category: ["Specials"]
+tags: ["Kansas City", "Mothers Day Gift"]
 ---
 
 <p><a rel="attachment wp-att-503" href="http://www.allisoncarenza.com/studio/archives/498/proofing_pressproofmag_main"><img class="aligncenter size-full wp-image-503" title="PROOFING_PressProofMag_main" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/03/PROOFING_PressProofMag_main.jpg" alt="" width="750" height="395" srcset="/media/PROOFING_PressProofMag_main.jpg 750w, /media/PROOFING_PressProofMag_main-300x158.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>

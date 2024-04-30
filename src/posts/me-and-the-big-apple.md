@@ -1,14 +1,13 @@
 ---
-title: 'Me...and the big apple!'
-description: '<p>The anticipation had been building  for weeks.  The original phone calls/ emails, writing the proposal and then the anticipation of [&hellip;]</p>
-'
-publishDate: 'Feb 12, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/02/ny15.jpg'
-alt: 'Me...and the big apple!'
-slug: 'me-and-the-big-apple'
-category: ['Artistic']
-tags: ['Ad Campaign','New York','New York City']
+title: "Me...and the big apple!"
+description: "The anticipation had been building  for weeks.  The original phone calls/ emails, writing the proposal and then the anticipation of "
+publishDate: "Feb 12, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/02/ny15.jpg"
+alt: "Me...and the big apple!"
+slug: "me-and-the-big-apple"
+category: ["Artistic"]
+tags: ["Ad Campaign", "New York", "New York City"]
 ---
 
 <p style="text-align: center;">The anticipation had been building  for weeks.  The original phone calls/ emails, writing the proposal and then the anticipation of whether or not I would even get the job.  But I did.  And I&apos;m here.  In New York City, downtown Manhattan, shooting an ad campaign for a high end <a href="http://www.artistictile.com/">tile company</a>.   It took packing the studio and getting on the plane for the reality to sink in.  I thought I would be overwhelmed, nervous, and maybe even scared.  But I&apos;m not.  I&apos;m confident, excited, and in LOVE with this city.  It&apos;s nothing and everything I expected and then some.  Today Jon and I spent the whole day roaming the streets.  I carried my D3 in my purse and got to capture a little bit of what I was feeling.  Lovely energy...everywhere.</p>

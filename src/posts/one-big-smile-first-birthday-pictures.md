@@ -1,14 +1,13 @@
 ---
-title: 'One big smile ~ First Birthday Pictures'
-description: '<p>&nbsp; This is little Adalynn, and she&apos;s turning one! &nbsp; Little Adalynn is one of the happiest baby girls I&apos;ve [&hellip;]</p>
-'
-publishDate: 'Jun 29, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/ad3.jpg'
-alt: 'One big smile ~ First Birthday Pictures'
-slug: 'one-big-smile-first-birthday-pictures'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Kansas City Photographer','One Year Pictures']
+title: "One big smile ~ First Birthday Pictures"
+description: "&nbsp; This is little Adalynn, and she&apos;s turning one! &nbsp; Little Adalynn is one of the happiest baby girls I&apos;ve "
+publishDate: "Jun 29, 2011"
+author: "Allison Carenza"
+heroImage: "/media/ad3.jpg"
+alt: "One big smile ~ First Birthday Pictures"
+slug: "one-big-smile-first-birthday-pictures"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Kansas City Photographer", "One Year Pictures"]
 ---
 
 <p style="text-align: center;">&nbsp;</p>

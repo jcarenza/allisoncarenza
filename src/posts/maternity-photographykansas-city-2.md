@@ -1,14 +1,13 @@
 ---
-title: 'Maternity Photography'
-description: '<p>Meet Sarah and Matthew.  Two happy people, happy to be in love, and even more happy to be pregnant. Some [&hellip;]</p>
-'
-publishDate: 'Aug 20, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/vin1.jpg'
-alt: 'Maternity Photography'
-slug: 'maternity-photographykansas-city-2'
-category: ['Maternity Photos']
-tags: ['Kansas City Photographer','Maternity Photography','Maternity Pictures']
+title: "Maternity Photography"
+description: "Meet Sarah and Matthew.  Two happy people, happy to be in love, and even more happy to be pregnant. Some "
+publishDate: "Aug 20, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/vin1.jpg"
+alt: "Maternity Photography"
+slug: "maternity-photographykansas-city-2"
+category: ["Maternity Photos"]
+tags: ["Kansas City Photographer", "Maternity Photography", "Maternity Pictures"]
 ---
 
 <p><a rel="attachment wp-att-1285" href="http://www.allisoncarenza.com/archives/1284/vin1"><img class="aligncenter size-full wp-image-1285" title="vin1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/08/vin1.jpg" alt="" width="700" height="500" srcset="/media/vin1.jpg 700w, /media/vin1-300x214.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>

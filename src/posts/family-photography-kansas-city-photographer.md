@@ -1,14 +1,13 @@
 ---
-title: 'Family Photography'
-description: '<p>Real smiles.  That&apos;s my goal.  Always.  It&apos;s not always easy, especially when kids are 3 and over.  That&apos;s when they [&hellip;]</p>
-'
-publishDate: 'Dec 31, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/hayes6.jpg'
-alt: 'Family Photography'
-slug: 'family-photography-kansas-city-photographer'
-category: ['Family Pictures']
-tags: ['Family Photography','Family Pictures','Family Portraits']
+title: "Family Photography"
+description: "Real smiles.  That&apos;s my goal.  Always.  It&apos;s not always easy, especially when kids are 3 and over.  That&apos;s when they "
+publishDate: "Dec 31, 2012"
+author: "Allison Carenza"
+heroImage: "/media/hayes6.jpg"
+alt: "Family Photography"
+slug: "family-photography-kansas-city-photographer"
+category: ["Family Pictures"]
+tags: ["Family Photography", "Family Pictures", "Family Portraits"]
 ---
 
 <p style="text-align: center;">Real smiles.  That&apos;s my goal.  Always.  It&apos;s not always easy, especially when kids are 3 and over.  That&apos;s when they start giving me the cheese smile.  I never say cheese for that very reason.  You know what I&apos;m talking about, teeth clenched, blank eyes, and tight shoulders.  I delete those photos, because I&apos;m always going for real smiles.  The ones where I can see right into the souls of my subjects.  It&apos;s what we want to remember.</p>

@@ -1,14 +1,13 @@
 ---
-title: 'Elizabeth'
-description: '<p>This is Elizabeth!  She is the most photogenic, patient, loving 5 year old I have seen in a long time. [&hellip;]</p>
-'
-publishDate: 'Mar 24, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/hu41.jpg'
-alt: 'Elizabeth'
-slug: 'elizabeth'
-category: ['Children Photography','Family Pictures']
-tags: ['Blue Springs','Families','Kansas City','Portrait Photography']
+title: "Elizabeth"
+description: "This is Elizabeth!  She is the most photogenic, patient, loving 5 year old I have seen in a long time."
+publishDate: "Mar 24, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/hu41.jpg"
+alt: "Elizabeth"
+slug: "elizabeth"
+category: ["Children Photography", "Family Pictures"]
+tags: ["Blue Springs", "Families", "Kansas City", "Portrait Photography"]
 ---
 
 <p><a rel="attachment wp-att-545" href="http://www.allisoncarenza.com/studio/archives/551/hu4-2"><img class="aligncenter size-full wp-image-545" title="hu4" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/03/hu41.jpg" alt="" width="400" height="600" srcset="/media/hu41.jpg 400w, /media/hu41-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>

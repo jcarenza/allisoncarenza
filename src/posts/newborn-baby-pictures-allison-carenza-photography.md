@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Baby Pictures'
-description: '<p>From the soft hair on their shoulder, to the light flakey skin on their feet, and the teeny tiny finger [&hellip;]</p>
-'
-publishDate: 'Jun 6, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/merrick4.jpg'
-alt: 'Newborn Baby Pictures'
-slug: 'newborn-baby-pictures-allison-carenza-photography'
-category: ['Newborn Photography']
-tags: ['Blue Springs Photographer','Kansas City Newborn Photographer','Newborn Photography','Newborn Pictures']
+title: "Newborn Baby Pictures"
+description: "From the soft hair on their shoulder, to the light flakey skin on their feet, and the teeny tiny finger "
+publishDate: "Jun 6, 2012"
+author: "Allison Carenza"
+heroImage: "/media/merrick4.jpg"
+alt: "Newborn Baby Pictures"
+slug: "newborn-baby-pictures-allison-carenza-photography"
+category: ["Newborn Photography"]
+tags: ["Blue Springs Photographer", "Kansas City Newborn Photographer", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">

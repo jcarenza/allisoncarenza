@@ -1,14 +1,13 @@
 ---
-title: 'Wedding Photography'
-description: '<p>The style of wedding photography that is &#8220;in&#8221; right now is the details.  The Martha Stewart wedding magazine kinda pics. [&hellip;]</p>
-'
-publishDate: 'Jun 30, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/ja1a.jpg'
-alt: 'Wedding Photography'
-slug: 'wedding-photography-kansas-city'
-category: ['Wedding Photos']
-tags: ['Kansas City Photographer','Weddings']
+title: "Wedding Photography"
+description: "The style of wedding photography that is &#8220;in&#8221; right now is the details.  The Martha Stewart wedding magazine kinda pics."
+publishDate: "Jun 30, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/ja1a.jpg"
+alt: "Wedding Photography"
+slug: "wedding-photography-kansas-city"
+category: ["Wedding Photos"]
+tags: ["Kansas City Photographer", "Weddings"]
 ---
 
 <p style="text-align: center;">The style of wedding photography that is &#8220;in&#8221; right now is the details.  The Martha Stewart wedding magazine kinda pics.  And while those details make pretty pretty pictures, they don&apos;t tell the story the way I want to tell this story.  This is indeed a story of Jamie and Tim and the love they shared on their wedding day, and a little about being a wedding photographer too.</p>

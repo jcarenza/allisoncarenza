@@ -1,14 +1,13 @@
 ---
-title: 'Chloe&apos;s First Birthday'
-description: '<p>Meet Chloe!  She was the winner of my first baby photo contest on facebook.  There were over 50 entries and [&hellip;]</p>
-'
-publishDate: 'Mar 8, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/chloe9.jpg'
-alt: 'Chloe&apos;s First Birthday'
-slug: 'chloes-first-birthday'
-category: ['Baby Photography','Children Photography']
-tags: ['Baby Photographer','Children','Kansas City']
+title: "Chloe&apos;s First Birthday"
+description: "Meet Chloe!  She was the winner of my first baby photo contest on facebook.  There were over 50 entries and "
+publishDate: "Mar 8, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/chloe9.jpg"
+alt: "Chloe&apos;s First Birthday"
+slug: "chloes-first-birthday"
+category: ["Baby Photography", "Children Photography"]
+tags: ["Baby Photographer", "Children", "Kansas City"]
 ---
 
 <p style="text-align: center;">Meet Chloe!  She was the winner of my first baby photo contest on facebook.  There were over 50 entries and 500 votes.  Chloe was the adorable winner.</p>

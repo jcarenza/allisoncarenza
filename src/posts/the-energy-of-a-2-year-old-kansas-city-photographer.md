@@ -1,14 +1,13 @@
 ---
-title: 'The energy of a 2 year old Photographer'
-description: '<p>This is Jacob and by lookng at this picture you&apos;re probably thinking he is totally posing.  Well, think again.  Jacob [&hellip;]</p>
-'
-publishDate: 'Aug 30, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/1year2.jpg'
-alt: 'The energy of a 2 year old Photographer'
-slug: 'the-energy-of-a-2-year-old-kansas-city-photographer'
-category: ['Children Photography']
-tags: ['Blue Springs Photographer','Children','Lees Summit Photographer']
+title: "The energy of a 2 year old Photographer"
+description: "This is Jacob and by lookng at this picture you&apos;re probably thinking he is totally posing.  Well, think again.  Jacob "
+publishDate: "Aug 30, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/1year2.jpg"
+alt: "The energy of a 2 year old Photographer"
+slug: "the-energy-of-a-2-year-old-kansas-city-photographer"
+category: ["Children Photography"]
+tags: ["Blue Springs Photographer", "Children", "Lees Summit Photographer"]
 ---
 
 <p><a rel="attachment wp-att-1327" href="http://www.allisoncarenza.com/archives/1325/1year2"><img class="aligncenter size-full wp-image-1327" title="1year2" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/08/1year2.jpg" alt="" width="750" height="500" srcset="/media/1year2.jpg 750w, /media/1year2-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>

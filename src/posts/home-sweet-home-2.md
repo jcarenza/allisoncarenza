@@ -1,14 +1,13 @@
 ---
-title: 'Home Sweet Home'
-description: '<p>I&apos;m home and so happy to be able to catch up on some processing, but first I wanted to share [&hellip;]</p>
-'
-publishDate: 'Feb 16, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/02/at2.jpg'
-alt: 'Home Sweet Home'
-slug: 'home-sweet-home-2'
-category: ['Artistic']
-tags: ['Artistic Tile','Commercial Shoot','New York City']
+title: "Home Sweet Home"
+description: "I&apos;m home and so happy to be able to catch up on some processing, but first I wanted to share "
+publishDate: "Feb 16, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/02/at2.jpg"
+alt: "Home Sweet Home"
+slug: "home-sweet-home-2"
+category: ["Artistic"]
+tags: ["Artistic Tile", "Commercial Shoot", "New York City"]
 ---
 
 <p style="text-align: center;">I&apos;m home and so happy to be able to catch up on some processing, but first I wanted to share a pic Jon took with our new <a href="http://shop.usa.canon.com/webapp/wcs/stores/servlet/product_10051_10051_255917_-1">powershot G12</a> at the shoot on Sunday.   It&apos;s a great little camera to keep in my purse and it has good glass and high ISO capabilites.  So excited to see what this little guy can do out and about.  Maybe I&apos;ll stop lugging my D3 around in my purse.</p>

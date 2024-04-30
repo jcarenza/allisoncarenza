@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Pictures Photography'
-description: '<p>Remember beautiful Mecia with the prefect belly.  Well this is her baby Jonah.  He is big and beautiful.  We had [&hellip;]</p>
-'
-publishDate: 'May 20, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/jon2.jpg'
-alt: 'Newborn Pictures Photography'
-slug: 'newborn-pictureskansas-city-photography'
-category: ['Newborn Photography']
-tags: ['Kansas City Photographer','Kansas City Photography']
+title: "Newborn Pictures Photography"
+description: "Remember beautiful Mecia with the prefect belly.  Well this is her baby Jonah.  He is big and beautiful.  We had "
+publishDate: "May 20, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/jon2.jpg"
+alt: "Newborn Pictures Photography"
+slug: "newborn-pictureskansas-city-photography"
+category: ["Newborn Photography"]
+tags: ["Kansas City Photographer", "Kansas City Photography"]
 ---
 
 <p style="text-align: center;">Remember beautiful Mecia with the prefect belly.  Well this is her baby Jonah.  He is big and beautiful.  We had a great time taking his pictures even though he wanted to eat the ENTIRE time.  That&apos;s what makes newborns a challenge.  Being that these little guys have only been on Earth a few days  or weeks it&apos;s hard to predict their mood.  Jonah&apos;s mood was easy... hungry.  Despite the hunger we managed to get him to go to sleep for a bit and caputre some perfect pictures.  Here are just a few.</p>

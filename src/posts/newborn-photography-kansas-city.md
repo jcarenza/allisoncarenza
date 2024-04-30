@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Photography'
-description: '<p>Meet Riley!  Looking at this adorable pic you might find it hard to believe she&apos;s just a newborn.  The seriousness [&hellip;]</p>
-'
-publishDate: 'Jul 13, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/ja11.jpg'
-alt: 'Newborn Photography'
-slug: 'newborn-photography-kansas-city'
-category: ['Newborn Photography']
-tags: ['Kansas City Photographer']
+title: "Newborn Photography"
+description: "Meet Riley!  Looking at this adorable pic you might find it hard to believe she&apos;s just a newborn.  The seriousness "
+publishDate: "Jul 13, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/ja11.jpg"
+alt: "Newborn Photography"
+slug: "newborn-photography-kansas-city"
+category: ["Newborn Photography"]
+tags: ["Kansas City Photographer"]
 ---
 
 <p><a rel="attachment wp-att-1066" href="http://www.allisoncarenza.com/archives/1060/ja1-3"><img class="aligncenter size-full wp-image-1066" title="ja1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/07/ja11.jpg" alt="" width="750" height="500" /></a></p>

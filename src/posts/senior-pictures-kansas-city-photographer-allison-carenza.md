@@ -1,14 +1,13 @@
 ---
-title: 'Senior pictures'
-description: '<p>I have been photographing a lot of seniors this month and it&apos;s been so fun.  One...they listen and stay in [&hellip;]</p>
-'
-publishDate: 'May 14, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/madyson2.jpg'
-alt: 'Senior pictures'
-slug: 'senior-pictures-kansas-city-photographer-allison-carenza'
-category: ['Senior Pictures']
-tags: ['Blue Springs Photographer','High School Pictures','Senior Pictures','Senior Pictures']
+title: "Senior pictures"
+description: "I have been photographing a lot of seniors this month and it&apos;s been so fun.  One...they listen and stay in "
+publishDate: "May 14, 2012"
+author: "Allison Carenza"
+heroImage: "/media/madyson2.jpg"
+alt: "Senior pictures"
+slug: "senior-pictures-kansas-city-photographer-allison-carenza"
+category: ["Senior Pictures"]
+tags: ["Blue Springs Photographer", "High School Pictures", "Senior Pictures", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">I have been photographing a lot of seniors this month and it&apos;s been so fun.  One...they listen and stay in one place.  🙂  Two...it&apos;s like I&apos;m capturing the big ending, but even more importantly the great beginning.  I love it, and I loved taking these pics.</p>

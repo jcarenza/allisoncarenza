@@ -1,14 +1,13 @@
 ---
-title: 'Smiley Little One'
-description: '<p>Ok, honestly I&apos;ve started this post several times only to delete it, and start again.  I just don&apos;t want to [&hellip;]</p>
-'
-publishDate: 'Aug 17, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/arm1.jpg'
-alt: 'Smiley Little One'
-slug: 'smiley-little-one-allison-carenza-kansas-city-photographer'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Kansas City Newborn Photographer','Kansas City Photographer','Newborn Photography']
+title: "Smiley Little One"
+description: "Ok, honestly I&apos;ve started this post several times only to delete it, and start again.  I just don&apos;t want to "
+publishDate: "Aug 17, 2012"
+author: "Allison Carenza"
+heroImage: "/media/arm1.jpg"
+alt: "Smiley Little One"
+slug: "smiley-little-one-allison-carenza-kansas-city-photographer"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Kansas City Newborn Photographer", "Kansas City Photographer", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">

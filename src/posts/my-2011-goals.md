@@ -1,14 +1,13 @@
 ---
-title: 'My 2011 Goals'
-description: '<p>Last year I made a list of goals.  It was really more of a 5 year plan.  Little did I [&hellip;]</p>
-'
-publishDate: 'Jan 1, 2011'
-author: 'Allison Carenza'
-heroImage: ''
-alt: 'My 2011 Goals'
-slug: 'my-2011-goals'
-category: ['About Allison']
-tags: ['Goals','Kansas City Photographer','Photography']
+title: "My 2011 Goals"
+description: "Last year I made a list of goals.  It was really more of a 5 year plan.  Little did I "
+publishDate: "Jan 1, 2011"
+author: "Allison Carenza"
+heroImage: ""
+alt: "My 2011 Goals"
+slug: "my-2011-goals"
+category: ["About Allison"]
+tags: ["Goals", "Kansas City Photographer", "Photography"]
 ---
 
 <p>Last year I made a list of goals.  It was really more of a 5 year plan.  Little did I know that when I put my mind to something, great things can happen, and sometime saying it out loud does help.  So before I go into my 2011 goals I need to take a look back.    These were posted exactly one year ago today.</p>

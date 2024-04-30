@@ -1,14 +1,13 @@
 ---
-title: 'Award Winner!'
-description: '<p>With 186 votes little Jackson&apos;s photo won my facebook photo contest!  Here is the winning photo!   A big thanks [&hellip;]</p>
-'
-publishDate: 'Aug 3, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/jackson-686x1024.jpg'
-alt: 'Award Winner!'
-slug: 'award-winner'
-category: ['Children Photography']
-tags: ['Baby Photographer','Blue Springs Photographer','Kansas City Photography','Lees Summit Photographer']
+title: "Award Winner!"
+description: "With 186 votes little Jackson&apos;s photo won my facebook photo contest!  Here is the winning photo!   A big thanks "
+publishDate: "Aug 3, 2011"
+author: "Allison Carenza"
+heroImage: "/media/jackson-686x1024.jpg"
+alt: "Award Winner!"
+slug: "award-winner"
+category: ["Children Photography"]
+tags: ["Baby Photographer", "Blue Springs Photographer", "Kansas City Photography", "Lees Summit Photographer"]
 ---
 
 <p style="text-align: center;">With 186 votes little Jackson&apos;s photo won my facebook photo contest!  Here is the winning photo!</p>

@@ -1,14 +1,13 @@
 ---
-title: 'Marketing Tips'
-description: '<p>A few weeks ago Jon looked up from his mac and said &#8220;you&apos;re a little marketing facebook wizard&#8221;.  My immediate [&hellip;]</p>
-'
-publishDate: 'Aug 16, 2010'
-author: 'Allison Carenza'
-heroImage: ''
-alt: 'Marketing Tips'
-slug: 'marketing-tips'
-category: ['Photo Tips']
-tags: ['Advertising in Photography','Branding','Kansas City Photographer','Marketing Tips','Social Media Marketing']
+title: "Marketing Tips"
+description: "A few weeks ago Jon looked up from his mac and said &#8220;you&apos;re a little marketing facebook wizard&#8221;.  My immediate "
+publishDate: "Aug 16, 2010"
+author: "Allison Carenza"
+heroImage: ""
+alt: "Marketing Tips"
+slug: "marketing-tips"
+category: ["Photo Tips"]
+tags: ["Advertising in Photography", "Branding", "Kansas City Photographer", "Marketing Tips", "Social Media Marketing"]
 ---
 
 <p>A few weeks ago Jon looked up from his mac and said &#8220;you&apos;re a little marketing facebook wizard&#8221;.  My immediate response, &#8220;Does that mean I can go to Hogwarts?&#8221;</p>

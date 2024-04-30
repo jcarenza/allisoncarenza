@@ -1,13 +1,12 @@
 ---
-title: 'Family photos'
-description: '<p>Summer is finally here, and with it comes beautiful light, long days, and hot hot sun!  I meet the Vinson&apos;s [&hellip;]</p>
-'
-publishDate: 'Jun 24, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/venn2.jpg'
-alt: 'Family photos'
-slug: 'family-photos-3'
-category: ['Baby Photography','Family Pictures']
+title: "Family photos"
+description: "Summer is finally here, and with it comes beautiful light, long days, and hot hot sun!  I meet the Vinson&apos;s "
+publishDate: "Jun 24, 2013"
+author: "Allison Carenza"
+heroImage: "/media/venn2.jpg"
+alt: "Family photos"
+slug: "family-photos-3"
+category: ["Baby Photography", "Family Pictures"]
 tags: []
 ---
 

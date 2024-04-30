@@ -1,14 +1,13 @@
 ---
-title: '5 fabs and 5 drabs'
-description: '<p>Every now and then I open my eyes and realize all kind of craziness is happening around me.  I mean [&hellip;]</p>
-'
-publishDate: 'May 3, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/w6.jpg'
-alt: '5 fabs and 5 drabs'
-slug: '5-fabs-and-5-drabs'
-category: ['Artistic']
-tags: ['Kansas City Winter']
+title: "5 fabs and 5 drabs"
+description: "Every now and then I open my eyes and realize all kind of craziness is happening around me.  I mean "
+publishDate: "May 3, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/w6.jpg"
+alt: "5 fabs and 5 drabs"
+slug: "5-fabs-and-5-drabs"
+category: ["Artistic"]
+tags: ["Kansas City Winter"]
 ---
 
 <p><strong>Every now and then I open my eyes and realize all kind of craziness is happening around me.  I mean seriously fabulous things, and seriously drab things.  So I decided every now and then I should document these monumental moments in my life.  Ok mostly not monumental, but still important.  Somewhat important anyway.  Here are my 5 fabs for the week...</strong></p>

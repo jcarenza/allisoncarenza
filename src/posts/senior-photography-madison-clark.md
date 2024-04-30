@@ -1,14 +1,13 @@
 ---
-title: 'Senior Photography ~ Madison Clark'
-description: '<p>Meet Madison.  College bound and ready to end her high school career and move towards becoming a doctor.  She&apos;s athletic, [&hellip;]</p>
-'
-publishDate: 'Jun 7, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/m1.jpg'
-alt: 'Senior Photography ~ Madison Clark'
-slug: 'senior-photography-madison-clark'
-category: ['Senior Pictures']
-tags: ['Blue Springs Photographer','Senior Pictures','Kansas City  Senior Photographer','Senior Pictures','Senior Pictures']
+title: "Senior Photography ~ Madison Clark"
+description: "Meet Madison.  College bound and ready to end her high school career and move towards becoming a doctor.  She&apos;s athletic, "
+publishDate: "Jun 7, 2013"
+author: "Allison Carenza"
+heroImage: "/media/m1.jpg"
+alt: "Senior Photography ~ Madison Clark"
+slug: "senior-photography-madison-clark"
+category: ["Senior Pictures"]
+tags: ["Blue Springs Photographer", "Senior Pictures", "Kansas City  Senior Photographer", "Senior Pictures", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">

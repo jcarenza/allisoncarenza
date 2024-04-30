@@ -1,14 +1,13 @@
 ---
-title: '6 months and growing'
-description: '<p>It&apos;s alarming just how fast 6 months go by!  It seems like just yesterday I was taking Krystal and Nic&apos;s [&hellip;]</p>
-'
-publishDate: 'Jun 20, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/boggs2.jpg'
-alt: '6 months and growing'
-slug: '6-months-and-growing'
-category: ['Baby Photography']
-tags: ['6 month pictures','Baby Photography','Baby Pictures']
+title: "6 months and growing"
+description: "It&apos;s alarming just how fast 6 months go by!  It seems like just yesterday I was taking Krystal and Nic&apos;s "
+publishDate: "Jun 20, 2013"
+author: "Allison Carenza"
+heroImage: "/media/boggs2.jpg"
+alt: "6 months and growing"
+slug: "6-months-and-growing"
+category: ["Baby Photography"]
+tags: ["6 month pictures", "Baby Photography", "Baby Pictures"]
 ---
 
 <p style="text-align: center;">

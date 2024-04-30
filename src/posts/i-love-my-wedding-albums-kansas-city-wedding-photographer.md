@@ -1,14 +1,13 @@
 ---
-title: 'I love my wedding albums!  Wedding photographer'
-description: '<p>I&apos;m really hard on my work.  I pick it apart.  I expect excellence from myself.  But, when the wedding album [&hellip;]</p>
-'
-publishDate: 'Jan 16, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/album7.jpg'
-alt: 'I love my wedding albums!  Wedding photographer'
-slug: 'i-love-my-wedding-albums-kansas-city-wedding-photographer'
-category: ['Wedding Photos']
-tags: ['Kansas City Wedding Photographer','Wedding Albums']
+title: "I love my wedding albums!  Wedding photographer"
+description: "I&apos;m really hard on my work.  I pick it apart.  I expect excellence from myself.  But, when the wedding album "
+publishDate: "Jan 16, 2012"
+author: "Allison Carenza"
+heroImage: "/media/album7.jpg"
+alt: "I love my wedding albums!  Wedding photographer"
+slug: "i-love-my-wedding-albums-kansas-city-wedding-photographer"
+category: ["Wedding Photos"]
+tags: ["Kansas City Wedding Photographer", "Wedding Albums"]
 ---
 
 <p style="text-align: center;">I&apos;m really hard on my work.  I pick it apart.  I expect excellence from myself.  But, when the wedding album arrives on my doorstep all that goes away and I just love the look of my work!  It&apos;s like a shiny present that I don&apos;t get to keep.</p>

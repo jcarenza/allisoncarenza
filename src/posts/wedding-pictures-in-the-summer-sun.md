@@ -1,14 +1,13 @@
 ---
-title: 'Wedding pictures in the summer sun...'
-description: '<p>It was a smoldering hot August day, but nothing could compete with sultry Jamie and her fierce passion for Ryan.  I was [&hellip;]</p>
-'
-publishDate: 'Aug 4, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/jamie10.jpg'
-alt: 'Wedding pictures in the summer sun...'
-slug: 'wedding-pictures-in-the-summer-sun'
-category: ['Wedding Photos']
-tags: ['Kansas City Wedding Photography','Wedding Photography']
+title: "Wedding pictures in the summer sun..."
+description: "It was a smoldering hot August day, but nothing could compete with sultry Jamie and her fierce passion for Ryan.  I was "
+publishDate: "Aug 4, 2011"
+author: "Allison Carenza"
+heroImage: "/media/jamie10.jpg"
+alt: "Wedding pictures in the summer sun..."
+slug: "wedding-pictures-in-the-summer-sun"
+category: ["Wedding Photos"]
+tags: ["Kansas City Wedding Photography", "Wedding Photography"]
 ---
 
 <p style="text-align: center;">It was a smoldering hot August day, but nothing could compete with sultry Jamie and her fierce passion for Ryan.  I was the lucky photographer that got to capture it.  These are just a few of my favorites from our time together!  Check it, it&apos;s HOT!</p>

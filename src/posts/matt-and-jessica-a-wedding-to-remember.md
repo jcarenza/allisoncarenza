@@ -1,14 +1,13 @@
 ---
-title: 'Matt and Jessica ~ A wedding to remember.'
-description: '<p>Matt and Jessica booked me via Skype after an hour internet conversation where we laughed more than we talked, they [&hellip;]</p>
-'
-publishDate: 'Jan 9, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/jandm1.jpg'
-alt: 'Matt and Jessica ~ A wedding to remember.'
-slug: 'matt-and-jessica-a-wedding-to-remember'
-category: ['Wedding Photos']
-tags: ['Kansas City Photographer','Kansas City Wedding Photographer','Wedding Photography','Wedding Pictures']
+title: "Matt and Jessica ~ A wedding to remember."
+description: "Matt and Jessica booked me via Skype after an hour internet conversation where we laughed more than we talked, they "
+publishDate: "Jan 9, 2013"
+author: "Allison Carenza"
+heroImage: "/media/jandm1.jpg"
+alt: "Matt and Jessica ~ A wedding to remember."
+slug: "matt-and-jessica-a-wedding-to-remember"
+category: ["Wedding Photos"]
+tags: ["Kansas City Photographer", "Kansas City Wedding Photographer", "Wedding Photography", "Wedding Pictures"]
 ---
 
 <p style="text-align: center;">

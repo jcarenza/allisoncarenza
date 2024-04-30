@@ -1,14 +1,13 @@
 ---
-title: 'Senior portraits'
-description: '<p>Kylie is a Blue Springs South senior.  She loves life and lights up any room she walks in, and I [&hellip;]</p>
-'
-publishDate: 'Oct 31, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/kylie3.jpg'
-alt: 'Senior portraits'
-slug: 'senior-portraits-allison-carenza-photography'
-category: ['Senior Pictures']
-tags: ['Senior Photos','Senior Pictures','Kansas City Photographer','Senior Pictures']
+title: "Senior portraits"
+description: "Kylie is a Blue Springs South senior.  She loves life and lights up any room she walks in, and I "
+publishDate: "Oct 31, 2012"
+author: "Allison Carenza"
+heroImage: "/media/kylie3.jpg"
+alt: "Senior portraits"
+slug: "senior-portraits-allison-carenza-photography"
+category: ["Senior Pictures"]
+tags: ["Senior Photos", "Senior Pictures", "Kansas City Photographer", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">

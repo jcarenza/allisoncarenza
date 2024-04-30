@@ -1,14 +1,13 @@
 ---
-title: 'Twins photographer'
-description: '<p>When Brooke contacted me and told me she wanted photographs of her twin identical babies and 2 year old  I [&hellip;]</p>
-'
-publishDate: 'Nov 30, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/mur5.jpg'
-alt: 'Twins photographer'
-slug: 'twin-kansas-city-photographer'
-category: ['Children Photography','Newborn Photography']
-tags: ['Kansas City Photography','Newborn','Twin Photography']
+title: "Twins photographer"
+description: "When Brooke contacted me and told me she wanted photographs of her twin identical babies and 2 year old  I "
+publishDate: "Nov 30, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/mur5.jpg"
+alt: "Twins photographer"
+slug: "twin-kansas-city-photographer"
+category: ["Children Photography", "Newborn Photography"]
+tags: ["Kansas City Photography", "Newborn", "Twin Photography"]
 ---
 
 <p><a rel="attachment wp-att-1834" href="http://www.allisoncarenza.com/archives/1829/mur5"><img class="aligncenter size-full wp-image-1834" title="mur5" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/11/mur5.jpg" alt="" width="750" height="499" srcset="/media/mur5.jpg 750w, /media/mur5-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>

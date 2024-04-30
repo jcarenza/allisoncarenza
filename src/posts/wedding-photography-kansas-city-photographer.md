@@ -1,14 +1,13 @@
 ---
-title: 'Wedding Photography Photographer'
-description: '<p>Their love is solid, strong, and capable of dealing with anything.  And on this day, their day, it was all [&hellip;]</p>
-'
-publishDate: 'Jun 24, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/w11.jpg'
-alt: 'Wedding Photography Photographer'
-slug: 'wedding-photography-kansas-city-photographer'
-category: ['Wedding Photos']
-tags: ['Kansas City Photographer','Kansas City Wedding Photography','Wedding Photographer','Wedding Photography']
+title: "Wedding Photography Photographer"
+description: "Their love is solid, strong, and capable of dealing with anything.  And on this day, their day, it was all "
+publishDate: "Jun 24, 2011"
+author: "Allison Carenza"
+heroImage: "/media/w11.jpg"
+alt: "Wedding Photography Photographer"
+slug: "wedding-photography-kansas-city-photographer"
+category: ["Wedding Photos"]
+tags: ["Kansas City Photographer", "Kansas City Wedding Photography", "Wedding Photographer", "Wedding Photography"]
 ---
 
 <p style="text-align: center;">Their love is solid, strong, and capable of dealing with anything.  And on this day, their day, it was all about them.  While Allison is quiet, a little shy, and drop dead gorgeous.  Matt is the talker, a real funny guy, and happy to make others laugh.  Together, they are a team.</p>

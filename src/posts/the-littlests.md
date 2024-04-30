@@ -1,14 +1,13 @@
 ---
-title: 'The Littlests'
-description: '<p>I can&apos;t get enough of newborns.  In fact, if it&apos;s been a few days I miss them.  I love photographing [&hellip;]</p>
-'
-publishDate: 'Oct 22, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/andri3.jpg'
-alt: 'The Littlests'
-slug: 'the-littlests'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Newborn Baby','Newborn Photography','Newborn Pictures']
+title: "The Littlests"
+description: "I can&apos;t get enough of newborns.  In fact, if it&apos;s been a few days I miss them.  I love photographing "
+publishDate: "Oct 22, 2012"
+author: "Allison Carenza"
+heroImage: "/media/andri3.jpg"
+alt: "The Littlests"
+slug: "the-littlests"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Newborn Baby", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">

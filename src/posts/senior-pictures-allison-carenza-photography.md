@@ -1,14 +1,13 @@
 ---
-title: 'Senior Pictures'
-description: '<p>When Robin called to tell me she needed to schedule her daughter Maggie&apos;s senior pictures I just knew it was [&hellip;]</p>
-'
-publishDate: 'Sep 25, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/maggie1.jpg'
-alt: 'Senior Pictures'
-slug: 'senior-pictures-allison-carenza-photography'
-category: ['Senior Pictures']
-tags: ['Blue Springs High School','Senior Pictures','Senior Pictures']
+title: "Senior Pictures"
+description: "When Robin called to tell me she needed to schedule her daughter Maggie&apos;s senior pictures I just knew it was "
+publishDate: "Sep 25, 2012"
+author: "Allison Carenza"
+heroImage: "/media/maggie1.jpg"
+alt: "Senior Pictures"
+slug: "senior-pictures-allison-carenza-photography"
+category: ["Senior Pictures"]
+tags: ["Blue Springs High School", "Senior Pictures", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">When Robin called to tell me she needed to schedule her daughter Maggie&apos;s senior pictures I just knew it was going to be a great shoot.  Anyone with the name Maggie has a fabulous personality.  And as it turns out I was right!</p>

@@ -1,13 +1,12 @@
 ---
-title: 'Hot Wedding, Mexican style!'
-description: '<p>With 12 of their closest friends there to witness, and the warm sea breeze at their backs, Cara and Ian [&hellip;]</p>
-'
-publishDate: 'Jul 22, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/ci21.jpg'
-alt: 'Hot Wedding, Mexican style!'
-slug: 'hot-wedding-mexican-style'
-category: ['Wedding Photos']
+title: "Hot Wedding, Mexican style!"
+description: "With 12 of their closest friends there to witness, and the warm sea breeze at their backs, Cara and Ian "
+publishDate: "Jul 22, 2011"
+author: "Allison Carenza"
+heroImage: "/media/ci21.jpg"
+alt: "Hot Wedding, Mexican style!"
+slug: "hot-wedding-mexican-style"
+category: ["Wedding Photos"]
 tags: []
 ---
 

@@ -1,14 +1,13 @@
 ---
-title: 'All tuckered out...'
-description: '<p>   Meet little Tucker.  As you can see he&apos;s all tuckered out.  I got to spend the morning with this [&hellip;]</p>
-'
-publishDate: 'May 13, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/g5.jpg'
-alt: 'All tuckered out...'
-slug: 'all-tuckered-out'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Kansas City Photographer','Newborn Photography','Newborn Pictures']
+title: "All tuckered out..."
+description: "   Meet little Tucker.  As you can see he&apos;s all tuckered out.  I got to spend the morning with this "
+publishDate: "May 13, 2013"
+author: "Allison Carenza"
+heroImage: "/media/g5.jpg"
+alt: "All tuckered out..."
+slug: "all-tuckered-out"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Kansas City Photographer", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">

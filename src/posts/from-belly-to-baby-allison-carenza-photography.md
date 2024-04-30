@@ -1,14 +1,13 @@
 ---
-title: 'From belly to baby!'
-description: '<p>Meet Cori!  She&apos;s a devoted momma, loving wife, and beautiful pregnant woman that I had the honor of photographing. 🙂 [&hellip;]</p>
-'
-publishDate: 'Jan 7, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/cori1.jpg'
-alt: 'From belly to baby!'
-slug: 'from-belly-to-baby-allison-carenza-photography'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Infant Photography','Maternity Images','Maternity Photos','Maternity Pictures','Newborn Photography','Newborn Pictures']
+title: "From belly to baby!"
+description: "Meet Cori!  She&apos;s a devoted momma, loving wife, and beautiful pregnant woman that I had the honor of photographing. 🙂 "
+publishDate: "Jan 7, 2013"
+author: "Allison Carenza"
+heroImage: "/media/cori1.jpg"
+alt: "From belly to baby!"
+slug: "from-belly-to-baby-allison-carenza-photography"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Infant Photography", "Maternity Images", "Maternity Photos", "Maternity Pictures", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">Meet Cori!  She&apos;s a devoted momma, loving wife, and beautiful pregnant woman that I had the honor of photographing. 🙂</p>

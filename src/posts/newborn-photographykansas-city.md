@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Photography'
-description: '<p>This story starts like any good newborn story, with a belly. A perfect belly, beautiful really.  This belly belongs to [&hellip;]</p>
-'
-publishDate: 'Sep 9, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/hor7.jpg'
-alt: 'Newborn Photography'
-slug: 'newborn-photographykansas-city'
-category: ['Newborn Photography']
-tags: ['Kansas City Photographer']
+title: "Newborn Photography"
+description: "This story starts like any good newborn story, with a belly. A perfect belly, beautiful really.  This belly belongs to "
+publishDate: "Sep 9, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/hor7.jpg"
+alt: "Newborn Photography"
+slug: "newborn-photographykansas-city"
+category: ["Newborn Photography"]
+tags: ["Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">This story starts like any good newborn story, with a belly.</p>

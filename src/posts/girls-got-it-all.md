@@ -1,13 +1,12 @@
 ---
-title: 'Girls got it all!'
-description: '<p>She the triple threat, so smart, so beautiful, and such a big personality!  Meet Laura, a Blue Springs senior ready [&hellip;]</p>
-'
-publishDate: 'Jul 30, 2014'
-author: 'Allison Carenza'
-heroImage: '/media/laura1.jpg'
-alt: 'Girls got it all!'
-slug: 'girls-got-it-all'
-category: ['Senior Pictures']
+title: "Girls got it all!"
+description: "She the triple threat, so smart, so beautiful, and such a big personality!  Meet Laura, a Blue Springs senior ready "
+publishDate: "Jul 30, 2014"
+author: "Allison Carenza"
+heroImage: "/media/laura1.jpg"
+alt: "Girls got it all!"
+slug: "girls-got-it-all"
+category: ["Senior Pictures"]
 tags: []
 ---
 

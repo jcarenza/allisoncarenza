@@ -1,14 +1,13 @@
 ---
-title: 'Baby Keegan'
-description: '<p>Meet little Christmas baby Keegan!  I&apos;ve know Keegan&apos;s momma Sarah since she was a tot herself.  We started our relationship [&hellip;]</p>
-'
-publishDate: 'Dec 28, 2016'
-author: 'Allison Carenza'
-heroImage: '/media/Keegan1.jpg'
-alt: 'Baby Keegan'
-slug: 'baby-keegan-newborn-photographer-baby-pictures'
-category: ['Newborn Photography']
-tags: ['Kansas City Newborn Photographer','Kansas City Newborn Photography','Lees Summit Photographer','Newborn Pictures']
+title: "Baby Keegan"
+description: "Meet little Christmas baby Keegan!  I&apos;ve know Keegan&apos;s momma Sarah since she was a tot herself.  We started our relationship "
+publishDate: "Dec 28, 2016"
+author: "Allison Carenza"
+heroImage: "/media/Keegan1.jpg"
+alt: "Baby Keegan"
+slug: "baby-keegan-newborn-photographer-baby-pictures"
+category: ["Newborn Photography"]
+tags: ["Kansas City Newborn Photographer", "Kansas City Newborn Photography", "Lees Summit Photographer", "Newborn Pictures"]
 ---
 
 <p>Meet little Christmas baby Keegan!  I&apos;ve know Keegan&apos;s momma Sarah since she was a tot herself.  We started our relationship at Sierra Stables in Indep, riding horses, and participating in a local 4 H group. Yup.  I was a 4H er.</p>

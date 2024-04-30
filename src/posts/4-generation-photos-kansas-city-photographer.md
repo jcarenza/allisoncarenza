@@ -1,14 +1,13 @@
 ---
-title: '4 Generation Photos'
-description: '<p>And this is a four generation picture! Meet Great Grandma Cora, Grandma Karen, Mama Cindy, and Baby Kenley!  I know [&hellip;]</p>
-'
-publishDate: 'Apr 8, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/ba3.jpg'
-alt: '4 Generation Photos'
-slug: '4-generation-photos-kansas-city-photographer'
-category: ['Family Pictures']
-tags: ['Generations','Kansas City']
+title: "4 Generation Photos"
+description: "And this is a four generation picture! Meet Great Grandma Cora, Grandma Karen, Mama Cindy, and Baby Kenley!  I know "
+publishDate: "Apr 8, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/ba3.jpg"
+alt: "4 Generation Photos"
+slug: "4-generation-photos-kansas-city-photographer"
+category: ["Family Pictures"]
+tags: ["Generations", "Kansas City"]
 ---
 
 <p style="text-align: center;"><a rel="attachment wp-att-630" href="http://www.allisoncarenza.com/studio/archives/627/ba3"><img class="aligncenter size-full wp-image-630" title="ba3" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/04/ba3.jpg" alt="" width="600" height="400" /></a></p>

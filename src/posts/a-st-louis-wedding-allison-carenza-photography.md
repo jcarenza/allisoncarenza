@@ -1,14 +1,13 @@
 ---
-title: 'A St. Louis wedding'
-description: '<p>Just a short drive apart.  That&apos;s how Kelly and Tommy lived when they were in college at MU.  Just a [&hellip;]</p>
-'
-publishDate: 'Jul 27, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/kjw20.jpg'
-alt: 'A St. Louis wedding'
-slug: 'a-st-louis-wedding-allison-carenza-photography'
-category: ['Wedding Photos']
-tags: ['Wedding Photography','Wedding Photography Kansas City','Wedding Pictures']
+title: "A St. Louis wedding"
+description: "Just a short drive apart.  That&apos;s how Kelly and Tommy lived when they were in college at MU.  Just a "
+publishDate: "Jul 27, 2012"
+author: "Allison Carenza"
+heroImage: "/media/kjw20.jpg"
+alt: "A St. Louis wedding"
+slug: "a-st-louis-wedding-allison-carenza-photography"
+category: ["Wedding Photos"]
+tags: ["Wedding Photography", "Wedding Photography Kansas City", "Wedding Pictures"]
 ---
 
 <p style="text-align: center;">

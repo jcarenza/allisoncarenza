@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Pictures Photography'
-description: '<p>Meet darling Amy!    She&apos;s a new mom, and a military mom at that.  When we did her maternity pictures [&hellip;]</p>
-'
-publishDate: 'Mar 25, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/amy1.jpg'
-alt: 'Newborn Pictures Photography'
-slug: 'newborn-pictures-kansas-city-photography'
-category: ['Newborn Photography']
-tags: ['Newborn Photographer','Newborn Photography  Style']
+title: "Newborn Pictures Photography"
+description: "Meet darling Amy!    She&apos;s a new mom, and a military mom at that.  When we did her maternity pictures "
+publishDate: "Mar 25, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/amy1.jpg"
+alt: "Newborn Pictures Photography"
+slug: "newborn-pictures-kansas-city-photography"
+category: ["Newborn Photography"]
+tags: ["Newborn Photographer", "Newborn Photography  Style"]
 ---
 
 <p style="text-align: center;">Meet darling Amy!    She&apos;s a new mom, and a military mom at that.  When we did her maternity pictures she was so much fun.  Since it was just the two of us it was some seriously good girl time!</p>

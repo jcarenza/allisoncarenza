@@ -1,13 +1,12 @@
 ---
-title: 'Smiles, for real! , Blue Springs Photographer'
-description: '<p>Take 2 parts wild blondes, and one part adorable happy 5 month old and what do you get?  Picture perfection! [&hellip;]</p>
-'
-publishDate: 'Nov 29, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/schea5.jpg'
-alt: 'Smiles, for real! , Blue Springs Photographer'
-slug: 'smiles-for-real-kansas-city-blue-springs-photographer'
-category: ['Baby Photography','Children Photography','Family Pictures']
+title: "Smiles, for real! , Blue Springs Photographer"
+description: "Take 2 parts wild blondes, and one part adorable happy 5 month old and what do you get?  Picture perfection! "
+publishDate: "Nov 29, 2011"
+author: "Allison Carenza"
+heroImage: "/media/schea5.jpg"
+alt: "Smiles, for real! , Blue Springs Photographer"
+slug: "smiles-for-real-kansas-city-blue-springs-photographer"
+category: ["Baby Photography", "Children Photography", "Family Pictures"]
 tags: []
 ---
 

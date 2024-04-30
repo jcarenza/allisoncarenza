@@ -1,14 +1,13 @@
 ---
-title: 'What to expect when you&apos;re in a shoot with Allison Carenza.'
-description: '<p>These are the Horwitz babies, and they are growing up WAY too fast!  Thank goodness baby number 3 is on [&hellip;]</p>
-'
-publishDate: 'Sep 29, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/hor51.jpg'
-alt: 'What to expect when you&apos;re in a shoot with Allison Carenza.'
-slug: 'what-to-expect-when-youre-in-a-shoot-with-allison-carenza'
-category: ['Baby Photography','Children Photography']
-tags: ['Baby Photographer','Blue Springs Photographer','Children Photographer']
+title: "What to expect when you&apos;re in a shoot with Allison Carenza."
+description: "These are the Horwitz babies, and they are growing up WAY too fast!  Thank goodness baby number 3 is on "
+publishDate: "Sep 29, 2011"
+author: "Allison Carenza"
+heroImage: "/media/hor51.jpg"
+alt: "What to expect when you&apos;re in a shoot with Allison Carenza."
+slug: "what-to-expect-when-youre-in-a-shoot-with-allison-carenza"
+category: ["Baby Photography", "Children Photography"]
+tags: ["Baby Photographer", "Blue Springs Photographer", "Children Photographer"]
 ---
 
 <p style="text-align: center;">These are the Horwitz babies, and they are growing up WAY too fast!  Thank goodness baby number 3 is on the way, because I love taking their pictures.  I think the photos below will tell it all, but you need to know little Greyson was so perfect during our shoot he did everything I asked.  And Lyla, well she&apos;s just happy, and that makes her perfect.</p>

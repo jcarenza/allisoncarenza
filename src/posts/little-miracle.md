@@ -1,14 +1,13 @@
 ---
-title: 'Little Miracle...'
-description: '<p>&nbsp; From the pictures Simon looks like your typical 3 month old, but maybe a little cuter. 🙂  The truth [&hellip;]</p>
-'
-publishDate: 'Feb 7, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/spen3.jpg'
-alt: 'Little Miracle...'
-slug: 'little-miracle'
-category: ['Baby Photography']
-tags: ['3 month pictures','Baby Pictures','Kansas City Photographer']
+title: "Little Miracle..."
+description: "&nbsp; From the pictures Simon looks like your typical 3 month old, but maybe a little cuter. 🙂  The truth "
+publishDate: "Feb 7, 2013"
+author: "Allison Carenza"
+heroImage: "/media/spen3.jpg"
+alt: "Little Miracle..."
+slug: "little-miracle"
+category: ["Baby Photography"]
+tags: ["3 month pictures", "Baby Pictures", "Kansas City Photographer"]
 ---
 
 <p>&nbsp;</p>

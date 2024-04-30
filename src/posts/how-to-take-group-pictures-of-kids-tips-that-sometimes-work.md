@@ -1,14 +1,13 @@
 ---
-title: 'How to take group pictures of kids...tips that sometimes work.'
-description: '<p>There&apos;s really only one thing harder than herding cats...taking pics of 5 kids four years old and younger, and getting [&hellip;]</p>
-'
-publishDate: 'Jan 4, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/car9.jpg'
-alt: 'How to take group pictures of kids...tips that sometimes work.'
-slug: 'how-to-take-group-pictures-of-kids-tips-that-sometimes-work'
-category: ['Children Photography','Photo Tips']
-tags: ['Childrens Photography  Tips','Childrens Portraits','Family Pictures','Group Kid Photos','Kansas City','Kid Pictures','Photography Tips']
+title: "How to take group pictures of kids...tips that sometimes work."
+description: "There&apos;s really only one thing harder than herding cats...taking pics of 5 kids four years old and younger, and getting "
+publishDate: "Jan 4, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/car9.jpg"
+alt: "How to take group pictures of kids...tips that sometimes work."
+slug: "how-to-take-group-pictures-of-kids-tips-that-sometimes-work"
+category: ["Children Photography", "Photo Tips"]
+tags: ["Childrens Photography  Tips", "Childrens Portraits", "Family Pictures", "Group Kid Photos", "Kansas City", "Kid Pictures", "Photography Tips"]
 ---
 
 <p style="text-align: center;">There&apos;s really only one thing harder than herding cats...taking pics of 5 kids four years old and younger, and getting them to smile, and getting them to look at the camera, and getting them to sit still.</p>

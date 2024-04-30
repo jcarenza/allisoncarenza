@@ -1,13 +1,12 @@
 ---
-title: 'Sisters Photography'
-description: '<p>I grew up with a brother.  And he was older.  Which means I wore his clothes, played his sports, and [&hellip;]</p>
-'
-publishDate: 'Oct 3, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/fay3.jpg'
-alt: 'Sisters Photography'
-slug: 'sisters-allison-carenza-photography'
-category: ['Family Pictures']
+title: "Sisters Photography"
+description: "I grew up with a brother.  And he was older.  Which means I wore his clothes, played his sports, and "
+publishDate: "Oct 3, 2011"
+author: "Allison Carenza"
+heroImage: "/media/fay3.jpg"
+alt: "Sisters Photography"
+slug: "sisters-allison-carenza-photography"
+category: ["Family Pictures"]
 tags: []
 ---
 

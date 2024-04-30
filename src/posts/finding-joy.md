@@ -1,14 +1,13 @@
 ---
-title: 'Finding Joy'
-description: '<p>My dogs have found their joy.  It comes in the form of little brown pellets that smell nasty, but apparently [&hellip;]</p>
-'
-publishDate: 'Nov 10, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/IND_2106-900x598.jpg'
-alt: 'Finding Joy'
-slug: 'finding-joy'
-category: ['About Allison','Dog Photos']
-tags: ['Finding Joy','Kansas City Photographer']
+title: "Finding Joy"
+description: "My dogs have found their joy.  It comes in the form of little brown pellets that smell nasty, but apparently "
+publishDate: "Nov 10, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/IND_2106-900x598.jpg"
+alt: "Finding Joy"
+slug: "finding-joy"
+category: ["About Allison", "Dog Photos"]
+tags: ["Finding Joy", "Kansas City Photographer"]
 ---
 
 <p>My dogs have found their joy.  It comes in the form of little brown pellets that smell nasty, but apparently taste delicious to them.   Every day from 2-4 anytime I get up to do anything they are at my feet, hoping it&apos;s time to get a little bit of their joy.  Lucy spins wreckless circles, and Layla jumps up and down repeatedly on her hind legs. It&apos;s annoying to me, and most days I look at them and say &#8220;not yet&#8221;!  But sometimes, I just laugh. When it is finally dinner time they gobble up the food in seconds, go outside, come back in, and lick the bowls, just in case.</p>

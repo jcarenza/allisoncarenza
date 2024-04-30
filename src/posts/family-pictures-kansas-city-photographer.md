@@ -1,14 +1,13 @@
 ---
-title: 'Family Pictures Photographer'
-description: '<p>These are the feet of one lucky and adorable little girl!  She has a mom that is absolutely perfect and [&hellip;]</p>
-'
-publishDate: 'Jun 8, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/mon1.jpg'
-alt: 'Family Pictures Photographer'
-slug: 'family-pictures-kansas-city-photographer'
-category: ['Family Pictures']
-tags: ['Kansas City Photographer']
+title: "Family Pictures Photographer"
+description: "These are the feet of one lucky and adorable little girl!  She has a mom that is absolutely perfect and "
+publishDate: "Jun 8, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/mon1.jpg"
+alt: "Family Pictures Photographer"
+slug: "family-pictures-kansas-city-photographer"
+category: ["Family Pictures"]
+tags: ["Kansas City Photographer"]
 ---
 
 <p><a rel="attachment wp-att-861" href="http://www.allisoncarenza.com/archives/869/mon1"><img class="aligncenter size-full wp-image-861" title="mon1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/06/mon1.jpg" alt="" width="657" height="438" srcset="/media/mon1.jpg 657w, /media/mon1-300x200.jpg 300w" sizes="(max-width: 657px) 100vw, 657px" /></a></p>

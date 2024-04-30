@@ -1,14 +1,13 @@
 ---
-title: 'The Thompsons'
-description: '<p>For those of you that have been following me for awhile you might recognize this family.  The Thompsons have been [&hellip;]</p>
-'
-publishDate: 'May 29, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/tho1.jpg'
-alt: 'The Thompsons'
-slug: 'the-thompsons'
-category: ['Children Photography','Family Pictures']
-tags: ['Childrens Photography','Family Photography','Family Pictures','Kansas City Photographer']
+title: "The Thompsons"
+description: "For those of you that have been following me for awhile you might recognize this family.  The Thompsons have been "
+publishDate: "May 29, 2013"
+author: "Allison Carenza"
+heroImage: "/media/tho1.jpg"
+alt: "The Thompsons"
+slug: "the-thompsons"
+category: ["Children Photography", "Family Pictures"]
+tags: ["Childrens Photography", "Family Photography", "Family Pictures", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">For those of you that have been following me for awhile you might recognize this family.  The Thompsons have been with me for years now.  I&apos;ve photographed their wedding, boudoir, maternity, newborn and many more shoots.  I&apos;ve gotten to watch this family evolve and grow, and I&apos;ve gotten to watch little Axel grow up in front of my camera.  I love Elizabeth and Nick, but Axel has my heart.  Seriously, I have a crush on a 3 year old.  It might have something to do with the fact that he&apos;s such a little charmer, or that he loves having his picture taken, or the fact that his smile lights up a room.  I&apos;m hooked and I can&apos;t get enough.  I hope this blog shows you just how awesome little Axel is, and just how close the family has gotten.  Love you guys!</p>

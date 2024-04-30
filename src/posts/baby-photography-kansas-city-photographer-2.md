@@ -1,14 +1,13 @@
 ---
-title: 'Baby Photography'
-description: '<p>This is Stephanie and Tyson!  It really doesn&apos;t get much better!  The following are pics of Stephanie and &#8220;her boys&#8221;. [&hellip;]</p>
-'
-publishDate: 'Apr 20, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/Palmer1.jpg'
-alt: 'Baby Photography'
-slug: 'baby-photography-kansas-city-photographer-2'
-category: ['Baby Photography','Children Photography']
-tags: ['Baby Portraits','Kansas City Photographer']
+title: "Baby Photography"
+description: "This is Stephanie and Tyson!  It really doesn&apos;t get much better!  The following are pics of Stephanie and &#8220;her boys&#8221;."
+publishDate: "Apr 20, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/Palmer1.jpg"
+alt: "Baby Photography"
+slug: "baby-photography-kansas-city-photographer-2"
+category: ["Baby Photography", "Children Photography"]
+tags: ["Baby Portraits", "Kansas City Photographer"]
 ---
 
 <p><a rel="attachment wp-att-658" href="http://www.allisoncarenza.com/archives/657/palmer1"><img class="aligncenter size-full wp-image-658" title="Palmer1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/04/Palmer1.jpg" alt="" width="399" height="600" srcset="/media/Palmer1.jpg 399w, /media/Palmer1-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px" /></a></p>

@@ -1,14 +1,13 @@
 ---
-title: 'The Horwitz Family'
-description: '<p>It doesn&apos;t get much better than this.  A beautiful fall day at dusk, Loose Park, and one of my most [&hellip;]</p>
-'
-publishDate: 'Jan 3, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/horw4.jpg'
-alt: 'The Horwitz Family'
-slug: 'the-horwitz-family'
-category: ['Family Pictures']
-tags: ['Family Photography','Family Pictures','Kansas City Photographer','Kansas City Photography']
+title: "The Horwitz Family"
+description: "It doesn&apos;t get much better than this.  A beautiful fall day at dusk, Loose Park, and one of my most "
+publishDate: "Jan 3, 2013"
+author: "Allison Carenza"
+heroImage: "/media/horw4.jpg"
+alt: "The Horwitz Family"
+slug: "the-horwitz-family"
+category: ["Family Pictures"]
+tags: ["Family Photography", "Family Pictures", "Kansas City Photographer", "Kansas City Photography"]
 ---
 
 <p style="text-align: center;">

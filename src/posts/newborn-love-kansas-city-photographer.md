@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Love Photographer'
-description: '<p>Meet little Aiden, he is one lucky little dude because his mom Angie, and dad Andy, love him to pieces. [&hellip;]</p>
-'
-publishDate: 'Sep 28, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/deg6.jpg'
-alt: 'Newborn Love Photographer'
-slug: 'newborn-love-kansas-city-photographer'
-category: ['Newborn Photography']
-tags: ['Infant Photography','Newborn Photography','Newborn Pictures']
+title: "Newborn Love Photographer"
+description: "Meet little Aiden, he is one lucky little dude because his mom Angie, and dad Andy, love him to pieces."
+publishDate: "Sep 28, 2011"
+author: "Allison Carenza"
+heroImage: "/media/deg6.jpg"
+alt: "Newborn Love Photographer"
+slug: "newborn-love-kansas-city-photographer"
+category: ["Newborn Photography"]
+tags: ["Infant Photography", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">

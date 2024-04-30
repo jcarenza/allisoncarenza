@@ -1,13 +1,12 @@
 ---
-title: 'Newborn Twins Photographer'
-description: '<p>Meet the Snow Family! 4 adorable boys, 2 of which are twins.  When Nikki and John decided to have a [&hellip;]</p>
-'
-publishDate: 'Nov 23, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/snow11.jpg'
-alt: 'Newborn Twins Photographer'
-slug: 'newborn-twins-kansas-city-photographer'
-category: ['Newborn Photography']
+title: "Newborn Twins Photographer"
+description: "Meet the Snow Family! 4 adorable boys, 2 of which are twins.  When Nikki and John decided to have a "
+publishDate: "Nov 23, 2011"
+author: "Allison Carenza"
+heroImage: "/media/snow11.jpg"
+alt: "Newborn Twins Photographer"
+slug: "newborn-twins-kansas-city-photographer"
+category: ["Newborn Photography"]
 tags: []
 ---
 

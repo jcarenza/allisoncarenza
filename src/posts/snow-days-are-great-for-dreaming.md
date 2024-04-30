@@ -1,14 +1,13 @@
 ---
-title: 'Snow days are great for dreaming!'
-description: '<p>It&apos;s the jumping off part that&apos;s scary.  You&apos;re standing on the edge with the lightness of possibility in front of [&hellip;]</p>
-'
-publishDate: 'Jan 11, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/winter1.jpg'
-alt: 'Snow days are great for dreaming!'
-slug: 'snow-days-are-great-for-dreaming'
-category: ['Artistic']
-tags: ['Dreams','Dreams Come True']
+title: "Snow days are great for dreaming!"
+description: "It&apos;s the jumping off part that&apos;s scary.  You&apos;re standing on the edge with the lightness of possibility in front of "
+publishDate: "Jan 11, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/winter1.jpg"
+alt: "Snow days are great for dreaming!"
+slug: "snow-days-are-great-for-dreaming"
+category: ["Artistic"]
+tags: ["Dreams", "Dreams Come True"]
 ---
 
 <p style="text-align: center;">It&apos;s the jumping off part that&apos;s scary.  You&apos;re standing on the edge with the lightness of possibility in front of you and the darkness of what you know to be true behind you.  You know the darkness isn&apos;t the life you would choose given the choice, but jumping still seems harder.  There is no safety net, no one comforting you or guaranteeing you&apos;ll be ok, and you know you&apos;ll fall.  So do you jump?</p>

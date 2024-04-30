@@ -1,14 +1,13 @@
 ---
-title: 'Wedding Photography'
-description: '<p>Their first memory of each other is vague.  Nick remembers a horsey girl (ponytail, boots, maybe a little dirty)  out [&hellip;]</p>
-'
-publishDate: 'Oct 22, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/th18.jpg'
-alt: 'Wedding Photography'
-slug: 'wedding-photography-kansas-city-4'
-category: ['Wedding Photos']
-tags: ['Kansas City','Kansas City Photographer','Weddings','Wedding Pictures']
+title: "Wedding Photography"
+description: "Their first memory of each other is vague.  Nick remembers a horsey girl (ponytail, boots, maybe a little dirty)  out "
+publishDate: "Oct 22, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/th18.jpg"
+alt: "Wedding Photography"
+slug: "wedding-photography-kansas-city-4"
+category: ["Wedding Photos"]
+tags: ["Kansas City", "Kansas City Photographer", "Weddings", "Wedding Pictures"]
 ---
 
 <p style="text-align: center;">Their first memory of each other is vague.  Nick remembers a horsey girl (ponytail, boots, maybe a little dirty)  out in the middle of the arena barking orders to kids to prepare them for the show.  He didn&apos;t really notice her at all because he was really there to watch his sister compete, after all Elizabeth was just his sister&apos;s trainer.  But later when they met face to face it was a whole different story.  He thought she was beautiful, and she thought he was hot.  But, they were both dating someone else at the time, so nothing happened.</p>

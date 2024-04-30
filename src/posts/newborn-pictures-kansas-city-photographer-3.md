@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Pictures Photographer'
-description: '<p>In college I didn&apos;t watch much TV.  Didn&apos;t even have one.  Too busy having fun.  But the second semester of [&hellip;]</p>
-'
-publishDate: 'Jun 23, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/marisa1.jpg'
-alt: 'Newborn Pictures Photographer'
-slug: 'newborn-pictures-kansas-city-photographer-3'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Baby Pictures','Blue Springs Photographer','Infant Photography','Maternity Photography','Newborn Photography']
+title: "Newborn Pictures Photographer"
+description: "In college I didn&apos;t watch much TV.  Didn&apos;t even have one.  Too busy having fun.  But the second semester of "
+publishDate: "Jun 23, 2011"
+author: "Allison Carenza"
+heroImage: "/media/marisa1.jpg"
+alt: "Newborn Pictures Photographer"
+slug: "newborn-pictures-kansas-city-photographer-3"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Baby Pictures", "Blue Springs Photographer", "Infant Photography", "Maternity Photography", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">In college I didn&apos;t watch much TV.  Didn&apos;t even have one.  Too busy having fun.  But the second semester of my senior year my favorite roommate Megan had a tiny 12 inch TV.  She also had a pretty easy schedule like me, so <a href="http://tlc.discovery.com/tv/tv-shows.html">TLC&apos;s</a> was on.  All. The. Time.  I loved the wedding story, but found myself glued to the TV during the baby story.  I loved the love, the belly and the baby.  I also loved the stories of people overcoming great challenges to make their dream of having a baby come true.  With shows like Hoardering: Buried Alive, Freaky Eaters, and My Strange Addiction, there&apos;s no room for the simple baby story.</p>

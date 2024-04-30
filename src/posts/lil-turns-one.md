@@ -1,14 +1,13 @@
 ---
-title: 'Lil turns one...'
-description: '<p>Sometimes the most unexpected surprises are the very best. Kara and Josh were high school sweethearts.  But like most high [&hellip;]</p>
-'
-publishDate: 'Aug 20, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/lil3.jpg'
-alt: 'Lil turns one...'
-slug: 'lil-turns-one'
-category: ['Baby Photography']
-tags: ['Blue Springs Photographer','First Birthday Photos','Kansas City Photographer','One Year Pictures']
+title: "Lil turns one..."
+description: "Sometimes the most unexpected surprises are the very best. Kara and Josh were high school sweethearts.  But like most high "
+publishDate: "Aug 20, 2012"
+author: "Allison Carenza"
+heroImage: "/media/lil3.jpg"
+alt: "Lil turns one..."
+slug: "lil-turns-one"
+category: ["Baby Photography"]
+tags: ["Blue Springs Photographer", "First Birthday Photos", "Kansas City Photographer", "One Year Pictures"]
 ---
 
 <p style="text-align: center;">

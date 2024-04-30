@@ -1,14 +1,13 @@
 ---
-title: 'Wedding Albums photographer'
-description: '<p>One of the perks of my job is creating the wedding album for the bride and groom.  A family heirloom. [&hellip;]</p>
-'
-publishDate: 'Oct 20, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/album5-681x1024.jpg'
-alt: 'Wedding Albums photographer'
-slug: 'wedding-albums-kansas-city-photographer'
-category: ['Wedding Photos']
-tags: ['Anited Albums','Wedding Albums']
+title: "Wedding Albums photographer"
+description: "One of the perks of my job is creating the wedding album for the bride and groom.  A family heirloom."
+publishDate: "Oct 20, 2011"
+author: "Allison Carenza"
+heroImage: "/media/album5-681x1024.jpg"
+alt: "Wedding Albums photographer"
+slug: "wedding-albums-kansas-city-photographer"
+category: ["Wedding Photos"]
+tags: ["Anited Albums", "Wedding Albums"]
 ---
 
 <p style="text-align: center;">One of the perks of my job is creating the wedding album for the bride and groom.  A family heirloom.  Maybe even something on the &#8220;to grab&#8221; list in the case of a fire.  Yes, I do love the albums.</p>

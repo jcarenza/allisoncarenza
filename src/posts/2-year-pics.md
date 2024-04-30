@@ -1,14 +1,13 @@
 ---
-title: '2 year pics'
-description: '<p>I&apos;ve been taking Lindley&apos;s pics since she was just a week old.  Now she&apos;s two, with a huge personality and [&hellip;]</p>
-'
-publishDate: 'Jun 13, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/rob6.jpg'
-alt: '2 year pics'
-slug: '2-year-pics'
-category: ['Children Photography']
-tags: ['2 year pictures','Childrens Photography','Kid Photography','Second Birthday']
+title: "2 year pics"
+description: "I&apos;ve been taking Lindley&apos;s pics since she was just a week old.  Now she&apos;s two, with a huge personality and "
+publishDate: "Jun 13, 2013"
+author: "Allison Carenza"
+heroImage: "/media/rob6.jpg"
+alt: "2 year pics"
+slug: "2-year-pics"
+category: ["Children Photography"]
+tags: ["2 year pictures", "Childrens Photography", "Kid Photography", "Second Birthday"]
 ---
 
 <p style="text-align: center;">I&apos;ve been taking Lindley&apos;s pics since she was just a week old.  Now she&apos;s two, with a huge personality and bright eyes that scream I want to have fun.  Taking pictures of a two year old is a trip.  I find it&apos;s best to just find a location where we can be moving, constantly.  And moving we were, here, there, and everywhere.</p>

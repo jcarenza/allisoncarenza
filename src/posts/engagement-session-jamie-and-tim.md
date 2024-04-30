@@ -1,14 +1,13 @@
 ---
-title: 'Engagement Session'
-description: '<p>Jamie and Tim are getting married this coming weekend and I&apos;m so excited!  Let me tell you why.  Jamie and [&hellip;]</p>
-'
-publishDate: 'May 10, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/jt15.jpg'
-alt: 'Engagement Session'
-slug: 'engagement-session-jamie-and-tim'
-category: ['Wedding Photos']
-tags: ['Engagement Photography','Kansas City Photographer','Weddings']
+title: "Engagement Session"
+description: "Jamie and Tim are getting married this coming weekend and I&apos;m so excited!  Let me tell you why.  Jamie and "
+publishDate: "May 10, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/jt15.jpg"
+alt: "Engagement Session"
+slug: "engagement-session-jamie-and-tim"
+category: ["Wedding Photos"]
+tags: ["Engagement Photography", "Kansas City Photographer", "Weddings"]
 ---
 
 <p style="text-align: center;">Jamie and Tim are getting married this coming weekend and I&apos;m so excited!  Let me tell you why.  Jamie and I have become such good friends this year with the wedding planning and the venting about our oh so busy lives!   So, I knew and loved Jamie way before I met Tim.  When we were planning for their engagement session this spring I was eager to meet the man in Jamie&apos;s life.  I knew he had to be great.  And he was.</p>

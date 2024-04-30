@@ -1,14 +1,13 @@
 ---
-title: 'Brother love!'
-description: '<p>For 7 years is was just Chase and his parents.  And he loved it.  There was always a quiet part [&hellip;]</p>
-'
-publishDate: 'Dec 8, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/oker6.jpg'
-alt: 'Brother love!'
-slug: 'brother-love-allison-carenza-photography'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Blue Springs, MO','Kansas City Photographer','Liberty, MO','Newborn Photography']
+title: "Brother love!"
+description: "For 7 years is was just Chase and his parents.  And he loved it.  There was always a quiet part "
+publishDate: "Dec 8, 2011"
+author: "Allison Carenza"
+heroImage: "/media/oker6.jpg"
+alt: "Brother love!"
+slug: "brother-love-allison-carenza-photography"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Blue Springs, MO", "Kansas City Photographer", "Liberty, MO", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">For 7 years is was just Chase and his parents.  And he loved it.  There was always a quiet part of him that hoped to have a sibling, but he soaked up his parents love like a sponge, and didn&apos;t complain.  Maybe that&apos;s what makes it so easy for him to love his new little brother Evan.  Of course there&apos;s a tiny part of him that is having a hard time sharing his parents, he&apos;s never had to.  But a much bigger part of him understands that this quiet, sleeping, sometimes crying, little baby, will grow up to be his best friend.</p>

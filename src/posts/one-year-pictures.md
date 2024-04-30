@@ -1,14 +1,13 @@
 ---
-title: 'One Year Pictures!'
-description: '<p>Look out world, Grant is now one, and so full of personality he might take over the world! It seems [&hellip;]</p>
-'
-publishDate: 'Jan 30, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/lerner4.jpg'
-alt: 'One Year Pictures!'
-slug: 'one-year-pictures'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Baby Pictures','Blue Springs, MO','First Birthday Photos','First Birthday Photos','One Year Pics']
+title: "One Year Pictures!"
+description: "Look out world, Grant is now one, and so full of personality he might take over the world! It seems "
+publishDate: "Jan 30, 2013"
+author: "Allison Carenza"
+heroImage: "/media/lerner4.jpg"
+alt: "One Year Pictures!"
+slug: "one-year-pictures"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Baby Pictures", "Blue Springs, MO", "First Birthday Photos", "First Birthday Photos", "One Year Pics"]
 ---
 
 <p style="text-align: center;">Look out world, Grant is now one, and so full of personality he might take over the world!</p>

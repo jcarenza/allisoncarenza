@@ -1,14 +1,13 @@
 ---
-title: 'I heart bellies and babies! photog'
-description: '<p>Meet Desiree, and David.  Two cops having a baby.  Sounds like a sitcom, but their relationship is anything but a [&hellip;]</p>
-'
-publishDate: 'Nov 5, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/des41.jpg'
-alt: 'I heart bellies and babies! photog'
-slug: 'i'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Maternity photos','Kansas City Photographer','Maternity Photography','Newborn Photo','Newborn']
+title: "I heart bellies and babies! photog"
+description: "Meet Desiree, and David.  Two cops having a baby.  Sounds like a sitcom, but their relationship is anything but a "
+publishDate: "Nov 5, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/des41.jpg"
+alt: "I heart bellies and babies! photog"
+slug: "i"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Maternity photos", "Kansas City Photographer", "Maternity Photography", "Newborn Photo", "Newborn"]
 ---
 
 <p style="text-align: center;">

@@ -1,14 +1,13 @@
 ---
-title: 'From Belly to Baby'
-description: '<p>It was just a little over a year ago when Cara and Ian decided to tie the knot in beautiful [&hellip;]</p>
-'
-publishDate: 'Jul 10, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/cara3.jpg'
-alt: 'From Belly to Baby'
-slug: 'from-belly-to-baby-kansas-city-photographer'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Baby Photographer','Maternity Photos','Maternity Pictures','Newborn Photography','Newborn Pictures']
+title: "From Belly to Baby"
+description: "It was just a little over a year ago when Cara and Ian decided to tie the knot in beautiful "
+publishDate: "Jul 10, 2012"
+author: "Allison Carenza"
+heroImage: "/media/cara3.jpg"
+alt: "From Belly to Baby"
+slug: "from-belly-to-baby-kansas-city-photographer"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Baby Photographer", "Maternity Photos", "Maternity Pictures", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">It was just a little over a year ago when Cara and Ian decided to tie the knot in beautiful Mexico.  They didn&apos;t wait long before getting pregnant, and now Harper is here, and the happiness just keeps growing.</p>

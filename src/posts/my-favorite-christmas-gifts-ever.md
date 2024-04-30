@@ -1,14 +1,13 @@
 ---
-title: 'My favorite Christmas gifts...EVER!'
-description: '<p>So this post was inspired by one of my most favorite clients, little Eva from Arkansas.  Here is the facebook [&hellip;]</p>
-'
-publishDate: 'Dec 23, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/archives/my-favorite-christmas-gif'
-alt: 'My favorite Christmas gifts...EVER!'
-slug: 'my-favorite-christmas-gifts-ever'
-category: ['About Allison']
-tags: ['Christmas Gifts','Christmas List','Kansas City Photographer','Kansas City Photography','Photography']
+title: "My favorite Christmas gifts...EVER!"
+description: "So this post was inspired by one of my most favorite clients, little Eva from Arkansas.  Here is the facebook "
+publishDate: "Dec 23, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/archives/my-favorite-christmas-gif"
+alt: "My favorite Christmas gifts...EVER!"
+slug: "my-favorite-christmas-gifts-ever"
+category: ["About Allison"]
+tags: ["Christmas Gifts", "Christmas List", "Kansas City Photographer", "Kansas City Photography", "Photography"]
 ---
 
 <p><a rel="attachment wp-att-1875" href="http://www.allisoncarenza.com/archives/my-favorite-christmas-gifts-ever/mad3/"><img class="aligncenter size-full wp-image-1875" title="mad3" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/12/mad3.jpg" alt="" width="700" height="500" srcset="/media/mad3.jpg 700w, /media/mad3-300x214.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>

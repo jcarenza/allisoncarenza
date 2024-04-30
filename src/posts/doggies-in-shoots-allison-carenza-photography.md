@@ -1,14 +1,13 @@
 ---
-title: 'Doggies in shoots.'
-description: '<p>Meet AJ!  He is oh so cute!  Perfect really.  And he has two awesome parents.  What a lucky little dude. [&hellip;]</p>
-'
-publishDate: 'Dec 8, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/gila3.jpg'
-alt: 'Doggies in shoots.'
-slug: 'doggies-in-shoots-allison-carenza-photography'
-category: ['Baby Photography']
-tags: ['Baby Photographer  Blue Springs','Kansas City Photographer','Kid Photographer']
+title: "Doggies in shoots."
+description: "Meet AJ!  He is oh so cute!  Perfect really.  And he has two awesome parents.  What a lucky little dude."
+publishDate: "Dec 8, 2011"
+author: "Allison Carenza"
+heroImage: "/media/gila3.jpg"
+alt: "Doggies in shoots."
+slug: "doggies-in-shoots-allison-carenza-photography"
+category: ["Baby Photography"]
+tags: ["Baby Photographer  Blue Springs", "Kansas City Photographer", "Kid Photographer"]
 ---
 
 <p style="text-align: center;">

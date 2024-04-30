@@ -1,14 +1,13 @@
 ---
-title: 'Newborn baby boy'
-description: '<p>&nbsp; Taking pictures of newborn babies is such a great honor for me.  There aren&apos;t many moments in life when [&hellip;]</p>
-'
-publishDate: 'Jan 9, 2017'
-author: 'Allison Carenza'
-heroImage: '/media/horst1.jpg'
-alt: 'Newborn baby boy'
-slug: 'newbornphotography'
-category: ['Newborn Photography']
-tags: ['Newborn Photographer','Newborn']
+title: "Newborn baby boy"
+description: "&nbsp; Taking pictures of newborn babies is such a great honor for me.  There aren&apos;t many moments in life when "
+publishDate: "Jan 9, 2017"
+author: "Allison Carenza"
+heroImage: "/media/horst1.jpg"
+alt: "Newborn baby boy"
+slug: "newbornphotography"
+category: ["Newborn Photography"]
+tags: ["Newborn Photographer", "Newborn"]
 ---
 
 <p>&nbsp;</p>

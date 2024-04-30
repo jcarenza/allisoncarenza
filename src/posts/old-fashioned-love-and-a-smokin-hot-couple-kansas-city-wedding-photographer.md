@@ -1,14 +1,13 @@
 ---
-title: 'Old Fashioned Love, and a Smokin&apos; Hot Couple Wedding Photographer'
-description: '<p>When Allison walked into the hospital room where Matt was working on a patient, it got a little bit hotter. [&hellip;]</p>
-'
-publishDate: 'Oct 13, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/am12.jpg'
-alt: 'Old Fashioned Love, and a Smokin&apos; Hot Couple Wedding Photographer'
-slug: 'old-fashioned-love-and-a-smokin-hot-couple-kansas-city-wedding-photographer'
-category: ['Wedding Photos']
-tags: ['Kansas City Photography','Wedding Photos','Wedding Photographer Kansas City','Weddings']
+title: "Old Fashioned Love, and a Smokin&apos; Hot Couple Wedding Photographer"
+description: "When Allison walked into the hospital room where Matt was working on a patient, it got a little bit hotter."
+publishDate: "Oct 13, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/am12.jpg"
+alt: "Old Fashioned Love, and a Smokin&apos; Hot Couple Wedding Photographer"
+slug: "old-fashioned-love-and-a-smokin-hot-couple-kansas-city-wedding-photographer"
+category: ["Wedding Photos"]
+tags: ["Kansas City Photography", "Wedding Photos", "Wedding Photographer Kansas City", "Weddings"]
 ---
 
 <p style="text-align: center;">When Allison walked into the hospital room where Matt was working on a patient, it got a little bit hotter.  His attraction was immediate despite the situation.  He was busy repairing someones backside, when Allison came in to assist.  She noticed him too, but it wasn&apos;t until later that SHE got up the nerve to ask him out.  They went to a Chiefs game, and afterwards got cozy in the corner of a restaurant, where Matt says they embarrassed the patrons with their nuzzling.  Their relationship started with fire and it hasn&apos;t fizzled.  Their chemistry is obvious and it was so easy to capture.  I think you&apos;ll agree these pictures are all so fiery hot!</p>

@@ -1,14 +1,13 @@
 ---
-title: 'Children photography'
-description: '<p>Meet most perfect adorable Colton and Keira!  As you can see they are a perfect pair.  This is one of [&hellip;]</p>
-'
-publishDate: 'Aug 25, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/wil3.jpg'
-alt: 'Children photography'
-slug: 'children-photography-kansas-city-3'
-category: ['Baby Photography','Children Photography']
-tags: ['Blue Springs Photographer','Kansas City Photographer','Lees Summit Photographer']
+title: "Children photography"
+description: "Meet most perfect adorable Colton and Keira!  As you can see they are a perfect pair.  This is one of "
+publishDate: "Aug 25, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/wil3.jpg"
+alt: "Children photography"
+slug: "children-photography-kansas-city-3"
+category: ["Baby Photography", "Children Photography"]
+tags: ["Blue Springs Photographer", "Kansas City Photographer", "Lees Summit Photographer"]
 ---
 
 <p><a rel="attachment wp-att-1295" href="http://www.allisoncarenza.com/archives/1292/wil3"><img class="aligncenter size-full wp-image-1295" title="wil3" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/08/wil3.jpg" alt="" width="750" height="500" srcset="/media/wil3.jpg 750w, /media/wil3-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>

@@ -1,13 +1,12 @@
 ---
-title: '2014 Goals'
-description: '<p>This holiday season came and went in a flash!  Jon and I went to a ton of holiday parties, we [&hellip;]</p>
-'
-publishDate: 'Jan 1, 2014'
-author: 'Allison Carenza'
-heroImage: '/media/xmas.jpg'
-alt: '2014 Goals'
-slug: '2014-goals'
-category: ['About Allison']
+title: "2014 Goals"
+description: "This holiday season came and went in a flash!  Jon and I went to a ton of holiday parties, we "
+publishDate: "Jan 1, 2014"
+author: "Allison Carenza"
+heroImage: "/media/xmas.jpg"
+alt: "2014 Goals"
+slug: "2014-goals"
+category: ["About Allison"]
 tags: []
 ---
 

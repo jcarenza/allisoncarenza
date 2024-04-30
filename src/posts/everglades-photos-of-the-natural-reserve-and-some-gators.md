@@ -1,14 +1,13 @@
 ---
-title: 'Everglades'
-description: '<p>I love traveling!  I love taking pictures of my traveling.  In fact travel photography is probably my big passion. Jon [&hellip;]</p>
-'
-publishDate: 'Apr 5, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/everglades2.jpg'
-alt: 'Everglades'
-slug: 'everglades-photos-of-the-natural-reserve-and-some-gators'
-category: ['Artistic','Travel']
-tags: ['Everglades','Florida','Travel Photography']
+title: "Everglades"
+description: "I love traveling!  I love taking pictures of my traveling.  In fact travel photography is probably my big passion. Jon "
+publishDate: "Apr 5, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/everglades2.jpg"
+alt: "Everglades"
+slug: "everglades-photos-of-the-natural-reserve-and-some-gators"
+category: ["Artistic", "Travel"]
+tags: ["Everglades", "Florida", "Travel Photography"]
 ---
 
 <p style="text-align: center;">I love traveling!  I love taking pictures of my traveling.  In fact travel photography is probably my big passion.</p>

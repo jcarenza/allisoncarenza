@@ -1,14 +1,13 @@
 ---
-title: 'A small town wedding with a big time party!'
-description: '<p>When I arrived in little historic Lexington Missouri I couldn&apos;t help but notice the quaintness of the city.  Every turn [&hellip;]</p>
-'
-publishDate: 'Aug 23, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/cb13.jpg'
-alt: 'A small town wedding with a big time party!'
-slug: 'a-small-town-wedding-with-a-big-time-party-kansas-city-wedding-photographer'
-category: ['Wedding Photos']
-tags: ['Kansas City Photographer','Kansas City Photography','Wedding Photography Kansas City']
+title: "A small town wedding with a big time party!"
+description: "When I arrived in little historic Lexington Missouri I couldn&apos;t help but notice the quaintness of the city.  Every turn "
+publishDate: "Aug 23, 2011"
+author: "Allison Carenza"
+heroImage: "/media/cb13.jpg"
+alt: "A small town wedding with a big time party!"
+slug: "a-small-town-wedding-with-a-big-time-party-kansas-city-wedding-photographer"
+category: ["Wedding Photos"]
+tags: ["Kansas City Photographer", "Kansas City Photography", "Wedding Photography Kansas City"]
 ---
 
 <p style="text-align: center;">When I arrived in little historic Lexington Missouri I couldn&apos;t help but notice the quaintness of the city.  Every turn I made opened a new set of photo opportunities. The ancient houses, the quiet streets, and historic nature gave me a hunger for photography like I was 8 again.  It was picture perfect just like the day.  I was the lucky photographer that got to watch this day unfold as Christi and Brian made their vows to one another for...forever.</p>

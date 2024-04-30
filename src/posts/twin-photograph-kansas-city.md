@@ -1,14 +1,13 @@
 ---
-title: 'Twin photography'
-description: '<p>The following pictures make me feel like a great photog.  That doesn&apos;t always happen, and it feels incredible!  I can&apos;t [&hellip;]</p>
-'
-publishDate: 'Oct 29, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/scr2.jpg'
-alt: 'Twin photography'
-slug: 'twin-photograph-kansas-city'
-category: ['Children Photography']
-tags: ['Kansas City Photographer','Twin Photography','Twin Pictures']
+title: "Twin photography"
+description: "The following pictures make me feel like a great photog.  That doesn&apos;t always happen, and it feels incredible!  I can&apos;t "
+publishDate: "Oct 29, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/scr2.jpg"
+alt: "Twin photography"
+slug: "twin-photograph-kansas-city"
+category: ["Children Photography"]
+tags: ["Kansas City Photographer", "Twin Photography", "Twin Pictures"]
 ---
 
 <p style="text-align: center;">The following pictures make me feel like a great photog.  That doesn&apos;t always happen, and it feels incredible!  I can&apos;t take credit though, it wasn&apos;t my expensive camera or lens, it wasn&apos;t the rustic awesome setting, it was the girls.  Twin girls!  They  made this shoot flawless.</p>

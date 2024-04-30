@@ -1,14 +1,13 @@
 ---
-title: 'Cute as a cookie!'
-description: '<p>This little dude is so cute I could just eat him up.  I wanted to wrap my arms around him, [&hellip;]</p>
-'
-publishDate: 'Jan 10, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/roil5.jpg'
-alt: 'Cute as a cookie!'
-slug: 'cute-as-a-cookie-baby-photographer-kansas-city'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Blue Springs Baby Photographer','Kansas City Childrens Photographer','Kansas City Photographer']
+title: "Cute as a cookie!"
+description: "This little dude is so cute I could just eat him up.  I wanted to wrap my arms around him, "
+publishDate: "Jan 10, 2012"
+author: "Allison Carenza"
+heroImage: "/media/roil5.jpg"
+alt: "Cute as a cookie!"
+slug: "cute-as-a-cookie-baby-photographer-kansas-city"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Blue Springs Baby Photographer", "Kansas City Childrens Photographer", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">

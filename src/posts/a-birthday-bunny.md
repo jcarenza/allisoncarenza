@@ -1,14 +1,13 @@
 ---
-title: 'A birthday bunny!'
-description: '<p>I&apos;m not going to lie.  I get just as excited about cake! Meet Corbin.  He just turned one, and he&apos;s [&hellip;]</p>
-'
-publishDate: 'Apr 3, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/knight11.jpg'
-alt: 'A birthday bunny!'
-slug: 'a-birthday-bunny'
-category: ['Baby Photography','Children Photography']
-tags: ['Baby Photographer','Children Photography','First Birthday Photos']
+title: "A birthday bunny!"
+description: "I&apos;m not going to lie.  I get just as excited about cake! Meet Corbin.  He just turned one, and he&apos;s "
+publishDate: "Apr 3, 2013"
+author: "Allison Carenza"
+heroImage: "/media/knight11.jpg"
+alt: "A birthday bunny!"
+slug: "a-birthday-bunny"
+category: ["Baby Photography", "Children Photography"]
+tags: ["Baby Photographer", "Children Photography", "First Birthday Photos"]
 ---
 
 <p style="text-align: center;">I&apos;m not going to lie.  I get just as excited about cake!</p>

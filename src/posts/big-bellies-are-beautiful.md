@@ -1,14 +1,13 @@
 ---
-title: 'Big Bellies are Beautiful'
-description: '<p>High school sweethearts!  They followed each other to college where they had their off and on moments, but in the [&hellip;]</p>
-'
-publishDate: 'Jan 26, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/mc2.jpg'
-alt: 'Big Bellies are Beautiful'
-slug: 'big-bellies-are-beautiful'
-category: ['Maternity Photos']
-tags: ['Kansas City Maternity Pictures','Maternity Photography']
+title: "Big Bellies are Beautiful"
+description: "High school sweethearts!  They followed each other to college where they had their off and on moments, but in the "
+publishDate: "Jan 26, 2012"
+author: "Allison Carenza"
+heroImage: "/media/mc2.jpg"
+alt: "Big Bellies are Beautiful"
+slug: "big-bellies-are-beautiful"
+category: ["Maternity Photos"]
+tags: ["Kansas City Maternity Pictures", "Maternity Photography"]
 ---
 
 <p style="text-align: center;">

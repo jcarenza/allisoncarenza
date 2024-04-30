@@ -1,14 +1,13 @@
 ---
-title: 'Baby Allison!'
-description: '<p>Meet baby Allison!  You might recognize the family, I&apos;ve been photographing them for 4 years.  So you can imagine my [&hellip;]</p>
-'
-publishDate: 'Sep 21, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/alli3.jpg'
-alt: 'Baby Allison!'
-slug: 'baby-allison'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Newborn Photography']
+title: "Baby Allison!"
+description: "Meet baby Allison!  You might recognize the family, I&apos;ve been photographing them for 4 years.  So you can imagine my "
+publishDate: "Sep 21, 2011"
+author: "Allison Carenza"
+heroImage: "/media/alli3.jpg"
+alt: "Baby Allison!"
+slug: "baby-allison"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">

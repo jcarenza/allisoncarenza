@@ -1,14 +1,13 @@
 ---
-title: 'Baby chub!  Allison Carenza Photography'
-description: '<p>&nbsp; Meet little Marlow.  I goo goo, gaa gaad over this baby to the point of embarrassment.  What is it about [&hellip;]</p>
-'
-publishDate: 'Jan 5, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/marl5.jpg'
-alt: 'Baby chub!  Allison Carenza Photography'
-slug: 'baby-chub-allison-carenza-photography'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Kansas City Baby Photographer','Kansas City Photographer']
+title: "Baby chub!  Allison Carenza Photography"
+description: "&nbsp; Meet little Marlow.  I goo goo, gaa gaad over this baby to the point of embarrassment.  What is it about "
+publishDate: "Jan 5, 2012"
+author: "Allison Carenza"
+heroImage: "/media/marl5.jpg"
+alt: "Baby chub!  Allison Carenza Photography"
+slug: "baby-chub-allison-carenza-photography"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Kansas City Baby Photographer", "Kansas City Photographer"]
 ---
 
 <p>&nbsp;</p>

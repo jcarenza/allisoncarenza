@@ -1,14 +1,13 @@
 ---
-title: '5000 Kansas City Photographers'
-description: '<p>&#8220;I had lunch with a gal today who is a photographer and made the mistake of asking her if she [&hellip;]</p>
-'
-publishDate: 'Feb 23, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/brent5.jpg'
-alt: '5000 Kansas City Photographers'
-slug: '5000-kansas-city-photographers-allison-carenza-photographer'
-category: ['Baby Photography','Newborn Photography']
-tags: ['Baby Photographer','Infant Photography','Kansas City Photographer','Newborn Photography']
+title: "5000 Kansas City Photographers"
+description: "&#8220;I had lunch with a gal today who is a photographer and made the mistake of asking her if she "
+publishDate: "Feb 23, 2012"
+author: "Allison Carenza"
+heroImage: "/media/brent5.jpg"
+alt: "5000 Kansas City Photographers"
+slug: "5000-kansas-city-photographers-allison-carenza-photographer"
+category: ["Baby Photography", "Newborn Photography"]
+tags: ["Baby Photographer", "Infant Photography", "Kansas City Photographer", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">&#8220;I had lunch with a gal today who is a photographer and made the mistake of asking her if she knew you. She said there are like 5000 photographers in KC...:) &#8220;</p>

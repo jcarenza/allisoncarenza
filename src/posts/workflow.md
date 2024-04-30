@@ -1,14 +1,13 @@
 ---
-title: 'Workflow'
-description: '<p>I&apos;m kinda a right brain person.  I go with the flow.  I throw things together at the last minute.  I [&hellip;]</p>
-'
-publishDate: 'Apr 28, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/04/pap90th-900x605.jpg'
-alt: 'Workflow'
-slug: 'workflow'
-category: ['Photo Tips']
-tags: ['Bridge','Photography Workflow','Workflow']
+title: "Workflow"
+description: "I&apos;m kinda a right brain person.  I go with the flow.  I throw things together at the last minute.  I "
+publishDate: "Apr 28, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/04/pap90th-900x605.jpg"
+alt: "Workflow"
+slug: "workflow"
+category: ["Photo Tips"]
+tags: ["Bridge", "Photography Workflow", "Workflow"]
 ---
 
 <p style="text-align: center;">I&apos;m kinda a right brain person.  I go with the flow.  I throw things together at the last minute.  I use kitchen utensils for repairing the car when we don&apos;t have the right tool.  Ok I&apos;ve never repaired the car, but you get the point.  I just like to think outside the box.  Scratch that, I like to live outside the box.  Which is why I probably love my job so much.  Having said that, there is a big part of a photography business that is so not right brain friendly.  The books, the taxes, the workflow.  Out of those 3, workflow is the least miserable, so I&apos;ll start there.</p>

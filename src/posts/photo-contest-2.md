@@ -1,14 +1,13 @@
 ---
-title: 'Photo Contest!'
-description: '<p>&nbsp; It&apos;s time for another contest!  Last year it was super competitive so get your cameras out and start digging [&hellip;]</p>
-'
-publishDate: 'Jul 11, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/summerspecial.jpg'
-alt: 'Photo Contest!'
-slug: 'photo-contest-2'
-category: ['Specials']
-tags: ['Childrens Photography  Contest','Kansas City','Photography Contest']
+title: "Photo Contest!"
+description: "&nbsp; It&apos;s time for another contest!  Last year it was super competitive so get your cameras out and start digging "
+publishDate: "Jul 11, 2011"
+author: "Allison Carenza"
+heroImage: "/media/summerspecial.jpg"
+alt: "Photo Contest!"
+slug: "photo-contest-2"
+category: ["Specials"]
+tags: ["Childrens Photography  Contest", "Kansas City", "Photography Contest"]
 ---
 
 <p style="text-align: center;">&nbsp;</p>

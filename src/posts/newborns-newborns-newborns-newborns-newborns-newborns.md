@@ -1,14 +1,13 @@
 ---
-title: 'Newborns, Newborns, Newborns!      Newborns, Newborns, Newborns!'
-description: '<p>I have made it annoyingly obvious that I love newborns, but I can&apos;t say it enough.  I love how I [&hellip;]</p>
-'
-publishDate: 'Mar 16, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/br2.jpg'
-alt: 'Newborns, Newborns, Newborns!      Newborns, Newborns, Newborns!'
-slug: 'newborns-newborns-newborns-newborns-newborns-newborns'
-category: ['Newborn Photography']
-tags: ['Baby Pictures','Kansas City Newborn Photography','Kansas City Photographer','Newborn','Newborn Pictures']
+title: "Newborns, Newborns, Newborns!      Newborns, Newborns, Newborns!"
+description: "I have made it annoyingly obvious that I love newborns, but I can&apos;t say it enough.  I love how I "
+publishDate: "Mar 16, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/br2.jpg"
+alt: "Newborns, Newborns, Newborns!      Newborns, Newborns, Newborns!"
+slug: "newborns-newborns-newborns-newborns-newborns-newborns"
+category: ["Newborn Photography"]
+tags: ["Baby Pictures", "Kansas City Newborn Photography", "Kansas City Photographer", "Newborn", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">I have made it annoyingly obvious that I love newborns, but I can&apos;t say it enough.  I love how I get to hold them, and cuddle with them, and then hand them back when they get stinky diapers.  Right now I would say 75% of my clients are newborns.  It&apos;s awesome.  I can&apos;t get enough!</p>

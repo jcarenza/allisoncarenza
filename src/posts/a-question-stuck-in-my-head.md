@@ -1,13 +1,12 @@
 ---
-title: 'A question stuck in my head...'
-description: '<p>Last night my good friend Mike pointed out (in a nice way) that I wasn&apos;t posting personal blogs anymore.  I [&hellip;]</p>
-'
-publishDate: 'Aug 19, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/IMG_21421.jpg'
-alt: 'A question stuck in my head...'
-slug: 'a-question-stuck-in-my-head'
-category: ['About Allison']
+title: "A question stuck in my head..."
+description: "Last night my good friend Mike pointed out (in a nice way) that I wasn&apos;t posting personal blogs anymore.  I "
+publishDate: "Aug 19, 2011"
+author: "Allison Carenza"
+heroImage: "/media/IMG_21421.jpg"
+alt: "A question stuck in my head..."
+slug: "a-question-stuck-in-my-head"
+category: ["About Allison"]
 tags: []
 ---
 

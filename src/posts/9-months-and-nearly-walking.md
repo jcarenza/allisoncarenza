@@ -1,14 +1,13 @@
 ---
-title: '9 months and nearly walking'
-description: '<p>Meet Mr. Brogan.  This is Brogan&apos;s 4th shoot, well, 5th if you count the time he was still in momma [&hellip;]</p>
-'
-publishDate: 'Mar 25, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/kramer1.jpg'
-alt: '9 months and nearly walking'
-slug: '9-months-and-nearly-walking'
-category: ['Baby Photography']
-tags: ['9 month pictures','Baby Photographer','Baby Pictures','Kansas City Photographer']
+title: "9 months and nearly walking"
+description: "Meet Mr. Brogan.  This is Brogan&apos;s 4th shoot, well, 5th if you count the time he was still in momma "
+publishDate: "Mar 25, 2013"
+author: "Allison Carenza"
+heroImage: "/media/kramer1.jpg"
+alt: "9 months and nearly walking"
+slug: "9-months-and-nearly-walking"
+category: ["Baby Photography"]
+tags: ["9 month pictures", "Baby Photographer", "Baby Pictures", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">

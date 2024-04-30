@@ -1,14 +1,13 @@
 ---
-title: 'I&apos;m behind!'
-description: '<p>Ok so it&apos;s obvious from these images I&apos;m behind.  Way behind.  Like September behind, but I had so many amazing [&hellip;]</p>
-'
-publishDate: 'Dec 18, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/smith4.jpg'
-alt: 'I&apos;m behind!'
-slug: 'im-behind'
-category: ['Children Photography','Family Pictures']
-tags: ['Children Photography','Family Photography','Family Photos']
+title: "I&apos;m behind!"
+description: "Ok so it&apos;s obvious from these images I&apos;m behind.  Way behind.  Like September behind, but I had so many amazing "
+publishDate: "Dec 18, 2012"
+author: "Allison Carenza"
+heroImage: "/media/smith4.jpg"
+alt: "I&apos;m behind!"
+slug: "im-behind"
+category: ["Children Photography", "Family Pictures"]
+tags: ["Children Photography", "Family Photography", "Family Photos"]
 ---
 
 <p style="text-align: center;">Ok so it&apos;s obvious from these images I&apos;m behind.  Way behind.  Like September behind, but I had so many amazing sessions this fall and got to work with so many amazing families that I just have to post these sessions!</p>

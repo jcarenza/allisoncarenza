@@ -1,13 +1,12 @@
 ---
-title: 'Maternity Photography'
-description: '<p>I am blessed to get get to work with many families with hearts of gold.  It one of the perks [&hellip;]</p>
-'
-publishDate: 'Aug 2, 2015'
-author: 'Allison Carenza'
-heroImage: '/media/maternity1.jpg'
-alt: 'Maternity Photography'
-slug: 'maternity-photography'
-category: ['Maternity Photos']
+title: "Maternity Photography"
+description: "I am blessed to get get to work with many families with hearts of gold.  It one of the perks "
+publishDate: "Aug 2, 2015"
+author: "Allison Carenza"
+heroImage: "/media/maternity1.jpg"
+alt: "Maternity Photography"
+slug: "maternity-photography"
+category: ["Maternity Photos"]
 tags: []
 ---
 

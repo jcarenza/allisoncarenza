@@ -1,14 +1,13 @@
 ---
-title: 'Lindsey and Ryan'
-description: '<p>Ryan was told by a family member that there was a hot girl at their work that he should come [&hellip;]</p>
-'
-publishDate: 'Jun 18, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/lr1.jpg'
-alt: 'Lindsey and Ryan'
-slug: 'lindsey-and-ryan-engagement-pictures-kansas-city'
-category: ['Wedding Photos']
-tags: ['Blue Springs Photographer','Kansas City Wedding Photographer','Wedding Photography Kansas City']
+title: "Lindsey and Ryan"
+description: "Ryan was told by a family member that there was a hot girl at their work that he should come "
+publishDate: "Jun 18, 2012"
+author: "Allison Carenza"
+heroImage: "/media/lr1.jpg"
+alt: "Lindsey and Ryan"
+slug: "lindsey-and-ryan-engagement-pictures-kansas-city"
+category: ["Wedding Photos"]
+tags: ["Blue Springs Photographer", "Kansas City Wedding Photographer", "Wedding Photography Kansas City"]
 ---
 
 <p style="text-align: center;">

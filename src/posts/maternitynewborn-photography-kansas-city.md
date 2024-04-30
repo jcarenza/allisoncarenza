@@ -1,14 +1,13 @@
 ---
-title: 'Maternity/Newborn Photography'
-description: '<p>When Lauren contacted me for maternity pictures she told me she had been talking to another photographer that hadn&apos;t gotten [&hellip;]</p>
-'
-publishDate: 'Jan 7, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/lob2.jpg'
-alt: 'Maternity/Newborn Photography'
-slug: 'maternitynewborn-photography-kansas-city'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Blue Springs Photographer','Kansas City Photography','Maternity Photography','Newborn']
+title: "Maternity/Newborn Photography"
+description: "When Lauren contacted me for maternity pictures she told me she had been talking to another photographer that hadn&apos;t gotten "
+publishDate: "Jan 7, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/lob2.jpg"
+alt: "Maternity/Newborn Photography"
+slug: "maternitynewborn-photography-kansas-city"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Blue Springs Photographer", "Kansas City Photography", "Maternity Photography", "Newborn"]
 ---
 
 <p><a rel="attachment wp-att-1919" href="http://www.allisoncarenza.com/archives/1917/lob2"><img class="aligncenter size-full wp-image-1919" title="lob2" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/01/lob2.jpg" alt="" width="751" height="499" srcset="/media/lob2.jpg 751w, /media/lob2-300x199.jpg 300w" sizes="(max-width: 751px) 100vw, 751px" /></a></p>

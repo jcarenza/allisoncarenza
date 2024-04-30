@@ -1,14 +1,13 @@
 ---
-title: 'A wedding of JOY!'
-description: '<p>Lauren had been looking.  Waiting for what felt like forever.  Watching for Mr. Right to step into her life.  And [&hellip;]</p>
-'
-publishDate: 'Dec 5, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/landm8.jpg'
-alt: 'A wedding of JOY!'
-slug: 'a-wedding-of-joy'
-category: ['Wedding Photos']
-tags: ['Kansas City Wedding Photographer','Wedding Photography','Wedding Pictures']
+title: "A wedding of JOY!"
+description: "Lauren had been looking.  Waiting for what felt like forever.  Watching for Mr. Right to step into her life.  And "
+publishDate: "Dec 5, 2012"
+author: "Allison Carenza"
+heroImage: "/media/landm8.jpg"
+alt: "A wedding of JOY!"
+slug: "a-wedding-of-joy"
+category: ["Wedding Photos"]
+tags: ["Kansas City Wedding Photographer", "Wedding Photography", "Wedding Pictures"]
 ---
 
 <p style="text-align: center;">

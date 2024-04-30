@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Photos'
-description: '<p>I love when I get to take maternity pictures before the newborn pictures.  It allows me to spend some quality [&hellip;]</p>
-'
-publishDate: 'Dec 21, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/sharlenemat1.jpg'
-alt: 'Newborn Photos'
-slug: 'newborn-photos-2'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Infant Photography','Newborn Photography','Newborn Pictures']
+title: "Newborn Photos"
+description: "I love when I get to take maternity pictures before the newborn pictures.  It allows me to spend some quality "
+publishDate: "Dec 21, 2012"
+author: "Allison Carenza"
+heroImage: "/media/sharlenemat1.jpg"
+alt: "Newborn Photos"
+slug: "newborn-photos-2"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Infant Photography", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">

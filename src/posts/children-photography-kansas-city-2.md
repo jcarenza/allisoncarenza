@@ -1,13 +1,12 @@
 ---
-title: 'Children Photography'
-description: '<p>When I&apos;m sitting on the floor with my clients they give me the most peculiar looks.  Take for example baby Izzy. [&hellip;]</p>
-'
-publishDate: 'Aug 11, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/iz1.jpg'
-alt: 'Children Photography'
-slug: 'children-photography-kansas-city-2'
-category: ['Children Photography']
+title: "Children Photography"
+description: "When I&apos;m sitting on the floor with my clients they give me the most peculiar looks.  Take for example baby Izzy."
+publishDate: "Aug 11, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/iz1.jpg"
+alt: "Children Photography"
+slug: "children-photography-kansas-city-2"
+category: ["Children Photography"]
 tags: []
 ---
 

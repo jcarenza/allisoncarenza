@@ -1,14 +1,13 @@
 ---
-title: 'One Year Pics~  Kansas City'
-description: '<p>Getting to watch kids grow up in front of my camera is one of the great joys of my job. [&hellip;]</p>
-'
-publishDate: 'Jun 28, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/yoder5.jpg'
-alt: 'One Year Pics~  Kansas City'
-slug: 'one-year-pics-kansas-city'
-category: ['Children Photography','Family Pictures']
-tags: ['Baby Pictures','Family Pictures','First Year','Kansas City']
+title: "One Year Pics~  Kansas City"
+description: "Getting to watch kids grow up in front of my camera is one of the great joys of my job."
+publishDate: "Jun 28, 2011"
+author: "Allison Carenza"
+heroImage: "/media/yoder5.jpg"
+alt: "One Year Pics~  Kansas City"
+slug: "one-year-pics-kansas-city"
+category: ["Children Photography", "Family Pictures"]
+tags: ["Baby Pictures", "Family Pictures", "First Year", "Kansas City"]
 ---
 
 <p style="text-align: center;">Getting to watch kids grow up in front of my camera is one of the great joys of my job.   I&apos;ve known little Colton since before he was born, and now he is turning ONE!   I can always count on Colton for one thing...to be cute!  He always shares his adorable smile with me.</p>

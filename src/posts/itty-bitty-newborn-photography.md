@@ -1,14 +1,13 @@
 ---
-title: 'Itty Bitty'
-description: '<p>Meet Melissa and Michael.  Two of the warmest spirits I&apos;ve ever encountered walked into my studio with open hearts, and [&hellip;]</p>
-'
-publishDate: 'Jun 27, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/hags1.jpg'
-alt: 'Itty Bitty'
-slug: 'itty-bitty-newborn-photography'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Kansas City Photographer','Maternity Photography','Newborn Photography']
+title: "Itty Bitty"
+description: "Meet Melissa and Michael.  Two of the warmest spirits I&apos;ve ever encountered walked into my studio with open hearts, and "
+publishDate: "Jun 27, 2011"
+author: "Allison Carenza"
+heroImage: "/media/hags1.jpg"
+alt: "Itty Bitty"
+slug: "itty-bitty-newborn-photography"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Kansas City Photographer", "Maternity Photography", "Newborn Photography"]
 ---
 
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-3114" title="hags1" src="/media/hags1.jpg" alt="" width="750" height="499" srcset="/media/hags1.jpg 750w, /media/hags1-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></p>

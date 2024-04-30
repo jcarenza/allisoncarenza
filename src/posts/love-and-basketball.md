@@ -1,14 +1,13 @@
 ---
-title: 'Love and Basketball'
-description: '<p>&nbsp; It was a cold and drizzly March day when we did Kim and Will&apos;s engagement session.  Kim picked her [&hellip;]</p>
-'
-publishDate: 'Mar 13, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/kim1.jpg'
-alt: 'Love and Basketball'
-slug: 'love-and-basketball'
-category: ['Wedding Photos']
-tags: ['Engagement Photography','Engagement Photos','Wedding Photography','Wedding Pictures']
+title: "Love and Basketball"
+description: "&nbsp; It was a cold and drizzly March day when we did Kim and Will&apos;s engagement session.  Kim picked her "
+publishDate: "Mar 13, 2013"
+author: "Allison Carenza"
+heroImage: "/media/kim1.jpg"
+alt: "Love and Basketball"
+slug: "love-and-basketball"
+category: ["Wedding Photos"]
+tags: ["Engagement Photography", "Engagement Photos", "Wedding Photography", "Wedding Pictures"]
 ---
 
 <p>&nbsp;</p>

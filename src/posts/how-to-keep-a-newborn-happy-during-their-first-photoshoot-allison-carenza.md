@@ -1,14 +1,13 @@
 ---
-title: 'How to keep a newborn happy during their first photoshoot'
-description: '<p>There are definitely some tricks to getting a newborn to relax and feel comfortable during a shoot, and today I [&hellip;]</p>
-'
-publishDate: 'Dec 6, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/wp-content/uploads/K4.jpg'
-alt: 'How to keep a newborn happy during their first photoshoot'
-slug: 'how-to-keep-a-newborn-happy-during-their-first-photoshoot-allison-carenza'
-category: ['Newborn Photography']
-tags: ['Blue Springs Photographer','Newborn','Newborn Photography','Preparing For a Newborn Photoshoot']
+title: "How to keep a newborn happy during their first photoshoot"
+description: "There are definitely some tricks to getting a newborn to relax and feel comfortable during a shoot, and today I "
+publishDate: "Dec 6, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/wp-content/uploads/K4.jpg"
+alt: "How to keep a newborn happy during their first photoshoot"
+slug: "how-to-keep-a-newborn-happy-during-their-first-photoshoot-allison-carenza"
+category: ["Newborn Photography"]
+tags: ["Blue Springs Photographer", "Newborn", "Newborn Photography", "Preparing For a Newborn Photoshoot"]
 ---
 
 <p style="text-align: center;">

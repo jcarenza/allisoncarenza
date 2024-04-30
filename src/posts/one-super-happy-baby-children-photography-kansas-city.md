@@ -1,13 +1,12 @@
 ---
-title: 'One super happy baby! '
-description: '<p>Meet the Smith family!  You might recognize Carroll she is one of the models featured on my commercial website.  She&apos;s [&hellip;]</p>
-'
-publishDate: 'Jul 18, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/carr21.jpg'
-alt: 'One super happy baby! '
-slug: 'one-super-happy-baby-children-photography-kansas-city'
-category: ['Baby Photography']
+title: "One super happy baby! "
+description: "Meet the Smith family!  You might recognize Carroll she is one of the models featured on my commercial website.  She&apos;s "
+publishDate: "Jul 18, 2011"
+author: "Allison Carenza"
+heroImage: "/media/carr21.jpg"
+alt: "One super happy baby! "
+slug: "one-super-happy-baby-children-photography-kansas-city"
+category: ["Baby Photography"]
 tags: []
 ---
 

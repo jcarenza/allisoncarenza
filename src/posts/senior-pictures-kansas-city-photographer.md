@@ -1,14 +1,13 @@
 ---
-title: 'Senior Pictures Photographer'
-description: '<p>This is Tyler and he&apos;s a graduated senior from Blue Hills High School.  I got to spend some time with [&hellip;]</p>
-'
-publishDate: 'Jun 22, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/tyler4.jpg'
-alt: 'Senior Pictures Photographer'
-slug: 'senior-pictures-kansas-city-photographer'
-category: ['Senior Pictures']
-tags: ['Kansas City Photographer','Senior Pictures']
+title: "Senior Pictures Photographer"
+description: "This is Tyler and he&apos;s a graduated senior from Blue Hills High School.  I got to spend some time with "
+publishDate: "Jun 22, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/tyler4.jpg"
+alt: "Senior Pictures Photographer"
+slug: "senior-pictures-kansas-city-photographer"
+category: ["Senior Pictures"]
+tags: ["Kansas City Photographer", "Senior Pictures"]
 ---
 
 <p style="text-align: center;"><a rel="attachment wp-att-945" href="http://www.allisoncarenza.com/archives/senior-pictures-kansas-city-photographer/tyler4/"><img class="aligncenter size-full wp-image-945" title="tyler4" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/06/tyler4.jpg" alt="" width="399" height="600" srcset="/media/tyler4.jpg 399w, /media/tyler4-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px" /></a></p>

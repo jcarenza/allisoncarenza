@@ -1,13 +1,12 @@
 ---
-title: 'Baby Abigail'
-description: '<p>&nbsp; I always thought having a baby of my own would change me as a photographer, but much like becoming [&hellip;]</p>
-'
-publishDate: 'Apr 14, 2014'
-author: 'Allison Carenza'
-heroImage: '/media/jA5.jpg'
-alt: 'Baby Abigail'
-slug: 'baby-abigail'
-category: ['Baby Photography']
+title: "Baby Abigail"
+description: "&nbsp; I always thought having a baby of my own would change me as a photographer, but much like becoming "
+publishDate: "Apr 14, 2014"
+author: "Allison Carenza"
+heroImage: "/media/jA5.jpg"
+alt: "Baby Abigail"
+slug: "baby-abigail"
+category: ["Baby Photography"]
 tags: []
 ---
 

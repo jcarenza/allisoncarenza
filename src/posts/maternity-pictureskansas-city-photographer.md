@@ -1,14 +1,13 @@
 ---
-title: 'Maternity Pictures'
-description: '<p>I&apos;ve been absent on the blog lately.  Partly because I&apos;m busy, partly because it&apos;s takes time I don&apos;t have, but [&hellip;]</p>
-'
-publishDate: 'Sep 16, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/jeno3.jpg'
-alt: 'Maternity Pictures'
-slug: 'maternity-pictureskansas-city-photographer'
-category: ['Maternity Photos']
-tags: ['Blue Springs Photographer','Kansas City Photographer','Maternity Photography','Pregnancy Pictures']
+title: "Maternity Pictures"
+description: "I&apos;ve been absent on the blog lately.  Partly because I&apos;m busy, partly because it&apos;s takes time I don&apos;t have, but "
+publishDate: "Sep 16, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/jeno3.jpg"
+alt: "Maternity Pictures"
+slug: "maternity-pictureskansas-city-photographer"
+category: ["Maternity Photos"]
+tags: ["Blue Springs Photographer", "Kansas City Photographer", "Maternity Photography", "Pregnancy Pictures"]
 ---
 
 <p><a rel="attachment wp-att-1415" href="http://www.allisoncarenza.com/archives/maternity-pictureskansas-city-photographer/jeno3/"><img class="aligncenter size-full wp-image-1415" title="jeno3" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/09/jeno3.jpg" alt="" width="749" height="500" srcset="/media/jeno3.jpg 749w, /media/jeno3-300x200.jpg 300w" sizes="(max-width: 749px) 100vw, 749px" /></a></p>

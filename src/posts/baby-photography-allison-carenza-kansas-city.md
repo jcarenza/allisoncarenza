@@ -1,14 +1,13 @@
 ---
-title: 'Baby Photography'
-description: '<p>Prepare yourself for a cute family!  Adorable really! This is Grace, Seth and Mason, and if I had to choose [&hellip;]</p>
-'
-publishDate: 'Dec 13, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/grace5.jpg'
-alt: 'Baby Photography'
-slug: 'baby-photography-allison-carenza-kansas-city'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Blue Springs Photographer','Children Photography','Kansas City Photographer']
+title: "Baby Photography"
+description: "Prepare yourself for a cute family!  Adorable really! This is Grace, Seth and Mason, and if I had to choose "
+publishDate: "Dec 13, 2011"
+author: "Allison Carenza"
+heroImage: "/media/grace5.jpg"
+alt: "Baby Photography"
+slug: "baby-photography-allison-carenza-kansas-city"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Blue Springs Photographer", "Children Photography", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">

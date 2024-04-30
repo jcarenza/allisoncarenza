@@ -1,14 +1,13 @@
 ---
-title: 'Children Photography'
-description: '<p>Prepare yourself!  It&apos;s the Bondi boys, and they are even more adorable in person than they are in these pics! [&hellip;]</p>
-'
-publishDate: 'Jul 20, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/bon4.jpg'
-alt: 'Children Photography'
-slug: 'children-photographykansas-city'
-category: ['Children Photography']
-tags: ['Children','Kansas City Photographer']
+title: "Children Photography"
+description: "Prepare yourself!  It&apos;s the Bondi boys, and they are even more adorable in person than they are in these pics! "
+publishDate: "Jul 20, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/bon4.jpg"
+alt: "Children Photography"
+slug: "children-photographykansas-city"
+category: ["Children Photography"]
+tags: ["Children", "Kansas City Photographer"]
 ---
 
 <p><a rel="attachment wp-att-1094" href="http://www.allisoncarenza.com/archives/1090/bon4"><img class="aligncenter size-full wp-image-1094" title="bon4" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/07/bon4.jpg" alt="" width="600" height="400" srcset="/media/bon4.jpg 600w, /media/bon4-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>

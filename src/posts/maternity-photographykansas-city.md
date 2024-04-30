@@ -1,14 +1,13 @@
 ---
-title: 'Maternity Photography'
-description: '<p>I recently saw an article in a professional photographer&apos;s magazine about maternity pics.  First of all they were kinda creepy, [&hellip;]</p>
-'
-publishDate: 'Aug 10, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/car1.jpg'
-alt: 'Maternity Photography'
-slug: 'maternity-photographykansas-city'
-category: ['Maternity Photos']
-tags: ['Kansas City Photographer','Maternity Pictures']
+title: "Maternity Photography"
+description: "I recently saw an article in a professional photographer&apos;s magazine about maternity pics.  First of all they were kinda creepy, "
+publishDate: "Aug 10, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/car1.jpg"
+alt: "Maternity Photography"
+slug: "maternity-photographykansas-city"
+category: ["Maternity Photos"]
+tags: ["Kansas City Photographer", "Maternity Pictures"]
 ---
 
 <p><a rel="attachment wp-att-1192" href="http://www.allisoncarenza.com/archives/1191/car1"><img class="aligncenter size-full wp-image-1192" title="car1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/08/car1.jpg" alt="" width="700" height="350" srcset="/media/car1.jpg 700w, /media/car1-300x150.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>

@@ -1,14 +1,13 @@
 ---
-title: 'Chapter 134'
-description: '<p>Guilty!  I&apos;m guilty, I admit it, I&apos;m not proud, but I compare my work to that of other artisits.  Sometimes [&hellip;]</p>
-'
-publishDate: 'Aug 12, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/par1.jpg'
-alt: 'Chapter 134'
-slug: 'chapter-134-more-of-my-head-trash'
-category: ['Newborn Photography']
-tags: ['Infant Photos','Newborn Pictures']
+title: "Chapter 134"
+description: "Guilty!  I&apos;m guilty, I admit it, I&apos;m not proud, but I compare my work to that of other artisits.  Sometimes "
+publishDate: "Aug 12, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/par1.jpg"
+alt: "Chapter 134"
+slug: "chapter-134-more-of-my-head-trash"
+category: ["Newborn Photography"]
+tags: ["Infant Photos", "Newborn Pictures"]
 ---
 
 <p>Guilty!  I&apos;m guilty, I admit it, I&apos;m not proud, but I compare my work to that of other artisits.  Sometimes I think I&apos;m better, sometimes I know they&apos;re better.  It&apos;s such a natural human thing to do. I try really hard to compete only with myself, but we&apos;re surrounded with amazing photography, it&apos;s everywhere.  The digital camera has taken some of the novelty out of photography.  So I like need to get to the point, right?</p>

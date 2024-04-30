@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Shoot Photography'
-description: '<p>A surprise, a gift from the heavens, an angel passed into the arms of special people lucky enough to have [&hellip;]</p>
-'
-publishDate: 'Sep 12, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/gia21.jpg'
-alt: 'Newborn Shoot Photography'
-slug: 'newborn-shoot-kansas-city-photography'
-category: ['Newborn Photography']
-tags: ['Blue Springs Photographer','Kansas City Photography','Newborn']
+title: "Newborn Shoot Photography"
+description: "A surprise, a gift from the heavens, an angel passed into the arms of special people lucky enough to have "
+publishDate: "Sep 12, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/gia21.jpg"
+alt: "Newborn Shoot Photography"
+slug: "newborn-shoot-kansas-city-photography"
+category: ["Newborn Photography"]
+tags: ["Blue Springs Photographer", "Kansas City Photography", "Newborn"]
 ---
 
 <p style="text-align: center;">A surprise, a gift from the heavens, an angel passed into the arms of special people lucky enough to have the responsibility.  That is what a newborn baby is, and for Heather, that was a gift she had given up thinking she&apos;d ever receive.  Until she found out about baby Gianna!</p>

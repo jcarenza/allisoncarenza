@@ -1,14 +1,13 @@
 ---
-title: 'Lindsey and Cole&apos;s big day!'
-description: '<p>Lindsey and Cole Amaya share a love for the outdoors, their friends, Kansas City, having fun, and The Chiefs, and [&hellip;]</p>
-'
-publishDate: 'Jun 11, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/landc1.jpg'
-alt: 'Lindsey and Cole&apos;s big day!'
-slug: 'lindsey-and-coles-big-day'
-category: ['Wedding Photos']
-tags: ['Kansas City Wedding','Wedding Photography','Wedding Pictures']
+title: "Lindsey and Cole&apos;s big day!"
+description: "Lindsey and Cole Amaya share a love for the outdoors, their friends, Kansas City, having fun, and The Chiefs, and "
+publishDate: "Jun 11, 2013"
+author: "Allison Carenza"
+heroImage: "/media/landc1.jpg"
+alt: "Lindsey and Cole&apos;s big day!"
+slug: "lindsey-and-coles-big-day"
+category: ["Wedding Photos"]
+tags: ["Kansas City Wedding", "Wedding Photography", "Wedding Pictures"]
 ---
 
 <p style="text-align: center;">Lindsey and Cole Amaya share a love for the outdoors, their friends, Kansas City, having fun, and The Chiefs, and surprises, did I mention they like surprises.  Yes, they love to surprise their friends and family, like when they had the KC wolf crash their wedding.  It was a surprise, a really really awesome surprise.  I don&apos;t have time to share every single pic, or I would because they are that fun.  It was epic, and having the wolf there totally got the party started.  I think the KC wolf surprise sums up their relationship.  Fun!  All about having fun!  In fact Jon and I had a blast shooting this wedding.  I just have a few to share, but there are sooo many more.  Lindsey and Cole I LOVED being a part of your big day!</p>

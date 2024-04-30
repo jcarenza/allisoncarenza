@@ -1,14 +1,13 @@
 ---
-title: 'BOYS just want to have fun!'
-description: '<p>Check it.  These are the Clement boys and they are all fun, all good times, and all about getting dirty! [&hellip;]</p>
-'
-publishDate: 'Nov 1, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/clements1.jpg'
-alt: 'BOYS just want to have fun!'
-slug: 'boys-just-want-to-have-fun-kansas-city-photographer'
-category: ['Family Pictures']
-tags: ['Family Photography','Family Pictures','Family Portraits']
+title: "BOYS just want to have fun!"
+description: "Check it.  These are the Clement boys and they are all fun, all good times, and all about getting dirty! "
+publishDate: "Nov 1, 2011"
+author: "Allison Carenza"
+heroImage: "/media/clements1.jpg"
+alt: "BOYS just want to have fun!"
+slug: "boys-just-want-to-have-fun-kansas-city-photographer"
+category: ["Family Pictures"]
+tags: ["Family Photography", "Family Pictures", "Family Portraits"]
 ---
 
 <p style="text-align: center;">Check it.  These are the Clement boys and they are all fun, all good times, and all about getting dirty!  As we went into the firehouse I threw out the standard warning about the dirty floors, and encouraged them to try not to get dirty.  Jill their mom, one of the funniest moms in the world, added that they shouldn&apos;t get too dirty.  Well...they did.</p>

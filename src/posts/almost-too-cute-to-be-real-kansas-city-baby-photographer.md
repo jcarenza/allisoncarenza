@@ -1,14 +1,13 @@
 ---
-title: 'Almost too cute to be real'
-description: '<p>She&apos;s like a porcelain doll.  Perfect from her big, blue, shiny, blue eyes to her chubby cheeks, an of course her flawless [&hellip;]</p>
-'
-publishDate: 'Jan 11, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/hh7.jpg'
-alt: 'Almost too cute to be real'
-slug: 'almost-too-cute-to-be-real-kansas-city-baby-photographer'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Blue Springs Missouri','Children Photographer','Family Photographer','Lees Summit Missouri']
+title: "Almost too cute to be real"
+description: "She&apos;s like a porcelain doll.  Perfect from her big, blue, shiny, blue eyes to her chubby cheeks, an of course her flawless "
+publishDate: "Jan 11, 2012"
+author: "Allison Carenza"
+heroImage: "/media/hh7.jpg"
+alt: "Almost too cute to be real"
+slug: "almost-too-cute-to-be-real-kansas-city-baby-photographer"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Blue Springs Missouri", "Children Photographer", "Family Photographer", "Lees Summit Missouri"]
 ---
 
 <p style="text-align: center;">

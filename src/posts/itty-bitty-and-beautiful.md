@@ -1,14 +1,13 @@
 ---
-title: 'itty bitty and beautiful'
-description: '<p>This happened in my studio this week!  Oh how I love my job. Meet baby Amelia. I don&apos;t have my [&hellip;]</p>
-'
-publishDate: 'Mar 23, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/dw4.jpg'
-alt: 'itty bitty and beautiful'
-slug: 'itty-bitty-and-beautiful'
-category: ['Newborn Photography']
-tags: ['Infant Photography','Newborn Baby','Newborn Pictures']
+title: "itty bitty and beautiful"
+description: "This happened in my studio this week!  Oh how I love my job. Meet baby Amelia. I don&apos;t have my "
+publishDate: "Mar 23, 2013"
+author: "Allison Carenza"
+heroImage: "/media/dw4.jpg"
+alt: "itty bitty and beautiful"
+slug: "itty-bitty-and-beautiful"
+category: ["Newborn Photography"]
+tags: ["Infant Photography", "Newborn Baby", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">This happened in my studio this week!  Oh how I love my job.</p>

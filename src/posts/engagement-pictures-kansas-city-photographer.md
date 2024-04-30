@@ -1,14 +1,13 @@
 ---
-title: 'Engagement Pictures Photographer'
-description: '<p>They share a love for music, sushi, books, and experiences.  She doesn&apos;t like to clean the house, but he doesn&apos;t [&hellip;]</p>
-'
-publishDate: 'Oct 15, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/ci11.jpg'
-alt: 'Engagement Pictures Photographer'
-slug: 'engagement-pictures-kansas-city-photographer'
-category: ['Wedding Photos']
-tags: ['Engagement Photos','Kansas City Photographer','Wedding Photography']
+title: "Engagement Pictures Photographer"
+description: "They share a love for music, sushi, books, and experiences.  She doesn&apos;t like to clean the house, but he doesn&apos;t "
+publishDate: "Oct 15, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/ci11.jpg"
+alt: "Engagement Pictures Photographer"
+slug: "engagement-pictures-kansas-city-photographer"
+category: ["Wedding Photos"]
+tags: ["Engagement Photos", "Kansas City Photographer", "Wedding Photography"]
 ---
 
 <p><a rel="attachment wp-att-1638" href="http://www.allisoncarenza.com/archives/1627/ci11"><img class="aligncenter size-full wp-image-1638" title="ci11" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/10/ci11.jpg" alt="" width="751" height="499" srcset="/media/ci11.jpg 751w, /media/ci11-300x199.jpg 300w" sizes="(max-width: 751px) 100vw, 751px" /></a></p>

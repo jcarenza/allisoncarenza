@@ -1,13 +1,12 @@
 ---
-title: 'Lees Summit Airport'
-description: '<p>If you&apos;ve been with me for awhile you might recognize this little family.  I&apos;ve been photographing the Parish family for [&hellip;]</p>
-'
-publishDate: 'Jul 31, 2014'
-author: 'Allison Carenza'
-heroImage: '/media/par11.jpg'
-alt: 'Lees Summit Airport'
-slug: 'lees-summit-airport'
-category: ['Family Pictures']
+title: "Lees Summit Airport"
+description: "If you&apos;ve been with me for awhile you might recognize this little family.  I&apos;ve been photographing the Parish family for "
+publishDate: "Jul 31, 2014"
+author: "Allison Carenza"
+heroImage: "/media/par11.jpg"
+alt: "Lees Summit Airport"
+slug: "lees-summit-airport"
+category: ["Family Pictures"]
 tags: []
 ---
 

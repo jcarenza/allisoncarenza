@@ -1,14 +1,13 @@
 ---
-title: 'Mariah...a future student of Bradley University'
-description: '<p>I fell in love with Mariah a few years ago when I was taking her sister Olivia&apos;s senior pictures.  She [&hellip;]</p>
-'
-publishDate: 'Apr 11, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/mariah1.jpg'
-alt: 'Mariah...a future student of Bradley University'
-slug: 'mariah-a-future-student-of-bradley-university'
-category: ['Senior Pictures']
-tags: ['Senior Portrait','Senior Pictures']
+title: "Mariah...a future student of Bradley University"
+description: "I fell in love with Mariah a few years ago when I was taking her sister Olivia&apos;s senior pictures.  She "
+publishDate: "Apr 11, 2013"
+author: "Allison Carenza"
+heroImage: "/media/mariah1.jpg"
+alt: "Mariah...a future student of Bradley University"
+slug: "mariah-a-future-student-of-bradley-university"
+category: ["Senior Pictures"]
+tags: ["Senior Portrait", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">I fell in love with Mariah a few years ago when I was taking her sister Olivia&apos;s senior pictures.  She came along with her mom Michele to watch, and maybe torment her sister a bit, but really just to make the shoot a good time.  There are those that have a great personality and then there are those that have a great big personality, and Mariah definitely fits in that category. She is 110% fun, and I loved every second of our shoot together.  In fact, I&apos;m pretty sure my face started hurting from laughing so much!</p>

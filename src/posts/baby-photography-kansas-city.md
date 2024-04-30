@@ -1,14 +1,13 @@
 ---
-title: 'Baby Photography'
-description: '<p>I&apos;m proud to announce I have my first protege.  Little Eva!  She received her first camera for Christmas and hasn&apos;t [&hellip;]</p>
-'
-publishDate: 'Feb 25, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/02/madi6.jpg'
-alt: 'Baby Photography'
-slug: 'baby-photography-kansas-city'
-category: ['Baby Photography','Family Pictures']
-tags: ['Baby Photographer','Blue Springs Photography','Lees Summit Photography','Overland Park Photography']
+title: "Baby Photography"
+description: "I&apos;m proud to announce I have my first protege.  Little Eva!  She received her first camera for Christmas and hasn&apos;t "
+publishDate: "Feb 25, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/02/madi6.jpg"
+alt: "Baby Photography"
+slug: "baby-photography-kansas-city"
+category: ["Baby Photography", "Family Pictures"]
+tags: ["Baby Photographer", "Blue Springs Photography", "Lees Summit Photography", "Overland Park Photography"]
 ---
 
 <p style="text-align: center;">I&apos;m proud to announce I have my first protege.  Little Eva!  She received her first camera for Christmas and hasn&apos;t stopped shooting since.  Hundreds of pictures later she&apos;s developing some real talent.  Already I can see she&apos;s good at filling the frame, getting in close, and finding interesting angles.  Not to mention the subject matter she chooses is superb!  You might think I&apos;m joking, but I&apos;m not.  During our shoot little Eva took a few minutes to run through some of her shots on her little 2 eye ball Fischer price camera.  Some of the moments I spend in my studio are indeed priceless.</p>

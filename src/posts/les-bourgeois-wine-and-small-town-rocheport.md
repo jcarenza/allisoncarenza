@@ -1,14 +1,13 @@
 ---
-title: 'Les Bourgeois Wine, and Small town Rocheport'
-description: '<p>It started with a photo shoot or two.  My awesome cooperating teacher from my student teaching days wanted me to [&hellip;]</p>
-'
-publishDate: 'Aug 27, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/wag3.jpg'
-alt: 'Les Bourgeois Wine, and Small town Rocheport'
-slug: 'les-bourgeois-wine-and-small-town-rocheport'
-category: ['Artistic','Travel']
-tags: ['Abigails restaurant','Children','Les Bourgeois Winery','Rocheport','Rocheport, MO','Schoolhouse Bed and Breakfast']
+title: "Les Bourgeois Wine, and Small town Rocheport"
+description: "It started with a photo shoot or two.  My awesome cooperating teacher from my student teaching days wanted me to "
+publishDate: "Aug 27, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/wag3.jpg"
+alt: "Les Bourgeois Wine, and Small town Rocheport"
+slug: "les-bourgeois-wine-and-small-town-rocheport"
+category: ["Artistic", "Travel"]
+tags: ["Abigails restaurant", "Children", "Les Bourgeois Winery", "Rocheport", "Rocheport, MO", "Schoolhouse Bed and Breakfast"]
 ---
 
 <p>It started with a photo shoot or two.  My awesome cooperating teacher from my student teaching days wanted me to take pictures of her adorable 5 year old daughter Stella.  I was all, absolutely, but they live in Fulton.  2 hours away, in our old college town.  But another client wanted to do pics in St. Louis as well, so I planned on stopping in Fulton taking pics and then driving to St. Louis  for another shoot.  Then we would get to see Jon&apos;s fam.  Perfect right?  Not quite my St. Louis client had to reschedule due to unexpected business travel, so I was going to have to reschedule  Kara&apos;s shoot as well.  I was disappointed with a capital D.  Whenever something disappointing or discouraging comes up I try to turn it into something even better.  So I thought hmmm...and then it hit me, Jon and I hadn&apos;t celebrated our anniversary, in fact, we hadn&apos;t had alone time in FOREVER.  We constantly joke about the date night that never seems to happen.  So I decided to book a b and b in small town Rocheport and enjoy an afternoon sipping wine at the A frame at Les Bourgeois winery.  The day was even more perfect than originally planned.  I love when something expected turns into something wonderfully unexpected.  Perfection with a capital P.</p>

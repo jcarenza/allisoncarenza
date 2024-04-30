@@ -1,14 +1,13 @@
 ---
-title: 'Puppy pictures! ~ Kanasas City Photographer'
-description: '<p>Meet Harry!  Harry Winston!  He&apos;s a Chinese Crested champion show dog!  Retired already at the age of 2.  He now [&hellip;]</p>
-'
-publishDate: 'Sep 28, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/har11.jpg'
-alt: 'Puppy pictures! ~ Kanasas City Photographer'
-slug: 'puppy-pictures-kanasas-city-photographer'
-category: ['Dog Photos']
-tags: ['Blue Springs Photography','Chinese Crested Dog','Dog Photography','Kansas City Photography']
+title: "Puppy pictures! ~ Kanasas City Photographer"
+description: "Meet Harry!  Harry Winston!  He&apos;s a Chinese Crested champion show dog!  Retired already at the age of 2.  He now "
+publishDate: "Sep 28, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/har11.jpg"
+alt: "Puppy pictures! ~ Kanasas City Photographer"
+slug: "puppy-pictures-kanasas-city-photographer"
+category: ["Dog Photos"]
+tags: ["Blue Springs Photography", "Chinese Crested Dog", "Dog Photography", "Kansas City Photography"]
 ---
 
 <p><a rel="attachment wp-att-1502" href="http://www.allisoncarenza.com/archives/1491/har11"><img class="aligncenter size-full wp-image-1502" title="har11" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/09/har11.jpg" alt="" width="721" height="500" srcset="/media/har11.jpg 721w, /media/har11-300x208.jpg 300w" sizes="(max-width: 721px) 100vw, 721px" /></a></p>

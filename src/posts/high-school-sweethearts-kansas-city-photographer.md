@@ -1,14 +1,13 @@
 ---
-title: 'High School Sweethearts Photographer'
-description: '<p>They fell in love roaming the halls of their high school.  Their love was real back then, but like many [&hellip;]</p>
-'
-publishDate: 'Oct 21, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/ell3.jpg'
-alt: 'High School Sweethearts Photographer'
-slug: 'high-school-sweethearts-kansas-city-photographer'
-category: ['Dog Photos']
-tags: ['Dog Photography','Kansas City Photography']
+title: "High School Sweethearts Photographer"
+description: "They fell in love roaming the halls of their high school.  Their love was real back then, but like many "
+publishDate: "Oct 21, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/ell3.jpg"
+alt: "High School Sweethearts Photographer"
+slug: "high-school-sweethearts-kansas-city-photographer"
+category: ["Dog Photos"]
+tags: ["Dog Photography", "Kansas City Photography"]
 ---
 
 <p style="text-align: center;">They fell in love roaming the halls of their high school.  Their love was real back then, but like many young loves it didn&apos;t last.  They both moved on and moved away from each other.  But seven years ago when Sharon&apos;s brother passed away, they were reunited.  The timing was right, and they fell right back into the easy rhythmn of love they had in high school.  They&apos;ve been going strong ever sense.</p>

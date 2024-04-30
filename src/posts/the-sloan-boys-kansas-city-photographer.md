@@ -1,14 +1,13 @@
 ---
-title: 'The Sloan boys Photographer'
-description: '<p>I knew there was a chance the shoot wouldn&apos;t happen.  It really depended on the weather, not because we would [&hellip;]</p>
-'
-publishDate: 'May 16, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/sloan1.jpg'
-alt: 'The Sloan boys Photographer'
-slug: 'the-sloan-boys-kansas-city-photographer'
-category: ['Family Pictures']
-tags: ['Blue Springs Photography','Family Pictures','Kansas City Photography']
+title: "The Sloan boys Photographer"
+description: "I knew there was a chance the shoot wouldn&apos;t happen.  It really depended on the weather, not because we would "
+publishDate: "May 16, 2011"
+author: "Allison Carenza"
+heroImage: "/media/sloan1.jpg"
+alt: "The Sloan boys Photographer"
+slug: "the-sloan-boys-kansas-city-photographer"
+category: ["Family Pictures"]
+tags: ["Blue Springs Photography", "Family Pictures", "Kansas City Photography"]
 ---
 
 <p style="text-align: center;">I knew there was a chance the shoot wouldn&apos;t happen.  It really depended on the weather, not because we would have to cancel if it rained, but because the weather affects how Chris feels.  He has sickle cell anemia, and just days before the shoot his mom Jana was worried it wasn&apos;t going to happen.  But it did, and it was perfect.</p>

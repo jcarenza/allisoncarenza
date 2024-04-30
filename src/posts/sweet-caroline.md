@@ -1,14 +1,13 @@
 ---
-title: 'Sweet Caroline'
-description: '<p>Sweeeeeet Caroline   bump bump bump.  Good times never seem so good. I love that song, and I love this [&hellip;]</p>
-'
-publishDate: 'Apr 5, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/sweet1.jpg'
-alt: 'Sweet Caroline'
-slug: 'sweet-caroline'
-category: ['Baby Photography']
-tags: ['6 month pictures','Baby Photographer']
+title: "Sweet Caroline"
+description: "Sweeeeeet Caroline   bump bump bump.  Good times never seem so good. I love that song, and I love this "
+publishDate: "Apr 5, 2013"
+author: "Allison Carenza"
+heroImage: "/media/sweet1.jpg"
+alt: "Sweet Caroline"
+slug: "sweet-caroline"
+category: ["Baby Photography"]
+tags: ["6 month pictures", "Baby Photographer"]
 ---
 
 <p style="text-align: center;">Sweeeeeet Caroline   bump bump bump.  Good times never seem so good.</p>

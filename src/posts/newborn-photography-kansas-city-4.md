@@ -1,14 +1,13 @@
 ---
-title: 'Newborn photography...Kansas City'
-description: '<p>&nbsp; They met in college at K-state, back when they were wild college kids.  I think they are still kinda [&hellip;]</p>
-'
-publishDate: 'Mar 21, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/ma1.jpg'
-alt: 'Newborn photography...Kansas City'
-slug: 'newborn-photography-kansas-city-4'
-category: ['Newborn Photography']
-tags: ['Newborn','Newborn Pictures']
+title: "Newborn photography...Kansas City"
+description: "&nbsp; They met in college at K-state, back when they were wild college kids.  I think they are still kinda "
+publishDate: "Mar 21, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/ma1.jpg"
+alt: "Newborn photography...Kansas City"
+slug: "newborn-photography-kansas-city-4"
+category: ["Newborn Photography"]
+tags: ["Newborn", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">&nbsp;</p>

@@ -1,14 +1,13 @@
 ---
-title: 'Senior Pictures'
-description: '<p>This is Ryan and he is not your typical teenager.  What is a typical teenager anyway?  Would it be the [&hellip;]</p>
-'
-publishDate: 'Mar 30, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/ryan1.jpg'
-alt: 'Senior Pictures'
-slug: 'senior-pictures-2'
-category: ['Senior Pictures']
-tags: ['Kansas City','Senior Portrait']
+title: "Senior Pictures"
+description: "This is Ryan and he is not your typical teenager.  What is a typical teenager anyway?  Would it be the "
+publishDate: "Mar 30, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/ryan1.jpg"
+alt: "Senior Pictures"
+slug: "senior-pictures-2"
+category: ["Senior Pictures"]
+tags: ["Kansas City", "Senior Portrait"]
 ---
 
 <p style="text-align: center;"><a rel="attachment wp-att-558" href="http://www.allisoncarenza.com/archives/senior-pictures-2/ryan1/"><img class="aligncenter size-full wp-image-558" title="ryan1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/03/ryan1.jpg" alt="" width="399" height="600" srcset="/media/ryan1.jpg 399w, /media/ryan1-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px" /></a></p>

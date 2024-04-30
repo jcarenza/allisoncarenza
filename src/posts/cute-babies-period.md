@@ -1,14 +1,13 @@
 ---
-title: 'Cute babies. Period.'
-description: '<p>Merry Christmas ya&apos;ll!  I&apos;m frantically trying to keep up with all the shoots I&apos;ve been doing during this holiday season! [&hellip;]</p>
-'
-publishDate: 'Dec 12, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/thomp2.jpg'
-alt: 'Cute babies. Period.'
-slug: 'cute-babies-period'
-category: ['Baby Photography','Children Photography']
-tags: ['Allison Carenza Photography','Baby Photographer','Blue Springs Photography','Childrens Photographer','Kansas City Photographer']
+title: "Cute babies. Period."
+description: "Merry Christmas ya&apos;ll!  I&apos;m frantically trying to keep up with all the shoots I&apos;ve been doing during this holiday season! "
+publishDate: "Dec 12, 2011"
+author: "Allison Carenza"
+heroImage: "/media/thomp2.jpg"
+alt: "Cute babies. Period."
+slug: "cute-babies-period"
+category: ["Baby Photography", "Children Photography"]
+tags: ["Allison Carenza Photography", "Baby Photographer", "Blue Springs Photography", "Childrens Photographer", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">Merry Christmas ya&apos;ll!  I&apos;m frantically trying to keep up with all the shoots I&apos;ve been doing during this holiday season!  So this blog is just for fun!  I couldn&apos;t resist sharing some photos of these 2 perfectly adorable baby girls!  I hope you enjoy!</p>

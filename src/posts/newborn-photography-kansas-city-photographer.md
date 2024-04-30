@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Photography Photographer'
-description: '<p>So sometimes babies do cute things.  Wait I take that back, babies are always doing cute things.  Even their little [&hellip;]</p>
-'
-publishDate: 'Jul 12, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/eliz1.jpg'
-alt: 'Newborn Photography Photographer'
-slug: 'newborn-photography-kansas-city-photographer'
-category: ['Newborn Photography']
-tags: ['Baby Photographer']
+title: "Newborn Photography Photographer"
+description: "So sometimes babies do cute things.  Wait I take that back, babies are always doing cute things.  Even their little "
+publishDate: "Jul 12, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/eliz1.jpg"
+alt: "Newborn Photography Photographer"
+slug: "newborn-photography-kansas-city-photographer"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer"]
 ---
 
 <p><a rel="attachment wp-att-1052" href="http://www.allisoncarenza.com/archives/1051/eliz1"><img class="aligncenter size-full wp-image-1052" title="eliz1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/07/eliz1.jpg" alt="" width="600" height="400" srcset="/media/eliz1.jpg 600w, /media/eliz1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>

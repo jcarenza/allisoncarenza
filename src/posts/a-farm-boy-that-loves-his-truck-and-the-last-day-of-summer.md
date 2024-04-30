@@ -1,14 +1,13 @@
 ---
-title: 'A farm boy that loves his truck, and the last day of summer!'
-description: '<p>It scares me, really.  When I think about how fast time is flying by.  Today is the last day of [&hellip;]</p>
-'
-publishDate: 'Sep 21, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/hutchens3.jpg'
-alt: 'A farm boy that loves his truck, and the last day of summer!'
-slug: 'a-farm-boy-that-loves-his-truck-and-the-last-day-of-summer'
-category: ['Family Pictures']
-tags: ['Blue Springs Photographer','Family Photography','Family Pictures','Farm Pictures','Kansas City Photographer']
+title: "A farm boy that loves his truck, and the last day of summer!"
+description: "It scares me, really.  When I think about how fast time is flying by.  Today is the last day of "
+publishDate: "Sep 21, 2012"
+author: "Allison Carenza"
+heroImage: "/media/hutchens3.jpg"
+alt: "A farm boy that loves his truck, and the last day of summer!"
+slug: "a-farm-boy-that-loves-his-truck-and-the-last-day-of-summer"
+category: ["Family Pictures"]
+tags: ["Blue Springs Photographer", "Family Photography", "Family Pictures", "Farm Pictures", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">

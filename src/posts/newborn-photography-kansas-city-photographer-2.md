@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Photography Photographer'
-description: '<p>&nbsp; Meet Jax!  I love the name, and the baby, and the family!!!!  And I really loved taking his newborn [&hellip;]</p>
-'
-publishDate: 'May 25, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/j24.jpg'
-alt: 'Newborn Photography Photographer'
-slug: 'newborn-photography-kansas-city-photographer-2'
-category: ['Newborn Photography']
-tags: ['Blue Springs Photography','Infant Photography','Kansas City Newborn Photography','Newborn Photography']
+title: "Newborn Photography Photographer"
+description: "&nbsp; Meet Jax!  I love the name, and the baby, and the family!!!!  And I really loved taking his newborn "
+publishDate: "May 25, 2011"
+author: "Allison Carenza"
+heroImage: "/media/j24.jpg"
+alt: "Newborn Photography Photographer"
+slug: "newborn-photography-kansas-city-photographer-2"
+category: ["Newborn Photography"]
+tags: ["Blue Springs Photography", "Infant Photography", "Kansas City Newborn Photography", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">&nbsp;</p>

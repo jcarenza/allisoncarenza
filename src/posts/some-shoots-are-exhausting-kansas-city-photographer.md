@@ -1,14 +1,13 @@
 ---
-title: 'Some shoots are exhausting!  ~  Kansas City Photographer'
-description: '<p>Some shoots are just too much work, and for little Haylee this is exactly the case.  The good news, Haylee [&hellip;]</p>
-'
-publishDate: 'Jul 19, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/hoover6.jpg'
-alt: 'Some shoots are exhausting!  ~  Kansas City Photographer'
-slug: 'some-shoots-are-exhausting-kansas-city-photographer'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Blue Springs Photographer','Kansas City Photography']
+title: "Some shoots are exhausting!  ~  Kansas City Photographer"
+description: "Some shoots are just too much work, and for little Haylee this is exactly the case.  The good news, Haylee "
+publishDate: "Jul 19, 2011"
+author: "Allison Carenza"
+heroImage: "/media/hoover6.jpg"
+alt: "Some shoots are exhausting!  ~  Kansas City Photographer"
+slug: "some-shoots-are-exhausting-kansas-city-photographer"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Blue Springs Photographer", "Kansas City Photography"]
 ---
 
 <blockquote>

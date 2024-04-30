@@ -1,14 +1,13 @@
 ---
-title: 'Wedding Photography'
-description: '<p>This love started with a boy and a girl.  A boy not sure of marriage, and a girl sure of [&hellip;]</p>
-'
-publishDate: 'Aug 17, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/1.jpg'
-alt: 'Wedding Photography'
-slug: 'wedding-photography-kansas-city-2'
-category: ['Wedding Photos']
-tags: ['Kansas City Photographer','Kansas City Wedding','Wedding Flowers','Wedding Photos','Weddings','Wedding Venues','Wedding Venues']
+title: "Wedding Photography"
+description: "This love started with a boy and a girl.  A boy not sure of marriage, and a girl sure of "
+publishDate: "Aug 17, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/1.jpg"
+alt: "Wedding Photography"
+slug: "wedding-photography-kansas-city-2"
+category: ["Wedding Photos"]
+tags: ["Kansas City Photographer", "Kansas City Wedding", "Wedding Flowers", "Wedding Photos", "Weddings", "Wedding Venues", "Wedding Venues"]
 ---
 
 <p style="text-align: center;">

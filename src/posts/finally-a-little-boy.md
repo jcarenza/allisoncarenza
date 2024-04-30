@@ -1,14 +1,13 @@
 ---
-title: 'Finally a little boy...'
-description: '<p>There&apos;s a closeness between sisters, it&apos;s a love hate thing, but mostly just a love thing.  That is especially true [&hellip;]</p>
-'
-publishDate: 'Feb 5, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/sch1.jpg'
-alt: 'Finally a little boy...'
-slug: 'finally-a-little-boy'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Infant Photography','Kansas City Photographer','Newborn Photography']
+title: "Finally a little boy..."
+description: "There&apos;s a closeness between sisters, it&apos;s a love hate thing, but mostly just a love thing.  That is especially true "
+publishDate: "Feb 5, 2013"
+author: "Allison Carenza"
+heroImage: "/media/sch1.jpg"
+alt: "Finally a little boy..."
+slug: "finally-a-little-boy"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Infant Photography", "Kansas City Photographer", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">

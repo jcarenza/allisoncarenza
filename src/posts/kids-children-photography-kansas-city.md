@@ -1,14 +1,13 @@
 ---
-title: 'Kids'
-description: '<p>This is Elijah and he is adorable.  I&apos;ve been taking his pictures since he was itty bitty.  So when his [&hellip;]</p>
-'
-publishDate: 'Jul 2, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/zimm1.jpg'
-alt: 'Kids'
-slug: 'kids-children-photography-kansas-city'
-category: ['Children Photography']
-tags: ['Baby Photographer','Kansas City Photographer']
+title: "Kids"
+description: "This is Elijah and he is adorable.  I&apos;ve been taking his pictures since he was itty bitty.  So when his "
+publishDate: "Jul 2, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/07/zimm1.jpg"
+alt: "Kids"
+slug: "kids-children-photography-kansas-city"
+category: ["Children Photography"]
+tags: ["Baby Photographer", "Kansas City Photographer"]
 ---
 
 <p><a rel="attachment wp-att-1040" href="http://www.allisoncarenza.com/archives/1039/zimm1"><img class="aligncenter size-full wp-image-1040" title="zimm1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/07/zimm1.jpg" alt="" width="750" height="500" srcset="/media/zimm1.jpg 750w, /media/zimm1-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>

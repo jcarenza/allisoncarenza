@@ -1,13 +1,12 @@
 ---
-title: 'Cousin love...'
-description: '<p>Maybe it&apos;s just that I&apos;m having a brief sentimental moment, or maybe it&apos;s the remnants of those crazy pregnancy hormones, [&hellip;]</p>
-'
-publishDate: 'Apr 20, 2014'
-author: 'Allison Carenza'
-heroImage: '/media/easter.jpg'
-alt: 'Cousin love...'
-slug: 'nephew-love'
-category: ['About Allison','Children Photography','Family Pictures','Portrait Photography']
+title: "Cousin love..."
+description: "Maybe it&apos;s just that I&apos;m having a brief sentimental moment, or maybe it&apos;s the remnants of those crazy pregnancy hormones, "
+publishDate: "Apr 20, 2014"
+author: "Allison Carenza"
+heroImage: "/media/easter.jpg"
+alt: "Cousin love..."
+slug: "nephew-love"
+category: ["About Allison", "Children Photography", "Family Pictures", "Portrait Photography"]
 tags: []
 ---
 

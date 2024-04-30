@@ -1,14 +1,13 @@
 ---
-title: 'All kinds of faces!'
-description: '<p>Oh my!  Meet little Reagan!  She was so very serious during our shoot.  Just kidding.  She was a complete hoot [&hellip;]</p>
-'
-publishDate: 'Jan 11, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/bollinger5.jpg'
-alt: 'All kinds of faces!'
-slug: 'all-kinds-of-faces'
-category: ['Baby Photography']
-tags: ['Blue Springs Photographer','First Birthday Photos','Kansas City Photographer','Childrens Photography']
+title: "All kinds of faces!"
+description: "Oh my!  Meet little Reagan!  She was so very serious during our shoot.  Just kidding.  She was a complete hoot "
+publishDate: "Jan 11, 2013"
+author: "Allison Carenza"
+heroImage: "/media/bollinger5.jpg"
+alt: "All kinds of faces!"
+slug: "all-kinds-of-faces"
+category: ["Baby Photography"]
+tags: ["Blue Springs Photographer", "First Birthday Photos", "Kansas City Photographer", "Childrens Photography"]
 ---
 
 <p style="text-align: center;">

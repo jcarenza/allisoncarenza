@@ -1,14 +1,13 @@
 ---
-title: 'Haley&apos;s senior pics'
-description: '<p>Haley Cash is a fantastic athlete, excellent student, and did I mention she&apos;s absolutely gorgeous.  Like model gorgeous!  Like I [&hellip;]</p>
-'
-publishDate: 'Jul 23, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/hc1.jpg'
-alt: 'Haley&apos;s senior pics'
-slug: 'haleys-senior-pics'
-category: ['Senior Pictures']
-tags: ['Senior Pictures','Senior Pictures','Senior Pictures']
+title: "Haley&apos;s senior pics"
+description: "Haley Cash is a fantastic athlete, excellent student, and did I mention she&apos;s absolutely gorgeous.  Like model gorgeous!  Like I "
+publishDate: "Jul 23, 2013"
+author: "Allison Carenza"
+heroImage: "/media/hc1.jpg"
+alt: "Haley&apos;s senior pics"
+slug: "haleys-senior-pics"
+category: ["Senior Pictures"]
+tags: ["Senior Pictures", "Senior Pictures", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">

@@ -1,14 +1,13 @@
 ---
-title: 'Baby Love'
-description: '<p>Sometimes people get lucky, lucky to find love, lucky to find happiness, and lucky to look this good 8 months [&hellip;]</p>
-'
-publishDate: 'Oct 7, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/stan5.jpg'
-alt: 'Baby Love'
-slug: 'baby-love-newbornmaternity-photography'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Blue Springs Photographer','Kansas City Photographer','Maternity Pictures','Newborn','Newborn Photos']
+title: "Baby Love"
+description: "Sometimes people get lucky, lucky to find love, lucky to find happiness, and lucky to look this good 8 months "
+publishDate: "Oct 7, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/stan5.jpg"
+alt: "Baby Love"
+slug: "baby-love-newbornmaternity-photography"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Blue Springs Photographer", "Kansas City Photographer", "Maternity Pictures", "Newborn", "Newborn Photos"]
 ---
 
 <p><a rel="attachment wp-att-1585" href="http://www.allisoncarenza.com/archives/1580/stan5"><img class="aligncenter size-full wp-image-1585" title="stan5" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/10/stan5.jpg" alt="" width="750" height="500" srcset="/media/stan5.jpg 750w, /media/stan5-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>

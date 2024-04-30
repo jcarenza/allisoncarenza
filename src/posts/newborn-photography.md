@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Photography'
-description: '<p>The plan was to do maternity pics first, but that plan was busted when baby Michael Vernon arrived early.  Donna [&hellip;]</p>
-'
-publishDate: 'Mar 31, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/witt11.jpg'
-alt: 'Newborn Photography'
-slug: 'newborn-photography'
-category: ['Newborn Photography']
-tags: ['Kansas City','Kansas City Photographer','Newborn Photography']
+title: "Newborn Photography"
+description: "The plan was to do maternity pics first, but that plan was busted when baby Michael Vernon arrived early.  Donna "
+publishDate: "Mar 31, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/witt11.jpg"
+alt: "Newborn Photography"
+slug: "newborn-photography"
+category: ["Newborn Photography"]
+tags: ["Kansas City", "Kansas City Photographer", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">The plan was to do maternity pics first, but that plan was busted when baby Michael Vernon arrived early.  Donna was disappointed, but I&apos;m sure a little relieved to have the pregnancy over.  By the time I see women, they are over being pregnant.  Let me back up, Donna started her family later in life.  Her first daughter Alexis was a perfect accident. But a few years later  when she wanted to try to have another child she couldn&apos;t.  By that time she was entering her 40&apos;s, and doctors were discouraging.  She didn&apos;t listen and it&apos;s a good thing because now she&apos;s got a beautiful boy!  Meet Michael!</p>

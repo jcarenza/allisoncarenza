@@ -1,14 +1,13 @@
 ---
-title: 'Madison&apos;s Senior pics'
-description: '<p>Meet Madison, and ambitious high school senior who spends her time volunteering to help kids that need a little extra help. [&hellip;]</p>
-'
-publishDate: 'Apr 12, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/madison1.jpg'
-alt: 'Madison&apos;s Senior pics'
-slug: 'madisons-senior-pics'
-category: ['Senior Pictures']
-tags: ['High School Seniors','Senior Pictures','Senior Pictures']
+title: "Madison&apos;s Senior pics"
+description: "Meet Madison, and ambitious high school senior who spends her time volunteering to help kids that need a little extra help."
+publishDate: "Apr 12, 2013"
+author: "Allison Carenza"
+heroImage: "/media/madison1.jpg"
+alt: "Madison&apos;s Senior pics"
+slug: "madisons-senior-pics"
+category: ["Senior Pictures"]
+tags: ["High School Seniors", "Senior Pictures", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">

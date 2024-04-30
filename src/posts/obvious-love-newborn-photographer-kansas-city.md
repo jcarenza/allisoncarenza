@@ -1,14 +1,13 @@
 ---
-title: 'Obvious Love ~ Newborn Photographer'
-description: '<p>&nbsp; She&apos;s got the kind of smile that lights up a room.  It&apos;s quiet, kind, and warm.  That&apos;s the best [&hellip;]</p>
-'
-publishDate: 'Jun 8, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/er2.jpg'
-alt: 'Obvious Love ~ Newborn Photographer'
-slug: 'obvious-love-newborn-photographer-kansas-city'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Infant Photographer','Newborn Photography']
+title: "Obvious Love ~ Newborn Photographer"
+description: "&nbsp; She&apos;s got the kind of smile that lights up a room.  It&apos;s quiet, kind, and warm.  That&apos;s the best "
+publishDate: "Jun 8, 2011"
+author: "Allison Carenza"
+heroImage: "/media/er2.jpg"
+alt: "Obvious Love ~ Newborn Photographer"
+slug: "obvious-love-newborn-photographer-kansas-city"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Infant Photographer", "Newborn Photography"]
 ---
 
 <p>&nbsp;</p>

@@ -1,14 +1,13 @@
 ---
-title: 'Real Moments'
-description: '<p>Lately I&apos;ve been feeling like Allison Carenza Photography needs a new look.  A makeover if you will.  Especially when it [&hellip;]</p>
-'
-publishDate: 'May 31, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/douglas1.jpg'
-alt: 'Real Moments'
-slug: 'real-moments-kansas-city-photographer'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Blue Springs Photographer','Kansas City Photographer','Newborn Photographer']
+title: "Real Moments"
+description: "Lately I&apos;ve been feeling like Allison Carenza Photography needs a new look.  A makeover if you will.  Especially when it "
+publishDate: "May 31, 2012"
+author: "Allison Carenza"
+heroImage: "/media/douglas1.jpg"
+alt: "Real Moments"
+slug: "real-moments-kansas-city-photographer"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Blue Springs Photographer", "Kansas City Photographer", "Newborn Photographer"]
 ---
 
 <p style="text-align: center;">

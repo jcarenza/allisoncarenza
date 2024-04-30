@@ -1,14 +1,13 @@
 ---
-title: 'Lauren Nixson'
-description: '<p>&nbsp; A year ago today Lauren&apos;s love went out hunting like he did a million times before.  It was an [&hellip;]</p>
-'
-publishDate: 'Dec 28, 2016'
-author: 'Allison Carenza'
-heroImage: '/media/lauren1.jpg'
-alt: 'Lauren Nixson'
-slug: 'strength'
-category: ['Family Pictures']
-tags: ['Family Photography','Kansas City Photography','Lees Summit Baby Photographer','Mother-Son Pictures']
+title: "Lauren Nixson"
+description: "&nbsp; A year ago today Lauren&apos;s love went out hunting like he did a million times before.  It was an "
+publishDate: "Dec 28, 2016"
+author: "Allison Carenza"
+heroImage: "/media/lauren1.jpg"
+alt: "Lauren Nixson"
+slug: "strength"
+category: ["Family Pictures"]
+tags: ["Family Photography", "Kansas City Photography", "Lees Summit Baby Photographer", "Mother-Son Pictures"]
 ---
 
 <p>&nbsp;</p>

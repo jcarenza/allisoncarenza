@@ -1,14 +1,13 @@
 ---
-title: '5 year olds matter too!'
-description: '<p>&nbsp; 5 year olds might be the most perfect age for pictures.  They have developed their unique personality, they are [&hellip;]</p>
-'
-publishDate: 'Apr 5, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/jeffries6.jpg'
-alt: '5 year olds matter too!'
-slug: '5-year-olds-matter-too'
-category: ['Children Photography']
-tags: ['Blue Springs Photographer','Children Photography','Kansas City Photography']
+title: "5 year olds matter too!"
+description: "&nbsp; 5 year olds might be the most perfect age for pictures.  They have developed their unique personality, they are "
+publishDate: "Apr 5, 2012"
+author: "Allison Carenza"
+heroImage: "/media/jeffries6.jpg"
+alt: "5 year olds matter too!"
+slug: "5-year-olds-matter-too"
+category: ["Children Photography"]
+tags: ["Blue Springs Photographer", "Children Photography", "Kansas City Photography"]
 ---
 
 <p>&nbsp;</p>

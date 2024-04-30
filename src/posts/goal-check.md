@@ -1,14 +1,13 @@
 ---
-title: 'Goal Check'
-description: '<p>So it&apos;s July and I need to review my January goals.  If I&apos;m being honest I haven&apos;t even peeked at [&hellip;]</p>
-'
-publishDate: 'Jul 9, 2012'
-author: 'Allison Carenza'
-heroImage: ''
-alt: 'Goal Check'
-slug: 'goal-check'
-category: ['About Allison']
-tags: ['Goals']
+title: "Goal Check"
+description: "So it&apos;s July and I need to review my January goals.  If I&apos;m being honest I haven&apos;t even peeked at "
+publishDate: "Jul 9, 2012"
+author: "Allison Carenza"
+heroImage: ""
+alt: "Goal Check"
+slug: "goal-check"
+category: ["About Allison"]
+tags: ["Goals"]
 ---
 
 <p>So it&apos;s July and I need to review my January goals.  If I&apos;m being honest I haven&apos;t even peeked at these, but they&apos;re always there.  Up in my head.  Let&apos;s see how I&apos;ve done.</p>

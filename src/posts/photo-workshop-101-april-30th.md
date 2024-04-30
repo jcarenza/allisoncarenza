@@ -1,14 +1,13 @@
 ---
-title: 'Photo workshop 101 ~ April 30th'
-description: '<p>Workshop time!  Calling all hobby/amatuer photogs ready to take better pics.  This workshop is for all ya&apos;ll that look at [&hellip;]</p>
-'
-publishDate: 'Mar 15, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/ws1-900x673.jpg'
-alt: 'Photo workshop 101 ~ April 30th'
-slug: 'photo-workshop-101-april-30th'
-category: ['Specials']
-tags: ['Photography  Workshop','Kansas City Photography','Photography Workshop']
+title: "Photo workshop 101 ~ April 30th"
+description: "Workshop time!  Calling all hobby/amatuer photogs ready to take better pics.  This workshop is for all ya&apos;ll that look at "
+publishDate: "Mar 15, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/ws1-900x673.jpg"
+alt: "Photo workshop 101 ~ April 30th"
+slug: "photo-workshop-101-april-30th"
+category: ["Specials"]
+tags: ["Photography  Workshop", "Kansas City Photography", "Photography Workshop"]
 ---
 
 <p style="text-align: center;"><a href="http://www.allisoncarenza.com/the-workshop">Workshop</a> time!  Calling all hobby/amatuer photogs ready to take better pics.  This workshop is for all ya&apos;ll that look at your photos and think &#8220;what the?&#8221;.  I&apos;ll be putting my teaching shoes on for another day of fun.  Below are a few shots Jon boy snapped last fall.  If the content is boring I promise I will not be.</p>

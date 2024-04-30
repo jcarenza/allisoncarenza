@@ -1,14 +1,13 @@
 ---
-title: 'Large Family Photos Photographer'
-description: '<p>Right now I&apos;m in sunny Florida helping the one and only Mags celebrate her 30th b-day.    I wanted to get [&hellip;]</p>
-'
-publishDate: 'Jan 20, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/kitts1.jpg'
-alt: 'Large Family Photos Photographer'
-slug: 'large-family-photos-kansas-city-photographer'
-category: ['Family Pictures']
-tags: ['Family Pictures','Kansas City Photographer','Large Family Photos','Union Station Kansas City']
+title: "Large Family Photos Photographer"
+description: "Right now I&apos;m in sunny Florida helping the one and only Mags celebrate her 30th b-day.    I wanted to get "
+publishDate: "Jan 20, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/kitts1.jpg"
+alt: "Large Family Photos Photographer"
+slug: "large-family-photos-kansas-city-photographer"
+category: ["Family Pictures"]
+tags: ["Family Pictures", "Kansas City Photographer", "Large Family Photos", "Union Station Kansas City"]
 ---
 
 <p style="text-align: center;">Right now I&apos;m in sunny Florida helping the one and only <a href="www.maggiestolzberg.com">Mags</a> celebrate her 30th b-day.    I wanted to get some focused work done while I was here, but instead I&apos;ve started every day with puppy chow, gone on a 5 mile walk down the beach, and out to eat at least once a day.  To say I&apos;m overindulging is an understatement.  The fun ends tomorrow so today I&apos;m going to get some of that intended work done.</p>

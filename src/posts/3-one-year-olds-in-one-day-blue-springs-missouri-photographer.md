@@ -1,14 +1,13 @@
 ---
-title: '3 one year olds in one day!'
-description: '<p>Three one year olds, all in one day, and I loved it.  Each had their very own personality, their own [&hellip;]</p>
-'
-publishDate: 'Jan 19, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/hoover11.jpg'
-alt: '3 one year olds in one day!'
-slug: '3-one-year-olds-in-one-day-blue-springs-missouri-photographer'
-category: ['Baby Photography']
-tags: ['Baby Pictures','Blue Springs Photographer','First Birthday Photos','Kansas City Photographer']
+title: "3 one year olds in one day!"
+description: "Three one year olds, all in one day, and I loved it.  Each had their very own personality, their own "
+publishDate: "Jan 19, 2012"
+author: "Allison Carenza"
+heroImage: "/media/hoover11.jpg"
+alt: "3 one year olds in one day!"
+slug: "3-one-year-olds-in-one-day-blue-springs-missouri-photographer"
+category: ["Baby Photography"]
+tags: ["Baby Pictures", "Blue Springs Photographer", "First Birthday Photos", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">

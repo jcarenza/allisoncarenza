@@ -1,14 +1,13 @@
 ---
-title: 'Kid Photography'
-description: '<p>Sometimes kids come into the studio timid, fearful, and downright scared.  Ok I take that back, most of the time [&hellip;]</p>
-'
-publishDate: 'Jun 24, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/b2.jpg'
-alt: 'Kid Photography'
-slug: 'kid-photographykansas-city'
-category: ['Children Photography']
-tags: ['Children Photographer','Children','Kansas City Photographer']
+title: "Kid Photography"
+description: "Sometimes kids come into the studio timid, fearful, and downright scared.  Ok I take that back, most of the time "
+publishDate: "Jun 24, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/b2.jpg"
+alt: "Kid Photography"
+slug: "kid-photographykansas-city"
+category: ["Children Photography"]
+tags: ["Children Photographer", "Children", "Kansas City Photographer"]
 ---
 
 <p><a rel="attachment wp-att-954" href="http://www.allisoncarenza.com/archives/952/b2"><img class="aligncenter size-full wp-image-954" title="b2" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/06/b2.jpg" alt="" width="600" height="400" srcset="/media/b2.jpg 600w, /media/b2-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>

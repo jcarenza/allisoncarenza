@@ -1,14 +1,13 @@
 ---
-title: 'The start...'
-description: '<p>&nbsp; I&apos;ve  been reading a lot of self help type books lately, OK I can&apos;t lie, I&apos;m always reading those [&hellip;]</p>
-'
-publishDate: 'Apr 21, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/04/31ND3ZZNVFL._SL500_AA300_.jpeg'
-alt: 'The start...'
-slug: 'the-start'
-category: ['About Allison']
-tags: ['Allison Carenza Photography','Passion','Photography']
+title: "The start..."
+description: "&nbsp; I&apos;ve  been reading a lot of self help type books lately, OK I can&apos;t lie, I&apos;m always reading those "
+publishDate: "Apr 21, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/04/31ND3ZZNVFL._SL500_AA300_.jpeg"
+alt: "The start..."
+slug: "the-start"
+category: ["About Allison"]
+tags: ["Allison Carenza Photography", "Passion", "Photography"]
 ---
 
 <p style="text-align: center;">&nbsp;</p>

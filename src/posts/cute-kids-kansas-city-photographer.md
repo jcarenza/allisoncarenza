@@ -1,14 +1,13 @@
 ---
-title: 'Cute Kids! Photographer'
-description: '<p>Owen is now 1!  It&apos;s crazy how time flies.   I&apos;ve been takin&apos; this little cowboys pics since he was [&hellip;]</p>
-'
-publishDate: 'Jun 27, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/sals1.jpg'
-alt: 'Cute Kids! Photographer'
-slug: 'cute-kids-kansas-city-photographer'
-category: ['Children Photography']
-tags: ['Kansas City Photographer','Kids Photography']
+title: "Cute Kids! Photographer"
+description: "Owen is now 1!  It&apos;s crazy how time flies.   I&apos;ve been takin&apos; this little cowboys pics since he was "
+publishDate: "Jun 27, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/sals1.jpg"
+alt: "Cute Kids! Photographer"
+slug: "cute-kids-kansas-city-photographer"
+category: ["Children Photography"]
+tags: ["Kansas City Photographer", "Kids Photography"]
 ---
 
 <p>Owen is now 1!  It&apos;s crazy how time flies.   I&apos;ve been takin&apos; this little cowboys pics since he was itty bitty.  Usually he is very timid and quiet, but not during this shoot.  He was crazy, fun, and all over the place.  It&apos;s funny how comfortable the kids that grow up in my studio get.  I love it.</p>

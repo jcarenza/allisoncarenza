@@ -1,14 +1,13 @@
 ---
-title: 'Adorable baby props'
-description: '<p>Lynn the owner of Dizzlicious Creations came by today and made this dark gloomy day oh so much better!  She [&hellip;]</p>
-'
-publishDate: 'Mar 8, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/bunny2.jpg'
-alt: 'Adorable baby props'
-slug: 'adorable-baby-props'
-category: ['Newborn Photography']
-tags: ['Baby Props','Newborn']
+title: "Adorable baby props"
+description: "Lynn the owner of Dizzlicious Creations came by today and made this dark gloomy day oh so much better!  She "
+publishDate: "Mar 8, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/bunny2.jpg"
+alt: "Adorable baby props"
+slug: "adorable-baby-props"
+category: ["Newborn Photography"]
+tags: ["Baby Props", "Newborn"]
 ---
 
 <p style="text-align: center;">Lynn the owner of <a href="http://www.facebook.com/pages/DizzliciousCreations/106159336120367?ref=ts&amp;sk=wall">Dizzlicious Creation</a>s came by today and made this dark gloomy day oh so much better!  She brought me a bag of loot for my newborn sessions.</p>

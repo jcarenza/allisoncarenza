@@ -1,14 +1,13 @@
 ---
-title: 'Soccer pictures Photography'
-description: '<p>Those of you that know me well know I love soccer.  I love playing it, and watching it.  Unfortunately my [&hellip;]</p>
-'
-publishDate: 'May 17, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/soccer10.jpg'
-alt: 'Soccer pictures Photography'
-slug: 'soccer-pictures-kansas-city-photography'
-category: ['Children Photography']
-tags: ['Soccer Kansas City','Sports Photography']
+title: "Soccer pictures Photography"
+description: "Those of you that know me well know I love soccer.  I love playing it, and watching it.  Unfortunately my "
+publishDate: "May 17, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/soccer10.jpg"
+alt: "Soccer pictures Photography"
+slug: "soccer-pictures-kansas-city-photography"
+category: ["Children Photography"]
+tags: ["Soccer Kansas City", "Sports Photography"]
 ---
 
 <p style="text-align: center;"><a rel="attachment wp-att-822" href="http://www.allisoncarenza.com/archives/815/soccer10"><img class="aligncenter size-full wp-image-822" title="soccer10" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/05/soccer10.jpg" alt="" width="600" height="400" srcset="/media/soccer10.jpg 600w, /media/soccer10-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>

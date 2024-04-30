@@ -1,14 +1,13 @@
 ---
-title: 'High School Senior Pictures'
-description: '<p>Meet Maria Sharapova.  Well...not really, but I totally think Maddie looks like a younger Maria.  She is just as beautiful, [&hellip;]</p>
-'
-publishDate: 'Nov 28, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/maddie4.jpg'
-alt: 'High School Senior Pictures'
-slug: 'high-school-senior-pictures'
-category: ['Senior Pictures']
-tags: ['Blue Springs Senior','Senior Portraits','Senior Pictures']
+title: "High School Senior Pictures"
+description: "Meet Maria Sharapova.  Well...not really, but I totally think Maddie looks like a younger Maria.  She is just as beautiful, "
+publishDate: "Nov 28, 2012"
+author: "Allison Carenza"
+heroImage: "/media/maddie4.jpg"
+alt: "High School Senior Pictures"
+slug: "high-school-senior-pictures"
+category: ["Senior Pictures"]
+tags: ["Blue Springs Senior", "Senior Portraits", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">Meet Maria Sharapova.  Well...not really, but I totally think Maddie looks like a younger Maria.  She is just as beautiful, smart, kind, and talented.  I told her I think she should be a tennis player, but she wasn&apos;t sold.  🙂  I had so much fun bouncing around the city taking her pics.  GORGEOUS!</p>

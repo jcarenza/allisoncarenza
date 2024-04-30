@@ -1,14 +1,13 @@
 ---
-title: 'Growing up too fast!'
-description: '<p>Minutes turn into hours, hours turn into days, days turn into month, and months turn into years, and before I [&hellip;]</p>
-'
-publishDate: 'Jun 13, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/kalea4.jpg'
-alt: 'Growing up too fast!'
-slug: 'growing-up-too-fast'
-category: ['Children Photography']
-tags: ['Baby Photographer','Children Photography','Kansas City Photographer']
+title: "Growing up too fast!"
+description: "Minutes turn into hours, hours turn into days, days turn into month, and months turn into years, and before I "
+publishDate: "Jun 13, 2012"
+author: "Allison Carenza"
+heroImage: "/media/kalea4.jpg"
+alt: "Growing up too fast!"
+slug: "growing-up-too-fast"
+category: ["Children Photography"]
+tags: ["Baby Photographer", "Children Photography", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">Minutes turn into hours, hours turn into days, days turn into month, and months turn into years, and before I know it my little newborn clients are growing up.  Kalea is the 3rd sibling, and if feels like just yesterday her mom, Michelle was calling me to set up her newborn session.</p>

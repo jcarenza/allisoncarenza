@@ -1,13 +1,12 @@
 ---
-title: 'What if...'
-description: '<p>What if we&apos;re all here for a reason?  What if we all have this amazing potential to create our own [&hellip;]</p>
-'
-publishDate: 'Nov 18, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/q3.jpg'
-alt: 'What if...'
-slug: 'what-if'
-category: ['About Allison']
+title: "What if..."
+description: "What if we&apos;re all here for a reason?  What if we all have this amazing potential to create our own "
+publishDate: "Nov 18, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/q3.jpg"
+alt: "What if..."
+slug: "what-if"
+category: ["About Allison"]
 tags: []
 ---
 

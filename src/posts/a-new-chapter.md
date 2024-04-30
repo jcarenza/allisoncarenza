@@ -1,13 +1,12 @@
 ---
-title: 'A new chapter'
-description: '<p>It&apos;s odd.  Usually on the last day of school I&apos;m bubbling over with excitement and anticipation of the coming summer. [&hellip;]</p>
-'
-publishDate: 'Jun 2, 2010'
-author: 'Allison Carenza'
-heroImage: ''
-alt: 'A new chapter'
-slug: 'a-new-chapter'
-category: ['About Allison']
+title: "A new chapter"
+description: "It&apos;s odd.  Usually on the last day of school I&apos;m bubbling over with excitement and anticipation of the coming summer."
+publishDate: "Jun 2, 2010"
+author: "Allison Carenza"
+heroImage: ""
+alt: "A new chapter"
+slug: "a-new-chapter"
+category: ["About Allison"]
 tags: []
 ---
 

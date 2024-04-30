@@ -1,14 +1,13 @@
 ---
-title: 'Children Photography'
-description: '<p>Meet the Yoders!  There are two things I love about this picture.  First the obvious adorable family.  Second the great [&hellip;]</p>
-'
-publishDate: 'Apr 28, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/y1.jpg'
-alt: 'Children Photography'
-slug: 'children-photography-kansas-city'
-category: ['Children Photography']
-tags: ['Kansas City Family Portraits','Kansas City Photographer']
+title: "Children Photography"
+description: "Meet the Yoders!  There are two things I love about this picture.  First the obvious adorable family.  Second the great "
+publishDate: "Apr 28, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/y1.jpg"
+alt: "Children Photography"
+slug: "children-photography-kansas-city"
+category: ["Children Photography"]
+tags: ["Kansas City Family Portraits", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">Meet the Yoders!  There are two things I love about this picture.  First the obvious adorable family.  Second the great wardrobe selection.  I am a MU grad and will always have tiger pride good times, and bad.  MIZ</p>

@@ -1,14 +1,13 @@
 ---
-title: '9 months old and growing'
-description: '<p>It&apos;s Friday and dreary here in KC, so to help brighten your day I thought I&apos;d share some pics from [&hellip;]</p>
-'
-publishDate: 'Apr 20, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/roiling3.jpg'
-alt: '9 months old and growing'
-slug: '9-months-old-and-growing'
-category: ['Baby Photography']
-tags: ['Baby Photographer  Blue Springs','Baby Photographer','Kansas City Photographer']
+title: "9 months old and growing"
+description: "It&apos;s Friday and dreary here in KC, so to help brighten your day I thought I&apos;d share some pics from "
+publishDate: "Apr 20, 2012"
+author: "Allison Carenza"
+heroImage: "/media/roiling3.jpg"
+alt: "9 months old and growing"
+slug: "9-months-old-and-growing"
+category: ["Baby Photography"]
+tags: ["Baby Photographer  Blue Springs", "Baby Photographer", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">

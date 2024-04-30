@@ -1,14 +1,13 @@
 ---
-title: 'Family Pictures Photographer'
-description: '<p>Even through the text I could hear her panic.  I&apos;ve never been a panicked mom, but I can recognize one.  And Claudia [&hellip;]</p>
-'
-publishDate: 'Aug 22, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/meyer2.jpg'
-alt: 'Family Pictures Photographer'
-slug: 'family-pictures-kansas-city-photographer-3'
-category: ['Family Pictures']
-tags: ['Family Pictures','Kansas City','Kansas City Family Portraits','Kansas City Photographer']
+title: "Family Pictures Photographer"
+description: "Even through the text I could hear her panic.  I&apos;ve never been a panicked mom, but I can recognize one.  And Claudia "
+publishDate: "Aug 22, 2011"
+author: "Allison Carenza"
+heroImage: "/media/meyer2.jpg"
+alt: "Family Pictures Photographer"
+slug: "family-pictures-kansas-city-photographer-3"
+category: ["Family Pictures"]
+tags: ["Family Pictures", "Kansas City", "Kansas City Family Portraits", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">Even through the text I could hear her panic.  I&apos;ve never been a panicked mom, but I can recognize one.  And Claudia was in a panic.  She needed pictures, and she needed them the following week!  She explained that Sawn was headed to college at Kansas State the following weekend and she desperately wanted pics.  You see, Claudia&apos;s boys are her everything.  When she talks about her family she literally lights up!</p>

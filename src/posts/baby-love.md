@@ -1,14 +1,13 @@
 ---
-title: 'Baby Love'
-description: '<p>All new moms are in love with their babies.  But some have this all over glow about motherhood and that&apos;s [&hellip;]</p>
-'
-publishDate: 'Apr 19, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/mcniel3.jpg'
-alt: 'Baby Love'
-slug: 'baby-love'
-category: ['Newborn Photography']
-tags: ['Blue Springs Photographer','Kansas City Newborn Photographer','Newborn Photography']
+title: "Baby Love"
+description: "All new moms are in love with their babies.  But some have this all over glow about motherhood and that&apos;s "
+publishDate: "Apr 19, 2012"
+author: "Allison Carenza"
+heroImage: "/media/mcniel3.jpg"
+alt: "Baby Love"
+slug: "baby-love"
+category: ["Newborn Photography"]
+tags: ["Blue Springs Photographer", "Kansas City Newborn Photographer", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">All new moms are in love with their babies.  But some have this all over glow about motherhood and that&apos;s just how I would describe Jennifer.  She is obsessed, in love, totally addicted to her little girl Macy.  Even being pooped on, peed on and spit up on can&apos;t discourage her from her job of being the best mom ever.</p>

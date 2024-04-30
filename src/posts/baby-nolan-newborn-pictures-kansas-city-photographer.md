@@ -1,14 +1,13 @@
 ---
-title: 'Baby Nolan'
-description: '<p>&nbsp; In a newborn shoot there are a lot of quiet moments.  It&apos;s not the rowdy rambunctious kinda shoot like [&hellip;]</p>
-'
-publishDate: 'May 3, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/nolan2.jpg'
-alt: 'Baby Nolan'
-slug: 'baby-nolan-newborn-pictures-kansas-city-photographer'
-category: ['Newborn Photography']
-tags: ['Baby Photographer  Kansas City','Blue Springs Photographer','Kansas City Newborn Photographer','Kansas City Photographer','Newborn Photography']
+title: "Baby Nolan"
+description: "&nbsp; In a newborn shoot there are a lot of quiet moments.  It&apos;s not the rowdy rambunctious kinda shoot like "
+publishDate: "May 3, 2012"
+author: "Allison Carenza"
+heroImage: "/media/nolan2.jpg"
+alt: "Baby Nolan"
+slug: "baby-nolan-newborn-pictures-kansas-city-photographer"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer  Kansas City", "Blue Springs Photographer", "Kansas City Newborn Photographer", "Kansas City Photographer", "Newborn Photography"]
 ---
 
 <p>&nbsp;</p>

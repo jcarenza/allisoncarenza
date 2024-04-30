@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Photograph'
-description: '<p>&nbsp; &nbsp; &nbsp; Surprised!!!!!  That&apos;s how Ben and Haley felt when they found out they were pregnant.  They tried everything [&hellip;]</p>
-'
-publishDate: 'Jun 6, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/sam81.jpg'
-alt: 'Newborn Photograph'
-slug: 'newborn-photograph-kansas-city'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Newborn Photographer Blue Springs','Newborn Pictures']
+title: "Newborn Photograph"
+description: "&nbsp; &nbsp; &nbsp; Surprised!!!!!  That&apos;s how Ben and Haley felt when they found out they were pregnant.  They tried everything "
+publishDate: "Jun 6, 2011"
+author: "Allison Carenza"
+heroImage: "/media/sam81.jpg"
+alt: "Newborn Photograph"
+slug: "newborn-photograph-kansas-city"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Newborn Photographer Blue Springs", "Newborn Pictures"]
 ---
 
 <p>&nbsp;</p>

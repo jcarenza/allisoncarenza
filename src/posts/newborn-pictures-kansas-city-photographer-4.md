@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Pictures Photographer'
-description: '<p>Meet Jameson!  A little bundle of pure delight! &nbsp; Chandler is Jameson&apos;s big brother, and he doesn&apos;t know it yet, [&hellip;]</p>
-'
-publishDate: 'Feb 13, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/chandler3.jpg'
-alt: 'Newborn Pictures Photographer'
-slug: 'newborn-pictures-kansas-city-photographer-4'
-category: ['Newborn Photography']
-tags: ['Kansas City Photographer','Newborn Photography','Newborn Pictures']
+title: "Newborn Pictures Photographer"
+description: "Meet Jameson!  A little bundle of pure delight! &nbsp; Chandler is Jameson&apos;s big brother, and he doesn&apos;t know it yet, "
+publishDate: "Feb 13, 2012"
+author: "Allison Carenza"
+heroImage: "/media/chandler3.jpg"
+alt: "Newborn Pictures Photographer"
+slug: "newborn-pictures-kansas-city-photographer-4"
+category: ["Newborn Photography"]
+tags: ["Kansas City Photographer", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">

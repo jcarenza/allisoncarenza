@@ -1,14 +1,13 @@
 ---
-title: 'Love, Laugher, and one strong little boy'
-description: '<p>Some families are just cute!  There&apos;s just no other way to describe it, and that&apos;s just how I feel about [&hellip;]</p>
-'
-publishDate: 'Apr 4, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/guffey4.jpg'
-alt: 'Love, Laugher, and one strong little boy'
-slug: 'love-laugher-and-one-strong-little-boy'
-category: ['Baby Photography','Children Photography']
-tags: ['Baby Photographer  Kansas City','Baby Photographer','Blue Spings Childrens Photographer','Family Photographer']
+title: "Love, Laugher, and one strong little boy"
+description: "Some families are just cute!  There&apos;s just no other way to describe it, and that&apos;s just how I feel about "
+publishDate: "Apr 4, 2012"
+author: "Allison Carenza"
+heroImage: "/media/guffey4.jpg"
+alt: "Love, Laugher, and one strong little boy"
+slug: "love-laugher-and-one-strong-little-boy"
+category: ["Baby Photography", "Children Photography"]
+tags: ["Baby Photographer  Kansas City", "Baby Photographer", "Blue Spings Childrens Photographer", "Family Photographer"]
 ---
 
 <p style="text-align: center;">Some families are just cute!  There&apos;s just no other way to describe it, and that&apos;s just how I feel about the Guffey&apos;s!  Meet Bobby, Gage, Trisha, and Gracelyn.  This shoot was a special one.  Not only is little Gracelyn 6 months old, but Gage is getting ready to undergo a massive skull surgery, that will require him to shave his head and spend weeks in painful recovery.  What a brave little boy, and strong set of parents.</p>

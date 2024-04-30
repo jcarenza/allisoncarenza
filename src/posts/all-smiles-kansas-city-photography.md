@@ -1,14 +1,13 @@
 ---
-title: 'All Smiles!  Kansas City Photography'
-description: '<p>Some kids are naturally happy. Some kids are photogenic.  VERY few are both.   But that would pretty much sum [&hellip;]</p>
-'
-publishDate: 'Aug 2, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/mal5.jpg'
-alt: 'All Smiles!  Kansas City Photography'
-slug: 'all-smiles-kansas-city-photography'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Children Photographer','Kansas City Photographer']
+title: "All Smiles!  Kansas City Photography"
+description: "Some kids are naturally happy. Some kids are photogenic.  VERY few are both.   But that would pretty much sum "
+publishDate: "Aug 2, 2011"
+author: "Allison Carenza"
+heroImage: "/media/mal5.jpg"
+alt: "All Smiles!  Kansas City Photography"
+slug: "all-smiles-kansas-city-photography"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Children Photographer", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">Some kids are naturally happy. Some kids are photogenic.  VERY few are both.   But that would pretty much sum up this little guy.  From the moment he sat down in front of the camera, until he was spent, he was ear to ear grinning.  And, he thought I was hilarious in fact in this picture he was belly laughing so hard at me that he fell over backwards.  And kept laughing.  I love my job!</p>

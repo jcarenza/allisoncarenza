@@ -1,14 +1,13 @@
 ---
-title: 'Boys and their dogs'
-description: '<p>I&apos;ve been excited about doing this blog post for awhile.  If you just looked at the pics you&apos;re probably wondering [&hellip;]</p>
-'
-publishDate: 'Jun 9, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/antho3.jpg'
-alt: 'Boys and their dogs'
-slug: 'boys-and-their-dogskansas-city-photographer'
-category: ['Dog Photos']
-tags: ['Autism','Kansas City Photographer','Kansas City Photography']
+title: "Boys and their dogs"
+description: "I&apos;ve been excited about doing this blog post for awhile.  If you just looked at the pics you&apos;re probably wondering "
+publishDate: "Jun 9, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/antho3.jpg"
+alt: "Boys and their dogs"
+slug: "boys-and-their-dogskansas-city-photographer"
+category: ["Dog Photos"]
+tags: ["Autism", "Kansas City Photographer", "Kansas City Photography"]
 ---
 
 <p>I&apos;ve been excited about doing this blog post for awhile.  If you just looked at the pics you&apos;re probably wondering why.  Well this post is all about Anthony, a handsome, 17 year old guy who happens to have Autism.  When Liza his aunt,  one of my beloved clients, contacted me and told me she wanted pics taken of her autistic nephew I was excited and nervous.  She told me she couldn&apos;t remember the last time he&apos;d had his pics taken and she wanted to surprise her sister Angel who has devoted her life to Anthony and helping other kids with Autism.  Wow!  Liza was preparing me for anything and everything that Anthony might do and then she asked if he could bring his dog.  A one year old boxer pup.  I&apos;m pretty sure my eyes got big at that point but I agreed to take on the challenge and actually thought it would be fun if not funny to watch.  Shooting dogs is always funny to watch.</p>

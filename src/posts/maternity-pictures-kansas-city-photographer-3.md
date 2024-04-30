@@ -1,14 +1,13 @@
 ---
-title: 'Maternity Pictures Photographer'
-description: '<p>These are pictures of Elizabeth and her perfect belly.  Elizabeth came to me from Miami.  Not Miami Florida, Miami MO. [&hellip;]</p>
-'
-publishDate: 'May 7, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/liz7.jpg'
-alt: 'Maternity Pictures Photographer'
-slug: 'maternity-pictures-kansas-city-photographer-3'
-category: ['Maternity Photos']
-tags: ['Kansas City Photographer','Maternity Photos']
+title: "Maternity Pictures Photographer"
+description: "These are pictures of Elizabeth and her perfect belly.  Elizabeth came to me from Miami.  Not Miami Florida, Miami MO."
+publishDate: "May 7, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/liz7.jpg"
+alt: "Maternity Pictures Photographer"
+slug: "maternity-pictures-kansas-city-photographer-3"
+category: ["Maternity Photos"]
+tags: ["Kansas City Photographer", "Maternity Photos"]
 ---
 
 <p style="text-align: center;">

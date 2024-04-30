@@ -1,14 +1,13 @@
 ---
-title: 'Little big eyes!  Newborn photography'
-description: '<p>&nbsp; Paxton...small, long, huge eyes, and wide awake!  But so content. New parents are easy to spot.  All tentative, and [&hellip;]</p>
-'
-publishDate: 'May 26, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/pax6.jpg'
-alt: 'Little big eyes!  Newborn photography'
-slug: 'little-big-eyes-newborn-photography-kansas-city'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Newborn Photography  Style','Newborn Photography  Liberty']
+title: "Little big eyes!  Newborn photography"
+description: "&nbsp; Paxton...small, long, huge eyes, and wide awake!  But so content. New parents are easy to spot.  All tentative, and "
+publishDate: "May 26, 2011"
+author: "Allison Carenza"
+heroImage: "/media/pax6.jpg"
+alt: "Little big eyes!  Newborn photography"
+slug: "little-big-eyes-newborn-photography-kansas-city"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Newborn Photography  Style", "Newborn Photography  Liberty"]
 ---
 
 <p style="text-align: center;">&nbsp;</p>

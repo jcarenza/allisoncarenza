@@ -1,14 +1,13 @@
 ---
-title: 'Good Morning!'
-description: '<p>Some photos just make my day.  I literally sit at my computer editing with a goofy grin on my face. [&hellip;]</p>
-'
-publishDate: 'Jul 18, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/roling1.jpg'
-alt: 'Good Morning!'
-slug: 'good-morning-kansas-city-photographer'
-category: ['Children Photography']
-tags: ['Childrens Photography','Kansas City Childrens Photographer','Kansas City Photography']
+title: "Good Morning!"
+description: "Some photos just make my day.  I literally sit at my computer editing with a goofy grin on my face."
+publishDate: "Jul 18, 2012"
+author: "Allison Carenza"
+heroImage: "/media/roling1.jpg"
+alt: "Good Morning!"
+slug: "good-morning-kansas-city-photographer"
+category: ["Children Photography"]
+tags: ["Childrens Photography", "Kansas City Childrens Photographer", "Kansas City Photography"]
 ---
 
 <p style="text-align: center;">

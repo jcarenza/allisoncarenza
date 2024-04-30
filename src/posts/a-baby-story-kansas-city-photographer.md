@@ -1,14 +1,13 @@
 ---
-title: 'A baby story'
-description: '<p>When I meet a new client, there is always a level of anxiety that I try to mask with my [&hellip;]</p>
-'
-publishDate: 'Feb 24, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/02/re2.jpg'
-alt: 'A baby story'
-slug: 'a-baby-story-kansas-city-photographer'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Blue Springs','Kansas City Photography','Maternity Photos','Maternity Pictures','Missouri','Newborn Pictures']
+title: "A baby story"
+description: "When I meet a new client, there is always a level of anxiety that I try to mask with my "
+publishDate: "Feb 24, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/02/re2.jpg"
+alt: "A baby story"
+slug: "a-baby-story-kansas-city-photographer"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Blue Springs", "Kansas City Photography", "Maternity Photos", "Maternity Pictures", "Missouri", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;"><a rel="attachment wp-att-2025" href="http://www.allisoncarenza.com/archives/2023/re2"><img class="aligncenter size-full wp-image-2025" title="re2" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/02/re2.jpg" alt="" width="751" height="499" /></a></p>

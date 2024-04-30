@@ -1,13 +1,12 @@
 ---
-title: 'The night before...'
-description: '<p>So it&apos;s here, the dreaded night before.  I&apos;m going over and over my to do/remember list, in hopes that I&apos;ll [&hellip;]</p>
-'
-publishDate: 'Aug 5, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/gla1.jpg'
-alt: 'The night before...'
-slug: 'the-night-before'
-category: ['About Allison']
+title: "The night before..."
+description: "So it&apos;s here, the dreaded night before.  I&apos;m going over and over my to do/remember list, in hopes that I&apos;ll "
+publishDate: "Aug 5, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/gla1.jpg"
+alt: "The night before..."
+slug: "the-night-before"
+category: ["About Allison"]
 tags: []
 ---
 

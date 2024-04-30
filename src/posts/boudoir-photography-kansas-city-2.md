@@ -1,14 +1,13 @@
 ---
-title: 'Boudoir Photography'
-description: '<p>With the holidays barely behind us it&apos;s time to start thinking about the next holiday.  One of my favs...Valentine&apos;s Day! [&hellip;]</p>
-'
-publishDate: 'Jan 2, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/bou3.jpg'
-alt: 'Boudoir Photography'
-slug: 'boudoir-photography-kansas-city-2'
-category: ['Boudoir Photos']
-tags: ['Boudoir','Boudoir','Boudoir','Kansas City Photography','Boudoir']
+title: "Boudoir Photography"
+description: "With the holidays barely behind us it&apos;s time to start thinking about the next holiday.  One of my favs...Valentine&apos;s Day! "
+publishDate: "Jan 2, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/bou3.jpg"
+alt: "Boudoir Photography"
+slug: "boudoir-photography-kansas-city-2"
+category: ["Boudoir Photos"]
+tags: ["Boudoir", "Boudoir", "Boudoir", "Kansas City Photography", "Boudoir"]
 ---
 
 <p style="text-align: center;">With the holidays barely behind us it&apos;s time to start thinking about the next holiday.  One of my favs...Valentine&apos;s Day!  I love the candy, flowers, dinner dates, pink and red galore, the basic concept, and of course the cards.  I don&apos;t even care that it&apos;s a very successful Hallmark marketing scheme.  What I don&apos;t love is coming up with a good gift for Jon.  That&apos;s mostly why I love taking BOUDOIR photos and making the daunting task of shopping for hubby easy.  Super easy.  Here are a few of the pics I recently took.  I wish I could share more, but privacy is important.  She was super ecstatic to share the pics, because she loved how she looked.  You should know she&apos;s around 40.  I&apos;ll just leave it at that.</p>

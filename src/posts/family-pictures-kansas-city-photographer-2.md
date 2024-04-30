@@ -1,14 +1,13 @@
 ---
-title: 'Family Pictures Photographer'
-description: '<p>Some people sparkle, not because they are a vampire in twilight, but because they have so much inner beauty they [&hellip;]</p>
-'
-publishDate: 'Nov 12, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/gu11.jpg'
-alt: 'Family Pictures Photographer'
-slug: 'family-pictures-kansas-city-photographer-2'
-category: ['Family Pictures']
-tags: ['Family Photography','Kansas City Photographer','Kansas City Photography']
+title: "Family Pictures Photographer"
+description: "Some people sparkle, not because they are a vampire in twilight, but because they have so much inner beauty they "
+publishDate: "Nov 12, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/gu11.jpg"
+alt: "Family Pictures Photographer"
+slug: "family-pictures-kansas-city-photographer-2"
+category: ["Family Pictures"]
+tags: ["Family Photography", "Kansas City Photographer", "Kansas City Photography"]
 ---
 
 <p style="text-align: center;">Some people sparkle, not because they are a vampire in twilight, but because they have so much inner beauty they just glow without even trying, even in the dark.</p>

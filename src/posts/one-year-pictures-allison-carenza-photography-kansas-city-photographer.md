@@ -1,14 +1,13 @@
 ---
-title: 'One Year Pictures'
-description: '<p>It&apos;s scary how fast a year can go by.  Or years for that matter.  It seems like just yesterday I [&hellip;]</p>
-'
-publishDate: 'May 16, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/sindel5.jpg'
-alt: 'One Year Pictures'
-slug: 'one-year-pictures-allison-carenza-photography-kansas-city-photographer'
-category: ['Baby Photography','Family Pictures']
-tags: ['Allison Carenza Photography','Baby Pictures','Kansas City Photographer','One Year Pictures']
+title: "One Year Pictures"
+description: "It&apos;s scary how fast a year can go by.  Or years for that matter.  It seems like just yesterday I "
+publishDate: "May 16, 2012"
+author: "Allison Carenza"
+heroImage: "/media/sindel5.jpg"
+alt: "One Year Pictures"
+slug: "one-year-pictures-allison-carenza-photography-kansas-city-photographer"
+category: ["Baby Photography", "Family Pictures"]
+tags: ["Allison Carenza Photography", "Baby Pictures", "Kansas City Photographer", "One Year Pictures"]
 ---
 
 <p style="text-align: center;">It&apos;s scary how fast a year can go by.  Or years for that matter.  It seems like just yesterday I was sitting on the bleachers at a cooperate challenge volleyball game watching Jon play when I met Rebecca.  We hit it off immediately and made plans to get together soon.  Soon never happened, but we did eventually get together when Rebecca was expecting.  Now Roman is a year old and I can&apos;t help but think about how fast the time has gone by.  It&apos;s a reminder that we need to live it up every moment!  Don&apos;t waste your time on stress, negative feelings, or ugly thoughts.  Look around the world is beautiful.  Especially when I get to photograph life.</p>

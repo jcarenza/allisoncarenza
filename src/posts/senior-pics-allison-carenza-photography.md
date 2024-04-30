@@ -1,14 +1,13 @@
 ---
-title: 'Senior Pics'
-description: '<p>She&apos;s smart, really smart, a rock star basketball player, and a devoted Christian.  Jordan is headed to KU this fall [&hellip;]</p>
-'
-publishDate: 'Jun 14, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/wendy1.jpg'
-alt: 'Senior Pics'
-slug: 'senior-pics-allison-carenza-photography'
-category: ['Senior Pictures']
-tags: ['Blue Springs Senior','Senior Pictures','Senior Pictures','Senior Pictures']
+title: "Senior Pics"
+description: "She&apos;s smart, really smart, a rock star basketball player, and a devoted Christian.  Jordan is headed to KU this fall "
+publishDate: "Jun 14, 2012"
+author: "Allison Carenza"
+heroImage: "/media/wendy1.jpg"
+alt: "Senior Pics"
+slug: "senior-pics-allison-carenza-photography"
+category: ["Senior Pictures"]
+tags: ["Blue Springs Senior", "Senior Pictures", "Senior Pictures", "Senior Pictures"]
 ---
 
 <p style="text-align: center;">

@@ -1,14 +1,13 @@
 ---
-title: 'Headshots, Opera, and Cute Kids'
-description: '<p>Ever been to an Opera?  Me neither, but I think it would be cool.  That&apos;s why I&apos;m going to go [&hellip;]</p>
-'
-publishDate: 'Aug 13, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/jo8.jpg'
-alt: 'Headshots, Opera, and Cute Kids'
-slug: 'headshots-opera-and-cute-kids'
-category: ['Children Photography']
-tags: ['Children','Opera Kansas City']
+title: "Headshots, Opera, and Cute Kids"
+description: "Ever been to an Opera?  Me neither, but I think it would be cool.  That&apos;s why I&apos;m going to go "
+publishDate: "Aug 13, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/jo8.jpg"
+alt: "Headshots, Opera, and Cute Kids"
+slug: "headshots-opera-and-cute-kids"
+category: ["Children Photography"]
+tags: ["Children", "Opera Kansas City"]
 ---
 
 <p style="text-align: center;"><a rel="attachment wp-att-1231" href="http://www.allisoncarenza.com/archives/1224/jo8"><img class="aligncenter size-full wp-image-1231" title="jo8" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/08/jo8.jpg" alt="" width="751" height="500" srcset="/media/jo8.jpg 751w, /media/jo8-300x200.jpg 300w" sizes="(max-width: 751px) 100vw, 751px" /></a></p>

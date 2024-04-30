@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Photos'
-description: '<p>This family came to me with their precious little 7 day old.  Meet Liv. Oh yah!  An itty bitty smile! [&hellip;]</p>
-'
-publishDate: 'Dec 19, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/robin4.jpg'
-alt: 'Newborn Photos'
-slug: 'newborn-photos'
-category: ['Newborn Photography']
-tags: ['Infant Photography','Kansas City Photographer','Newborn Images','Newborn Photography','Newborn Pictures']
+title: "Newborn Photos"
+description: "This family came to me with their precious little 7 day old.  Meet Liv. Oh yah!  An itty bitty smile! "
+publishDate: "Dec 19, 2012"
+author: "Allison Carenza"
+heroImage: "/media/robin4.jpg"
+alt: "Newborn Photos"
+slug: "newborn-photos"
+category: ["Newborn Photography"]
+tags: ["Infant Photography", "Kansas City Photographer", "Newborn Images", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">

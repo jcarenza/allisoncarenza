@@ -1,14 +1,13 @@
 ---
-title: 'Boca Raton Wedding'
-description: '<p>There&apos;s no doubt I love taking pictures of bellies, and babies but every now and then I like to step [&hellip;]</p>
-'
-publishDate: 'May 14, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/wed11.jpg'
-alt: 'Boca Raton Wedding'
-slug: 'boca-raton-wedding'
-category: ['Wedding Photos']
-tags: ['Kansas City Wedding','Weddings']
+title: "Boca Raton Wedding"
+description: "There&apos;s no doubt I love taking pictures of bellies, and babies but every now and then I like to step "
+publishDate: "May 14, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/wed11.jpg"
+alt: "Boca Raton Wedding"
+slug: "boca-raton-wedding"
+category: ["Wedding Photos"]
+tags: ["Kansas City Wedding", "Weddings"]
 ---
 
 <p>There&apos;s no doubt I love taking pictures of bellies, and babies but every now and then I like to step out of the studio to take pics of a beautiful wedding.  It keeps me on my toes, challenges me in ways my studio never can, and gives me a chance to take pictures of one of my most favorite things...weddings!  I love love love weddings!  The bride, the groom, the guests, the music, dancing, the food and of course the cake.  It&apos;s all amazing and watching it all go down through the lens of my camera capturing all the coolest moments is an adreniline rushing experience that leaves me exhausted with a perma grin.  Tomorrow I have a wedding and I&apos;m so excited.  I always like to go back and review my old wedding photos basically tearing them apart.  I&apos;m hard on myself, sometimes too hard, but it&apos;s how I learn.  While reviewing tonight I came across some photos I took with Mags in Boca this March.  I wanted to share a few.  I can&apos;t wait to pack my gear and get going tomorrow.  I&apos;m feeling the creative juices a flowing.</p>

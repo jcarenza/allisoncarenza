@@ -1,14 +1,13 @@
 ---
-title: 'Just 6 weeks old and so strong...'
-description: '<p>It&apos;s really no surprise that baby George is so strong.  At just 6 weeks old he is going from his [&hellip;]</p>
-'
-publishDate: 'Mar 21, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/george2.jpg'
-alt: 'Just 6 weeks old and so strong...'
-slug: 'just-6-weeks-old-and-so-strong'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Baby Pictures','Kansas City Baby Photographer','Kansas City Photographer']
+title: "Just 6 weeks old and so strong..."
+description: "It&apos;s really no surprise that baby George is so strong.  At just 6 weeks old he is going from his "
+publishDate: "Mar 21, 2013"
+author: "Allison Carenza"
+heroImage: "/media/george2.jpg"
+alt: "Just 6 weeks old and so strong..."
+slug: "just-6-weeks-old-and-so-strong"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Baby Pictures", "Kansas City Baby Photographer", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">It&apos;s really no surprise that baby George is so strong.  At just 6 weeks old he is going from his home in Scottsdale, to Kansas City, to New York City, and then back home to Arizona.  With just his momma.  Yup, Dad is at home working.  Brand new momma Susie is oh so awesome for feeling comfortable and confident enough to travel so early.  You rock Susie.  During the shoot we joked that the pioneer women had to travel in a wagon, which makes her travel look easy.  I still think it&apos;s pretty impressive!  That is why I think this little 6 week old is oh so strong...it&apos;s in his blood. 🙂</p>

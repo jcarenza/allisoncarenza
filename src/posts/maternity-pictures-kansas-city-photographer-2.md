@@ -1,14 +1,13 @@
 ---
-title: 'Maternity Pictures Photographer'
-description: '<p>Are you ready?  In not, you better sit down because here are some of the most gorgeous maternity shots ever [&hellip;]</p>
-'
-publishDate: 'Apr 21, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/mecia6.jpg'
-alt: 'Maternity Pictures Photographer'
-slug: 'maternity-pictures-kansas-city-photographer-2'
-category: ['Maternity Photos']
-tags: ['Maternity Photography','Maternity Photos','Maternity Pictures']
+title: "Maternity Pictures Photographer"
+description: "Are you ready?  In not, you better sit down because here are some of the most gorgeous maternity shots ever "
+publishDate: "Apr 21, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/04/mecia6.jpg"
+alt: "Maternity Pictures Photographer"
+slug: "maternity-pictures-kansas-city-photographer-2"
+category: ["Maternity Photos"]
+tags: ["Maternity Photography", "Maternity Photos", "Maternity Pictures"]
 ---
 
 <p style="text-align: center;">Are you ready?  In not, you better sit down because here are some of the most gorgeous maternity shots ever taken!  Really truly in the whole world.  I love my future mammas and Mecia is no exception.  She is so obviously stunning on the outside, but equally beautiful on the inside.  Here are a few of my favorites.  I had to pick!  PS you have to read the whole thing because there&apos;s a surprise at the end!</p>

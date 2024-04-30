@@ -1,14 +1,13 @@
 ---
-title: 'Family Photos'
-description: '<p>This is the Parker family and I had the most difficult time deciding which pics to put on the blog. [&hellip;]</p>
-'
-publishDate: 'Jul 15, 2010'
-author: 'Allison Carenza'
-heroImage: ''
-alt: 'Family Photos'
-slug: 'family-photos-2'
-category: ['Family Pictures']
-tags: ['KC Photographer']
+title: "Family Photos"
+description: "This is the Parker family and I had the most difficult time deciding which pics to put on the blog."
+publishDate: "Jul 15, 2010"
+author: "Allison Carenza"
+heroImage: ""
+alt: "Family Photos"
+slug: "family-photos-2"
+category: ["Family Pictures"]
+tags: ["KC Photographer"]
 ---
 
 <p>This is the Parker family and I had the most difficult time deciding which pics to put on the blog.  I&apos;ve been dabbling in slideshows for awhile trying to find a program that best suits me.  So I decided to share their awesome session via slideshow.  You should know little Parker truly is the diva she seems to be in the pics, and little Braxton truly is the little sweet heart he seems to be.  They were both a blast to work with and I always enjoy taking their pictures.  Thank you Rachel and Olin for letting Jon and I hang out with your awesome fam for awhile.  It was the most perfect evening!</p>

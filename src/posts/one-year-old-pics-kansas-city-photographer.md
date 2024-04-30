@@ -1,14 +1,13 @@
 ---
-title: 'One year old pics'
-description: '<p>In the first year of life, babies change so much.  I only get to see the babies in my life [&hellip;]</p>
-'
-publishDate: 'Aug 1, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/1year73.jpg'
-alt: 'One year old pics'
-slug: 'one-year-old-pics-kansas-city-photographer'
-category: ['Baby Photography']
-tags: ['Children','Kansas City Photographer']
+title: "One year old pics"
+description: "In the first year of life, babies change so much.  I only get to see the babies in my life "
+publishDate: "Aug 1, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/08/1year73.jpg"
+alt: "One year old pics"
+slug: "one-year-old-pics-kansas-city-photographer"
+category: ["Baby Photography"]
+tags: ["Children", "Kansas City Photographer"]
 ---
 
 <p style="text-align: center;">In the first year of life, babies change so much.  I only get to see the babies in my life (my clients)  about every 3 months that first year,  so it amazes me how fast they change. They go from scrawny, bony, newborns, that can&apos;t even control the direction of their eyes.  To pudgy, happy, wiggly babies that mostly just want to eat and witness the world around them.  Before I know it they&apos;re crawling and pictures become a teeny bit more difficult, because now they want to become  a part of the world.  They explore, touch, taste, and want to learn.  By the time they are one they are still rather reckless, but they are now entering childhood, no longer babies.  Ready to walk and start learning to talk.  They still have their adorable baby features, but their adult face is starting to take shape as is their personality.</p>

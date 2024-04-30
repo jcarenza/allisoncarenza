@@ -1,14 +1,13 @@
 ---
-title: 'A Beautiful wedding, and more beautiful couple'
-description: '<p>They met in college.  Jenny wasn&apos;t looking for love, just a fun time.  Ryan was a frat boy, and also [&hellip;]</p>
-'
-publishDate: 'Oct 19, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/001ango.jpg'
-alt: 'A Beautiful wedding, and more beautiful couple'
-slug: 'a-beautiful-wedding-and-more-beautiful-couple-kansas-city-photographer'
-category: ['Wedding Photos']
-tags: ['Hawthorne House','Parkville, MO','Wedding Photography','Wedding Photos']
+title: "A Beautiful wedding, and more beautiful couple"
+description: "They met in college.  Jenny wasn&apos;t looking for love, just a fun time.  Ryan was a frat boy, and also "
+publishDate: "Oct 19, 2011"
+author: "Allison Carenza"
+heroImage: "/media/001ango.jpg"
+alt: "A Beautiful wedding, and more beautiful couple"
+slug: "a-beautiful-wedding-and-more-beautiful-couple-kansas-city-photographer"
+category: ["Wedding Photos"]
+tags: ["Hawthorne House", "Parkville, MO", "Wedding Photography", "Wedding Photos"]
 ---
 
 <p style="text-align: center;">They met in college.  Jenny wasn&apos;t looking for love, just a fun time.  Ryan was a frat boy, and also looking for a good time.  So when Jenny and Ryan met their plan for life was changed...for the better.  He made her laugh, feel happy, and have fun.  Their love is the kind others envy.  It&apos;s easy, comfortable, and meant to be.</p>

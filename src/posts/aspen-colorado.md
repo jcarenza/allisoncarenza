@@ -1,14 +1,13 @@
 ---
-title: 'Aspen Colorado'
-description: '<p>Aspen Colorado might be one of the most beautiful places on Earth.  Big blue skies, untouched mountains, and perfect snow. [&hellip;]</p>
-'
-publishDate: 'Mar 21, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/Aspen1.jpg'
-alt: 'Aspen Colorado'
-slug: 'aspen-colorado'
-category: ['Artistic','Travel']
-tags: ['Aspen, Colorado','Aspen Highlands','Mountains','Skiing']
+title: "Aspen Colorado"
+description: "Aspen Colorado might be one of the most beautiful places on Earth.  Big blue skies, untouched mountains, and perfect snow."
+publishDate: "Mar 21, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/Aspen1.jpg"
+alt: "Aspen Colorado"
+slug: "aspen-colorado"
+category: ["Artistic", "Travel"]
+tags: ["Aspen, Colorado", "Aspen Highlands", "Mountains", "Skiing"]
 ---
 
 <p><a rel="attachment wp-att-507" href="http://www.allisoncarenza.com/studio/archives/506/aspen1"><img class="aligncenter size-full wp-image-507" title="Aspen1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/03/Aspen1.jpg" alt="" width="400" height="600" srcset="/media/Aspen1.jpg 400w, /media/Aspen1-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>

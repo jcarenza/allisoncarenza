@@ -1,14 +1,13 @@
 ---
-title: 'Boudoir, Bellies, then Babies!'
-description: '<p>I think bellies, babies and boudoir just sounds better so that&apos;s why I have it in that order on my [&hellip;]</p>
-'
-publishDate: 'Apr 16, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/04/erin4.jpg'
-alt: 'Boudoir, Bellies, then Babies!'
-slug: 'boudoir-bellies-then-babies'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Maternity Photography','Maternity Photos','Newborn']
+title: "Boudoir, Bellies, then Babies!"
+description: "I think bellies, babies and boudoir just sounds better so that&apos;s why I have it in that order on my "
+publishDate: "Apr 16, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/04/erin4.jpg"
+alt: "Boudoir, Bellies, then Babies!"
+slug: "boudoir-bellies-then-babies"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Maternity Photography", "Maternity Photos", "Newborn"]
 ---
 
 <p style="text-align: center;">I think bellies, babies and boudoir just sounds better so that&apos;s why I have it in that order on my website, but really, it should go boudoir, bellies, then babies.  That&apos;s the order Erin chose to get her pics taken.</p>

@@ -1,14 +1,13 @@
 ---
-title: 'Children Portraits Photographer'
-description: '<p>I&apos;ve known Alice since college, in fact I was one of the first people she met on campus as her [&hellip;]</p>
-'
-publishDate: 'Dec 8, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/12/lar6.jpg'
-alt: 'Children Portraits Photographer'
-slug: 'children-portraits-kansas-city-photographer'
-category: ['Baby Photography','Newborn Photography']
-tags: ['Children','Kansas City Photographer','Kansas City Photography','Newborn']
+title: "Children Portraits Photographer"
+description: "I&apos;ve known Alice since college, in fact I was one of the first people she met on campus as her "
+publishDate: "Dec 8, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/12/lar6.jpg"
+alt: "Children Portraits Photographer"
+slug: "children-portraits-kansas-city-photographer"
+category: ["Baby Photography", "Newborn Photography"]
+tags: ["Children", "Kansas City Photographer", "Kansas City Photography", "Newborn"]
 ---
 
 <p style="text-align: center;">I&apos;ve known Alice since college, in fact I was one of the first people she met on campus as her Freshman orientation assistant.  Unlike many freshman Alice was confident, outgoing, and oh so happy, she wasn&apos;t afraid to show it and share it.</p>

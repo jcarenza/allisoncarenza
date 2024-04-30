@@ -1,14 +1,13 @@
 ---
-title: 'Newborn Photography'
-description: '<p>23 eggs.  There were 23 eggs in the beginning, but slowly they started to parish.  One by one, until there [&hellip;]</p>
-'
-publishDate: 'Jan 25, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/siems3.jpg'
-alt: 'Newborn Photography'
-slug: 'newborn-photography-kansas-city-3'
-category: ['Newborn Photography']
-tags: ['Baby Photographer','Blue Springs Photographer','Kansas City Photographer','Newborn Pictures']
+title: "Newborn Photography"
+description: "23 eggs.  There were 23 eggs in the beginning, but slowly they started to parish.  One by one, until there "
+publishDate: "Jan 25, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/01/siems3.jpg"
+alt: "Newborn Photography"
+slug: "newborn-photography-kansas-city-3"
+category: ["Newborn Photography"]
+tags: ["Baby Photographer", "Blue Springs Photographer", "Kansas City Photographer", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">23 eggs.  There were 23 eggs in the beginning, but slowly they started to parish.  One by one, until there were only 5, then 4, then 3, then 2, and finally one.  One egg.  One chance, that&apos;s all they had.  In vitro is risky enough, but with just one egg the odds weren&apos;t in Pam and Scott&apos;s favor.  But as it turns out, one egg is enough.  In fact it&apos;s the perfect amount.  I didn&apos;t get to meet Pam and Scott before they were pregnant,  but I know they must have been changed forever when they finally got the good news after years of trying.</p>

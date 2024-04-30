@@ -1,14 +1,13 @@
 ---
-title: 'Engagement pictures'
-description: '<p>Selena contacted me last January and told me she wanted to give her boyfriend a special gift/hint for Valentines day. [&hellip;]</p>
-'
-publishDate: 'Nov 3, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/sj9.jpg'
-alt: 'Engagement pictures'
-slug: 'engagment-pictures-kansas-city'
-category: ['Wedding Photos']
-tags: ['Engagement Photos','Kansas City','Kansas City Wedding','Weddings']
+title: "Engagement pictures"
+description: "Selena contacted me last January and told me she wanted to give her boyfriend a special gift/hint for Valentines day."
+publishDate: "Nov 3, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/sj9.jpg"
+alt: "Engagement pictures"
+slug: "engagment-pictures-kansas-city"
+category: ["Wedding Photos"]
+tags: ["Engagement Photos", "Kansas City", "Kansas City Wedding", "Weddings"]
 ---
 
 <p style="text-align: center;">Selena contacted me last January and told me she wanted to give her boyfriend a special gift/hint for Valentines day.  Boudoir photos, with a twist!  I love twists, so of coures I was intrigued.  She wanted me to take a hot pic of her in her special undies that said hint hint.  She had been dating her boyfriend Johnny for awhile and wanted to let him know she was ready to be with him forever.  Well, it worked because now the two are tying the knot this spring.</p>

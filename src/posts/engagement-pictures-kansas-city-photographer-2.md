@@ -1,14 +1,13 @@
 ---
-title: 'Engagement Pictures Photographer'
-description: '<p>Christina had a plan.  Like so many other 23 year old girls, she was determined to make that plan a [&hellip;]</p>
-'
-publishDate: 'May 12, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/cm31.jpg'
-alt: 'Engagement Pictures Photographer'
-slug: 'engagement-pictures-kansas-city-photographer-2'
-category: ['Wedding Photos']
-tags: ['Blue Springs Photographer','Blue Springs Photography','Kansas City Photographer','Kansas City Photography','Lees Summit Photography']
+title: "Engagement Pictures Photographer"
+description: "Christina had a plan.  Like so many other 23 year old girls, she was determined to make that plan a "
+publishDate: "May 12, 2011"
+author: "Allison Carenza"
+heroImage: "/media/cm31.jpg"
+alt: "Engagement Pictures Photographer"
+slug: "engagement-pictures-kansas-city-photographer-2"
+category: ["Wedding Photos"]
+tags: ["Blue Springs Photographer", "Blue Springs Photography", "Kansas City Photographer", "Kansas City Photography", "Lees Summit Photography"]
 ---
 
 <p><span> Christina had a plan.  Like so many other 23 year old girls, she was determined to make that plan a reality.  It went a little something like this.  Start teaching career, meet boy, marry boy, have babies, all before 25.  Well the plan didn&apos;t work out exactly as she had hoped.  So on her 25 birthday after a fun night out she was left feeling lonely and unhappy with her life, sure that she was doomed to be a </span>spinster!  What Christina didn&apos;t realize then is that the plan was always there, but the timing was not.  So, she went on a lot of bad dates, met and liked some bad boys, but kept looking.  She knew she wanted someone that loved her for her and wasn&apos;t going to settle for less.  Well fast forward a few years and she found him.  Matt.  From the start she knew it was different, because it just felt different.  Unlike the popular book, he was definitely into her.  He called when he said he would, he took her on dates that were romantic, and he made her feel special.  Christina was protective of her heart for a little second, but I guess you can see the rest is history.</p>

@@ -1,14 +1,13 @@
 ---
-title: 'Southern Plantation Wedding Photographer'
-description: '<p>I remember I was walking around Costco the first time Brooke brought up Justin&apos;s name in conversation.  She said it [&hellip;]</p>
-'
-publishDate: 'Oct 6, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/br1.jpg'
-alt: 'Southern Plantation Wedding Photographer'
-slug: 'southern-plantation-wedding-kansas-city-photographer'
-category: ['Wedding Photos']
-tags: ['Kansas City Photographer','Wedding Photographer Kansas City','Weddings']
+title: "Southern Plantation Wedding Photographer"
+description: "I remember I was walking around Costco the first time Brooke brought up Justin&apos;s name in conversation.  She said it "
+publishDate: "Oct 6, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/10/br1.jpg"
+alt: "Southern Plantation Wedding Photographer"
+slug: "southern-plantation-wedding-kansas-city-photographer"
+category: ["Wedding Photos"]
+tags: ["Kansas City Photographer", "Wedding Photographer Kansas City", "Weddings"]
 ---
 
 <p style="text-align: center;">I remember I was walking around Costco the first time Brooke brought up Justin&apos;s name in conversation.  She said it casually, &#8220;I met a boy&#8221;.  I jumped at the opportunity to hear more because, well Brooke is always guarded with her heart, when it comes to men.  &#8220;What? Tell me more.&#8221;  As though my enthusiasm was a reminder of her heart she quickly brushed it off as no big deal.  I didn&apos;t stop though, I forced her to tell me how they met, what he was like, and how long this had been going on.  She made it seem simple, no big deal, but I could hear her smiling through the phone.  I knew this boy had broken down a wall.</p>

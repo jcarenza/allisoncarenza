@@ -1,14 +1,13 @@
 ---
-title: 'Kids grow up too fast.  Period.'
-description: '<p>It&apos;s hard to believe 4 years ago I took pictures of little Izzie just days after she was born.  It&apos;s [&hellip;]</p>
-'
-publishDate: 'May 17, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/sals23.jpg'
-alt: 'Kids grow up too fast.  Period.'
-slug: 'kids-grow-up-too-fast-period'
-category: ['Children Photography','Family Pictures']
-tags: ['Blue Springs Photographer','Grain Valley Photographer','Kansas City Photography']
+title: "Kids grow up too fast.  Period."
+description: "It&apos;s hard to believe 4 years ago I took pictures of little Izzie just days after she was born.  It&apos;s "
+publishDate: "May 17, 2011"
+author: "Allison Carenza"
+heroImage: "/media/sals23.jpg"
+alt: "Kids grow up too fast.  Period."
+slug: "kids-grow-up-too-fast-period"
+category: ["Children Photography", "Family Pictures"]
+tags: ["Blue Springs Photographer", "Grain Valley Photographer", "Kansas City Photography"]
 ---
 
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2833" title="sals2" src="/media/sals23.jpg" alt="" width="743" height="500" srcset="/media/sals23.jpg 743w, /media/sals23-300x202.jpg 300w" sizes="(max-width: 743px) 100vw, 743px" /></p>

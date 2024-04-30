@@ -1,14 +1,13 @@
 ---
-title: 'Halfway!'
-description: '<p>&nbsp; It&apos;s shocking really.  We&apos;re halfway through 2011.  I don&apos;t want to admit that I&apos;m screaming inside for the world [&hellip;]</p>
-'
-publishDate: 'Jul 1, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/IND_9821.jpg'
-alt: 'Halfway!'
-slug: 'halfway'
-category: ['About Allison']
-tags: ['Goals']
+title: "Halfway!"
+description: "&nbsp; It&apos;s shocking really.  We&apos;re halfway through 2011.  I don&apos;t want to admit that I&apos;m screaming inside for the world "
+publishDate: "Jul 1, 2011"
+author: "Allison Carenza"
+heroImage: "/media/IND_9821.jpg"
+alt: "Halfway!"
+slug: "halfway"
+category: ["About Allison"]
+tags: ["Goals"]
 ---
 
 <p style="text-align: center;">&nbsp;</p>

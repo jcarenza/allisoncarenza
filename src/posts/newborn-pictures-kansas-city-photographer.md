@@ -1,14 +1,13 @@
 ---
-title: 'Newborn pictures Photographer'
-description: '<p>It had been over a week since I&apos;d held a newborn baby in my arms.  I&apos;m not gonna lie, I [&hellip;]</p>
-'
-publishDate: 'Mar 11, 2011'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/c1.jpg'
-alt: 'Newborn pictures Photographer'
-slug: 'newborn-pictures-kansas-city-photographer'
-category: ['Newborn Photography']
-tags: ['Kansas City Newborn Photography','Kansas City Photographer','Newborn','Newborn Pictures']
+title: "Newborn pictures Photographer"
+description: "It had been over a week since I&apos;d held a newborn baby in my arms.  I&apos;m not gonna lie, I "
+publishDate: "Mar 11, 2011"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/c1.jpg"
+alt: "Newborn pictures Photographer"
+slug: "newborn-pictures-kansas-city-photographer"
+category: ["Newborn Photography"]
+tags: ["Kansas City Newborn Photography", "Kansas City Photographer", "Newborn", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">It had been over a week since I&apos;d held a newborn baby in my arms.  I&apos;m not gonna lie, I missed it.  Kind of scary thing to say out loud since I am so not ready to have kids.  I just love the feeling when a new mom walks in with her itty bitty baby.  I love their tiny hands, the baby smell, and the fact that they are so fragile, and needy.  I&apos;ve gotten really good at finding rhythmn during these shoots.  Not something I could say last year.  I know how to comfort them, when to shoot, when to feed, and when to go ahead and change their diaper.  I even have a whole slew of trips on how to quite them.  Ok, maybe I&apos;m a little more ready, but that&apos;s a whole nother blog.</p>

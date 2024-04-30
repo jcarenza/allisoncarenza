@@ -1,14 +1,13 @@
 ---
-title: 'From belly to baby baby photographer'
-description: '<p>Meet Amber.  An ambitious, hard working, fun- loving, party girl, after my own heart.  Even before the shoot I knew we [&hellip;]</p>
-'
-publishDate: 'Aug 22, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/amber5.jpg'
-alt: 'From belly to baby baby photographer'
-slug: 'from-belly-to-baby-kansas-city-baby-photographer'
-category: ['Maternity Photos','Newborn Photography']
-tags: ['Kansas City Maternity Pictures','Maternity Photography','Maternity Pictures','Newborn Photography']
+title: "From belly to baby baby photographer"
+description: "Meet Amber.  An ambitious, hard working, fun- loving, party girl, after my own heart.  Even before the shoot I knew we "
+publishDate: "Aug 22, 2011"
+author: "Allison Carenza"
+heroImage: "/media/amber5.jpg"
+alt: "From belly to baby baby photographer"
+slug: "from-belly-to-baby-kansas-city-baby-photographer"
+category: ["Maternity Photos", "Newborn Photography"]
+tags: ["Kansas City Maternity Pictures", "Maternity Photography", "Maternity Pictures", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">Meet Amber.  An ambitious, hard working, fun- loving, party girl, after my own heart.  Even before the shoot I knew we would hit it off.  I could just tell through the emails.  And I was right.  She oozes happy and it totally shows in her maternity pictures.</p>

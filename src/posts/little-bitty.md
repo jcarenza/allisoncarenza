@@ -1,14 +1,13 @@
 ---
-title: 'Little bitty!'
-description: '<p>This itty bitty was a dream to work with.  Hungry yes, but oh so awesome.  And her parents were the [&hellip;]</p>
-'
-publishDate: 'Dec 6, 2012'
-author: 'Allison Carenza'
-heroImage: '/media/havens2.jpg'
-alt: 'Little bitty!'
-slug: 'little-bitty'
-category: ['Newborn Photography']
-tags: ['Kansas City Photography','Newborn Photography','Newborn Pictures']
+title: "Little bitty!"
+description: "This itty bitty was a dream to work with.  Hungry yes, but oh so awesome.  And her parents were the "
+publishDate: "Dec 6, 2012"
+author: "Allison Carenza"
+heroImage: "/media/havens2.jpg"
+alt: "Little bitty!"
+slug: "little-bitty"
+category: ["Newborn Photography"]
+tags: ["Kansas City Photography", "Newborn Photography", "Newborn Pictures"]
 ---
 
 <p style="text-align: center;">

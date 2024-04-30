@@ -1,14 +1,13 @@
 ---
-title: 'Happy 5th Anniversay!'
-description: '<p>Five years ago today I was driving around in my Volvo with my girls getting our hair and makeup done, [&hellip;]</p>
-'
-publishDate: 'Jun 25, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/ann1.jpg'
-alt: 'Happy 5th Anniversay!'
-slug: 'happy-5th-anniversay'
-category: ['Specials']
-tags: ['Kansas City Photographer','Kansas City Photography']
+title: "Happy 5th Anniversay!"
+description: "Five years ago today I was driving around in my Volvo with my girls getting our hair and makeup done, "
+publishDate: "Jun 25, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/ann1.jpg"
+alt: "Happy 5th Anniversay!"
+slug: "happy-5th-anniversay"
+category: ["Specials"]
+tags: ["Kansas City Photographer", "Kansas City Photography"]
 ---
 
 <p>Five years ago today I was driving around in my Volvo with my girls getting our hair and makeup done, taking pictures, and having an all around blast.  I remember being so relaxed on my wedding day.  I think because for the first time and maybe the last time in my life, I was sure, sure that I was doing the right thing, sure that I was marrying the perfect man, sure that everything would work out even if it wasn&apos;t perfect.  Now on my 5th anniversary, a baby milestone, I&apos;m feeling reflective.  We&apos;ve had some awesome times together traveling, making friends, throwing parties, and turning our house into a home.  But at this time in my life, this very moment, what I&apos;m really thinking about is how lucky I am.  Lucky to have a man that not only allows me to do what I love, but encourages it.  Not only supports my passion, but helps me find my way.  Spends his evenings and Saturdays holding lights, posing babies, setting up art booths, and chatting with strangers that become freinds.  Jon doesn&apos;t always <em>want</em> to be my &#8220;light boy&#8221;, but he always wants to help me and always with a quiet smile.  How do you thank your husband when he gives so much more than expected.  He is my best friend, my inspiration, and partner in crime.  He is helping me become the person I dream of being, and I love him sooo much for it.  Even better I really like him too.  Thank you bubby for picking me to love.  I am the lucky one...</p>

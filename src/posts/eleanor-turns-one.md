@@ -1,14 +1,13 @@
 ---
-title: 'Eleanor turns one'
-description: '<p>This little one has gotten pretty good at pictures, she&apos;s been in and out of the studio her whole life. [&hellip;]</p>
-'
-publishDate: 'Apr 18, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/ma12.jpg'
-alt: 'Eleanor turns one'
-slug: 'eleanor-turns-one'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Children Photographer','Kansas City Photographer','Newborn Photography']
+title: "Eleanor turns one"
+description: "This little one has gotten pretty good at pictures, she&apos;s been in and out of the studio her whole life."
+publishDate: "Apr 18, 2013"
+author: "Allison Carenza"
+heroImage: "/media/ma12.jpg"
+alt: "Eleanor turns one"
+slug: "eleanor-turns-one"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Children Photographer", "Kansas City Photographer", "Newborn Photography"]
 ---
 
 <p style="text-align: center;">

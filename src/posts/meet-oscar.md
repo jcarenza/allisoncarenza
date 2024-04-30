@@ -1,14 +1,13 @@
 ---
-title: 'Meet Oscar'
-description: '<p>This is Oscar and he is absolutely adorable. With teeny tiny feet... and teeny tiny hands... and amazing parents that [&hellip;]</p>
-'
-publishDate: 'Mar 3, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/oscar1.jpg'
-alt: 'Meet Oscar'
-slug: 'meet-oscar'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Kansas City']
+title: "Meet Oscar"
+description: "This is Oscar and he is absolutely adorable. With teeny tiny feet... and teeny tiny hands... and amazing parents that "
+publishDate: "Mar 3, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/03/oscar1.jpg"
+alt: "Meet Oscar"
+slug: "meet-oscar"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Kansas City"]
 ---
 
 <p style="text-align: center;">This is Oscar and he is absolutely adorable.</p>

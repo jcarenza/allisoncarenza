@@ -1,14 +1,13 @@
 ---
-title: 'Children&apos;s Photography'
-description: '<p>This is Eva and yes she is this perfect!  Eva lives in Arkansas and she&apos;s been coming to me for [&hellip;]</p>
-'
-publishDate: 'May 18, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/eva1.jpg'
-alt: 'Children&apos;s Photography'
-slug: 'childrens-photography-kansas-city'
-category: ['Children Photography']
-tags: ['Baby Photographer','Children Photographer','Kansas City Photographer']
+title: "Children&apos;s Photography"
+description: "This is Eva and yes she is this perfect!  Eva lives in Arkansas and she&apos;s been coming to me for "
+publishDate: "May 18, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/05/eva1.jpg"
+alt: "Children&apos;s Photography"
+slug: "childrens-photography-kansas-city"
+category: ["Children Photography"]
+tags: ["Baby Photographer", "Children Photographer", "Kansas City Photographer"]
 ---
 
 <p><a rel="attachment wp-att-827" href="http://www.allisoncarenza.com/archives/826/eva1"><img class="aligncenter size-full wp-image-827" title="eva1" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/05/eva1.jpg" alt="" width="400" height="600" srcset="/media/eva1.jpg 400w, /media/eva1-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>

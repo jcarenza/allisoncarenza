@@ -1,14 +1,13 @@
 ---
-title: 'Baby Love'
-description: '<p>Baby Love: A great song by The Supremes, but also the special way new parents feel about their new arrivals. [&hellip;]</p>
-'
-publishDate: 'Sep 7, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/joel7.jpg'
-alt: 'Baby Love'
-slug: 'baby-love-newborn-photography-kansas-city'
-category: ['Newborn Photography']
-tags: ['Kansas City Photographer','Kansas City Photography']
+title: "Baby Love"
+description: "Baby Love: A great song by The Supremes, but also the special way new parents feel about their new arrivals."
+publishDate: "Sep 7, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/09/joel7.jpg"
+alt: "Baby Love"
+slug: "baby-love-newborn-photography-kansas-city"
+category: ["Newborn Photography"]
+tags: ["Kansas City Photographer", "Kansas City Photography"]
 ---
 
 <p><a rel="attachment wp-att-1392" href="http://www.allisoncarenza.com/archives/1385/joel7"><img class="aligncenter size-full wp-image-1392" title="joel7" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/09/joel7.jpg" alt="" width="750" height="500" srcset="/media/joel7.jpg 750w, /media/joel7-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>

@@ -1,14 +1,13 @@
 ---
-title: 'Belly pics'
-description: '<p>This is Keira and she just became a big sister. But before that big day we had to take some [&hellip;]</p>
-'
-publishDate: 'Jun 15, 2010'
-author: 'Allison Carenza'
-heroImage: '//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/willis1.jpg'
-alt: 'Belly pics'
-slug: 'belly-pics-kansas-city-photographer'
-category: ['Baby Photography','Newborn Photography']
-tags: ['Kansas City Photographer','Newborn']
+title: "Belly pics"
+description: "This is Keira and she just became a big sister. But before that big day we had to take some "
+publishDate: "Jun 15, 2010"
+author: "Allison Carenza"
+heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/willis1.jpg"
+alt: "Belly pics"
+slug: "belly-pics-kansas-city-photographer"
+category: ["Baby Photography", "Newborn Photography"]
+tags: ["Kansas City Photographer", "Newborn"]
 ---
 
 <p style="text-align: center;">This is Keira and she just became a big sister.</p>

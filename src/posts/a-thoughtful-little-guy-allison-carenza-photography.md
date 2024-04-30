@@ -1,14 +1,13 @@
 ---
-title: 'A thoughtful little guy'
-description: '<p>Meet Chandler, he&apos;s a thoughtful, loving, animated, little man!  And I enjoyed our time together oh so much! While posing [&hellip;]</p>
-'
-publishDate: 'Nov 25, 2011'
-author: 'Allison Carenza'
-heroImage: '/media/blake6.jpg'
-alt: 'A thoughtful little guy'
-slug: 'a-thoughtful-little-guy-allison-carenza-photography'
-category: ['Children Photography']
-tags: ['Children Photographer','Firehouse Studio','Kansas City Photographer','Kansas City Photography']
+title: "A thoughtful little guy"
+description: "Meet Chandler, he&apos;s a thoughtful, loving, animated, little man!  And I enjoyed our time together oh so much! While posing "
+publishDate: "Nov 25, 2011"
+author: "Allison Carenza"
+heroImage: "/media/blake6.jpg"
+alt: "A thoughtful little guy"
+slug: "a-thoughtful-little-guy-allison-carenza-photography"
+category: ["Children Photography"]
+tags: ["Children Photographer", "Firehouse Studio", "Kansas City Photographer", "Kansas City Photography"]
 ---
 
 <p style="text-align: center;">Meet Chandler, he&apos;s a thoughtful, loving, animated, little man!  And I enjoyed our time together oh so much!</p>

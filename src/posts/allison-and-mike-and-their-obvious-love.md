@@ -1,14 +1,13 @@
 ---
-title: 'Allison and Mike and their obvious love...'
-description: '<p>I started to type and retype this blog a couple times, because really it&apos;s hard to sum up the love [&hellip;]</p>
-'
-publishDate: 'Jul 11, 2013'
-author: 'Allison Carenza'
-heroImage: '/media/am81.jpg'
-alt: 'Allison and Mike and their obvious love...'
-slug: 'allison-and-mike-and-their-obvious-love'
-category: ['Wedding Photos']
-tags: ['Wedding Photography','Wedding Pictures']
+title: "Allison and Mike and their obvious love..."
+description: "I started to type and retype this blog a couple times, because really it&apos;s hard to sum up the love "
+publishDate: "Jul 11, 2013"
+author: "Allison Carenza"
+heroImage: "/media/am81.jpg"
+alt: "Allison and Mike and their obvious love..."
+slug: "allison-and-mike-and-their-obvious-love"
+category: ["Wedding Photos"]
+tags: ["Wedding Photography", "Wedding Pictures"]
 ---
 
 <p style="text-align: center;">I started to type and retype this blog a couple times, because really it&apos;s hard to sum up the love Mike and Allison have for each other.  I mean most of the day of their wedding, they didn&apos;t even notice me because they were so lost in each other.  Let me back up.  Allison is a horse girl just like myself, so I insisted she and Mike, and Jon and I, go have dinner to talk wedding stuff because really I just knew we would click, and we did like we&apos;d been friends forever.  We met at Westside Local for dinner, it was the first time I&apos;d met Mike, and my first impression was that he&apos;s one of those guys you could call if you did something really bad and needed help.  The kind of friend that doesn&apos;t judge, so yah, I liked him a lot.  But even more obvious was his adoration for Allison.  Anytime he looked at her he had those goofy madly in love eyes that melt Allison.  I loved it!  And Allison was just as smittin.  Giddy about the wedding, and their future together.  They made it clear that whatever happened in their life they would have each other and that&apos;s all that really mattered.  It&apos;s like Allison and Mike love each other for exactly who they are.</p>

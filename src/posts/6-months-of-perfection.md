@@ -1,14 +1,13 @@
 ---
-title: '6 months of perfection'
-description: '<p>I get it now.  I didn&apos;t before, but now I get it., how you can totally lose yourself in the [&hellip;]</p>
-'
-publishDate: 'Apr 28, 2014'
-author: 'Allison Carenza'
-heroImage: '/media/rh1.jpg'
-alt: '6 months of perfection'
-slug: '6-months-of-perfection'
-category: ['Baby Photography']
-tags: ['Baby Photographer','Baby Photos','Childrens Photography']
+title: "6 months of perfection"
+description: "I get it now.  I didn&apos;t before, but now I get it., how you can totally lose yourself in the "
+publishDate: "Apr 28, 2014"
+author: "Allison Carenza"
+heroImage: "/media/rh1.jpg"
+alt: "6 months of perfection"
+slug: "6-months-of-perfection"
+category: ["Baby Photography"]
+tags: ["Baby Photographer", "Baby Photos", "Childrens Photography"]
 ---
 
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-5047" alt="baby picture" src="/media/rh1.jpg" width="930" height="680" srcset="/media/rh1.jpg 930w, /media/rh1-300x219.jpg 300w, /media/rh1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
