@@ -29,7 +29,7 @@ tags: ["Baby Photographer", "Kansas City Photographer", "Newborn Photography", "
 <p style="text-align: center;">
 <p style="text-align: center;">
 <p style="text-align: center;">
-<p style="text-align: center;"><a href="http://www.allisoncarenza.com"><img class="aligncenter size-full wp-image-4838" alt="g1" src="/media/g1.jpg" width="930" height="680" srcset="/media/g1.jpg 930w, /media/g1-300x219.jpg 300w, /media/g1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4838" alt="g1" src="/media/g1.jpg" width="930" height="680" srcset="/media/g1.jpg 930w, /media/g1-300x219.jpg 300w, /media/g1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">I think his second two is longer.  This little man is gonna be a leader some day!</p>
 <p style="text-align: center;"><img class="aligncenter size-large wp-image-4839" alt="g2" src="/media/g2.jpg" width="584" height="427" srcset="/media/g2.jpg 930w, /media/g2-300x219.jpg 300w, /media/g2-768x562.jpg 768w" sizes="(max-width: 584px) 100vw, 584px" /></p>
 <p style="text-align: center;">Tucker has a Pooh bear themed room.  I think this will look amazing above his crib.</p>

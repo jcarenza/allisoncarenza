@@ -17,6 +17,6 @@ tags: ["Finding Joy", "Kansas City Photographer"]
 <p>That&apos;s a pretty good list, I&apos;m pretty sure there are lots of other things, I&apos;ll just have to add as I go.  I have a lot to be thankful for, and when I look at this list there is no reason I should ever let someone take my joy!  I hope you do the same.</p>
 <p>xoxo</p>
 <p><a rel="attachment wp-att-1771" href="http://www.allisoncarenza.com/?attachment_id=1771"><br />
-<img class="aligncenter size-large wp-image-1771" title="IND_2106" src="/media/IND_2106-900x598.jpg" alt="" width="450" height="299" /></a></p>
-<p><a rel="attachment wp-att-1773" href="http://www.allisoncarenza.com/?attachment_id=1773"><img class="aligncenter size-large wp-image-1773" title="mac5" src="/media/mac5-598x900.jpg" alt="" width="450" height="677" /></a></p>
-<p><a rel="attachment wp-att-1772" href="http://www.allisoncarenza.com/?attachment_id=1772"><img class="aligncenter size-large wp-image-1772" title="mac3" src="/media/mac3-900x598.jpg" alt="" width="450" height="299" /></a></p>
+<img class="aligncenter size-large wp-image-1771" title="IND_2106" src="/media/IND_2106-900x598.jpg" alt="" width="450" height="299" /></p>
+<p><img class="aligncenter size-large wp-image-1773" title="mac5" src="/media/mac5-598x900.jpg" alt="" width="450" height="677" /></p>
+<p><img class="aligncenter size-large wp-image-1772" title="mac3" src="/media/mac3-900x598.jpg" alt="" width="450" height="299" /></p>

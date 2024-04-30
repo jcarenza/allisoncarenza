@@ -52,6 +52,6 @@ tags: ["Wedding Photography", "Wedding Photography Kansas City", "Wedding Pictur
 <p style="text-align: center;">A big thanks to the staff at <a href="http://www.moulinevents.com/">Moulin</a> for making this event run so smoothly.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4189" title="kjw2" src="/media/kjw2.jpg" alt="" width="930" height="680" srcset="/media/kjw2.jpg 930w, /media/kjw2-300x219.jpg 300w, /media/kjw2-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><a href="www.allisoncarenza.com"><img class="aligncenter size-full wp-image-4188" title="kjw1" src="/media/kjw1.jpg" alt="" width="930" height="680" srcset="/media/kjw1.jpg 930w, /media/kjw1-300x219.jpg 300w, /media/kjw1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4188" title="kjw1" src="/media/kjw1.jpg" alt="" width="930" height="680" srcset="/media/kjw1.jpg 930w, /media/kjw1-300x219.jpg 300w, /media/kjw1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px</p>
 <p style="text-align: center;">
 <p style="text-align: center;">I&apos;m so happy the universe had a plan for these two.  They are awesome apart, but even better together!</p>

@@ -23,7 +23,7 @@ tags: ["Blue Springs Photographer", "Kansas City Photographer", "Maternity Pictu
 <p style="text-align: center;">Their luck didn&apos;t stop with finding love because now they have this little bug.  Evelyn is a precious little darlin&apos;.  Sorry there are so many pics, I just couldn&apos;t stop myself.</p>
 <p><img class="aligncenter size-full wp-image-1589" title="stan9" src="/media/stan9.jpg" alt="" width="750" height="499" srcset="/media/stan9.jpg 750w, /media/stan9-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></p>
 <p><img class="aligncenter size-full wp-image-1591" title="stan11" src="/media/stan11.jpg" alt="" width="750" height="499" srcset="/media/stan11.jpg 750w, /media/stan11-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></p>
-<p><a style="text-decoration: none;" rel="attachment wp-att-1590" href="http://www.allisoncarenza.com/archives/1580/stan10"><img class="aligncenter size-full wp-image-1590" title="stan10" src="/media/stan10.jpg" alt="" width="700" height="500" srcset="/media/stan10.jpg 700w, /media/stan10-300x214.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+<p><img class="aligncenter size-full wp-image-1590" title="stan10" src="/media/stan10.jpg" alt="" width="700" height="500" srcset="/media/stan10.jpg 700w, /media/stan10-300x214.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
 <p><img class="aligncenter size-full wp-image-1594" title="stan14" src="/media/stan14.jpg" alt="" width="700" height="500" srcset="/media/stan14.jpg 700w, /media/stan14-300x214.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">
