@@ -3,7 +3,7 @@ title: "Finding Joy"
 description: "My dogs have found their joy.  It comes in the form of little brown pellets that smell nasty, but apparently "
 publishDate: "Nov 10, 2010"
 author: "Allison Carenza"
-heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/11/IND_2106-900x598.jpg"
+heroImage: "/media/IND_2106-900x598.jpg"
 alt: "Finding Joy"
 slug: "finding-joy"
 category: ["About Allison", "Dog Photos"]
@@ -17,6 +17,6 @@ tags: ["Finding Joy", "Kansas City Photographer"]
 <p>That&apos;s a pretty good list, I&apos;m pretty sure there are lots of other things, I&apos;ll just have to add as I go.  I have a lot to be thankful for, and when I look at this list there is no reason I should ever let someone take my joy!  I hope you do the same.</p>
 <p>xoxo</p>
 <p><a rel="attachment wp-att-1771" href="http://www.allisoncarenza.com/?attachment_id=1771"><br />
-<img class="aligncenter size-large wp-image-1771" title="IND_2106" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/11/IND_2106-900x598.jpg" alt="" width="450" height="299" /></a></p>
-<p><a rel="attachment wp-att-1773" href="http://www.allisoncarenza.com/?attachment_id=1773"><img class="aligncenter size-large wp-image-1773" title="mac5" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/11/mac5-598x900.jpg" alt="" width="450" height="677" /></a></p>
-<p><a rel="attachment wp-att-1772" href="http://www.allisoncarenza.com/?attachment_id=1772"><img class="aligncenter size-large wp-image-1772" title="mac3" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/11/mac3-900x598.jpg" alt="" width="450" height="299" /></a></p>
+<img class="aligncenter size-large wp-image-1771" title="IND_2106" src="http:/media/IND_2106-900x598.jpg" alt="" width="450" height="299" /></a></p>
+<p><a rel="attachment wp-att-1773" href="http://www.allisoncarenza.com/?attachment_id=1773"><img class="aligncenter size-large wp-image-1773" title="mac5" src="http:/media/mac5-598x900.jpg" alt="" width="450" height="677" /></a></p>
+<p><a rel="attachment wp-att-1772" href="http://www.allisoncarenza.com/?attachment_id=1772"><img class="aligncenter size-large wp-image-1772" title="mac3" src="http:/media/mac3-900x598.jpg" alt="" width="450" height="299" /></a></p>

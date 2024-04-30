@@ -1,9 +1,9 @@
 ---
 title: "A new chapter"
-description: "It&apos;s odd.  Usually on the last day of school I&apos;m bubbling over with excitement and anticipation of the coming summer."
+description: "It's odd.  Usually on the last day of school I'm bubbling over with excitement and anticipation of the coming summer."
 publishDate: "Jun 2, 2010"
 author: "Allison Carenza"
-heroImage: ""
+heroImage: "/media/IND_4610.jpg"
 alt: "A new chapter"
 slug: "a-new-chapter"
 category: ["About Allison"]

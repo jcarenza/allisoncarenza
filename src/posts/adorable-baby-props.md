@@ -3,7 +3,7 @@ title: "Adorable baby props"
 description: "Lynn the owner of Dizzlicious Creations came by today and made this dark gloomy day oh so much better!  She "
 publishDate: "Mar 8, 2011"
 author: "Allison Carenza"
-heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/03/bunny2.jpg"
+heroImage: "/media/bunny2.jpg"
 alt: "Adorable baby props"
 slug: "adorable-baby-props"
 category: ["Newborn Photography"]
@@ -16,8 +16,8 @@ tags: ["Baby Props", "Newborn"]
 <p style="text-align: center;">SO SO SO happy!!!!!  Below are just a few of the goodies she brought me.  I also got an owl hat, but I&apos;ll keep that one a surprise for later this week!</p>
 <p style="text-align: center;">Ooohh lala!</p>
 <p style="text-align: center;">
-<p style="text-align: center;"><a rel="attachment wp-att-2051" href="http://www.allisoncarenza.com/archives/2050/bunny2"><img class="aligncenter size-full wp-image-2051" title="bunny2" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/03/bunny2.jpg" alt="" width="400" height="600" /></a></p>
+<p style="text-align: center;"><a rel="attachment wp-att-2051" href="http://www.allisoncarenza.com/archives/2050/bunny2"><img class="aligncenter size-full wp-image-2051" title="bunny2" src="http:/media/bunny2.jpg" alt="" width="400" height="600" /></a></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><a rel="attachment wp-att-2052" href="http://www.allisoncarenza.com/archives/2050/football"><img class="aligncenter size-full wp-image-2052" title="football" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/03/football.jpg" alt="" width="400" height="600" /></a></p>
+<p style="text-align: center;"><a rel="attachment wp-att-2052" href="http://www.allisoncarenza.com/archives/2050/football"><img class="aligncenter size-full wp-image-2052" title="football" src="http:/media/football.jpg" alt="" width="400" height="600" /></a></p>
 <p style="text-align: center;">
 <p style="text-align: center;">

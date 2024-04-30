@@ -1,9 +1,9 @@
 ---
 title: "6 months gone!"
-description: "What! I can&apos;t even believe 6 months of 2010 are gone.  It seems like just a few short months ago "
+description: "What! I can't even believe 6 months of 2010 are gone.  It seems like just a few short months ago..."
 publishDate: "Jul 11, 2010"
 author: "Allison Carenza"
-heroImage: ""
+heroImage: "/media/old_camera.jpg"
 alt: "6 months gone!"
 slug: "6-months-gone"
 category: ["About Allison"]

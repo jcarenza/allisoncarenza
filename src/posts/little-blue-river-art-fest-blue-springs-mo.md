@@ -3,7 +3,7 @@ title: "Little Blue River Art Fest"
 description: "Walls- check Art work- check Lighting- check Marketing materials- check People- ????  I hope 🙂 The Little Blue Art Fest "
 publishDate: "Jun 9, 2010"
 author: "Allison Carenza"
-heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2010/06/Little-Blue-River-Art-Fest_Invitation.jpg"
+heroImage: "/media/Little-Blue-River-Art-Fest_Invitation.jpg"
 alt: "Little Blue River Art Fest"
 slug: "little-blue-river-art-fest-blue-springs-mo"
 category: ["About Allison"]
@@ -20,4 +20,4 @@ tags: ["Art Festival", "Blue Springs", "Little Blue Art Festival", "MO"]
 <p>Well, back to work.  I hope to see you Saturday!</p>
 <p>xoxo</p>
 <p>Allison</p>
-<p><a rel="attachment wp-att-873" href="http://www.allisoncarenza.com/archives/little-blue-river-art-fest-blue-springs-mo/little-blue-river-art-fest_invitation/"><img class="aligncenter size-full wp-image-873" title="Little Blue River Art Fest_Invitation" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2010/06/Little-Blue-River-Art-Fest_Invitation.jpg" alt="" width="563" height="250" srcset="/media/Little-Blue-River-Art-Fest_Invitation.jpg 563w, /media/Little-Blue-River-Art-Fest_Invitation-300x133.jpg 300w" sizes="(max-width: 563px) 100vw, 563px" /></a></p>
+<p><a rel="attachment wp-att-873" href="http://www.allisoncarenza.com/archives/little-blue-river-art-fest-blue-springs-mo/little-blue-river-art-fest_invitation/"><img class="aligncenter size-full wp-image-873" title="Little Blue River Art Fest_Invitation" src="http:/media/Little-Blue-River-Art-Fest_Invitation.jpg" alt="" width="563" height="250" srcset="/media/Little-Blue-River-Art-Fest_Invitation.jpg 563w, /media/Little-Blue-River-Art-Fest_Invitation-300x133.jpg 300w" sizes="(max-width: 563px) 100vw, 563px" /></a></p>

@@ -3,7 +3,7 @@ title: "Marketing Tips"
 description: "A few weeks ago Jon looked up from his mac and said &#8220;you&apos;re a little marketing facebook wizard&#8221;.  My immediate "
 publishDate: "Aug 16, 2010"
 author: "Allison Carenza"
-heroImage: ""
+heroImage: "/media/camera.jpg"
 alt: "Marketing Tips"
 slug: "marketing-tips"
 category: ["Photo Tips"]
