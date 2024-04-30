@@ -16,8 +16,8 @@ tags: ["Baby Props", "Newborn"]
 <p style="text-align: center;">SO SO SO happy!!!!!  Below are just a few of the goodies she brought me.  I also got an owl hat, but I&apos;ll keep that one a surprise for later this week!</p>
 <p style="text-align: center;">Ooohh lala!</p>
 <p style="text-align: center;">
-<p style="text-align: center;"><a rel="attachment wp-att-2051" href="http://www.allisoncarenza.com/archives/2050/bunny2"><img class="aligncenter size-full wp-image-2051" title="bunny2" src="/media/bunny2.jpg" alt="" width="400" height="600" /></a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-2051" title="bunny2" src="/media/bunny2.jpg" alt="" width="400" height="600" /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><a rel="attachment wp-att-2052" href="http://www.allisoncarenza.com/archives/2050/football"><img class="aligncenter size-full wp-image-2052" title="football" src="/media/football.jpg" alt="" width="400" height="600" /></a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-2052" title="football" src="/media/football.jpg" alt="" width="400" height="600" /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">
