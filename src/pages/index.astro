@@ -4,13 +4,14 @@ import Nav from '../components/Nav.astro';
 import Footer from '../components/Footer.astro';
 import images from './gallery.json';
 
+let title = "Allison Carenza Photography";
 let description = 'Clean, simple, timeless portrait photography that focuses on the sugject. Through even light and clever framing, I capture the authentic spirit of my subjects.';
 let canonicalURL = Astro.canonicalURL;
 ---
 
 <html lang="en">
 	<head>
-		<MainHead title={null} description={description} canonicalURL={canonicalURL} />
+		<MainHead title={title} description={description} canonicalURL={canonicalURL} />
 		<style lang="scss">
 			.gallery {
 				display: grid;
@@ -21,7 +22,6 @@ let canonicalURL = Astro.canonicalURL;
 					background-color: #ced4da;
 					object-fit: cover;
 					aspect-ratio: 1/1;
-					/*cursor: pointer;*/
 				}
 			}
 		</style>
