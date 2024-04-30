@@ -16,7 +16,7 @@ tags: ["Maternity Photography", "Maternity Photos", "Newborn"]
 <p style="text-align: center;">We didn&apos;t always talk about business, sometimes we talked about babies.  We shared a fear of motherhood.  Both of us worried we just weren&apos;t going to be good enough.  Erin again jumped ship.  And again I am so proud.  Maybe not as inspired just yet, but definitely happy for her.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2165" title="erin4" src="/media/erin4.jpg" alt="" width="750" height="499" /></p>
 <p style="text-align: center;">Her pregnancy was a nasty one.  She was sick for her first 2 trimesters.  She actually lost weight getting pregnant!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-2164" title="erin3" src="/media/erin3.jpg" alt="" width="700" height="500"  /></a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-2164" title="erin3" src="/media/erin3.jpg" alt="" width="700" height="500"  /></p>
 <p style="text-align: center;">She was still glowing but for a whole different reason.  Baby!  Oh and I didn&apos;t mention that she&apos;s kinda obsessed with Greg her husband.  I swear I&apos;ve seen her staring at him countless times with a smile that looks a lot like a school girl with a crush.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2162" title="erin1" src="/media/erin1.jpg" alt="" width="750" height="499" /></p>
 <p style="text-align: center;">Then baby Autumn arrived!  Unlike the pregnancy the delivery was a smooth one.  Just 15 minutes of pushing.  All the mommas out there that pushed for 2 hours are now allowed to groan.</p>
