@@ -1,9 +1,9 @@
 ---
 title: "My 2011 Goals"
-description: "Last year I made a list of goals.  It was really more of a 5 year plan.  Little did I "
+description: "Last year I made a list of goals.  It was really more of a 5 year plan.  Little did I..."
 publishDate: "Jan 1, 2011"
 author: "Allison Carenza"
-heroImage: ""
+heroImage: "/media/blog_header.jpg"
 alt: "My 2011 Goals"
 slug: "my-2011-goals"
 category: ["About Allison"]

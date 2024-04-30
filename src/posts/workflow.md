@@ -3,7 +3,7 @@ title: "Workflow"
 description: "I&apos;m kinda a right brain person.  I go with the flow.  I throw things together at the last minute.  I "
 publishDate: "Apr 28, 2011"
 author: "Allison Carenza"
-heroImage: "//www.allisoncarenza.com/studio/wp-content/uploads/2011/04/pap90th-900x605.jpg"
+heroImage: "/media/pap90th.jpg"
 alt: "Workflow"
 slug: "workflow"
 category: ["Photo Tips"]
@@ -24,4 +24,4 @@ tags: ["Bridge", "Photography Workflow", "Workflow"]
 <p style="text-align: center;">I hope some other random right brained peeps out there find this useful, please share with your photog friends.  If you have any questions don&apos;t hesitate to post them.</p>
 <p style="text-align: center;">Much Love and Happy Shooting my friends!</p>
 <p style="text-align: center;">No blog is complete without a pic.  My Papa on his 90th with my aunt Martha, and cousin Courtney.</p>
-<p style="text-align: center;"><a rel="attachment wp-att-2192" href="http://www.allisoncarenza.com/archives/workflow/allisoncarenzaphotographyfineartmaternitynewbornschildrenseniorportraitsfamilyportraitsboudoirphotography-wordpress-2011-04-29-xml_-txt/"></a><a rel="attachment wp-att-2192" href="http://www.allisoncarenza.com/archives/workflow/allisoncarenzaphotographyfineartmaternitynewbornschildrenseniorportraitsfamilyportraitsboudoirphotography-wordpress-2011-04-29-xml_-txt/"><img class="aligncenter size-large wp-image-2192" title="pap90th" src="http://www.allisoncarenza.com/studio/wp-content/uploads/2011/04/pap90th-900x605.jpg" alt="" width="450" height="302" /></a></p>
+<p style="text-align: center;"><img class="aligncenter size-large wp-image-2192" title="pap90th" src="/media/pap90th.jpg" alt="" width="450" height="302" /></p>

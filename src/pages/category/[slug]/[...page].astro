@@ -34,13 +34,15 @@ const { page, category } = Astro.props;
   </head>
   <body>
     <Nav active="blog" />
-    <div class="wrapper">
-      <div><small>Category</small></div>
-      <h1 class="title mt4 mb4" style="text-transform: capitalize;">{category}</h1>
-      {page.data.map((post) => <PostPreview post={post} />)}
-      <br/>
-      <Pagination page={page} />
-    </div>
+    <main class="wrapper">
+      <article class="article">
+        <div><a href="/blog">&larr; All Posts</a></div>
+        <h1 class="title mt4 mb4" style="text-transform: capitalize;">Category: "{category}"</h1>
+        {page.data.map((post) => <PostPreview post={post} />)}
+        <br/>
+        <Pagination page={page} />
+      </article>
+    </main>
     <Footer />
   </body>
 </html>

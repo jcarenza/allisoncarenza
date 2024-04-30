@@ -3,7 +3,7 @@ title: "Award Winner!"
 description: "With 186 votes little Jackson&apos;s photo won my facebook photo contest!  Here is the winning photo!   A big thanks "
 publishDate: "Aug 3, 2011"
 author: "Allison Carenza"
-heroImage: "/media/jackson-686x1024.jpg"
+heroImage: "/media/jackson.jpg"
 alt: "Award Winner!"
 slug: "award-winner"
 category: ["Children Photography"]

@@ -1,5 +1,5 @@
 ---
-title: "Madison&apos;s Senior pics"
+title: "Madison's Senior pics"
 description: "Meet Madison, and ambitious high school senior who spends her time volunteering to help kids that need a little extra help."
 publishDate: "Apr 12, 2013"
 author: "Allison Carenza"

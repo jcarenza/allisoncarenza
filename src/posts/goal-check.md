@@ -1,9 +1,9 @@
 ---
 title: "Goal Check"
-description: "So it&apos;s July and I need to review my January goals.  If I&apos;m being honest I haven&apos;t even peeked at "
+description: "So it's July and I need to review my January goals.  If I'm being honest I haven't even peeked at "
 publishDate: "Jul 9, 2012"
 author: "Allison Carenza"
-heroImage: ""
+heroImage: "/media/blog_header.jpg"
 alt: "Goal Check"
 slug: "goal-check"
 category: ["About Allison"]
