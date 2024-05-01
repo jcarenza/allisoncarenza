@@ -19,7 +19,7 @@ tags: ["Baby Photographer", "Blue Springs Photographer", "Kansas City Photograph
 <p style="text-align: center;">I&apos;m not that into airplanes, but Scott flies the plane on Gavin&apos;s onsie in this picture.  It&apos;s the one that flies over the Chiefs stadium.  I think that&apos;s pretty cool!  I think he&apos;s going to want to be just like his Daddy when he gets a little older.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-1977" title="siems7" src="/media/siems7.jpg" alt="" width="750" height="499" /></p>
 <p style="text-align: center;">Giddy!  That&apos;s how I would describe these new parents.  Pam didn&apos;t even seem tired, just happy.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1976" title="siems6" src="/media/siems6.jpg" alt="" width="700" height="499" /><a rel="attachment wp-att-1972" href="http://www.allisoncarenza.com/archives/1970/siems2"></a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1976" title="siems6" src="/media/siems6.jpg" alt="" width="700" height="499" /></p>
 <p style="text-align: center;">If he seems a little chunky that&apos;s because he downed 4 ounces of milk before he was happy.  I think he&apos;s going to be a big boy!  Dang, you go Gavin!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-1972" title="siems2" src="/media/siems2.jpg" alt="" width="750" height="499" /></p>
 <p style="text-align: center;">Big appetite and big hands.  Yup, I see ball sports in his future.</p>

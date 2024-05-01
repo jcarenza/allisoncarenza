@@ -26,7 +26,7 @@ tags: ["Maternity Photography", "Maternity Photos", "Newborn"]
 <p style="text-align: center;">But honestly if I&apos;m going to give credit to someone it&apos;s Greg.  He was like the baby whisperer!  Seriously impressive!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2160" title="aut6" src="/media/aut6.jpg" alt="" width="750" height="499" /></p>
 <p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-2155" title="aut1" src="/media/aut1.jpg" alt="" width="750" height="499" /><a rel="attachment wp-att-2157" href="http://www.allisoncarenza.com/archives/2153/aut3"></a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-2155" title="aut1" src="/media/aut1.jpg" alt="" width="750" height="499" /></p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">Newborns don&apos;t giggle and laugh but this kinda looks like she is.  Love it!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2157" title="aut3" src="/media/aut3.jpg" alt="" width="750" height="499" /></p>

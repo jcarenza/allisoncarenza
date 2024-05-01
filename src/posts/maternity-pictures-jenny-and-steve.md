@@ -17,8 +17,7 @@ tags: ["Kansas City", "Maternity Photography"]
 <div style="text-align: center;">Steve called me to book the appointment, and made me feel like a million bucks.  He went on and on about how artistic my photos are.  It made me feel amazing.  It&apos;s not often the hubbys and boyfriends notice the artistic photos.  Thanks Steve, you made my day!</div>
 <div><img class="aligncenter size-full wp-image-482" title="jenny6" src="/media/jenny6.jpg" alt="" width="399" height="600" srcset="/media/jenny6.jpg 399w, /media/jenny6-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px" /></div>
 <div style="text-align: center;">Jenny  you are stunning!</div>
-<div><a rel="attachment wp-att-481" href="http://www.allisoncarenza.com/studio/archives/476/jenny5"><br />
-<img class="aligncenter size-full wp-image-481" title="jenny5" src="/media/jenny5.jpg" alt="" width="400" height="600" srcset="/media/jenny5.jpg 400w, /media/jenny5-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></div>
+<div><img class="aligncenter size-full wp-image-481" title="jenny5" src="/media/jenny5.jpg" alt="" width="400" height="600" srcset="/media/jenny5.jpg 400w, /media/jenny5-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></div>
 <div style="text-align: center;">Love the light on this one.</div>
 <div style="text-align: center;"></div>
 <div><img class="aligncenter size-full wp-image-479" title="jenny3" src="/media/jenny3.jpg" alt="" width="399" height="600" srcset="/media/jenny3.jpg 399w, /media/jenny3-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px" /></div>

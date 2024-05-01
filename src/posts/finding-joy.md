@@ -3,7 +3,7 @@ title: "Finding Joy"
 description: "My dogs have found their joy.  It comes in the form of little brown pellets that smell nasty, but apparently "
 publishDate: "Nov 10, 2010"
 author: "Allison Carenza"
-heroImage: "/media/IND_2106-900x598.jpg"
+heroImage: "/media/IND_2106.jpg"
 alt: "Finding Joy"
 slug: "finding-joy"
 category: ["About Allison", "Dog Photos"]
@@ -16,7 +16,6 @@ tags: ["Finding Joy", "Kansas City Photographer"]
 <p>Jon, puppies, family, friends, PHOTOGRAPHY, my work, wait is that the same?, Diamond horse, a clean house, travel, reading, eating, I love food, making new friends, learning about a new culture, helping someone in need</p>
 <p>That&apos;s a pretty good list, I&apos;m pretty sure there are lots of other things, I&apos;ll just have to add as I go.  I have a lot to be thankful for, and when I look at this list there is no reason I should ever let someone take my joy!  I hope you do the same.</p>
 <p>xoxo</p>
-<p><a rel="attachment wp-att-1771" href="http://www.allisoncarenza.com/?attachment_id=1771"><br />
-<img class="aligncenter size-large wp-image-1771" title="IND_2106" src="/media/IND_2106-900x598.jpg" alt="" width="450" height="299" /></p>
-<p><img class="aligncenter size-large wp-image-1773" title="mac5" src="/media/mac5-598x900.jpg" alt="" width="450" height="677" /></p>
-<p><img class="aligncenter size-large wp-image-1772" title="mac3" src="/media/mac3-900x598.jpg" alt="" width="450" height="299" /></p>
+<p><img class="aligncenter size-large wp-image-1771" title="IND_2106" src="/media/IND_2106.jpg" alt="" width="450" height="299" /></p>
+<p><img class="aligncenter size-large wp-image-1773" title="mac5" src="/media/mac5.jpg" alt="" width="450" height="677" /></p>
+<p><img class="aligncenter size-large wp-image-1772" title="mac3" src="/media/mac3.jpg" alt="" width="450" height="299" /></p>

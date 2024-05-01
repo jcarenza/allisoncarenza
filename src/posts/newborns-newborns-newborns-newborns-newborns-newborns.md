@@ -19,7 +19,7 @@ tags: ["Baby Pictures", "Kansas City Newborn Photography", "Kansas City Photogra
 <p style="text-align: center;">I love when this happens!  Maybe next time I&apos;ll be able to see both of their dimples.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2095" title="br3" src="/media/br3.jpg" alt="" width="751" height="499" /></p>
 <p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-2096" title="br4" src="/media/br4.jpg" alt="" width="700" height="499" /><a rel="attachment wp-att-2093" href="http://www.allisoncarenza.com/archives/2092/br1-2"></a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-2096" title="br4" src="/media/br4.jpg" alt="" width="700" height="499" /></p>
 <p style="text-align: center;">What a wonderful baby and even more wonderful family!  I absolutely loved my time with them.  It&apos;s funny how often I feel like I&apos;ve known my clients forever even after just a few hours.  Sigh...I love my job!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2093" title="br1" src="/media/br1.jpg" alt="" width="750" height="499" /></p>
 <p style="text-align: center;">Braeden, you are perfection!</p>

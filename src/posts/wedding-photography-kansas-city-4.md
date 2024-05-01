@@ -38,7 +38,7 @@ tags: ["Kansas City", "Kansas City Photographer", "Weddings", "Wedding Pictures"
 <p style="text-align: center;">This is Nick&apos;s corvette.  After the ceremony the sped away in it!</p>
 <p><img class="aligncenter size-full wp-image-1663" title="th2" src="/media/th2.jpg" alt="" width="700" height="499" srcset="/media/th2.jpg 700w, /media/th2-300x214.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
 <p style="text-align: center;">See what I mean...workin it f&apos; real!</p>
-<p><img class="aligncenter size-full wp-image-1662" title="th1" src="/media/th1.jpg" alt="" width="753" height="500" srcset="/media/th1.jpg 753w, /media/th1-300x199.jpg 300w" sizes="(max-width: 753px) 100vw, 753px" /><a rel="attachment wp-att-1673" href="http://www.allisoncarenza.com/archives/1661/th13"></a></p>
+<p><img class="aligncenter size-full wp-image-1662" title="th1" src="/media/th1.jpg" alt="" width="753" height="500" srcset="/media/th1.jpg 753w, /media/th1-300x199.jpg 300w" sizes="(max-width: 753px) 100vw, 753px" /></p>
 <p><img class="aligncenter size-full wp-image-1681" title="th21" src="/media/th21.jpg" alt="" width="751" height="499" srcset="/media/th21.jpg 751w, /media/th21-300x199.jpg 300w" sizes="(max-width: 751px) 100vw, 751px" /></p>
 <p><img class="aligncenter size-full wp-image-1682" title="th22" src="/media/th22.jpg" alt="" width="750" height="499" srcset="/media/th22.jpg 750w, /media/th22-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></p>
 <p><img class="aligncenter size-full wp-image-1680" title="th20" src="/media/th20.jpg" alt="" width="700" height="499" srcset="/media/th20.jpg 700w, /media/th20-300x214.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
