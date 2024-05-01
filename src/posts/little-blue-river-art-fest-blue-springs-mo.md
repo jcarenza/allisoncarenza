@@ -20,4 +20,4 @@ tags: ["Art Festival", "Blue Springs", "Little Blue Art Festival", "MO"]
 <p>Well, back to work.  I hope to see you Saturday!</p>
 <p>xoxo</p>
 <p>Allison</p>
-<p><img class="aligncenter size-full wp-image-873" title="Little Blue River Art Fest_Invitation" src="/media/Little-Blue-River-Art-Fest_Invitation.jpg" alt="" width="563" height="250" srcset="/media/Little-Blue-River-Art-Fest_Invitation.jpg 563w, /media/Little-Blue-River-Art-Fest_Invitation-300x133.jpg 300w" sizes="(max-width: 563px) 100vw, 563px" /></p>
+<p><img class="aligncenter size-full wp-image-873" title="Little Blue River Art Fest_Invitation" src="/media/Little-Blue-River-Art-Fest_Invitation.jpg" alt="" width="563" height="250"   /></p>

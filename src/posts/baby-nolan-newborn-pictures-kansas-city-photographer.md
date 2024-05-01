@@ -15,11 +15,11 @@ tags: ["Baby Photographer  Kansas City", "Blue Springs Photographer", "Kansas Ci
 <p style="text-align: center;">Meet baby Evelyn.</p>
 <p><img class="aligncenter size-full wp-image-4081" title="nolan2" src="/media/nolan2.jpg" alt="" width="930" height="680" /></p>
 <p style="text-align: center;">And rowdy brother Graham.  Good thing he really loved that train table.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-4080" title="nolan1" src="/media/nolan1.jpg" alt="" width="930" height="680" srcset="/media/nolan1.jpg 930w, /media/nolan1-300x219.jpg 300w, /media/nolan1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4080" title="nolan1" src="/media/nolan1.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-4083" title="nolan4" src="/media/nolan4.jpg" alt="" width="930" height="680" srcset="/media/nolan4.jpg 930w, /media/nolan4-300x219.jpg 300w, /media/nolan4-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4083" title="nolan4" src="/media/nolan4.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-4082" title="nolan3" src="/media/nolan3.jpg" alt="" width="930" height="680" srcset="/media/nolan3.jpg 930w, /media/nolan3-300x219.jpg 300w, /media/nolan3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4082" title="nolan3" src="/media/nolan3.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">Not a day goes by that I don&apos;t appreciate my job.  I&apos;m in love with my work!</p>
 <p style="text-align: center;">XOXO Evelyn.  You are such a sweet girl!  I&apos;ll see you in a couple months!</p>

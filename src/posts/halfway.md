@@ -37,5 +37,5 @@ tags: ["Goals"]
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">So not too bad!  I still have a ways to go, and already I&apos;m thinking of the ones I&apos;d like to add on.  🙂  I guess I can just focus on these for the next 6 months.</p>
 <p style="text-align: center;">Have a wonderful day!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-3147" title="IND_9821" src="/media/IND_9821.jpg" alt="" width="399" height="600" srcset="/media/IND_9821.jpg 399w, /media/IND_9821-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3147" title="IND_9821" src="/media/IND_9821.jpg" alt="" width="399" height="600"   /></p>
 <p style="text-align: center;">&nbsp;</p>

@@ -17,10 +17,10 @@ tags: ["Baby Photographer", "Kansas City Newborn Photographer", "Kansas City Pho
 <p style="text-align: center;">For the shot below I spent about 10 minutes adjusting the blanket, moving his fingers, and positioning his face, so it was just right.  Getting the perfect shot just takes time.  And I love it!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4237" title="arm1" src="/media/arm1.jpg" alt="" width="930" height="680" /></p>
 <p style="text-align: center;">This little guy happened to be a big time smiler!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-4238" title="arm2" src="/media/arm2.jpg" alt="" width="930" height="680" srcset="/media/arm2.jpg 930w, /media/arm2-300x219.jpg 300w, /media/arm2-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4238" title="arm2" src="/media/arm2.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4239" title="arm3" src="/media/arm3.jpg" alt="" width="930" height="680" /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-4240" title="arm4" src="/media/arm4.jpg" alt="" width="930" height="680" srcset="/media/arm4.jpg 930w, /media/arm4-300x219.jpg 300w, /media/arm4-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4240" title="arm4" src="/media/arm4.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">I love a sleepy baby, but I don&apos;t mind a fussy baby, or an awake baby.  I just love working with the babies.  And each and every one is so different, and so perfect!</p>

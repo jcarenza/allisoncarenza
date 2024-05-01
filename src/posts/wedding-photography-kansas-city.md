@@ -12,90 +12,90 @@ tags: ["Kansas City Photographer", "Weddings"]
 
 <p style="text-align: center;">The style of wedding photography that is &#8220;in&#8221; right now is the details.  The Martha Stewart wedding magazine kinda pics.  And while those details make pretty pretty pictures, they don&apos;t tell the story the way I want to tell this story.  This is indeed a story of Jamie and Tim and the love they shared on their wedding day, and a little about being a wedding photographer too.</p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-995" title="ja1a" src="/media/ja1a.jpg" alt="" width="601" height="400" srcset="/media/ja1a.jpg 601w, /media/ja1a-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-995" title="ja1a" src="/media/ja1a.jpg" alt="" width="601" height="400"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">It started for me, on a rainy day.  Drizzly really, but the deepest thickest grayest clouds ever.  I was hopeful though.  I woke up telling Jon that it would all blow over by 6.  Haha</p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1036" title="ja1" src="/media/ja1.jpg" alt="" width="600" height="400" srcset="/media/ja1.jpg 600w, /media/ja1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1036" title="ja1" src="/media/ja1.jpg" alt="" width="600" height="400"   /></p>
 <p style="text-align: center;">When I got to the church around 2, Jon and I scowered it looking for some northern light, a pretty room, or ever a window with some decent curtains.  No such luck.  I was still hopeful the rain was going to go away, so we got started.  A lot of wedding photography is flying by the seat of your pants.  Lucky for me, that&apos;s how I roll.  But don&apos;t let me fool you, I still get the sweaty palms, lightheaded pucky feeling when things don&apos;t go right like the light, people, weather, and well I could go on and on.  Ahhh the challenges of wedding photography.   This is Jamie with &#8220;her girls&#8221;.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1030" title="ja2" src="/media/ja21.jpg" alt="" width="600" height="400" srcset="/media/ja21.jpg 600w, /media/ja21-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1030" title="ja2" src="/media/ja21.jpg" alt="" width="600" height="400"   /></p>
 <p style="text-align: center;">Jamie&apos;s dress was stunning and it fit her perfectly!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-997" title="ja3" src="/media/ja3.jpg" alt="" width="400" height="601" srcset="/media/ja3.jpg 400w, /media/ja3-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-997" title="ja3" src="/media/ja3.jpg" alt="" width="400" height="601"   /></p>
 <p style="text-align: center;">She wore 2 garters, one KU one MU!  Let&apos;s just say Tim later picked the MU garter.  Smart man!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-998" title="ja4" src="/media/ja4.jpg" alt="" width="650" height="350" srcset="/media/ja4.jpg 650w, /media/ja4-300x162.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-999" title="ja5" src="/media/ja5.jpg" alt="" width="600" height="400" srcset="/media/ja5.jpg 600w, /media/ja5-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-998" title="ja4" src="/media/ja4.jpg" alt="" width="650" height="350"   /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-999" title="ja5" src="/media/ja5.jpg" alt="" width="600" height="400"   /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1000" title="ja7" src="/media/ja7.jpg" alt="" width="650" height="800" srcset="/media/ja7.jpg 650w, /media/ja7-244x300.jpg 244w" sizes="(max-width: 650px) 100vw, 650px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1000" title="ja7" src="/media/ja7.jpg" alt="" width="650" height="800"   /></p>
 <p style="text-align: center;">Jamie was so chilled out.  She was carefree and relaxed the entire day.  It was so much fun to take her pictrues.  And this couch was fabulous.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1001" title="ja8" src="/media/ja8.jpg" alt="" width="750" height="500" srcset="/media/ja8.jpg 750w, /media/ja8-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1001" title="ja8" src="/media/ja8.jpg" alt="" width="750" height="500"   /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1002" title="ja9" src="/media/ja9.jpg" alt="" width="600" height="400" srcset="/media/ja9.jpg 600w, /media/ja9-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1002" title="ja9" src="/media/ja9.jpg" alt="" width="600" height="400"   /></p>
 <p style="text-align: center;">Did I mention I loved this couch.  The room was tiny, but the couch was rockin so I used it in lots of shots.  This one is Jamie being Jamie.  She&apos;s always laughing or making someone feel good.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1003" title="ja10" src="/media/ja10.jpg" alt="" width="601" height="400" srcset="/media/ja10.jpg 601w, /media/ja10-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1003" title="ja10" src="/media/ja10.jpg" alt="" width="601" height="400"   /></p>
 <p style="text-align: center;">I love this picture. We were just walking down to take pics by the stone wall.  I grabbed my camera just in the knick of time.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1004" title="ja11" src="/media/ja11.jpg" alt="" width="601" height="400" srcset="/media/ja11.jpg 601w, /media/ja11-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1004" title="ja11" src="/media/ja11.jpg" alt="" width="601" height="400"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">Is anyone else thinking gorgeous?  Hot even!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1005" title="ja12" src="/media/ja12.jpg" alt="" width="601" height="400" srcset="/media/ja12.jpg 601w, /media/ja12-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1005" title="ja12" src="/media/ja12.jpg" alt="" width="601" height="400"   /></p>
 <p style="text-align: center;">And true to Jamie she laughs just after I tell her that.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1006" title="ja13" src="/media/ja13.jpg" alt="" width="399" height="600" srcset="/media/ja13.jpg 399w, /media/ja13-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1006" title="ja13" src="/media/ja13.jpg" alt="" width="399" height="600"   /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1007" title="ja14" src="/media/ja14.jpg" alt="" width="399" height="600" srcset="/media/ja14.jpg 399w, /media/ja14-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1007" title="ja14" src="/media/ja14.jpg" alt="" width="399" height="600"   /></p>
 <p style="text-align: center;">These are the moments leading up to their first encounter on their wedding day.  Tim is looking at her boudoir pictures (HOT)!  Jamie is so excited to see him, and that kiss was so perfect.  Then Jamie cried.  Just look at Tim&apos;s face.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1008" title="ja15" src="/media/ja15.jpg" alt="" width="800" height="400" srcset="/media/ja15.jpg 800w, /media/ja15-300x150.jpg 300w, /media/ja15-768x384.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1008" title="ja15" src="/media/ja15.jpg" alt="" width="800" height="400"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">The audience hiding out finally couldn&apos;t resist an audible ahhhhh.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1009" title="ja16" src="/media/ja16.jpg" alt="" width="601" height="400" srcset="/media/ja16.jpg 601w, /media/ja16-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1009" title="ja16" src="/media/ja16.jpg" alt="" width="601" height="400"   /></p>
 <p style="text-align: center;">With the rain we were forced to stay inside even though Jamie and I had made a plan earlier that week to take pics at the adorable stone house just behind the church with the hugemongous yard surrounding it.  These are the moments for sweaty palms.  But Jon and I made it happen.  Sometimes I just have to say Al chill.  And I usually do.</p>
 <p style="text-align: center;">They would kiss A LOT!</p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1010" title="ja17" src="/media/ja17.jpg" alt="" width="601" height="400" srcset="/media/ja17.jpg 601w, /media/ja17-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1010" title="ja17" src="/media/ja17.jpg" alt="" width="601" height="400"   /></p>
 <p style="text-align: center;">And laugh A LOT!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1011" title="ja18" src="/media/ja18.jpg" alt="" width="600" height="400" srcset="/media/ja18.jpg 600w, /media/ja18-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1011" title="ja18" src="/media/ja18.jpg" alt="" width="600" height="400"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">Love this pic, Jamie is so close to her momma!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1012" title="ja19" src="/media/ja19.jpg" alt="" width="600" height="400" srcset="/media/ja19.jpg 600w, /media/ja19-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1012" title="ja19" src="/media/ja19.jpg" alt="" width="600" height="400"   /></p>
 <p style="text-align: center;">The bridesmaid dresses and shoes were AHHH dorable!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1013" title="ja20" src="/media/ja20.jpg" alt="" width="600" height="400" srcset="/media/ja20.jpg 600w, /media/ja20-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1013" title="ja20" src="/media/ja20.jpg" alt="" width="600" height="400"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">Just after doing all the fam pics the rain stopped.  It was still soaking wet, but I told Jamie and Tim we could make this happen.  So for 20 minutes we got to go outside where the light was literally perfect, and the trees were all glisening and reflective from all the rain.  Ahhh love these moments.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1014" title="ja23" src="/media/ja23.jpg" alt="" width="466" height="700" srcset="/media/ja23.jpg 466w, /media/ja23-200x300.jpg 200w" sizes="(max-width: 466px) 100vw, 466px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1014" title="ja23" src="/media/ja23.jpg" alt="" width="466" height="700"   /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1015" title="ja24" src="/media/ja24.jpg" alt="" width="600" height="400" srcset="/media/ja24.jpg 600w, /media/ja24-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1015" title="ja24" src="/media/ja24.jpg" alt="" width="600" height="400"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">Did I mention they&apos;re cute and funny?</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1016" title="ja25" src="/media/ja25.jpg" alt="" width="650" height="650" srcset="/media/ja25.jpg 650w, /media/ja25-150x150.jpg 150w, /media/ja25-300x300.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1016" title="ja25" src="/media/ja25.jpg" alt="" width="650" height="650"   /></p>
 <p style="text-align: center;">The green of the trees and grass was blowin&apos; up Jamie&apos;s eyes.  GORGEOUS!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1017" title="ja26" src="/media/ja26.jpg" alt="" width="600" height="400" srcset="/media/ja26.jpg 600w, /media/ja26-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1017" title="ja26" src="/media/ja26.jpg" alt="" width="600" height="400"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">Hello magazine cover!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1018" title="ja27" src="/media/ja27.jpg" alt="" width="399" height="600" srcset="/media/ja27.jpg 399w, /media/ja27-200x300.jpg 200w" sizes="(max-width: 399px) 100vw, 399px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1018" title="ja27" src="/media/ja27.jpg" alt="" width="399" height="600"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1019" title="ja28" src="/media/ja28.jpg" alt="" width="400" height="600" srcset="/media/ja28.jpg 400w, /media/ja28-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1019" title="ja28" src="/media/ja28.jpg" alt="" width="400" height="600"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">And then mother nature said enough.  20 minutes was just not enough time, but it was perfect while it lasted.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1020" title="ja29" src="/media/ja29.jpg" alt="" width="400" height="600" srcset="/media/ja29.jpg 400w, /media/ja29-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1020" title="ja29" src="/media/ja29.jpg" alt="" width="400" height="600"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">You might be wandering what Jamie is doing here?</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1021" title="ja30" src="/media/ja30.jpg" alt="" width="800" height="400" srcset="/media/ja30.jpg 800w, /media/ja30-300x150.jpg 300w, /media/ja30-768x384.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1021" title="ja30" src="/media/ja30.jpg" alt="" width="800" height="400"   /></p>
 <p style="text-align: center;">She and her best friend Cassie were throwing wrappers down eachothers dresses.  Yup!  Funny stuff.  This is just before she walks down the isle.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1031" title="ja32" src="/media/ja32.jpg" alt="" width="800" height="600" srcset="/media/ja32.jpg 800w, /media/ja32-300x225.jpg 300w, /media/ja32-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1031" title="ja32" src="/media/ja32.jpg" alt="" width="800" height="600"   /></p>
 <p style="text-align: center;">Jamie with her Dad.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1022" title="ja31" src="/media/ja31.jpg" alt="" width="601" height="400" srcset="/media/ja31.jpg 601w, /media/ja31-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1022" title="ja31" src="/media/ja31.jpg" alt="" width="601" height="400"   /></p>
 <p style="text-align: center;">The wedding was beautiful</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1033" title="ja43" src="/media/ja43.jpg" alt="" width="600" height="400" srcset="/media/ja43.jpg 600w, /media/ja43-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1033" title="ja43" src="/media/ja43.jpg" alt="" width="600" height="400"   /></p>
 <p style="text-align: center;">But the kiss was my favorite.  No flashes during the ceremony, but the dramatic lighting is so perfect for this moment.  Look how Jamie&apos;s face is lit up during their first kiss as husband and wife.  And then the moment just after when you&apos;re trying to hold on to that feeling forever.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1023" title="ja35" src="/media/ja35.jpg" alt="" width="850" height="600" srcset="/media/ja35.jpg 850w, /media/ja35-300x212.jpg 300w, /media/ja35-768x542.jpg 768w" sizes="(max-width: 850px) 100vw, 850px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1023" title="ja35" src="/media/ja35.jpg" alt="" width="850" height="600"   /></p>
 <p style="text-align: center;">Just after the ceremony we made a quick dash to the bowling alley down the street from the reception.  This is where Jamie and Tim had their first date so it was a perfect spot to take some pics.</p>
-<p style="text-align: center;"><a style="text-decoration: none;" rel="attachment wp-att-1024" href="http://www.allisoncarenza.com/archives/994/ja36"><img class="aligncenter size-full wp-image-1024" title="ja36" src="/media/ja36.jpg" alt="" width="400" height="600" srcset="/media/ja36.jpg 400w, /media/ja36-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: center;"><a style="text-decoration: none;" rel="attachment wp-att-1024" href="http://www.allisoncarenza.com/archives/994/ja36"><img class="aligncenter size-full wp-image-1024" title="ja36" src="/media/ja36.jpg" alt="" width="400" height="600"   /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1025" title="ja37" src="/media/ja37.jpg" alt="" width="601" height="400" srcset="/media/ja37.jpg 601w, /media/ja37-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1025" title="ja37" src="/media/ja37.jpg" alt="" width="601" height="400"   /></p>
 <p style="text-align: center;">We had a bunch more of the two of them bowling but I had to cute myself off somewhere.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1026" title="ja38" src="/media/ja38.jpg" alt="" width="600" height="400" srcset="/media/ja38.jpg 600w, /media/ja38-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1026" title="ja38" src="/media/ja38.jpg" alt="" width="600" height="400"   /></p>
 <p style="text-align: center;">This reception hall is downtown North Kansas City.  What a fun venue.  Perfect for the couples personality.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1027" title="ja39" src="/media/ja39.jpg" alt="" width="1000" height="1000" srcset="/media/ja39.jpg 1000w, /media/ja39-150x150.jpg 150w, /media/ja39-300x300.jpg 300w, /media/ja39-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1027" title="ja39" src="/media/ja39.jpg" alt="" width="1000" height="1000"   /></p>
 <p style="text-align: center;">There was dancing, there was drinking, there was eating.  It was a fun night!  Jamie danced her feet off!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1032" title="ja42" src="/media/ja42.jpg" alt="" width="601" height="400" srcset="/media/ja42.jpg 601w, /media/ja42-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1032" title="ja42" src="/media/ja42.jpg" alt="" width="601" height="400"   /></p>
 <p style="text-align: center;">But at the end of the day it&apos;s really all about this...</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1029" title="ja41" src="/media/ja41.jpg" alt="" width="600" height="400" srcset="/media/ja41.jpg 600w, /media/ja41-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1029" title="ja41" src="/media/ja41.jpg" alt="" width="600" height="400"   /></p>

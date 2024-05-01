@@ -12,27 +12,27 @@ tags: ["Maternity photos", "Kansas City Photographer", "Maternity Photography", 
 
 <p style="text-align: center;">
 <p style="text-align: center;">Meet Desiree, and David.  Two cops having a baby.  Sounds like a sitcom, but their relationship is anything but a funny daytime TV show.</p>
-<p><img class="aligncenter size-full wp-image-1758" title="des4" src="/media/des41.jpg" alt="" width="742" height="500" srcset="/media/des41.jpg 742w, /media/des41-300x202.jpg 300w" sizes="(max-width: 742px) 100vw, 742px" /></p>
+<p><img class="aligncenter size-full wp-image-1758" title="des4" src="/media/des41.jpg" alt="" width="742" height="500"   /></p>
 <p style="text-align: center;">Desiree is the type of person that makes everyone feel important.  During her maternity shoot she was brave, confident, and willing to be silly with me.</p>
-<p><img class="aligncenter size-full wp-image-1757" title="des3" src="/media/des31.jpg" alt="" width="693" height="500" srcset="/media/des31.jpg 693w, /media/des31-300x216.jpg 300w" sizes="(max-width: 693px) 100vw, 693px" /></p>
+<p><img class="aligncenter size-full wp-image-1757" title="des3" src="/media/des31.jpg" alt="" width="693" height="500"   /></p>
 <p style="text-align: center;">David did everything he could to make Desiree feel beautiful.  During maternity shoots it&apos;s not really about the boys, their job is to admire their glowing wife.  I would say David was pretty obsessed with Desiree during the shoot.</p>
-<p><img class="aligncenter size-full wp-image-1756" title="des2" src="/media/des21.jpg" alt="" width="693" height="500" srcset="/media/des21.jpg 693w, /media/des21-300x216.jpg 300w" sizes="(max-width: 693px) 100vw, 693px" /></p>
+<p><img class="aligncenter size-full wp-image-1756" title="des2" src="/media/des21.jpg" alt="" width="693" height="500"   /></p>
 <p style="text-align: center;">Desiree looked and felt beautiful, and it shows in these pics.</p>
-<p><img class="aligncenter size-full wp-image-1755" title="des1" src="/media/des11.jpg" alt="" width="693" height="500" srcset="/media/des11.jpg 693w, /media/des11-300x216.jpg 300w" sizes="(max-width: 693px) 100vw, 693px" /></p>
-<p><img class="aligncenter size-full wp-image-1759" title="des5" src="/media/des51.jpg" alt="" width="693" height="500" srcset="/media/des51.jpg 693w, /media/des51-300x216.jpg 300w" sizes="(max-width: 693px) 100vw, 693px" /></p>
+<p><img class="aligncenter size-full wp-image-1755" title="des1" src="/media/des11.jpg" alt="" width="693" height="500"   /></p>
+<p><img class="aligncenter size-full wp-image-1759" title="des5" src="/media/des51.jpg" alt="" width="693" height="500"   /></p>
 <p style="text-align: center;">A few months later and a little early, baby Audrey was born.  Bright-eyed and strong.</p>
-<p><img class="aligncenter size-full wp-image-1754" title="aud10" src="/media/aud10.jpg" alt="" width="743" height="500" srcset="/media/aud10.jpg 743w, /media/aud10-300x202.jpg 300w" sizes="(max-width: 743px) 100vw, 743px" /></p>
-<p><img class="aligncenter size-full wp-image-1753" title="aud9" src="/media/aud9.jpg" alt="" width="742" height="500" srcset="/media/aud9.jpg 742w, /media/aud9-300x202.jpg 300w" sizes="(max-width: 742px) 100vw, 742px" /></p>
+<p><img class="aligncenter size-full wp-image-1754" title="aud10" src="/media/aud10.jpg" alt="" width="743" height="500"   /></p>
+<p><img class="aligncenter size-full wp-image-1753" title="aud9" src="/media/aud9.jpg" alt="" width="742" height="500"   /></p>
 <p style="text-align: center;">Typically newborn shoots are interrupted with feedings, diaper changes, and breaks with mom to chill.  Audrey rocked the whole shoot with just one diaper change.  She barely whined, and gave me all her best looks.  She was amazing!</p>
-<p><img class="aligncenter size-full wp-image-1749" title="aud5" src="/media/aud5.jpg" alt="" width="742" height="500" srcset="/media/aud5.jpg 742w, /media/aud5-300x202.jpg 300w" sizes="(max-width: 742px) 100vw, 742px" /></p>
-<p><img class="aligncenter size-full wp-image-1751" title="aud7" src="/media/aud7.jpg" alt="" width="693" height="500" srcset="/media/aud7.jpg 693w, /media/aud7-300x216.jpg 300w" sizes="(max-width: 693px) 100vw, 693px" /></p>
-<p><img class="aligncenter size-full wp-image-1752" title="aud8" src="/media/aud8.jpg" alt="" width="742" height="500" srcset="/media/aud8.jpg 742w, /media/aud8-300x202.jpg 300w" sizes="(max-width: 742px) 100vw, 742px" /></p>
+<p><img class="aligncenter size-full wp-image-1749" title="aud5" src="/media/aud5.jpg" alt="" width="742" height="500"   /></p>
+<p><img class="aligncenter size-full wp-image-1751" title="aud7" src="/media/aud7.jpg" alt="" width="693" height="500"   /></p>
+<p><img class="aligncenter size-full wp-image-1752" title="aud8" src="/media/aud8.jpg" alt="" width="742" height="500"   /></p>
 <p style="text-align: center;">I know I usually only share the really cute pictures of newborns, where the little baby is sleeping, or looking at the camera deep in thought.  But today, I couldn&apos;t resist posting the next pic.  We&apos;ll title this one, The Scream.  Inspired by artist Munch.  She&apos;s not actually screaming, just yawning, but I thought it was too funny to pass up.  Not to mention those rolls on the knees.  Perfection!</p>
-<p><img class="aligncenter size-full wp-image-1748" title="aud4" src="/media/aud4.jpg" alt="" width="743" height="500" srcset="/media/aud4.jpg 743w, /media/aud4-300x202.jpg 300w" sizes="(max-width: 743px) 100vw, 743px" /></p>
+<p><img class="aligncenter size-full wp-image-1748" title="aud4" src="/media/aud4.jpg" alt="" width="743" height="500"   /></p>
 <p style="text-align: center;">Desiree is always so good at giving me her beautiful camera face.  She&apos;s such a natural.  Like mother like daughter.</p>
-<p><img class="aligncenter size-full wp-image-1750" title="aud6" src="/media/aud6.jpg" alt="" width="743" height="500" srcset="/media/aud6.jpg 743w, /media/aud6-300x202.jpg 300w" sizes="(max-width: 743px) 100vw, 743px" /></p>
-<p><img class="aligncenter size-full wp-image-1746" title="aud2" src="/media/aud2.jpg" alt="" width="743" height="500" srcset="/media/aud2.jpg 743w, /media/aud2-300x202.jpg 300w" sizes="(max-width: 743px) 100vw, 743px" /></p>
+<p><img class="aligncenter size-full wp-image-1750" title="aud6" src="/media/aud6.jpg" alt="" width="743" height="500"   /></p>
+<p><img class="aligncenter size-full wp-image-1746" title="aud2" src="/media/aud2.jpg" alt="" width="743" height="500"   /></p>
 <p style="text-align: center;">Do newborns chillax?  Audrey is starting a new trend.</p>
-<p><img class="aligncenter size-full wp-image-1747" title="aud3" src="/media/aud3.jpg" alt="" width="744" height="500" srcset="/media/aud3.jpg 744w, /media/aud3-300x202.jpg 300w" sizes="(max-width: 744px) 100vw, 744px" /></p>
+<p><img class="aligncenter size-full wp-image-1747" title="aud3" src="/media/aud3.jpg" alt="" width="744" height="500"   /></p>
 <p style="text-align: center;">David and Desiree, as always I enjoyed our time together.  It just feels like I&apos;ve been a part of the family forever.  Audrey is a beautiful baby and you two are perfect parents.  You were obssessed with Audrey before she arrived, and now, even more so. Love Love Love!</p>
-<p><img class="aligncenter size-full wp-image-1745" title="aud1" src="/media/aud1.jpg" alt="" width="693" height="500" srcset="/media/aud1.jpg 693w, /media/aud1-300x216.jpg 300w" sizes="(max-width: 693px) 100vw, 693px" /></p>
+<p><img class="aligncenter size-full wp-image-1745" title="aud1" src="/media/aud1.jpg" alt="" width="693" height="500"   /></p>

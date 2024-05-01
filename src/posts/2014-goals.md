@@ -25,4 +25,4 @@ tags: []
 <p>Happy New Year everyone!  May all your dreams come true in the next 12 months.</p>
 <p><img alt="xmas" src="/media/xmas.jpg" width="584" height="875" ></p>
 <p><img alt="lucy" src="/media/lucy.jpg" width="584" height="388" /></p>
-<p><img alt="layla1" src="/media/layla1.jpg" width="600" height="400" srcset="/media/layla1.jpg 600w, /media/layla1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p><img alt="layla1" src="/media/layla1.jpg" width="600" height="400"   /></p>

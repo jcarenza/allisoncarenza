@@ -11,14 +11,14 @@ tags: ["Childrens Photography", "Kansas City Photography", "Photography"]
 ---
 
 <p style="text-align: center;">Last Saturday I had the opportunity to meet one of the radest 14 year olds ever!  Not only is he good looking, a nationally ranked track star, and super cool, but he was nice.  Really nice.  What a fierce combination.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-3326" title="j1" src="/media/j15.jpg" alt="" width="930" height="680" srcset="/media/j15.jpg 930w, /media/j15-300x219.jpg 300w, /media/j15-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3326" title="j1" src="/media/j15.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">Meet Lj.  He popped a few moves for me before the end of the session.  He&apos;s a great dancer too!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-3327" title="j2" src="/media/j25.jpg" alt="" width="930" height="680" srcset="/media/j25.jpg 930w, /media/j25-300x219.jpg 300w, /media/j25-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3327" title="j2" src="/media/j25.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">And yet, he&apos;s still a kid with braces and he knows it.  I love his humble and real attitude about life.</p>
 <p style="text-align: center;">He didn&apos;t really want to cheese up the camera at first, but I was in a silly mood, and he couldn&apos;t resist.  🙂</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-3328" title="j3" src="/media/j35.jpg" alt="" width="930" height="680" srcset="/media/j35.jpg 930w, /media/j35-300x219.jpg 300w, /media/j35-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3328" title="j3" src="/media/j35.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">These are actually his dad Lonnie&apos;s sunglasses.  I thought they looked great!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-3329" title="j4" src="/media/j45.jpg" alt="" width="930" height="680" srcset="/media/j45.jpg 930w, /media/j45-300x219.jpg 300w, /media/j45-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-3330" title="j5" src="/media/j55.jpg" alt="" width="930" height="680" srcset="/media/j55.jpg 930w, /media/j55-300x219.jpg 300w, /media/j55-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3329" title="j4" src="/media/j45.jpg" alt="" width="930" height="680"   /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3330" title="j5" src="/media/j55.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">LJ, I have no doubt you will achieve great things.  Take care of yourself as you go through these hard years.  We&apos;re all cheering you on!</p>
 <p style="text-align: center;">xoxo</p>

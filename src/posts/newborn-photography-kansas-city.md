@@ -19,6 +19,6 @@ tags: ["Kansas City Photographer"]
 <p><img class="aligncenter size-full wp-image-1070" title="ja5" src="/media/ja51.jpg" alt="" width="751" height="500" /></p>
 <p style="text-align: center;">Janee is equally obsessed.  She seemed to have so much intuition about Riley&apos;s needs.</p>
 <p style="text-align: center;">
-<img class="aligncenter size-full wp-image-1071" title="ja6" src="/media/ja6.jpg" alt="" width="751" height="500" srcset="/media/ja6.jpg 751w, /media/ja6-300x200.jpg 300w" sizes="(max-width: 751px) 100vw, 751px" /></p>
+<img class="aligncenter size-full wp-image-1071" title="ja6" src="/media/ja6.jpg" alt="" width="751" height="500"   /></p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-1068" title="ja3" src="/media/ja31.jpg" alt="" width="750" height="500" /></p>
 <p style="text-align: center;">Janee and Jody thanks so much for giving me the chance to take these pics.  I hope you cherish them forever.  I&apos;m excited to watch Riley grow.</p>

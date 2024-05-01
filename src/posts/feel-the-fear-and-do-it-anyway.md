@@ -22,4 +22,4 @@ tags: ["Allison Carenza Photography", "Bolivia", "Dreams", "Fear"]
 <p>&nbsp;</p>
 <p>I need to remind myself of this every day.  To not only dream big, but believe big.</p>
 <p>SOOC pic of Bolivia.</p>
-<p><img class="aligncenter size-full wp-image-3561" title="bo1" src="/media/bo1.jpg" alt="" width="930" height="680" srcset="/media/bo1.jpg 930w, /media/bo1-300x219.jpg 300w, /media/bo1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p><img class="aligncenter size-full wp-image-3561" title="bo1" src="/media/bo1.jpg" alt="" width="930" height="680"   /></p>

@@ -11,20 +11,20 @@ tags: ["Baby Portraits", "Blue Springs", "Children", "Independence", "Kansas Cit
 ---
 
 <p style="text-align: center;">Sophia is the beautiful daughter of Bethany and Zachary!  I had so much fun taking their pictures.   Get ready for cute, cute, cute!</p>
-<p><img class="aligncenter size-full wp-image-606" title="baby2" src="/media/baby2.jpg" alt="" width="400" height="600" srcset="/media/baby2.jpg 400w, /media/baby2-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p><img class="aligncenter size-full wp-image-606" title="baby2" src="/media/baby2.jpg" alt="" width="400" height="600"   /></p>
 <p style="text-align: center;">
 <p style="text-align: center;">Sophia had the most beautiful blue eyes.  She was also bubbling over with smiles, which makes my job sooo easy.  Sophia&apos;s smile is the reason I love my job so much.  When you look into her eyes you see pure joy.  Where else can you find that.</p>
-<p><img class="aligncenter size-full wp-image-605" title="baby1" src="/media/baby1.jpg" alt="" width="400" height="600" srcset="/media/baby1.jpg 400w, /media/baby1-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p><img class="aligncenter size-full wp-image-605" title="baby1" src="/media/baby1.jpg" alt="" width="400" height="600"   /></p>
 <p style="text-align: center;">ahhhh!</p>
-<p><img class="aligncenter size-full wp-image-609" title="baby5" src="/media/baby5.jpg" alt="" width="400" height="600" srcset="/media/baby5.jpg 400w, /media/baby5-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></p>
-<p style="text-align: center;">Cute Cute!<img class="aligncenter size-full wp-image-610" title="baby6" src="/media/baby6.jpg" alt="" width="601" height="400" srcset="/media/baby6.jpg 601w, /media/baby6-300x200.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /></p>
+<p><img class="aligncenter size-full wp-image-609" title="baby5" src="/media/baby5.jpg" alt="" width="400" height="600"   /></p>
+<p style="text-align: center;">Cute Cute!<img class="aligncenter size-full wp-image-610" title="baby6" src="/media/baby6.jpg" alt="" width="601" height="400"   /></p>
 <p style="text-align: center;">Below is a new shot I&apos;m experimenting with.  I haven&apos;t quite perfected it, but I do like the effect.  The light is just right on little girls face, but I haven&apos;t quite got the parents lit like I want.  It&apos;s such a challenge to play with creative lighting when you&apos;re working with little ones.  I guess I need to invest in a nice doll.</p>
 <p style="text-align: center;">
 <p style="text-align: center;">
 <p style="text-align: center;"><span style="color: #000000;"><br />
 </span></p>
-<p><span style="color: #000000;"><img class="aligncenter size-full wp-image-620" title="baby4" src="/media/baby41.jpg" alt="" width="400" height="600" srcset="/media/baby41.jpg 400w, /media/baby41-200x300.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /><br />
+<p><span style="color: #000000;"><img class="aligncenter size-full wp-image-620" title="baby4" src="/media/baby41.jpg" alt="" width="400" height="600"   /><br />
 </span></p>
 <p style="text-align: center;">Now you see what I mean.  Smiley, happy baby in all the pictures!  What a doll!  Thanks guys, I look forward to seeing you again soon!</p>
 <p><span style="color: #000000;"><br />
-</span><img class="aligncenter size-full wp-image-607" style="text-decoration: underline;" title="baby3" src="/media/baby3.jpg" alt="" width="600" height="400" srcset="/media/baby3.jpg 600w, /media/baby3-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+</span><img class="aligncenter size-full wp-image-607" style="text-decoration: underline;" title="baby3" src="/media/baby3.jpg" alt="" width="600" height="400"   /></p>

@@ -18,4 +18,4 @@ tags: ["Childrens Photography  Contest", "Kansas City", "Photography Contest"]
 <p style="text-align: center;">Pay attention to the color and lighting.</p>
 <p style="text-align: center;">Pick pictures that show a lot of emotion and expression, or even tell a story.</p>
 <p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-3153" title="summerspecial" src="/media/summerspecial.jpg" alt="" width="1000" height="1000" srcset="/media/summerspecial.jpg 1000w, /media/summerspecial-150x150.jpg 150w, /media/summerspecial-300x300.jpg 300w, /media/summerspecial-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3153" title="summerspecial" src="/media/summerspecial.jpg" alt="" width="1000" height="1000"   /></p>

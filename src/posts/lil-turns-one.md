@@ -19,11 +19,11 @@ tags: ["Blue Springs Photographer", "First Birthday Photos", "Kansas City Photog
 <p style="text-align: center;">A self proclaimed prippy (preppy hippy).  Kara is a natural momma, adoring every moment of motherhood.</p>
 <p style="text-align: center;">It&apos;s been fun watching Lil grow up this year.  It seems like yesterday she was a newborn.  (<a href="http://www.allisoncarenza.com/2011/08/americas-next-top-model-kansas-city-photographer/">pics here</a>) Especially seeing her personality expand.  Now that she&apos;s one she&apos;s got enough personality for 3 one year olds.</p>
 <p style="text-align: center;">I love this little girl!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-4246" title="lil3" src="/media/lil3.jpg" alt="" width="930" height="680" srcset="/media/lil3.jpg 930w, /media/lil3-300x219.jpg 300w, /media/lil3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4246" title="lil3" src="/media/lil3.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-4244" title="lil1" src="/media/lil1.jpg" alt="" width="930" height="680" srcset="/media/lil1.jpg 930w, /media/lil1-300x219.jpg 300w, /media/lil1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4244" title="lil1" src="/media/lil1.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-4248" title="lil5" src="/media/lil5.jpg" alt="" width="930" height="680" srcset="/media/lil5.jpg 930w, /media/lil5-300x219.jpg 300w, /media/lil5-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4248" title="lil5" src="/media/lil5.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4245" title="lil2" src="/media/lil2.jpg" alt="" width="930" height="680" /></p>
 <p style="text-align: center;">I had to include this picture because to me it&apos;s the most important picture I took during our session!  I love it, and hope this is a family heirloom.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-4247" title="lil4" src="/media/lil4.jpg" alt="" width="930" height="680" /></p>

@@ -39,11 +39,11 @@ tags: ["Portraits", "Kansas City Photographer", "Senior Pictures", "Senior Pictu
 </tbody>
 </table>
 </div>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-3973" title="pru5" src="/media/pru5.jpg" alt="" width="930" height="680" srcset="/media/pru5.jpg 930w, /media/pru5-300x219.jpg 300w, /media/pru5-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3973" title="pru5" src="/media/pru5.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">Dorothea and her daughter Prudence live together.  Two strong women in one house means they love to fight, but at the end of the day they take care of one another.  However, I suspect if you asked them they would argue that they take care of the other.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-3970" title="pru1" src="/media/pru1.jpg" alt="" width="930" height="680" srcset="/media/pru1.jpg 930w, /media/pru1-300x219.jpg 300w, /media/pru1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3970" title="pru1" src="/media/pru1.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">THIS is Dorothea&apos;s smile.  I can see right into her soul through her eyes.  We were having a conversation and I had just enough time to pull my camera up and snap this picture.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-3971" title="pru2" src="/media/pru2.jpg" alt="" width="930" height="680" srcset="/media/pru2.jpg 930w, /media/pru2-300x219.jpg 300w, /media/pru2-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-3972" title="pru4" src="/media/pru4.jpg" alt="" width="930" height="680" srcset="/media/pru4.jpg 930w, /media/pru4-300x219.jpg 300w, /media/pru4-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3971" title="pru2" src="/media/pru2.jpg" alt="" width="930" height="680"   /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3972" title="pru4" src="/media/pru4.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">Some shoots are life changing.</p>
 <p style="text-align: center;">Most of our photos are taken when we are young, growing and changing.  We want to capture the changes, stop them in time.  But at some point we stop taking picture of ourselves and our loved ones.  I think it&apos;s the wrinkles, but the real changes, the ones that matter, the ones that have more to do with the spirit inside, take place later in life.  I think we need to spend more time capturing those changes, even with the wrinkles.</p>

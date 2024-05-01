@@ -17,8 +17,8 @@ tags: ["Baby Photographer", "Blue Springs Photographer", "Kansas City Photograph
 <p style="text-align: center;">xoxo</p>
 <p style="text-align: center;">
 <p style="text-align: center;">Close!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-4115" title="douglas1" src="/media/douglas1.jpg" alt="" width="930" height="680" srcset="/media/douglas1.jpg 930w, /media/douglas1-300x219.jpg 300w, /media/douglas1-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4115" title="douglas1" src="/media/douglas1.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">Close!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-4116" title="douglas2" src="/media/douglas2.jpg" alt="" width="930" height="680" srcset="/media/douglas2.jpg 930w, /media/douglas2-300x219.jpg 300w, /media/douglas2-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4116" title="douglas2" src="/media/douglas2.jpg" alt="" width="930" height="680"   /></p>
 <p style="text-align: center;">Close, Real, Fabulous!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-4117" title="douglas3" src="/media/douglas3.jpg" alt="" width="930" height="680" srcset="/media/douglas3.jpg 930w, /media/douglas3-300x219.jpg 300w, /media/douglas3-768x562.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-4117" title="douglas3" src="/media/douglas3.jpg" alt="" width="930" height="680"   /></p>

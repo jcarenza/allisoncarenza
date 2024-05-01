@@ -20,20 +20,20 @@ tags: ["Blue Springs", "Kansas City Photography", "Maternity Photos", "Maternity
 <p style="text-align: center;">They haven&apos;t ever really had professional pics taken, but I would have never guessed that.  They look like models.  Adorable!</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2024" title="re1" src="/media/re1.jpg" alt="" width="700" height="499"/></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-2028" title="re5" src="/media/re5.jpg" alt="" width="700" height="499" srcset="/media/re5.jpg 700w, /media/re5-300x214.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"/></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-2028" title="re5" src="/media/re5.jpg" alt="" width="700" height="499"  /></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-2027" title="re4" src="/media/re4.jpg" alt="" width="700" height="499" srcset="/media/re4.jpg 700w, /media/re4-300x214.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"/></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-2027" title="re4" src="/media/re4.jpg" alt="" width="700" height="499"  /></p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2026" title="re3" src="/media/re3.jpg" alt="" width="750" height="499"/></p>
 <p style="text-align: center;">Meet baby Julie...</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-2030" title="ju2" src="/media/ju2.jpg" alt="" width="750" height="499" srcset="/media/ju2.jpg 750w, /media/ju2-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px"/></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-2030" title="ju2" src="/media/ju2.jpg" alt="" width="750" height="499"  /></p>
 <p style="text-align: center;">I didn&apos;t have to pull out many tricks for this shoot, all Julie wanted to do was sleep.  Alex her big sister was also so so awesome!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-2032" title="ju4" src="/media/ju4.jpg" alt="" width="750" height="499" srcset="/media/ju4.jpg 750w, /media/ju4-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px"/></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-2032" title="ju4" src="/media/ju4.jpg" alt="" width="750" height="499"  /></p>
 <p style="text-align: center;">As you can see there is no shortage of kisses for Julie.  I think she&apos;s going to be a little spoiled.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2034" title="ju6" src="/media/ju6.jpg" alt="" width="700" height="499"/></p>
 <p style="text-align: center;">Loooonnnngggg fingers!  Oh and she&apos;s a serious sucker.  If she ever finds her thumb she&apos;ll be so happy!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-2031" title="ju3" src="/media/ju3.jpg" alt="" width="750" height="499" srcset="/media/ju3.jpg 750w, /media/ju3-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px"/></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-2031" title="ju3" src="/media/ju3.jpg" alt="" width="750" height="499"  /></p>
 <p style="text-align: center;">Sisters!  Alex was like my little assistant during this shoot.  The two Al&apos;s working together!</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-2029" title="ju1" src="/media/ju1.jpg" alt="" width="700" height="499" srcset="/media/ju1.jpg 700w, /media/ju1-300x214.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"/></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-2029" title="ju1" src="/media/ju1.jpg" alt="" width="700" height="499"  /></p>
 <p style="text-align: center;">
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2033" title="ju5" src="/media/ju5.jpg" alt="" width="751" height="499"/>I am so so happy Pam sent the Schriever&apos;s my way.  I just love this family and can&apos;t wait to watch baby Julie grow up!</p>
